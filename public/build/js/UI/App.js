@@ -1,5 +1,6 @@
+import { selectLang, slidesContainer } from "./selectors.js";
 import { chooseLang } from "./language.js";
-import { selectLang } from "./selectors.js";
+import { fetchSlides } from "./slider.js";
 
 class App {
     constructor() {
@@ -9,6 +10,9 @@ class App {
     initApp() {
         if(selectLang){
             chooseLang();
+        }
+        if(slidesContainer){
+            fetchSlides();
         }
     }
 }

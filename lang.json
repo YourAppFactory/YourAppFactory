@@ -26,5 +26,9 @@
     "about_title":{
         "es": "Nosotros",
         "en": "About us"
+    },
+    "slider_main_title":{
+        "es": "¿Qué tipo de negocio tienes?",
+        "en": "What kind of business do you have?"
     }
 }

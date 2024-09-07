@@ -1,0 +1,80 @@
+{
+    "slides": [
+        {
+            "title": {
+                "en":"Retails",
+                "es":"Tiendas"
+            },
+            "text":{
+                "en":"The client can locate nearby stores and access promotions according to their location.",
+                "es":"El cliente puede localizar tiendas cercanas y acceder a promociones según su ubicación."
+            },
+            "list":{
+                "en":[
+                    "Point 1 of the slide",
+                    "Point 2 of the slide",
+                    "Point 3 of the slide"
+                ],
+                "es":[
+                    "Punto 1 de la diapositiva",
+                    "Punto 2 de la diapositiva",
+                    "Punto 3 de la diapositiva"
+                ]
+            },
+            "link": "/learn-more-slide-1",
+            "image": "https://via.placeholder.com/800x400",
+            "background": "../build/img/retail.jpg"
+        },
+        {
+            "title": {
+                "en":"Restaurants",
+                "es":"Restaurantes"
+            },
+            "text":{
+                "en":"The client can access promotions and discounts in the stores.",
+                "es":"El cliente puede acceder a promociones y descuentos en las tiendas."
+            },
+            "list":{
+                "en":[
+                    "Point 1 of the slide",
+                    "Point 2 of the slide",
+                    "Point 3 of the slide"
+                ],
+                "es":[
+                    "Punto 1 de la diapositiva",
+                    "Punto 2 de la diapositiva",
+                    "Punto 3 de la diapositiva"
+                ]
+            },
+            "link": "/learn-more-slide-2",
+            "image": "https://via.placeholder.com/800x400",
+            "background": "../build/img/restaurant.png"
+        },
+        {
+            "title": {
+                "en":"Haircut Salon",
+                "es":"Salón de belleza"
+            },
+            "text":{
+                "en":"The client can access the catalog of products and make purchases.",
+                "es":"El cliente puede acceder al catálogo de productos y realizar compras."
+            },
+            "list":{
+                "en":[
+                    "Point 1 of the slide",
+                    "Point 2 of the slide",
+                    "Point 3 of the slide"
+                ],
+                "es":[
+                    "Punto 1 de la diapositiva",
+                    "Punto 2 de la diapositiva",
+                    "Punto 3 de la diapositiva"
+                ]
+            },
+            "link": "/learn-more-slide-3",
+            "image": "https://via.placeholder.com/800x400",
+            "background": "../build/img/hairsalon.jpeg"
+        }
+    ]
+  }
+  
