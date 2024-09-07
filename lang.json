@@ -1,0 +1,30 @@
+{
+    "home_title":{
+        "es": "Inicio",
+        "en": "Home"
+    },
+    "nav_link--home":{
+        "es": "Inicio",
+        "en": "Home"
+    },
+    "nav_link--about":{
+        "es": "Nosotros",
+        "en": "About us"
+    },
+    "nav_link--marketing":{
+        "es": "Marketing móvil",
+        "en": "Mobile Marketing"
+    },
+    "nav_link--business":{
+        "es": "Tu negocio",
+        "en": "Your business"
+    },
+    "nav_link--contact":{
+        "es": "Contacto",
+        "en": "Contact"
+    },
+    "about_title":{
+        "es": "Nosotros",
+        "en": "About us"
+    }
+}

@@ -1,0 +1,227 @@
+@use "sass:math";
+@use 'variables' as v;
+@use 'mixins' as m;
+
+
+.no-display{
+    display: none !important;
+}
+
+.no-click{
+    pointer-events: none;
+}
+.text-left{
+    text-align: left;
+    background-color: transparent;
+    margin: 0;
+    margin-bottom: 4rem;
+}
+
+.slider-main{
+    margin-top: 4rem;
+    position: relative;
+    &::after{
+        clear: both;
+        display: table;
+        content: "";
+    }
+}
+
+.bloque-btn{
+    display: flex;
+    flex-direction: column;
+
+    & a{
+        margin-bottom: 2rem;
+    }
+}
+
+.disabled{
+    pointer-events: none;   
+}
+
+.disabled-btn{
+    background-color: v.$gray-light !important;
+    color: darken(v.$gray-dark, 9) !important;
+    pointer-events: none;
+    &:hover{
+        background-color: v.$gray-light !important;
+        color: darken(v.$gray-dark, 9) !important;
+    }
+}
+
+.text-yellow{
+    color: v.$yellow;
+}
+
+.text-blue{
+    color: v.$blue;
+}
+
+.text-green{
+    color: v.$green;
+}
+
+.m-t-0{
+    margin-top: 0;
+}
+
+.m-b-0{
+    margin-bottom: 0;
+}
+
+.m-t-1{
+    margin-top: 1rem;
+}
+
+.m-b-1{
+    margin-bottom: 1rem;
+}
+
+.m-t-5{
+    margin-top: 2.5rem !important;
+    @include m.tablet{
+        margin-top: 5rem !important;
+    }
+}
+
+.m-b-5{
+    margin-bottom: 5rem;
+}
+
+.m-t-5--only-mobile{
+    @include m.maxtablet{
+        margin-top: 5rem;
+    }
+}
+
+.m-b-5--only-mobile{
+    @include m.maxtablet{
+        margin-bottom: 5rem;
+    }
+}
+
+.center{
+    text-align: center;
+}
+
+.text-yellow{
+    color: v.$yellow;
+}
+
+.text-green{
+    color: v.$green;
+}
+
+.text-blue{
+    color: v.$blue;
+}
+
+.text-white{
+    color: v.$white;
+}
+
+.text-black{
+    color: v.$black;
+}
+
+.text-gray{
+    color: v.$gray;
+}
+
+.text--pink{
+    color: v.$pink;
+}
+
+.text--orange{
+    color: v.$orange;
+}
+
+.text-20{
+    font-size: 1.4rem !important;
+    @include m.tablet{
+        font-size: 1.8rem !important;
+    }
+    @include m.desktop{
+        font-size: 2rem !important;
+    }
+}
+
+.text-24{
+    font-size: 1.6rem !important;
+    @include m.tablet{
+        font-size: 2rem !important;
+    }
+    @include m.desktop{
+        font-size: 2.4rem !important;
+    }
+}
+
+.caps{
+    text-transform: capitalize;
+}
+
+.title-info{
+    font-size: 2.2rem;
+    @include m.tablet{
+        font-size: 2.5rem;
+    }
+}
+
+.caps{
+    text-transform: capitalize;
+}
+
+.overlay{
+    overflow: hidden !important;
+    overflow-y: hidden !important;
+}
+
+.flex{
+    @include m.tablet{
+        display: flex;
+        gap: 2rem;
+    }
+}
+
+.flex--gap-3{
+    @include m.tablet{
+        display: flex;
+        gap: 3rem;
+    }
+}
+
+.flex--gap-5{
+    @include m.tablet{
+        display: flex;
+        gap: 5rem;
+    }
+}
+
+.flex-icon{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.block{
+    display: block;
+    width: 100%;
+}
+
+.deleteModal{
+    @include m.modal(v.$gray-dark, 3rem, 90%, 40%, 0.2rem, v.$yellow, solid);
+}
+
+.only--mobile{
+    @include m.tablet{
+        display: none;
+    }
+}
+
+.only--desktop{
+    display: none !important;
+    @include m.tablet{
+        display: block !important;
+    }
+}

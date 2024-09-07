@@ -1,0 +1,141 @@
+@use "sass:math";
+@use 'variables' as v;
+@use 'mixins' as m;
+
+
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+    background-color: v.$back-white;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+*::first-letter{
+    text-transform: uppercase;
+}
+
+body {
+    font-family: v.$font-primary;
+    font-size: 1.6rem;
+    &.overlay{
+        overflow: hidden;
+    }
+}
+
+p, ul li {
+    font-size: 1.4rem;
+    @include m.tablet{
+        font-size: 1.8rem;
+    }
+}
+
+.container {
+    width: 90%;
+    margin: 2.5rem auto;
+    @include m.tablet{
+        margin: 5rem auto;
+    }
+}
+
+a {
+    text-decoration: none;
+}
+
+img,
+picture {
+    width: 100%;
+    display: block;
+}
+
+h1, h2, h3 {
+    font-family: v.$font-primary;
+    margin: math.div(v.$separate, 2) 0;
+    font-weight: v.$bold;
+    color: v.$blue;
+}
+
+h1 {
+    width: 75%;
+    border-radius: 2rem;
+    font-size: 1.8rem;
+    line-height: 1.2;
+    @include m.phone{
+        font-size: 2.2rem;
+    }
+    @include m.tablet{
+        font-size: 2.6rem;
+    }
+    @include m.desktop{
+        font-size: 3rem;
+    }
+    @include m.desktop-large{
+        font-size: 3.4rem;
+    }
+    @include m.ultra-wide{
+        font-size: 3.8rem;
+    }
+}
+h2, h3 {
+    font-size: 1.6rem;
+    @include m.phone{
+        font-size: 2rem;
+    }
+    @include m.tablet{
+        font-size: 2.4rem;
+    }
+    @include m.desktop{
+        font-size: 2.8rem;
+    }
+    @include m.desktop-large{
+        font-size: 3.2rem;
+    }
+    @include m.ultra-wide{
+        font-size: 3.4rem;
+    }
+}
+
+h4 {
+    font-size: 1.4rem;
+    @include m.phone{
+        font-size: 1.6rem;
+    }
+    @include m.tablet{
+        font-size: 1.8rem;
+    }
+    @include m.desktop{
+        font-size: 2rem;
+    }
+    @include m.desktop-large{
+        font-size: 2.2rem;
+    }
+    @include m.ultra-wide{
+        font-size: 2.4rem;
+    }    
+}
+
+p{
+    font-size: 1.6rem;
+    @include m.tablet{
+        font-size: 1.8rem;
+    }
+    @include m.desktop{
+        font-size: 1.8rem;
+    }
+    @include m.desktop-large{
+        font-size: 2rem;
+    }
+    @include m.ultra-wide{
+        font-size: 2.2rem;
+    }
+}
+
+textarea{
+    min-height: 10rem;
+}
+
+option, select{
+    text-transform: capitalize;
+}
