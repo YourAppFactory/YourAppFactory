@@ -3,10 +3,13 @@
 @use 'base/mixins' as m;
 
 .header {
-    background-color: v.$blue;
+    width: 100%;
+    position: absolute;
+    z-index: 11;
     color: v.$white;
     padding: 1rem;
     text-align: center;
+    height: v.$header-height;
     @include m.tablet{
         padding: 2rem v.$separate;
     }

@@ -13,7 +13,8 @@
         width: 100%;
         text-align: center;
         text-shadow: 0.1rem 0.1rem 0.5rem rgba(0, 0, 0, 0.7);
-        font-size: 5rem;
+        font-size: 6.5rem;
+        margin-top: calc(v.$header-height + v.$separate);
     }
 
     &__slides {
@@ -22,7 +23,7 @@
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
-        background-color: rgba(148, 161, 233, 0.2);
+        background-color: rgba(0, 0, 0, 0.5);
         background-blend-mode: overlay;
     }
     &__slide {
@@ -30,8 +31,9 @@
         justify-content: space-between;
         align-items: center;
         width: 100%;
-        min-height: 65rem;
-        padding: 0 v.$separate * 2;
+        min-height: 80rem;
+        padding: 0 v.$separate * 3;
+        padding-top: calc(v.$header-height + v.$separate);
         box-sizing: border-box;
         @include m.maxtablet {
             flex-direction: column;
@@ -39,7 +41,6 @@
         &__content{
             padding: 1rem 2.5rem;
             width: 100%;
-            background-color: rgba(0, 0, 0, 0.5);
             color: v.$white;
         }
         &__title{
@@ -51,6 +52,20 @@
             height: auto;
             @include m.maxtablet {
                 max-width: 100%;
+            }
+        }
+        &__list{
+            margin-bottom: v.$separate;
+        }
+        &__link{
+            display: inline-block;
+            padding: 1rem 2rem;
+            background-color: v.$blue;
+            color: v.$white;
+            font-size: 2rem;
+            text-align: center;
+            &:hover{
+                background-color: v.$blue-dark;
             }
         }
         &__text{
@@ -66,10 +81,10 @@
     position: absolute;
     top: 50%;
     padding: 1.6rem;
-    margin-top: -2.2rem;
+    margin-top: v.$separate;
     color: white;
     font-weight: bold;
-    font-size: 2.4rem;
+    font-size: 3.4rem;
     border: none;
     background-color: rgba(0, 0, 0, 0.5);
     user-select: none;
