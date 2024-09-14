@@ -13,8 +13,23 @@
         width: 100%;
         text-align: center;
         text-shadow: 0.1rem 0.1rem 0.5rem rgba(0, 0, 0, 0.7);
-        font-size: 6.5rem;
-        margin-top: calc(v.$header-height + v.$separate);
+        font-size: 3.2rem;
+        padding: 0 1rem;
+        margin-top: v.$header-height;
+        @include m.midscreen{
+            font-size: 3.6rem;
+        }
+        @include m.tablet{
+            font-size: 4.5rem;
+        }
+        @include m.laptop{
+            font-size: 5rem;
+            margin-top: calc(v.$header-height + math.div(v.$separate, 2));
+        }
+        @include m.desktop-large{
+            font-size: 6.5rem;
+            margin-top: calc(v.$header-height + math.div(v.$separate, 2));
+        }
     }
 
     &__slides {
@@ -32,11 +47,21 @@
         align-items: center;
         width: 100%;
         min-height: 80rem;
-        padding: 0 v.$separate * 3;
+        padding: v.$separate v.$separate * 2;
         padding-top: calc(v.$header-height + v.$separate);
+        flex-direction: column;
         box-sizing: border-box;
         @include m.maxtablet {
-            flex-direction: column;
+            min-height: 62rem;
+            padding: v.$separate;
+            padding-top: calc(v.$header-height + v.$separate);
+        }
+        @include m.laptop {
+            flex-direction: row;
+            align-items: flex-end;
+        }
+        @include m.desktop-large {
+            padding: v.$separate calc(v.$separate * 3);
         }
         &__content{
             padding: 1rem 2.5rem;
@@ -44,18 +69,37 @@
             color: v.$white;
         }
         &__title{
-            font-size: 4rem;
+            font-size: 3rem;
             color: v.$white;
+            @include m.laptop {
+                font-size: 3.6rem;
+            }
+            @include m.desktop-large {
+                font-size: 4rem;
+            }
         }
         &__img{
             max-width: 40%;
             height: auto;
+            @include m.laptop {
+                margin-bottom: calc(v.$separate * 2);
+            }
             @include m.maxtablet {
-                max-width: 100%;
+                display: none;
             }
         }
         &__list{
             margin-bottom: v.$separate;
+            list-style: outside;
+            @include m.tablet {
+                margin-bottom: math.div(v.$separate, 2);
+            }
+            @include m.desktop-large {
+                margin-bottom: v.$separate;
+            }
+            & li:not(:last-child){
+                margin-bottom: 1rem;
+            }
         }
         &__link{
             display: inline-block;
