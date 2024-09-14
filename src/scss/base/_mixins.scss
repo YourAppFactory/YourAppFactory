@@ -62,6 +62,12 @@
     }
 }
 
+@mixin maxlaptop {
+    @media (max-width: #{v.$laptop}) {
+        @content;
+    }
+}
+
 @mixin maxdesktop {
     @media (max-width: #{v.$desktop}) {
         @content;

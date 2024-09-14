@@ -1,6 +1,7 @@
 import { selectLang, slidesContainer } from "./selectors.js";
 import { chooseLang } from "./language.js";
 import { fetchSlides } from "./slider.js";
+import { menuResponsive } from "./UI.js";
 
 class App {
     constructor() {
@@ -14,6 +15,7 @@ class App {
         if(slidesContainer){
             fetchSlides();
         }
+        menuResponsive();
     }
 }
 
