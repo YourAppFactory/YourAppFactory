@@ -1,0 +1,440 @@
+{
+    "slides": [
+        {
+            "title": {
+                "es": "Tienda de ropa",
+                "en": "Retail store"
+            },
+            "text":{
+                "es": "Impulsa tu tienda con una experiencia móvil personalizada",
+                "en": "Boost your store with a personalized mobile experience"
+            },
+            "list":{
+                "es":[
+                    "Tus clientes podrán localizar tus tiendas.",
+                    "Podrán ver el calendario de eventos o promociones y agendar sus visitas.",
+                    "Tendrán acceso a tu catálogo de productos.",
+                    "Podrán registrarse y recibir promociones y mantenerse al día con las novedades.",
+                    "Además, podrán ganar puntos de lealtad y disfrutar de todos tus beneficios."
+                ],
+                "en":[
+                    "Your customers will be able to locate your stores.",
+                    "They will be able to see the calendar of events or promotions and schedule their visits.",
+                    "They will have access to your product catalog.",
+                    "They will be able to register and receive promotions and stay up to date with the news.",
+                    "In addition, they will be able to earn loyalty points and enjoy all your benefits."
+                ]
+            },
+            "link": "/retail",
+            "image": "https://via.placeholder.com/800x400",
+            "background": "../build/img/retail.webp"
+        },
+        {
+            "title": {
+                "es":"Restaurante",
+                "en":"Restaurant"
+            },
+            "text":{
+                "es":"Transforma y mejora la experiencia culinaria de tus clientes de una vez por todas",
+                "en":"Transform and improve the culinary experience of your customers once and for all"
+            },
+            "list":{
+                "es":[
+                    "Tus clientes encontrarán tus restaurantes fácilmente.",
+                    "Podrán reservar mesas y eventos con Anticipación.",
+                    "Verán las posibilidades de tu menú en su móvil.",
+                    "Además, registrarse para disfrutar de tus beneficios, acumular puntos y hasta pedir domicilios solo con su smartphone."
+                ],
+                "en":[
+                    "Your customers will easily find your restaurants.",
+                    "They will be able to book tables and events in advance.",
+                    "They will see the possibilities of your menu on their mobile.",
+                    "In addition, register to enjoy your benefits, accumulate points and even order home delivery with just their smartphone."
+                ]
+            },
+            "link": "/restaurant",
+            "image": "https://via.placeholder.com/800x400",
+            "background": "../build/img/restaurant.webp"
+        },
+        {
+            "title": {
+                "es":"Salón de belleza",
+                "en":"Haircut Salon"
+            },
+            "text":{
+                "es":"Eleva el estilo de tus clientes con el prestigio de tener tu propia Aplicación móvil",
+                "en":"Elevate the style of your customers with the prestige of having your own mobile App"
+            },
+            "list":{
+                "es":[
+                    "Tus clientes podrán encontrar tu negocio rápidamente.",
+                    "Agendarán las citas con su estilista de confianza.",
+                    "Tendrás tu galería de estilos y peinados a un tap",
+                    "Con la opción de fidelización ya no volverán donde la competencia.",
+                    "Además, podrán acumular puntos cada vez que vuelvan.",
+                    "También podrán reservar citas en línea de manera rápida y sencilla."
+                ],
+                "en":[
+                    "Your customers will be able to find your business quickly.",
+                    "They will schedule appointments with their trusted stylist.",
+                    "You will have your gallery of styles and hairstyles at a tap",
+                    "With the loyalty option, they will no longer return to the competition.",
+                    "In addition, they will be able to accumulate points each time they return.",
+                    "They will also be able to book appointments online quickly and easily."
+                ]
+            },
+            "link": "/hairsalon",
+            "image": "https://via.placeholder.com/800x400",
+            "background": "../build/img/hairsalon.webp"
+        },
+        {
+            "title": {
+                "es":"Spa",
+                "en":"Spa"
+            },
+            "text":{
+                "es":"Relájate al igual que tus clientes, con tu propia Aplicación móvil y deja que la energía de tu negocio fluya",
+                "en":"Relax like your customers, with your own mobile App and let the energy of your business flow"
+            },
+            "list":{
+                "es":[
+                    "Tus clientes te podrán encontrar fácilmente tus locales.",
+                    "Podrán hacer reservas de tratamientos y servicios.",
+                    "Verán las imágenes de tus tratamientos y del ambiente de tu SPA.",
+                    "Además, podrán unirse a tu programa de membresía para disfrutar de tratamientos exclusivos.",
+                    "Recibirán recompensas con tu programa de fidelidad."
+                ],
+                "en":[
+                    "Your customers will be able to easily find your locations.",
+                    "They will be able to make reservations for treatments and services.",
+                    "They will see images of your treatments and the atmosphere of your SPA.",
+                    "In addition, they will be able to join your membership program to enjoy exclusive treatments.",
+                    "They will receive rewards with your loyalty program."
+                ]
+            },
+            "link": "/spa",
+            "image": "https://via.placeholder.com/800x400",
+            "background": "../build/img/spa.webp"
+        },
+        {
+            "title": {
+                "es":"Gimnasio",
+                "en":"Gym"
+            },
+            "text":{
+                "es":"Empodera a tus clientes con una APP que facilite las reservas de los programas de entrenamiento",
+                "en":"Empower your customers with an APP that facilitates the booking of training programs"
+            },
+            "list":{
+                "es":[
+                    "Tus clientes podrán localizar tus gimnasios en segundos. Podrán reservar clases y entrenamientos personalizados.",
+                    "Verán tu galería de instalaciones, equipos y sesiones de entrenamiento para inspirarse.",
+                    "Además, podrán ganar  puntos por asistir y compartir sus experiencias con sus amigos para llevarlos a tu Gym."
+                ],
+                "en":[
+                    "Your customers will be able to locate your gyms in seconds. They will be able to book classes and personalized training.",
+                    "They will see your gallery of facilities, equipment and training sessions to inspire them.",
+                    "In addition, they will be able to earn points for attending and share their experiences with their friends to bring them to your Gym."
+                ]
+            },
+            "link": "/gym",
+            "image": "https://via.placeholder.com/800x400",
+            "background": "../build/img/gym.webp"
+        },
+        {
+            "title": {
+                "es": "Consultorio médico",
+                "en": "Healthcare provider"
+            },
+            "text":{
+                "es":"Con tu propia APP tus pacientes accederán a tus servicios de forma cómoda y segura",
+                "en":"With your own APP your patients will access your services in a comfortable and safe way"
+            },
+            "list":{
+                "es":[
+                    "Tus clientes podrán tu consultorio fácilmente en su smartphone.",
+                    "Podrán agendar o cancelar citas para consultas y revisiones con facilidad.",
+                    "Tendrán la posibilidad de ver imágenes de las instalaciones y tratamientos.",
+                    "Podrán recibir descuentos en revisiones y tratamientos con programas de lealtad."
+                ],
+                "en":[
+                    "Your customers will be able to find your office easily on their smartphone.",
+                    "They will be able to schedule or cancel appointments for consultations and reviews easily.",
+                    "They will have the possibility to see images of the facilities and treatments.",
+                    "They will be able to receive discounts on reviews and treatments with loyalty programs."
+                ]
+            },
+            "link": "/healthcare",
+            "image": "https://via.placeholder.com/800x400",
+            "background": "../build/img/healthcare.webp"
+        },
+        {
+            "title": {
+                "es":"Bienes raíces",
+                "en":"Real estate"
+            },
+            "text":{
+                "es":"Destaca tu agencia con tu propia Aplicación móvil, tus clientes no perderán más oportunidades de mercado",
+                "en":"Stand out your agency with your own mobile App, your customers will not miss more market opportunities"
+            },
+            "list":{
+                "es":[
+                    "Tus clientes podrán ver propiedades disponibles.",
+                    "Tendrán la posibilidad de ver galerías  de imágenes y videos de las propiedades.",
+                    "Podrán agendar visitas a las propiedades directamente desde la app. Además, podrán recibir actualizaciones exclusivas."
+                ],
+                "en":[
+                    "Your customers will be able to see available properties.",
+                    "They will have the possibility to see galleries of images and videos of the properties.",
+                    "They will be able to schedule visits to the properties directly from the app. In addition, they will be able to receive exclusive updates."
+                ]
+            },
+            "link": "/realestate",
+            "image": "https://via.placeholder.com/800x400",
+            "background": "../build/img/realestate.webp"
+        },
+        {
+            "title": {
+                "es":"Educación y Formación",
+                "en":"Education and Training"
+            },
+            "text":{
+                "es":"Mejora el alcance de tus cursos y entrenamientos con tu propia Aplicación Móvil",
+                "en":"Improve the reach of your courses and training with your own Mobile App"
+            },
+            "list":{
+                "es":[
+                    "Tus clientes podrán registrarse en tus cursos y talleres fácilmente.",
+                    "Podrás dar información clara y completa, directamente a sus móviles.",
+                    "Tus clientes o alumnos podrán agendar clases, talleres y consultas con un click.",
+                    "Tendrán la posibilidad de recibir y portar los materiales de estudio en cualquier momento.",
+                    "Además, podrán participar en programas de recompensas o recibir notificaciones sobre cursos exclusivos.",
+                    "Y lo más importante, podrás mejorar tus calificaciones, opiniones y presencia en redes sociales."
+                ],
+                "en":[
+                    "Your customers will be able to register for your courses and workshops easily.",
+                    "You can provide clear and complete information, directly to their mobiles.",
+                    "Your customers or students will be able to schedule classes, workshops and consultations with a click.",
+                    "They will have the possibility to receive and carry study materials at any time.",
+                    "In addition, they will be able to participate in reward programs or receive notifications about exclusive courses.",
+                    "And most importantly, you will be able to improve your ratings, opinions and presence on social networks."
+                ]
+            },
+            "link": "/education",
+            "image": "https://via.placeholder.com/800x400",
+            "background": "../build/img/education.webp"
+        },
+        {
+            "title": {
+                "es":"Entretenimiento",
+                "en":"Entertainment"
+            },
+            "text":{
+                "es":"Con tu propia App móvil lleva el entretenimiento al siguiente nivel",
+                "en":"With your own mobile App take entertainment to the next level"
+            },
+            "list":{
+                "es":[
+                    "Vende los tiquetes de tus eventos sin intermediarios a través de tu propia Aplicación.",
+                    "Tus espectadores podrán ver el calendario de eventos y planificar su asistencia.",
+                    "Adelanta tus promociones con imágenes y videos de tus eventos.",
+                    "Fideliza tus clientes cuando compran sus entradas y acumulan puntos para acceder a promociones.",
+                    "También podrán reservar entradas para eventos de manera rápida y sin complicaciones."
+                ],
+                "en":[
+                    "Sell the tickets for your events without intermediaries through your own Application.",
+                    "Your viewers will be able to see the calendar of events and plan their attendance.",
+                    "Advance your promotions with images and videos of your events.",
+                    "Loyalty your customers when they buy their tickets and accumulate points to access promotions.",
+                    "They will also be able to book tickets for events quickly and without complications."
+                ]
+            },
+            "link": "/entertainment",
+            "image": "https://via.placeholder.com/800x400",
+            "background": "../build/img/entertainment.webp"
+        },
+        {
+            "title": {
+                "es":"Agencia de eventos",
+                "en":"Event agency"
+            },
+            "text":{
+                "es":"Destaca tu agencia con tu propia APP, crea eventos inolvidables, simplifica la reserva y la gestión de invitados",
+                "en":"Stand out your agency with your own APP, create unforgettable events, simplify booking and guest management"
+            },
+            "list":{
+                "es":[
+                    "Lleva a tus asistentes al lugar de cada evento al instante a través del mapa.",
+                    "Promociona tus servicios con imágenes y videos de tu portafolio.",
+                    "Contacta con tus clientes al instante través de tu aplicación.",
+                    "Los asistentes comparten sus experiencias en las redes al mismo tiempo que promocionan tu compañía y mejoran tu reputación.",
+                    "Además, podrán acumular puntos al reservar servicios y obtener descuentos en futuros eventos."
+                ],
+                "en":[
+                    "Take your attendees to the location of each event instantly through the map.",
+                    "Promote your services with images and videos of your portfolio.",
+                    "Contact your customers instantly through your application.",
+                    "Attendees share their experiences on social networks while promoting your company and improving your reputation.",
+                    "In addition, they will be able to accumulate points when booking services and obtain discounts on future events."
+                ]
+            },
+            "link": "/eventagency",
+            "image": "https://via.placeholder.com/800x400",
+            "background": "../build/img/eventagency.webp"
+        },
+        {
+            "title": {
+                "es":"Agencia de turismo",
+                "en":"Travel agency"
+            },
+            "text":{
+                "es":"Con la funcionalidad de tu propia Aplicación móvil destacarás sobre tu competencia",
+                "en":"With the functionality of your own mobile App you will stand out from your competition"
+            },
+            "list":{
+                "es":[
+                    "Tus clientes podrán encontrar sus destinos y servicios para planificar sus viajes.",
+                    "Podrán agendar fechas de viaje, confirmaciones y recordatorios importantes.",
+                    "Tendrán la posibilidad de ver imágenes y videos de sus opciones de alojamiento.",
+                    "Además, podrán acumular puntos al reservar viajes y canjearlos por descuentos y beneficios.",
+                    "También podrán reservar vuelos, hoteles y experiencias desde la app de manera sencilla."
+                ],
+                "en":[
+                    "Your customers will be able to find their destinations and services to plan their trips.",
+                    "They will be able to schedule travel dates, confirmations and important reminders.",
+                    "They will have the possibility to see images and videos of their accommodation options.",
+                    "In addition, they will be able to accumulate points when booking trips and redeem them for discounts and benefits.",
+                    "They will also be able to book flights, hotels and experiences from the app in a simple way."
+                ]
+            },
+            "link": "/travelagency",
+            "image": "https://via.placeholder.com/800x400",
+            "background": "../build/img/travelagency.webp"
+        },
+        {
+            "title": {
+                "es":"Servicios profesionales",
+                "en":"Professional services"
+            },
+            "text":{
+                "es":"Conecta con tus clientes con tu propia Aplicación móvil",
+                "en":"Connect with your customers with your own mobile App"
+            },
+            "list":{
+                "es":[
+                    "Tus clientes podrán encontrarte y contactarte fácilmente.",
+                    "Tus clientes agendarán sus citas, reuniones o consultas según tu disponibilidad.",
+                    "Podrás compartir documentos e imágenes de manera instantánea y privada.",
+                    "Fideliza a tus y mejora su experiencia clientes otorgando beneficios por cada consulta o servicio.",
+                    "Tus clientes pueden reservar citas, reuniones o consultas directamente desde la app.",
+                    "Tus clientes comparten sus experiencias en las redes al mismo tiempo que promocionan tus servicios y mejoran tu reputación."
+                ],
+                "en":[
+                    "Your customers will be able to find you and contact you easily.",
+                    "Your customers will schedule their appointments, meetings or consultations according to your availability.",
+                    "You can share documents and images instantly and privately.",
+                    "Loyalty your customers and improve their experience by providing benefits for each consultation or service.",
+                    "Your customers can book appointments, meetings or consultations directly from the app.",
+                    "Your customers share their experiences on social networks while promoting your services and improving your reputation."
+                ]
+            },
+            "link": "/professionalservices",
+            "image": "https://via.placeholder.com/800x400",
+            "background": "../build/img/professionalservices.webp"
+        },
+        {
+            "title": {
+                "es":"Taller automotriz",
+                "en":"Auto repair shop"
+            },
+            "text":{
+                "es":"Mejora las ventas y la reputación de tu taller automotriz con tu propia Aplicación móvil",
+                "en":"Improve sales and reputation of your auto repair shop with your own mobile App"
+            },
+            "list":{
+                "es":[
+                    "Tus clientes te encontrarán fácilmente a través de tu aplicación.",
+                    "Podrán agendar citas para la revisión y reparación de sus vehículos.",
+                    "Verán imágenes y videos de tus productos y servicios.",
+                    "Además, podrán unirse a un programa de recompensas y obtener descuentos por su fidelidad.",
+                    "Tu reputación y presencia en redes mejorarán significativamente, y tus clientes podrán compartir sus experiencias positivas con sus contactos."
+                ],
+                "en":[
+                    "Your customers will find you easily through your application.",
+                    "They will be able to schedule appointments for the inspection and repair of their vehicles.",
+                    "They will see images and videos of your products and services.",
+                    "In addition, they will be able to join a rewards program and get discounts for their loyalty.",
+                    "Your reputation and presence on networks will improve significantly, and your customers will be able to share their positive experiences with their contacts."
+                ]
+            },
+            "link": "/automotive",
+            "image": "https://via.placeholder.com/800x400",
+            "background": "../build/img/automotive.webp"
+        },
+        {
+            "title": {
+                "es":"Organización sin ánimo de lucro",
+                "en":"Nonprofit organization"
+            },
+            "text":{
+                "es":"Conecta con tus donantes y voluntarios con una app que facilita eventos, donaciones y la participación en causas importantes",
+                "en":"Connect with your donors and volunteers with an app that facilitates events, donations and participation in important causes"
+            },
+            "list":{
+                "es":[
+                    "Amplia tu cobertura a los beneficiarios de tus servicios con la función compartir.",
+                    "Tus colaboradores podrán encontrarte y participar en tus actividades fácilmente.",
+                    "Podrán ver un calendario de eventos y acciones sociales.",
+                    "Podrás compartir imágenes y videos de tus proyectos para estimular el voluntariado.",
+                    "TAdemás, podrán participar en programas de voluntariado y recibir reconocimientos por sus contribuciones.",
+                    "La reputación y presencia en redes de tu organización mejorarán significativamente."
+                ],
+                "en":[
+                    "Expand your coverage to the beneficiaries of your services with the share function.",
+                    "Your collaborators will be able to find you and participate in your activities easily.",
+                    "They will be able to see a calendar of events and social actions.",
+                    "You can share images and videos of your projects to stimulate volunteering.",
+                    "In addition, they will be able to participate in volunteer programs and receive recognition for their contributions.",
+                    "The reputation and presence on networks of your organization will improve significantly."
+                ]
+            },
+            "link": "/nonprofit",
+            "image": "https://via.placeholder.com/800x400",
+            "background": "../build/img/nonprofit.webp"
+        },
+        {
+            "title": {
+                "es":"Iglesia",
+                "en":"Church"
+            },
+            "text":{
+                "es":"Fortalece la conexión espiritual con tu propia Aplicación móvil",
+                "en":"Strengthen the spiritual connection with your own mobile App"
+            },
+            "list":{
+                "es":[
+                    "Tu congregación llegará a  tiempo a todos tus eventos y servicios.",
+                    "Podrán ver un calendario de servicios para participar activamente.",
+                    "Podrás transmitir con tus servicios de streaming directamente a sus smartphones.",
+                    "Podrás compartir imágenes de tus eventos y servicios.",
+                    "Además, podrán participar en programas de voluntariado y recibir reconocimientos por sus contribuciones.",
+                    "También podrán reservar tus servicios especiales de manera sencilla",
+                    "Podrás facilitar las donaciones y contribuciones de tu comunidad directamente desde su smartphone"
+                ],
+                "en":[
+                    "Your congregation will arrive on time to all your events and services.",
+                    "They will be able to see a calendar of services to participate actively.",
+                    "You can stream directly to their smartphones with your streaming services.",
+                    "You can share images of your events and services.",
+                    "In addition, they will be able to participate in volunteer programs and receive recognition for their contributions.",
+                    "They will also be able to book your special services easily",
+                    "You will be able to facilitate donations and contributions from your community directly from their smartphone"
+                ]
+            },
+            "link": "/church",
+            "image": "https://via.placeholder.com/800x400",
+            "background": "../build/img/church.webp"
+        }
+    ]
+  }
+  

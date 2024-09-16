@@ -219,9 +219,27 @@
     }
 }
 
+.only--tablet{
+    @include m.laptop{
+        display: none;
+    }
+}
+
 .only--desktop{
     display: none !important;
     @include m.tablet{
         display: block !important;
     }
+}
+
+.show{
+    display: block !important;
+}
+
+.hide{
+    display: none;
+}
+
+.pointer{
+    cursor: pointer;
 }

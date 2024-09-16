@@ -14,12 +14,9 @@
     <body>
 
         <?php
-            include_once __DIR__ .'/../templates/header.php'
-        ;?>
-        <div class="container">
-            <?php echo $content; ?>
-        </div>
-        <?php include_once __DIR__ .'/../templates/footer.php'; 
+            include_once __DIR__ .'/../templates/header.php';
+            echo $content; 
+            include_once __DIR__ .'/../templates/footer.php'; 
         ?>
 
     <script type="module" src="/build/js/app.js"></script>

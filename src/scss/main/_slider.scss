@@ -1,0 +1,143 @@
+@use 'sass:math';
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+.slider {
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    background-color: v.$back-white;
+    &__title{
+        position: absolute;
+        color: v.$white;
+        width: 100%;
+        text-align: center;
+        text-shadow: 0.1rem 0.1rem 0.5rem rgba(0, 0, 0, 0.7);
+        font-size: 3.2rem;
+        padding: 0 1rem;
+        margin-top: v.$header-height;
+        @include m.midscreen{
+            font-size: 3.6rem;
+        }
+        @include m.tablet{
+            font-size: 4.5rem;
+        }
+        @include m.laptop{
+            font-size: 5rem;
+            margin-top: calc(v.$header-height + math.div(v.$separate, 2));
+        }
+        @include m.desktop-large{
+            font-size: 6.5rem;
+            margin-top: calc(v.$header-height + math.div(v.$separate, 2));
+        }
+    }
+
+    &__slides {
+        display: flex;
+        transition: transform 0.5s ease-in-out;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-color: rgba(0, 0, 0, 0.5);
+        background-blend-mode: overlay;
+    }
+    &__slide {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        min-height: 80rem;
+        padding: v.$separate v.$separate * 2;
+        padding-top: calc(v.$header-height + v.$separate);
+        flex-direction: column;
+        box-sizing: border-box;
+        @include m.maxtablet {
+            min-height: 62rem;
+            padding: v.$separate;
+            padding-top: calc(v.$header-height + v.$separate);
+        }
+        @include m.laptop {
+            flex-direction: row;
+            align-items: flex-end;
+        }
+        @include m.desktop-large {
+            padding: v.$separate calc(v.$separate * 3);
+        }
+        &__content{
+            padding: 1rem 2.5rem;
+            width: 100%;
+            color: v.$white;
+        }
+        &__title{
+            font-size: 3rem;
+            color: v.$white;
+            @include m.laptop {
+                font-size: 3.6rem;
+            }
+            @include m.desktop-large {
+                font-size: 4rem;
+            }
+        }
+        &__img{
+            max-width: 40%;
+            height: auto;
+            @include m.laptop {
+                margin-bottom: calc(v.$separate * 2);
+            }
+            @include m.maxtablet {
+                display: none;
+            }
+        }
+        &__list{
+            margin-bottom: v.$separate;
+            list-style: outside;
+            @include m.tablet {
+                margin-bottom: math.div(v.$separate, 2);
+            }
+            @include m.desktop-large {
+                margin-bottom: v.$separate;
+            }
+            & li:not(:last-child){
+                margin-bottom: 1rem;
+            }
+        }
+        &__link{
+            display: inline-block;
+            padding: 1rem 2rem;
+            background-color: v.$blue;
+            color: v.$white;
+            font-size: 2rem;
+            text-align: center;
+            &:hover{
+                background-color: v.$blue-dark;
+            }
+        }
+        &__text{
+            @include m.maxtablet {
+                width: 100%;
+            }
+        }
+    }
+}
+
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    padding: 1.6rem;
+    margin-top: v.$separate;
+    color: white;
+    font-weight: bold;
+    font-size: 3.4rem;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.5);
+    user-select: none;
+}
+
+.prev {
+    left: 0;
+}
+
+.next {
+    right: 0;
+}
