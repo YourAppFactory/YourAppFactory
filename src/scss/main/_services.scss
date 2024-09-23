@@ -57,3 +57,44 @@
         pointer-events: none;
     }
 }
+
+.banner{
+    &__service{
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        min-height: 20rem;
+        display: grid;
+        align-content: center;
+        @include m.tablet{
+            min-height: 40rem;
+        }
+        &__title{
+            font-size: 3.5rem;
+            width: 100%;
+            text-shadow: 0.5rem 0.5rem 0.5rem rgba(0, 0, 0, 0.5); 
+            @include m.tablet{
+                font-size: 5rem;
+            }
+            @include m.laptop{
+                font-size: 7rem;
+            }
+        }
+        &__list{
+            list-style: none;
+            padding-left: 0;
+            display: grid;
+            gap: 2rem;
+            @include m.tablet{
+                grid-template-columns: repeat(2, 1fr);
+            }
+            &--title{
+                margin: 5rem 0 7rem 0;
+            }
+            &__item{
+                @include m.card;
+                padding: 2rem;
+            }
+        }
+    }
+}

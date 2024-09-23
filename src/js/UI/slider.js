@@ -12,7 +12,6 @@ export async function fetchSlides() {
         const result = await fetch(url);
         const data = await result.json();
         const slidesData = data.slides;
-        console.log(slidesData);
         createSlides(slidesData, lang); // Pass language to createSlides
         showSlides(slideIndex); // Start the slider by showing the first slide
         startAutoSlide(); // Start auto slide rotation

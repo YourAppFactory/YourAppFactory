@@ -10,3 +10,9 @@ export const slidesContainer = document.querySelector('.slider');
 export const menu = document.querySelector('.header__nav');
 export const mobileMenu = document.querySelector('.header__nav--mobile');
 export const btnMenu = document.querySelector('#btnMenu');
+
+//Services
+export const banner = document.querySelector('.banner__service');
+export const bannerTitle = document.querySelector('.banner__service__title');
+export const serviceIntro = document.querySelector('.banner__service__intro');
+export const serviceList = document.querySelector('.banner__service__list');

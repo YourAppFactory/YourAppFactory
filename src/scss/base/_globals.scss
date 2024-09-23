@@ -27,6 +27,7 @@ body {
 
 p, ul li {
     font-size: 1.4rem;
+    line-height: 1.6;
     @include m.tablet{
         font-size: 1.8rem;
     }

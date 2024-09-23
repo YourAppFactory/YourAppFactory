@@ -1,10 +1,14 @@
 {
     "businessTypes": {
         "retail": {
-            "bannerImage": "../build/images/retail.webp",
+            "bannerImage": "../build/img/retail.webp",
+            "bannerTitle": {
+                "es": "Retail",
+                "en": "Retail"
+            },
             "intro": {
-                "es": "Con tu aplicación para tiendas, podrás gestionar fácilmente tu inventario, relaciones con los clientes y punto de venta.",
-                "en": "With your retail business app, you can easily manage your inventory, customer relationships, and point of sale."
+                "es": "La aplicación para tiendas es una herramienta esencial para cualquier negocio de venta al por menor. Con esta aplicación, puedes gestionar fácilmente tu inventario, relaciones con los clientes y punto de venta. Además, puedes enviar notificaciones push y mensajes a tus clientes para mantenerlos informados sobre las últimas ofertas y productos.",
+                "en": "The retail app is an essential tool for any retail business. With this app, you can easily manage your inventory, customer relationships, and point of sale. Additionally, you can send push notifications and messages to your customers to keep them informed about the latest offers and products."
             },
             "functionalities": {
                 "es": [
@@ -166,30 +170,138 @@
             }
         },
         "restaurant": {
-            "bannerImage": "https://example.com/restaurant-banner.jpg",
+            "bannerImage": "../build/img/restaurant.webp",
+            "bannerTitle": {
+                "es": "Restaurantes",
+                "en": "Restaurants"
+            },
             "intro": {
-            "en": "Our restaurant business solution simplifies table management, online ordering, and kitchen workflows.",
-            "es": "Nuestra solución para negocios de restaurantes simplifica la gestión de mesas, pedidos en línea y flujos de trabajo en la cocina."
+                "es": "La aplicación para restaurantes es una herramienta esencial para cualquier negocio de comida y bebida. Con esta aplicación, puedes gestionar fácilmente tu menú, reservas, pedidos y entregas. Además, puedes enviar notificaciones push y mensajes a tus clientes para mantenerlos informados sobre las últimas ofertas y promociones.",
+                "en": "The restaurant app is an essential tool for any food and beverage business. With this app, you can easily manage your menu, reservations, orders, and deliveries. Additionally, you can send push notifications and messages to your customers to keep them informed about the latest offers and promotions."
             },
             "functionalities": {
-                "en": [
-                    {
-                    "title": "Table reservation system",
-                    "content": "Allow customers to book tables online with ease."
-                    },
-                    {
-                    "title": "Menu management",
-                    "content": "Easily update your digital and in-house menus from one platform."
-                    }
-                ],
                 "es": [
                     {
-                    "title": "Sistema de reservas de mesas",
-                    "content": "Permita que los clientes reserven mesas en línea fácilmente."
+                    "title": "Geolocalización",
+                    "content": "Los restaurantes serán localizados por tus clientes y ubicados como una ruta de destino en el mapa."
                     },
                     {
-                    "title": "Gestión de menús",
-                    "content": "Actualice fácilmente sus menús digitales y en el restaurante desde una sola plataforma."
+                    "title": "Calendario",
+                    "content": "Los eventos y promociones de tu restaurante serán vistos a través del calendario de eventos por tus clientes."
+                    },
+                    {
+                    "title": "Menú",
+                    "content": "El menú con imágenes de alta calidad será visto por tus clientes."
+                    },
+                    {
+                    "title": "Reservas",
+                    "content": "Las mesas o eventos especiales serán reservados por tus clientes."
+                    },
+                    {
+                    "title": "Pedidos",
+                    "content": "Los pedidos a domicilio o para llevar serán realizados por tus clientes."
+                    },
+                    {
+                    "title": "Notificaciones",
+                    "content": "Las alertas sobre promociones o eventos especiales serán recibidas por tus clientes."
+                    },
+                    {
+                    "title": "Mensajes Push",
+                    "content": "Las promociones serán enviadas directamente a los dispositivos de tus clientes."
+                    },
+                    {
+                    "title": "Comentarios",
+                    "content": "Las opiniones y valoraciones de tus clientes serán compartidas en la app."
+                    },
+                    {
+                    "title": "Contacto",
+                    "content": "La atención al cliente será contactada por tus clientes para consultas o reclamaciones."
+                    },
+                    {
+                    "title": "Newsletters",
+                    "content": "Las newsletters con las últimas ofertas y promociones serán recibidas por tus clientes."
+                    },
+                    {
+                    "title": "Formularios",
+                    "content": "Los formularios serán completados por tus clientes para recibir ofertas según su perfil."
+                    },
+                    {
+                    "title": "Encuestas",
+                    "content": "Las encuestas serán completadas por tus clientes para mejorar el servicio al cliente."
+                    },
+                    {
+                    "title": "Pasarela de pagos",
+                    "content": "Los pagos serán realizados directamente a través de la app por tus clientes."
+                    },
+                    {
+                    "title": "Portafolio de servicios",
+                    "content": "El portafolio de productos o servicios será explorado por tus clientes."
+                    },
+                    {
+                    "title": "Compartir",
+                    "content": "Los productos o promociones serán compartidos en redes sociales por tus clientes."
+                    }
+                ],
+                "en": [
+                    {
+                    "title": "Geolocation",
+                    "content": "Restaurants will be located by your customers and set as a destination route on the map."
+                    },
+                    {
+                    "title": "Calendar",
+                    "content": "Your restaurant's events and promotions will be viewed through the events calendar by your customers."
+                    },
+                    {
+                    "title": "Menu",
+                    "content": "The menu with high-quality images will be viewed by your customers."
+                    },
+                    {
+                    "title": "Reservations",
+                    "content": "Tables or special events will be reserved by your customers."
+                    },
+                    {
+                    "title": "Orders",
+                    "content": "Home delivery or takeout orders will be placed by your customers."
+                    },
+                    {
+                    "title": "Notifications",
+                    "content": "Alerts about promotions or special events will be received by your customers."
+                    },
+                    {
+                    "title": "Push Messages",
+                    "content": "Promotions will be sent directly to your customers' devices."
+                    },
+                    {
+                    "title": "Comments",
+                    "content": "Customer opinions and ratings will be shared in the app."
+                    },
+                    {
+                    "title": "Contact",
+                    "content": "Customer service will be contacted by your customers for inquiries or complaints."
+                    },
+                    {
+                    "title": "Newsletters",
+                    "content": "Newsletters with the latest offers and promotions will be received by your customers."
+                    },
+                    {
+                    "title": "Forms",
+                    "content": "Forms will be completed by your customers to receive offers according to their profile."
+                    },
+                    {
+                    "title": "Surveys",
+                    "content": "Surveys will be completed by your customers to improve customer service."
+                    },
+                    {
+                    "title": "Payment Gateway",
+                    "content": "Payments will be made directly through the app by your customers."
+                    },
+                    {
+                    "title": "Service Portfolio",
+                    "content": "The product or service portfolio will be explored by your customers."
+                    },
+                    {
+                    "title": "Share",
+                    "content": "Products or promotions will be shared on social networks by your customers."
                     }
                 ]
             }

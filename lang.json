@@ -122,5 +122,9 @@
     "footer_rights":{
         "es": "Todos los derechos reservados",
         "en": "All rights reserved"
+    },
+    "functionality_title":{
+        "es": "Estas son algunas funcionalidades y características de las Apps móviles",
+        "en": "These are some functionalities and features of mobile Apps"
     }
 }

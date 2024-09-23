@@ -32,5 +32,6 @@ $router->get('/church', [PublicController::class, 'church']);
 //APIs Main
 $router->get('/api/yourappfactory/main-slider', [PublicAPISController::class, 'getMainSlider']);
 $router->get('/api/yourappfactory/language', [PublicAPISController::class, 'getLanguage']);
+$router->get('/api/yourappfactory/content-services', [PublicAPISController::class, 'getServices']);
 
 $router->checkRoutes();

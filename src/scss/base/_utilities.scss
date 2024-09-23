@@ -101,6 +101,66 @@
     }
 }
 
+.p-t-0{
+    padding-top: 0;
+}
+
+.p-b-0{
+    padding-bottom: 0;
+}
+
+.p-t-1{
+    padding-top: 1rem;
+}
+
+.p-b-1{
+    padding-bottom: 1rem;
+}
+
+.p-t-5{
+    padding-top: 5rem;
+}
+
+.p-b-5{
+    padding-bottom: 5rem;
+}
+
+.p-t-5--only-mobile{
+    @include m.maxtablet{
+        padding-top: 5rem;
+    }
+}
+
+.p-b-5--only-mobile{
+    @include m.maxtablet{
+        padding-bottom: 5rem;
+    }
+}
+
+.p-0{
+    padding: 0;
+}
+
+.p-1{
+    padding: 1rem;
+}
+
+.p-2{
+    padding: 2rem;
+}
+
+.p-3{
+    padding: 3rem;
+}
+
+.p-4{
+    padding: 4rem;
+}
+
+.p-5{
+    padding: 5rem;
+}
+
 .center{
     text-align: center;
 }
@@ -242,4 +302,8 @@
 
 .pointer{
     cursor: pointer;
+}
+
+.bold{
+    font-weight: v.$bold;
 }
