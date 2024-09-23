@@ -1,0 +1,41 @@
+@use 'sass:math';
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+.footer{
+    background-color: v.$blue-dark;
+    color: v.$white;
+    padding: v.$separate;
+    text-align: center;
+    @include m.tablet{
+        padding: v.$separate 0;
+    }
+    &__logo{
+        width: 15rem;
+        margin-bottom: v.$separate;
+        @include m.tablet{
+            width: 20rem;
+        }
+    }
+    &__text{
+        font-size: 1.8rem;
+        margin-bottom: v.$separate;
+        @include m.tablet{
+            font-size: 2rem;
+        }
+    }
+    &__list{
+        margin-bottom: v.$separate;
+        list-style: outside;
+        color: v.$white;
+        @include m.tablet {
+            margin-bottom: math.div(v.$separate, 2);
+        }
+        @include m.desktop-large {
+            margin-bottom: v.$separate;
+        }
+        & li:not(:last-child){
+            margin-bottom: 1rem;
+        }
+    }
+}

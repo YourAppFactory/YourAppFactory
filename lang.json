@@ -30,5 +30,73 @@
     "slider_main_title":{
         "es": "¿Qué tipo de negocio tienes?",
         "en": "What type of business do you have?"
+    },
+    "services_title":{
+        "es": "Tipos de negocio",
+        "en": "Types of business"
+    },
+    "see_more":{
+        "es": "Ver más",
+        "en": "See more"
+    },
+    "retail_title":{
+        "es": "Retail",
+        "en": "Retail"
+    },
+    "restaurant_title":{
+        "es": "Restaurante",
+        "en": "Restaurant"
+    },
+    "hairsalon_title":{
+        "es": "Salón de belleza",
+        "en": "Hair salon"
+    },
+    "spa_title":{
+        "es": "Spa",
+        "en": "Spa"
+    },
+    "gym_title":{
+        "es": "Gimnasio",
+        "en": "Gym"
+    },
+    "healthcare_title":{
+        "es": "Salud",
+        "en": "Healthcare"
+    },
+    "realestate_title":{
+        "es": "Bienes raíces",
+        "en": "Real estate"
+    },
+    "education_title":{
+        "es": "Educación",
+        "en": "Education"
+    },
+    "entertainment_title":{
+        "es": "Entretenimiento",
+        "en": "Entertainment"
+    },
+    "eventagency_title":{
+        "es": "Agencia de eventos",
+        "en": "Event agency"
+    },
+    "travelagency_title":{
+        "es": "Agencia de viajes",
+        "en": "Travel agency"
+    },
+    "professionalservices_title":{
+        "es": "Servicios profesionales",
+        "en": "Professional services"
+    },
+    "automotive_title":{
+        "es": "Automotriz",
+        "en": "Automotive"
+    },
+    "nonprofit_title":{
+        "es": "Organización sin fines de lucro",
+        "en": "Nonprofit organization"
+    },
+    "church_title":{
+        "es": "Iglesia",
+        "en": "Church"
     }
 }

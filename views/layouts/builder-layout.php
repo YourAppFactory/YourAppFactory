@@ -16,7 +16,7 @@
         <?php
             include_once __DIR__ .'/../templates/header-builder.php';
             echo $content;
-            include_once __DIR__ .'/../templates/footer-builder.php'; 
+            include_once __DIR__ .'/../templates/footer-admin.php'; 
         ?>
 
     <script type="module" src="/build/js/app.js"></script>

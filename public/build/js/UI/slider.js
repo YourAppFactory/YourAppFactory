@@ -68,6 +68,9 @@ function createSlides(slidesData, lang) {
         sliderLink.href = slide.link;
         sliderLink.textContent = 'Learn more';
 
+        const sliderImgDiv = document.createElement('div');
+        sliderImgDiv.classList.add('slider__slide__img--div');
+
         const sliderImg = document.createElement('img');
         sliderImg.classList.add('slider__slide__img');
         sliderImg.src = slide.image;
@@ -78,7 +81,8 @@ function createSlides(slidesData, lang) {
         sliderContent.appendChild(sliderList);
         sliderContent.appendChild(sliderLink);
         sliderSlide.appendChild(sliderContent);
-        sliderSlide.appendChild(sliderImg);
+        sliderImgDiv.appendChild(sliderImg);
+        sliderSlide.appendChild(sliderImgDiv);
         sliderFrame.appendChild(sliderSlide);
         slidesContainer.appendChild(sliderFrame);
     });

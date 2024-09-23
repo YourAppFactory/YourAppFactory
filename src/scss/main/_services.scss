@@ -1,0 +1,59 @@
+@use 'sass:math';
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+.services{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
+    gap: math.div(v.$separate, 2);
+    margin: 5rem 0;
+    @include m.tablet{
+        gap: v.$separate;
+    }
+    @include m.desktop{
+        gap: v.$separate * 2;
+    }
+    &__title{
+        font-size: clamp(2.2rem, 3vw, 4.5rem);
+        text-align: center;
+    }
+    &__item{
+        padding: math.div(v.$separate,2);
+        border-radius: 0.5rem;
+        box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
+        width: 100%;
+        display: grid;
+        place-items: center;
+        @include m.laptop{
+            padding: v.$separate;
+        }
+        &:hover{
+            transform: translateY(-0.5rem);
+            box-shadow: 0 0 1rem rgba(0, 0, 0, 0.4);
+        }
+    }
+    &__item:nth-child(odd){
+        background: lighten(v.$blue, 55%);
+    }
+    &__icon{
+        width: 100%;
+        height: 7.5rem;
+    }
+    & p{
+        font-size: 2.2rem;
+        color: v.$black;
+        @include m.tablet{
+            font-size: 2.5rem;
+        }
+    }
+    &__link{
+        border: none;
+        background: v.$blue-dark;
+        color: v.$white;
+        font-size: 1.8rem;
+        padding: 0.5rem 1rem;
+        width: 100%;
+        display: block;
+        pointer-events: none;
+    }
+}

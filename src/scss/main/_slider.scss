@@ -9,7 +9,7 @@
     background-color: v.$back-white;
     &__title{
         position: absolute;
-        color: v.$white;
+        color: lighten(v.$blue, 40%);
         width: 100%;
         text-align: center;
         text-shadow: 0.1rem 0.1rem 0.5rem rgba(0, 0, 0, 0.7);
@@ -51,7 +51,7 @@
         padding-top: calc(v.$header-height + v.$separate);
         flex-direction: column;
         box-sizing: border-box;
-        @include m.maxtablet {
+        @include m.maxlaptop {
             min-height: 62rem;
             padding: v.$separate;
             padding-top: calc(v.$header-height + v.$separate);
@@ -65,8 +65,11 @@
         }
         &__content{
             padding: 1rem 2.5rem;
-            width: 100%;
+            width: 65%;
             color: v.$white;
+            @include m.maxlaptop {
+                width: 100%;
+            }
         }
         &__title{
             font-size: 3rem;
@@ -79,13 +82,17 @@
             }
         }
         &__img{
-            max-width: 40%;
+            max-width: 27rem;
             height: auto;
-            @include m.laptop {
-                margin-bottom: calc(v.$separate * 2);
+            @include m.ultra-wide {
+                max-width: 35rem;
             }
-            @include m.maxtablet {
-                display: none;
+            
+            &--div{
+                width: 35%;
+                @include m.maxlaptop {
+                    display: none;
+                }
             }
         }
         &__list{

@@ -26,7 +26,7 @@
                 ]
             },
             "link": "/retail",
-            "image": "https://via.placeholder.com/800x400",
+            "image": "../build/img/app.png",
             "background": "../build/img/retail.webp"
         },
         {
@@ -53,7 +53,7 @@
                 ]
             },
             "link": "/restaurant",
-            "image": "https://via.placeholder.com/800x400",
+            "image": "../build/img/app.png",
             "background": "../build/img/restaurant.webp"
         },
         {
@@ -84,7 +84,7 @@
                 ]
             },
             "link": "/hairsalon",
-            "image": "https://via.placeholder.com/800x400",
+            "image": "../build/img/app.png",
             "background": "../build/img/hairsalon.webp"
         },
         {
@@ -113,7 +113,7 @@
                 ]
             },
             "link": "/spa",
-            "image": "https://via.placeholder.com/800x400",
+            "image": "../build/img/app.png",
             "background": "../build/img/spa.webp"
         },
         {
@@ -138,7 +138,7 @@
                 ]
             },
             "link": "/gym",
-            "image": "https://via.placeholder.com/800x400",
+            "image": "../build/img/app.png",
             "background": "../build/img/gym.webp"
         },
         {
@@ -165,7 +165,7 @@
                 ]
             },
             "link": "/healthcare",
-            "image": "https://via.placeholder.com/800x400",
+            "image": "../build/img/app.png",
             "background": "../build/img/healthcare.webp"
         },
         {
@@ -190,7 +190,7 @@
                 ]
             },
             "link": "/realestate",
-            "image": "https://via.placeholder.com/800x400",
+            "image": "../build/img/app.png",
             "background": "../build/img/realestate.webp"
         },
         {
@@ -221,7 +221,7 @@
                 ]
             },
             "link": "/education",
-            "image": "https://via.placeholder.com/800x400",
+            "image": "../build/img/app.png",
             "background": "../build/img/education.webp"
         },
         {
@@ -250,7 +250,7 @@
                 ]
             },
             "link": "/entertainment",
-            "image": "https://via.placeholder.com/800x400",
+            "image": "../build/img/app.png",
             "background": "../build/img/entertainment.webp"
         },
         {
@@ -279,7 +279,7 @@
                 ]
             },
             "link": "/eventagency",
-            "image": "https://via.placeholder.com/800x400",
+            "image": "../build/img/app.png",
             "background": "../build/img/eventagency.webp"
         },
         {
@@ -308,7 +308,7 @@
                 ]
             },
             "link": "/travelagency",
-            "image": "https://via.placeholder.com/800x400",
+            "image": "../build/img/app.png",
             "background": "../build/img/travelagency.webp"
         },
         {
@@ -339,7 +339,7 @@
                 ]
             },
             "link": "/professionalservices",
-            "image": "https://via.placeholder.com/800x400",
+            "image": "../build/img/app.png",
             "background": "../build/img/professionalservices.webp"
         },
         {
@@ -368,7 +368,7 @@
                 ]
             },
             "link": "/automotive",
-            "image": "https://via.placeholder.com/800x400",
+            "image": "../build/img/app.png",
             "background": "../build/img/automotive.webp"
         },
         {
@@ -399,7 +399,7 @@
                 ]
             },
             "link": "/nonprofit",
-            "image": "https://via.placeholder.com/800x400",
+            "image": "../build/img/app.png",
             "background": "../build/img/nonprofit.webp"
         },
         {
@@ -432,7 +432,7 @@
                 ]
             },
             "link": "/church",
-            "image": "https://via.placeholder.com/800x400",
+            "image": "../build/img/app.png",
             "background": "../build/img/church.webp"
         }
     ]
