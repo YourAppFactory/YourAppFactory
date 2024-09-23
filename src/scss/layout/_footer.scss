@@ -5,29 +5,94 @@
 .footer{
     background-color: v.$blue-dark;
     color: v.$white;
-    padding: v.$separate;
+    padding: math.div(v.$separate, 2);
     text-align: center;
     @include m.tablet{
-        padding: v.$separate 0;
+        padding: v.$separate;
+    }
+    & a{
+        color: v.$white;
+        &:hover{
+            cursor: pointer;
+            color: v.$blue-light;
+        }
+    }
+    &__container{
+        display: grid;
+        gap: 1rem;
+        @include m.tablet{
+            grid-template-columns: repeat(2, 1fr);
+            gap: v.$separate;
+        }
+    }
+    &__left{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        @include m.laptop{
+            align-items: flex-start;
+        }
+    }
+    &__right{
+        display: grid;
+        place-items: center;
+        &::after{
+            content: '';
+            display: block;
+            width: 50%;
+            height: 1px;
+            background-color: v.$white;
+            transform: translateY(-1rem);
+        }
+        & h3{
+            @include m.maxlaptop{
+                margin: 1.5rem;
+            }
+        }
     }
     &__logo{
-        width: 15rem;
-        margin-bottom: v.$separate;
+        width: 22rem;
+        margin-bottom: 1.5rem;
         @include m.tablet{
-            width: 20rem;
+           margin-bottom: 3rem;
         }
     }
-    &__text{
-        font-size: 1.8rem;
-        margin-bottom: v.$separate;
-        @include m.tablet{
-            font-size: 2rem;
-        }
-    }
-    &__list{
-        margin-bottom: v.$separate;
-        list-style: outside;
+    &__social{
+        display: flex;
+        margin-bottom: 2rem;
         color: v.$white;
+        justify-content: center;
+        font-size: 2.6rem;
+        @include m.tablet{
+            margin-bottom: math.div(v.$separate, 2);
+            font-size: 3.6rem;
+            margin-bottom: v.$separate;
+        }
+        & a{
+            margin: 0 1rem;
+        }
+    }
+    &__nav{
+        margin-bottom: 1rem;
+        color: v.$white;
+        &--ul{
+            list-style: none;
+            padding-left: 0;
+            text-align: center;
+            display: grid;
+            gap: 1rem;
+            margin-bottom: 0;
+            @include m.tablet{
+                text-align: left;
+            }
+            & li{
+                font-size: 1.6rem;
+                @include m.tablet{
+                    font-size: 2rem;
+                }
+            }
+        }
         @include m.tablet {
             margin-bottom: math.div(v.$separate, 2);
         }

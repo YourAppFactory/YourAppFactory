@@ -98,5 +98,29 @@
     "church_title":{
         "es": "Iglesia",
         "en": "Church"
+    },
+    "footer_title":{
+        "es": "Síguenos en nuestras redes sociales",
+        "en": "Follow us on our social networks"
+    },
+    "nav_link--builder":{
+        "es": "Acceso para builders",
+        "en": "Builder access"
+    }, 
+    "nav_link--login":{
+        "es": "Acceso privado",
+        "en": "Private access"
+    },
+    "nav_link--privacy":{
+        "es": "Política de privacidad",
+        "en": "Privacy policy"
+    },
+    "nav_link--terms":{
+        "es": "Términos y condiciones",
+        "en": "Terms and conditions"
+    },
+    "footer_rights":{
+        "es": "Todos los derechos reservados",
+        "en": "All rights reserved"
     }
 }

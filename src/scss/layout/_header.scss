@@ -10,6 +10,9 @@
     padding: 2rem 3rem;
     text-align: center;
     height: v.$header-height;
+    @include m.maxphone{
+        padding: 2rem 1.5rem;
+    }
     @include m.tablet{
         padding: 2rem v.$separate;
     }
@@ -19,6 +22,9 @@
     }
     &__logo{
         width: 22rem;
+        @include m.maxphone{
+            width: 15rem;
+        }
         @include m.tablet{
             width: 20rem;
         }
@@ -31,10 +37,13 @@
         align-items: center;
         @include m.maxlaptop{
             justify-content: space-between;
-            width: 15%;
+            width: 30%;
         }
         @include m.laptop{
             width: 70%;
+        }
+        @include m.maxphone{
+            width: 40%;
         }
     }
     &__lang{
@@ -109,6 +118,9 @@
         &--mobile{
             font-size: 3rem;
             z-index: 11;
+            @include m.maxphone{
+                font-size: 2.2rem;
+            }
         }
         &--link{
             color: v.$white;
@@ -150,5 +162,10 @@
                 }
             }
         }
+    }
+
+    &--regular{
+        position: relative;
+        background-color: v.$blue-dark;
     }
 }
