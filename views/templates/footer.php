@@ -23,25 +23,21 @@ include_once __DIR__ .'/../templates/contact.php';
                 </a>
             </div>
         </div>
-        <div class="footer__center">
+        <div class="footer__right">
             <div class="footer__nav">
                 <ul class="footer__nav--ul">
-                    <a class="footer__nav--link" href="/">
+                    <a class="footer__nav--link" href="https://builder.yourappfactory.com">
                         <li class="footer__nav--item">
-                            <?php echo tt('nav_link--home');?>
+                            <?php echo tt('nav_link--builder');?>
                         </li>
                     </a>
-                    <a class="footer__nav--link" href="/about">
+                    <a class="footer__nav--link" href="/login">
                         <li class="footer__nav--item">
-                            <?php echo tt('nav_link--about');?>
+                            <?php echo tt('nav_link--login');?>
                         </li>
                     </a>
-                    <a class="footer__nav--link" href="/marketing">
-                        <li class="footer__nav--item">
-                            <?php echo tt('nav_link--business');?>
-                        </li>
-                    </a>
-                    <a class="footer__nav--link" href="/contact">
+                    
+                    <a class="footer__nav--link" href="#contact">
                         <li class="footer__nav--item">
                             <?php echo tt('nav_link--contact');?>
                         </li>
@@ -49,33 +45,10 @@ include_once __DIR__ .'/../templates/contact.php';
                 </ul>
             </div>
         </div>
-        <div class="footer__right">
-            <div class="footer__contact">
-                <div class="footer__contact--item">
-                    <i class="fas fa-phone-alt"></i>
-                    <p>+1 123 456 7890</p>
-                </div>
-                <div class="footer__contact--item">
-                    <i class="fas fa-envelope"></i
-                    ><p>
-                        <a href="mailto:
-                        <?php echo tt('email');?>"><?php echo tt('email');?>
-                        </a>
-                    </p>
-                </div>
-                <div class="footer__contact--item">
-                    <i class="fas fa-map
-                    "></i>
-                    <p>
-                        <?php echo tt('address');?>
-                    </p>
-                </div>
-            </div>
-        </div>
     </div>
     <div class="footer__copy">
         <p>
-            <?php echo tt('copy');?>
+           &copy; <?php echo date('Y');?>
         </p>
     </div>
 </footer>

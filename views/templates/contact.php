@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container" id="contact">
     <form class="form" id="contactForm">
         <h2 class="form__title">{%contact_title%}</h2>
         <div class="form__group">

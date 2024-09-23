@@ -1,4 +1,4 @@
-<header class="header">
+<header class="header <?php echo !isset($home) ? 'header--regular' : ''?>">
     <div class="header__bar">
         <a class="header__logo--link" href="/">
             <img class="header__logo" src="/build/img/logo.png" alt="Logo">
@@ -24,12 +24,17 @@
                                 <?php echo tt('nav_link--about');?>
                         </li>
                     </a>
-                    <a class="header__nav--link" href="/marketing">
+                    <a class="header__nav--link" href="#services">
                         <li class="header__nav--item">
                                 <?php echo tt('nav_link--business');?>
                         </li>
                     </a>
-                    <a class="header__nav--link" href="/contact">
+                    <a class="header__nav--link" href="/marketing">
+                        <li class="header__nav--item">
+                                <?php echo tt('nav_link--marketing');?>
+                        </li>
+                    </a>
+                    <a class="header__nav--link" href="#contact">
                         <li class="header__nav--item">
                                 <?php echo tt('nav_link--contact');?>
                         </li>

@@ -18,8 +18,11 @@
         justify-content: space-between;
     }
     &__logo{
-        width: 24rem;
+        width: 22rem;
         @include m.tablet{
+            width: 20rem;
+        }
+        @include m.desktop{
             width: 30rem;
         }
     }
@@ -31,7 +34,7 @@
             width: 15%;
         }
         @include m.laptop{
-            width: 50%;
+            width: 70%;
         }
     }
     &__lang{
@@ -101,7 +104,7 @@
             position: absolute;
             left: 0;
             top: 0;
-            z-index: 1;
+            z-index: 11;
         }
         &--mobile{
             font-size: 3rem;
@@ -131,6 +134,7 @@
             @include m.maxlaptop{
                 flex-direction: column;
                 background-color: v.$blue;
+                padding-top: 5rem;
                 margin: 0;
                 height: 35vh;
                 padding-left: 0;
@@ -140,7 +144,10 @@
             }
 
             & li{
-                font-size: 2.2rem;
+                font-size: 1.8rem;
+                @include m.desktop{
+                    font-size: 2.2rem;
+                }
             }
         }
     }
