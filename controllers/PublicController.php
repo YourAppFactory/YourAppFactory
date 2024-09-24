@@ -119,8 +119,8 @@ class PublicController{
         ]);
     }
 
-    public static function church(Router $router){
-        $titulo = "church_title";
+    public static function community(Router $router){
+        $titulo = "community_title";
         $router->render('/pages/services',[
             'titulo' => $titulo
         ]);

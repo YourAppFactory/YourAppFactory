@@ -28,7 +28,7 @@
         }
         @include m.desktop-large{
             font-size: 6.5rem;
-            margin-top: calc(v.$header-height + math.div(v.$separate, 2));
+            margin-top: 11rem;
         }
     }
 
@@ -82,14 +82,22 @@
             }
         }
         &__img{
-            max-width: 27rem;
+            max-width: 25rem;
             height: auto;
+            @include m.laptop {
+                max-width: 45rem;
+            }
             @include m.ultra-wide {
-                max-width: 35rem;
+                max-width: 55rem;
             }
             
             &--div{
                 width: 35%;
+                @include m.maxdesktop {
+                    height: 100%;
+                    display: grid;
+                    place-items: center;
+                }
                 @include m.maxlaptop {
                     display: none;
                 }

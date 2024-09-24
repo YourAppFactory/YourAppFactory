@@ -81,7 +81,7 @@
         </a>
         <a href="/church" class="services__item">
             <img class="services__icon" src="/build/img/icon-church.svg" alt="Church">
-            <p>{%church_title%}</p>
+            <p>{%community_title%}</p>
             <button class="services__link">{%see_more%}</button>
         </a>
     </div>

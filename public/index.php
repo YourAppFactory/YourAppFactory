@@ -26,7 +26,7 @@ $router->get('/travelagency', [PublicController::class, 'travelagency']);
 $router->get('/professionalservices', [PublicController::class, 'professionalservices']);
 $router->get('/automotive', [PublicController::class, 'automotive']);
 $router->get('/nonprofit', [PublicController::class, 'nonprofit']);
-$router->get('/church', [PublicController::class, 'church']);
+$router->get('/community', [PublicController::class, 'community']);
 //debugging($router);
 
 //APIs Main
