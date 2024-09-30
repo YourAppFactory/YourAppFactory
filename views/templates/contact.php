@@ -1,18 +1,13 @@
-<div class="container" id="contact">
-    <form class="form" id="contactForm">
-        <h2 class="form__title">{%contact_title%}</h2>
-        <div class="form__group">
-            <label for="name" class="form__label">{%contact_name%}</label>
-            <input type="text" id="name" name="name" class="form__input" required>
-        </div>
-        <div class="form__group">
-            <label for="email" class="form__label">{%contact_email%}</label>
-            <input type="email" id="email" name="email" class="form__input" required>
-        </div>
-        <div class="form__group">
-            <label for="message" class="form__label">{%contact_message%}</label>
-            <textarea id="message" name="message" class="form__textarea" required></textarea>
-        </div>
-        <button class="form__btn">{%contact_send%}</button>
-    </form>
+<div class="back-blue-light p-5">
+    <div class="contact" id="contact">
+        <h2 class="contact__title text-blue-dark"><?php echo tt('contact_title');?></h2>
+        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
+        <script>
+        hbspt.forms.create({
+            region: "na1",
+            portalId: "47518922",
+            formId: "b5dc8065-c9a3-46c8-9e58-43014872c9d4"
+          });
+        </script>
+    </div>
 </div>

@@ -6,15 +6,17 @@
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
     gap: math.div(v.$separate, 2);
-    margin: 5rem 0;
+    margin: 3rem 0;
     @include m.tablet{
         gap: v.$separate;
+        margin: v.$separate 0;
     }
     @include m.desktop{
         gap: v.$separate * 2;
+        margin: calc(v.$separate * 2) 0;
     }
     &__title{
-        font-size: clamp(2.2rem, 3vw, 4.5rem);
+        font-size: clamp(2.4rem, 3vw, 4.5rem);
         text-align: center;
     }
     &__item{

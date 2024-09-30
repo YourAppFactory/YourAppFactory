@@ -24,7 +24,7 @@
                                 <?php echo tt('nav_link--about');?>
                         </li>
                     </a>
-                    <a class="header__nav--link" href="#services">
+                    <a class="header__nav--link" href="#yourBusiness">
                         <li class="header__nav--item">
                                 <?php echo tt('nav_link--business');?>
                         </li>

@@ -1,0 +1,21 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^builder\.yourappfactory\.app$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.builder\.yourappfactory\.app$
+RewriteRule ^/?$ "https\:\/\/apps\.nocode\-builder\.com\.\/" [R=301,L]
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^(.*)$ index.php/$1 [QSA,PT,L]
+</IfModule>
+
+<filesMatch "\.(jpg|jpeg|png|webp)$">
+    FileETag None
+    Header unset ETag
+    Header set Cache-Control "max-age=0, no-cache, no-store, must-revalidate"
+    Header set Pragma "no-cache"
+    Header set Expires "Wed, 11 Jan 2084 05:00:00 GMT"
+</filesMatch>

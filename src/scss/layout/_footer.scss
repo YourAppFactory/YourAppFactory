@@ -104,3 +104,11 @@
         }
     }
 }
+
+.contact{
+    width: 100%;
+    @include m.laptop{
+        width: 60%;
+        margin: auto;
+    }
+}

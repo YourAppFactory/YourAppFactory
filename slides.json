@@ -84,7 +84,7 @@
                 ]
             },
             "link": "/hairsalon",
-            "image": "../build/img/app-haircut.png",
+            "image": "../build/img/app-hairsalon.png",
             "background": "../build/img/hairsalon.webp"
         },
         {

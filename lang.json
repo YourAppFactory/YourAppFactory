@@ -32,8 +32,8 @@
         "en": "What type of business do you have?"
     },
     "services_title":{
-        "es": "Tipos de negocio",
-        "en": "Types of business"
+        "es": "Tenemos soluciones asequibles, revisa la tuya:",
+        "en": "We have affordable solutions, check yours:"
     },
     "see_more":{
         "es": "Ver más",
@@ -126,5 +126,9 @@
     "functionality_title":{
         "es": "Estas son algunas funcionalidades y características de las Apps móviles",
         "en": "These are some functionalities and features of mobile Apps"
+    },
+    "contact_title":{
+        "es": "Contáctanos para una consulta gratuita y personalizada",
+        "en": "Contact us for a free tailored consultation"
     }
 }

@@ -124,5 +124,5 @@ function startAutoSlide() {
         slideIndex++;
         showSlides(slideIndex);
         startAutoSlide(); // Continue rotating
-    }, 70000); // Slide changes every 7 seconds
+    }, 5000); // Slide changes every 5 seconds
 }
