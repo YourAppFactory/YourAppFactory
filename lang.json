@@ -130,5 +130,259 @@
     "contact_title":{
         "es": "Contáctanos para una consulta gratuita y personalizada",
         "en": "Contact us for a free tailored consultation"
+    },
+    "about_us_title":{
+        "es": "Sobre nosotros",
+        "en": "About us"
+    },
+    "about_us_text-1":{
+        "en": "At Affordable Professional Productions Factory LLC, also known as Your App Factory, we are committed to empowering small businesses through affordable, innovative, and effective mobile app solutions. Based in Maryland, we offer accessible technology tailored to the specific needs of small businesses across Maryland, Washington DC, and Virginia, and we extend our services throughout the United States.",
+        "es": "En Affordable Professional Productions Factory LLC, también conocida como Your App Factory, estamos comprometidos a empoderar a pequeñas empresas a través de soluciones de aplicaciones móviles asequibles, innovadoras y efectivas. Con sede en Maryland, ofrecemos tecnología accesible adaptada a las necesidades específicas de pequeñas empresas en Maryland, Washington DC y Virginia, y extendemos nuestros servicios a lo largo de los Estados Unidos."
+    },
+    "about_us_text-2":{
+        "en": "Our partners, who are entrepreneurs and business professionals with over 25 years of experience advising small businesses in key areas such as marketing, strategy, technology, and finance, have come together to leverage their expertise in developing this venture. Our vision is to integrate these disciplines to provide small businesses with the necessary tools to grow and compete in today’s digital landscape.",
+        "es": "Nuestros socios, que son emprendedores y profesionales de negocios con más de 25 años de experiencia asesorando a pequeñas empresas en áreas clave como marketing, estrategia, tecnología y finanzas, se han unido para aprovechar su experiencia en el desarrollo de esta empresa. Nuestra visión es integrar estas disciplinas para proporcionar a las pequeñas empresas las herramientas necesarias para crecer y competir en el panorama digital actual."
+    },
+    "about_us_mission_title":{
+        "es": "Nuestra misión",
+        "en": "Our mission"
+    },
+    "about_us_mission_text":{
+        "en": "Our mission is to enable small businesses to thrive in the digital age by developing affordable, professional, and high-quality mobile applications. We ensure that businesses in sectors like beauty salons, gyms, restaurants, and more can harness the power of mobile technology to increase sales, enhance customer experiences, streamline operations, and improve their competitive edge in the market.",
+        "es": "Nuestra misión es permitir que las pequeñas empresas prosperen en la era digital mediante el desarrollo de aplicaciones móviles asequibles, profesionales y de alta calidad. Nos aseguramos de que las empresas en sectores como salones de belleza, gimnasios, restaurantes y más puedan aprovechar el poder de la tecnología móvil para aumentar las ventas, mejorar las experiencias de los clientes, optimizar las operaciones y mejorar su ventaja competitiva en el mercado."
+    },
+    "about_us_how_title":{
+        "en": "How We Help Small Businesses",
+        "es": "Cómo ayudamos a las pequeñas empresas"
+    },
+    "about_us_how_text":{
+        "en": "Today, mobile apps are no longer a luxury; they are a necessity for small businesses to remain competitive. With features like real-time communication, customer loyalty programs, and push notifications, our apps provide businesses with a direct and effective way to interact with their customers, foster loyalty, and drive repeat business. These tools not only strengthen customer relationships but also support long-term profitability.",
+        "es": "Hoy en día, las aplicaciones móviles ya no son un lujo; son una necesidad para que las pequeñas empresas sigan siendo competitivas. Con funciones como la comunicación en tiempo real, programas de fidelización de clientes y notificaciones push, nuestras aplicaciones proporcionan a las empresas una forma directa y efectiva de interactuar con sus clientes, fomentar la lealtad y fomentar la repetición de negocios. Estas herramientas no solo fortalecen las relaciones con los clientes, sino que también respaldan la rentabilidad a largo plazo."
+    },
+    "about_us_benefits_title":{
+        "en": "Benefits to Society",
+        "es": "Beneficios para la sociedad"
+    },
+    "about_us_benefits_text":{
+        "en": "At Your App Factory, we believe every small business should have access to the tools necessary to succeed in the digital landscape. Our solutions help improve SEO, enhance customer retention, and maximize business visibility. By making advanced technology affordable and accessible, we contribute to the local economy by helping small businesses grow and create more opportunities within the communities they serve.",
+        "es": "En Your App Factory, creemos que todas las pequeñas empresas deberían tener acceso a las herramientas necesarias para tener éxito en el panorama digital. Nuestras soluciones ayudan a mejorar el SEO, aumentar la retención de clientes y maximizar la visibilidad del negocio. Al hacer que la tecnología avanzada sea asequible y accesible, contribuimos a la economía local ayudando a las pequeñas empresas a crecer y crear más oportunidades dentro de las comunidades a las que sirven."
+    },
+    "about_us_vision_title":{
+        "en": "Our Vision",
+        "es": "Nuestra visión"
+    },
+    "about_us_vision_text-1":{
+        "en": "Over the next five years, our goal is to become the leading provider of mobile solutions for small businesses in the Maryland, DC, and Virginia region. We strive to be the most trusted partner for small businesses, providing them with the tools they need to grow sustainably and successfully in an increasingly mobile-focused world.",
+        "es": "En los próximos cinco años, nuestro objetivo es convertirnos en el principal proveedor de soluciones móviles para pequeñas empresas en la región de Maryland, DC y Virginia. Nos esforzamos por ser el socio más confiable para las pequeñas empresas, brindándoles las herramientas que necesitan para crecer de manera sostenible y exitosa en un mundo cada vez más centrado en lo móvil."
+    },
+    "about_us_vision_text-2":{
+        "es": "Contáctanos en info@yourappfactory.app",
+        "en": "Contact us at info@yourappfactory.app"
+    },
+    "marketing_title":{
+        "es": "Marketing móvil",
+        "en": "Mobile Marketing"
+    },
+    "marketing_title-power":{
+        "en": "The Power of Mobile Apps",
+        "es": "El poder de las aplicaciones móviles"
+    },
+    "marketing_subtitle-power":{
+        "en": "An Investment That Pays for Itself",
+        "es": "Una inversión que se paga sola"
+    },
+    "marketing_subtitle-power-2":{
+        "en": "The Era of Mobile Apps",
+        "es": "La era de las aplicaciones móviles"
+    },
+    "marketing_text-power-1":{
+        "en": "In today's business world, mobile apps have become an essential tool for success and competitiveness. The main characteristic of mobile marketing is that we are literally in the pocket or purse of our customers, and this has developed a whole new area of knowledge in marketing.",
+        "es": "En el mundo empresarial actual, las aplicaciones móviles se han convertido en una herramienta esencial para el éxito y la competitividad. La principal característica del marketing móvil es que estamos literalmente en el bolsillo o bolso de nuestros clientes, y esto ha desarrollado toda una nueva área de conocimiento en marketing."
+    },
+    "marketing_text-power-2":{
+        "en": "According to the most recent statistics, 90% of the population in the United States uses social networking apps, 70% uses gaming apps and 60% uses productivity apps. These numbers clearly show the importance of having a robust mobile presence. However, many small businesses are still hesitant to take the leap due to the initial investment required to develop a mobile app, which can range from $25,000-$30,000 to hundreds of thousands of dollars. Here we will show entrepreneurs and small business owners that this investment not only pays for itself but is also an invaluable asset to their company.",
+        "es": "Según las estadísticas más recientes, el 90% de la población en los Estados Unidos utiliza aplicaciones de redes sociales, el 70% utiliza aplicaciones de juegos y el 60% utiliza aplicaciones de productividad. Estos números muestran claramente la importancia de tener una presencia móvil sólida. Sin embargo, muchas pequeñas empresas aún dudan en dar el salto debido a la inversión inicial requerida para desarrollar una aplicación móvil, que puede oscilar entre $25,000 y $30,000 hasta cientos de miles de dólares. Aquí mostraremos a los emprendedores y propietarios de pequeñas empresas que esta inversión no solo se paga sola, sino que también es un activo invaluable para su empresa."
+    },
+    "marketing_text-power-3":{
+        "en": "Even today, after so many technological advances, many small businesses do not know how to take advantage of mobile applications, especially to improve their business indicators. The endless flow of information and possibilities makes it difficult to decide in this regard.",
+        "es": "Incluso hoy, después de tantos avances tecnológicos, muchas pequeñas empresas no saben cómo aprovechar las aplicaciones móviles, especialmente para mejorar sus indicadores comerciales. El flujo interminable de información y posibilidades dificulta la toma de decisiones al respecto."
+    },
+    "marketing_text-power-4":{
+        "en": "Here we are going to shed some light on this fascinating topic, which ultimately involves improving our performance as companies, making communication with our customers more efficient and at the same time improving sales.",
+        "es": "Aquí vamos a arrojar algo de luz sobre este fascinante tema, que en última instancia implica mejorar nuestro desempeño como empresas, hacer que la comunicación con nuestros clientes sea más eficiente y al mismo tiempo mejorar las ventas."
+    },
+    "marketing_title_why":{
+        "en": "Why a Mobile App?",
+        "es": "¿Por qué una aplicación móvil?"
+    },
+    "marketing_subtitle_why":{
+        "en": "Amortizable Investment and Increase in Sales",
+        "es": "Inversión amortizable y aumento de ventas"
+    },
+    "marketing_text_why-1":{
+        "en": "When a business invests in a mobile app, it is creating a platform that can completely transform the way it interacts with its customers. Mobile apps make shopping easier, improve customer service, can actively engage with customers to improve the experience, promote customer loyalty, and enable more effective marketing resulting in increased sales.",
+        "es": "Cuando un negocio invierte en una aplicación móvil, está creando una plataforma que puede transformar por completo la forma en que interactúa con sus clientes. Las aplicaciones móviles facilitan las compras, mejoran el servicio al cliente, pueden interactuar activamente con los clientes para mejorar la experiencia, fomentar la lealtad del cliente y permitir un marketing más efectivo que resulta en un aumento de las ventas."
+    },
+    "marketing_text_why-2":{
+        "en": "For example, a clothing store can send push notifications with exclusive offers, or a restaurant can send real-time invitations to a last-minute event, or any business can announce a promotion or share content, thereby increasing sales by engaging customers with personalized promotions.",
+        "es": "Por ejemplo, una tienda de ropa puede enviar notificaciones push con ofertas exclusivas, o un restaurante puede enviar invitaciones en tiempo real a un evento de última hora, o cualquier negocio puede anunciar una promoción o compartir contenido, aumentando así las ventas al involucrar a los clientes con promociones personalizadas."
+    },
+    "marketing_text_why-3":{
+        "en": "Take the case of a local restaurant that decided to invest in a mobile app. At first, the investment seemed high, but they soon discovered that they could send notifications of special offers and daily menus to their customers. Customers could make reservations and orders directly from the app, which not only increased efficiency, but also improved the customer experience. Within a few months, the restaurant's sales increased by 30%, thus amortizing the initial investment in record time.",
+        "es": "Tomemos el caso de un restaurante local que decidió invertir en una aplicación móvil. Al principio, la inversión parecía alta, pero pronto descubrieron que podían enviar notificaciones de ofertas especiales y menús diarios a sus clientes. Los clientes podían hacer reservas y pedidos directamente desde la aplicación, lo que no solo aumentó la eficiencia, sino que también mejoró la experiencia del cliente. En unos pocos meses, las ventas del restaurante aumentaron un 30%, amortizando así la inversión inicial en tiempo récord."
+    },
+    "marketing_title_benefits":
+    {
+        "en": "Benefits of Having Your Own Mobile App",
+        "es": "Beneficios de tener tu propia aplicación móvil"
+    },
+    "marketing_subtitle_benefits-1":
+    {
+        "en": "Increased Visibility",
+        "es": "Mayor visibilidad"
+    },
+    "marketing_text_benefits-1":
+    {
+        "en": "Mobile apps increase your business's visibility. An app on your customers' phone ensures that you're always just a tap away. This is especially important in an era where consumers prefer to use apps over websites.",
+        "es": "Las aplicaciones móviles aumentan la visibilidad de tu negocio. Una aplicación en el teléfono de tus clientes garantiza que siempre estés a solo un toque de distancia. Esto es especialmente importante en una era en la que los consumidores prefieren usar aplicaciones en lugar de sitios web."
+    },
+    "marketing_text_benefits-2":
+    {
+        "en": "Imagine a clothing store that launches its own app. Customers can browse the catalog, receive notifications of sales and promotions, and even make purchases directly from the app. This level of visibility and convenience can turn potential customers into repeat buyers.",
+        "es": "Imagina una tienda de ropa que lanza su propia aplicación. Los clientes pueden navegar por el catálogo, recibir notificaciones de ventas y promociones e incluso realizar compras directamente desde la aplicación. Este nivel de visibilidad y conveniencia puede convertir a los clientes potenciales en compradores recurrentes."
+    },
+    "marketing_subtitle_benefits-2":
+    {
+        "en": "Improved Customer Service",
+        "es": "Mejora del servicio al cliente"
+    },
+    "marketing_text_benefits-3":
+    {
+        "en": "A mobile app offers a platform to significantly improve customer service. Through features like live chat, push notifications, and a reservation system, businesses can offer faster and more efficient service.",
+        "es": "Una aplicación móvil ofrece una plataforma para mejorar significativamente el servicio al cliente. A través de funciones como chat en vivo, notificaciones push y un sistema de reservas, las empresas pueden ofrecer un servicio más rápido y eficiente."
+    },
+    "marketing_text_benefits-4":
+    {
+        "en": "Let's consider a hair salon or spa implementing a mobile app. Customers can book appointments, get reminders and review services offered, accumulate points and earn rewards, all from the convenience of their phones. This not only improves customer satisfaction, but also reduces no-shows and double bookings.",
+        "es": "Consideremos un salón de belleza o spa que implementa una aplicación móvil. Los clientes pueden reservar citas, recibir recordatorios y revisar los servicios ofrecidos, acumular puntos y ganar recompensas, todo desde la comodidad de sus teléfonos. Esto no solo mejora la satisfacción del cliente, sino que también reduce las ausencias y las reservas dobles."
+    },
+    "marketing_subtitle_benefits-3":
+    {
+        "en": "Increased Sales",
+        "es": "Aumento de las ventas"
+    },
+    "marketing_text_benefits-5":
+    {
+        "en": "Mobile apps can be a powerful tool to increase sales. With features like in-app purchases, personalized promotions, and loyalty programs, businesses can encourage customers to use our services more and promote “word-of-mouth” with a technology feature.",
+        "es": "Las aplicaciones móviles pueden ser una herramienta poderosa para aumentar las ventas. Con funciones como compras dentro de la aplicación, promociones personalizadas y programas de fidelización, las empresas pueden alentar a los clientes a utilizar nuestros servicios con más frecuencia y promover el “boca a boca” con una función tecnológica."
+    },
+    "marketing_text_benefits-6":
+    {
+        "en": "A grocery store that launches a mobile app can offer exclusive discounts to its app-using customers, send notifications of new products, allow online shopping for in-store pickup or delivery, and display its locations on a map. These features not only increase sales but also improve customer loyalty.",
+        "es": "Una tienda de comestibles que lanza una aplicación móvil puede ofrecer descuentos exclusivos a sus clientes que usan la aplicación, enviar notificaciones de nuevos productos, permitir compras en línea para recoger en la tienda o entrega y mostrar sus ubicaciones en un mapa. Estas funciones no solo aumentan las ventas, sino que también mejoran la fidelidad del cliente."
+    },
+    "marketing_subtitle_benefits-4":
+    {
+        "en": "Taking advantage of mobile applications for community organizations",
+        "es": "Aprovechando las aplicaciones móviles para organizaciones comunitarias"
+    },
+    "marketing_text_benefits-7":
+    {
+        "en": "Businesses and organizations that manage communities, such as churches, professional associations, and chambers of commerce, can significantly benefit from having their own mobile applications. These apps can serve as powerful tools to improve communication, engagement, and member services.",
+        "es": "Las empresas y organizaciones que gestionan comunidades, como iglesias, asociaciones profesionales y cámaras de comercio, pueden beneficiarse significativamente de tener sus propias aplicaciones móviles. Estas aplicaciones pueden servir como herramientas poderosas para mejorar la comunicación, el compromiso y los servicios para los miembros."
+    },
+    "marketing_text_benefits-8":
+    {
+        "en": "For example, a church can use an app to share event updates, stream sermons, and collect donations more easily over the phone. Professional associations can offer members easy access to resources, networking opportunities, and event registrations through their app.",
+        "es": "Por ejemplo, una iglesia puede usar una aplicación para compartir actualizaciones de eventos, transmitir sermones y recolectar donaciones de manera más fácil por teléfono. Las asociaciones profesionales pueden ofrecer a los miembros un fácil acceso a recursos, oportunidades de networking y registros de eventos a través de su aplicación."
+    },
+    "marketing_text_benefits-9":
+    {
+        "en": "Similarly, chambers of commerce can keep their members informed about local business news, provide directories, and promote local events. By adopting mobile apps, these community organizations can strengthen their connection with their members, streamline their operations, and improve overall engagement.",
+        "es": "De manera similar, las cámaras de comercio pueden mantener informados a sus miembros sobre noticias de negocios locales, proporcionar directorios y promover eventos locales. Al adoptar aplicaciones móviles, estas organizaciones comunitarias pueden fortalecer su conexión con sus miembros, optimizar sus operaciones y mejorar el compromiso general."
+    },
+    "marketing_title_challenges":{
+        "en": "Challenges and Solutions",
+        "es": "Desafíos y soluciones"
+    },
+    "marketing_text_challenges-1":{
+        "en": "There are many barriers and challenges that entrepreneurs and business owners have to face. In the modern world, where technology has become omnipresent, having a strong online presence is crucial to the success of any business, large or small. However, for many small businesses, accessing proprietary mobile apps remains a significant challenge due to high development costs and the technological barrier to entry.",
+        "es": "Existen muchas barreras y desafíos a los que se enfrentan los emprendedores y propietarios de negocios. En el mundo moderno, donde la tecnología se ha vuelto omnipresente, tener una fuerte presencia en línea es crucial para el éxito de cualquier empresa, grande o pequeña. Sin embargo, para muchas pequeñas empresas, acceder a aplicaciones móviles propias sigue siendo un desafío significativo debido a los altos costos de desarrollo y la barrera tecnológica de entrada."
+    },
+    "marketing_subtitle_challenges-1":{
+        "en": "The Prohibitive Costs of App Development",
+        "es": "Los costos prohibitivos del desarrollo de aplicaciones"
+    },
+    "marketing_text_challenges-2":{
+        "en": "One of the biggest hurdles facing small businesses is the prohibitive cost of mobile app development. The process of designing, developing, and launching an app can require a significant investment of time and money, as engineers must write code for multiple operating systems (Android and Apple's iOS) and resolve conflicts between them on the fly, which can be difficult for businesses on a budget to cope with. The costs of hiring qualified app developers can be exorbitant, leaving many small businesses in a bind",
+        "es": "Uno de los mayores obstáculos que enfrentan las pequeñas empresas es el costo prohibitivo del desarrollo de aplicaciones móviles. El proceso de diseño, desarrollo y lanzamiento de una aplicación puede requerir una inversión significativa de tiempo y dinero, ya que los ingenieros deben escribir código para múltiples sistemas operativos (Android e iOS de Apple) y resolver conflictos entre ellos sobre la marcha, lo que puede ser difícil para las empresas con un presupuesto ajustado. Los costos de contratar desarrolladores de aplicaciones calificados pueden ser exorbitantes, dejando a muchas pequeñas empresas en un aprieto."
+    },
+    "marketing_subtitle_challenges-2":{
+        "en": "Limited access to technology",
+        "es": "Acceso limitado a la tecnología"
+    },
+    "marketing_text_challenges-3":{
+        "en": "In addition to costs, limited access to technology also represents a significant challenge for small businesses looking to develop their own mobile apps. Many companies lack the necessary internal resources, such as trained technical staff and development teams, to carry out app development projects effectively. This leads them to rely on outside companies, which can further increase the costs and complexity of the process.",
+        "es": "Además de los costos, el acceso limitado a la tecnología también representa un desafío significativo para las pequeñas empresas que buscan desarrollar sus propias aplicaciones móviles. Muchas empresas carecen de los recursos internos necesarios, como personal técnico capacitado y equipos de desarrollo, para llevar a cabo proyectos de desarrollo de aplicaciones de manera efectiva. Esto los lleva a depender de empresas externas, lo que puede aumentar aún más los costos y la complejidad del proceso."
+    },
+    "marketing_subtitle_challenges-3":{
+        "en": "The technology gap between small and large businesses",
+        "es": "La brecha tecnológica entre pequeñas y grandes empresas"
+    },
+    "marketing_text_challenges-4":{
+        "en": "The gap between small and large companies in terms of technology also contributes to the difficulty of small businesses in accessing unique mobile applications. While large corporations can afford to invest large sums of money in developing cutting-edge technology, small businesses are often constrained by tighter budgets and limited resources. This leaves them at a competitive disadvantage in an increasingly digitalized market.",
+        "es": "La brecha entre pequeñas y grandes empresas en términos de tecnología también contribuye a la dificultad de las pequeñas empresas para acceder a aplicaciones móviles únicas. Mientras que las grandes corporaciones pueden permitirse invertir grandes sumas de dinero en el desarrollo de tecnología de vanguardia, las pequeñas empresas suelen estar limitadas por presupuestos más ajustados y recursos limitados. Esto las deja en desventaja competitiva en un mercado cada vez más digitalizado."
+    },
+    "marketing_subtitle_challenges-4":{
+        "en": "Consequences of Lack of Mobile Apps",
+        "es": "Consecuencias de la falta de aplicaciones móviles"
+    },
+    "marketing_text_challenges-5":{
+        "en": "Absence of mobile apps can have serious consequences for small businesses in a market where convenience and accessibility are paramount. Without a mobile presence, these companies can miss out on opportunities to reach new customers, offer personalized user experiences, and increase customer loyalty. Additionally, they can fall behind their competitors who have managed to develop successful mobile apps.",
+        "es": "La ausencia de aplicaciones móviles puede tener consecuencias graves para las pequeñas empresas en un mercado donde la conveniencia y la accesibilidad son primordiales. Sin una presencia móvil, estas empresas pueden perder oportunidades para llegar a nuevos clientes, ofrecer experiencias de usuario personalizadas y aumentar la fidelidad del cliente. Además, pueden quedarse atrás de sus competidores que han logrado desarrollar aplicaciones móviles exitosas."
+    },
+    "marketing_subtitle_challenges-5":{
+        "en": "Lack of Technical Knowledge",
+        "es": "Falta de conocimientos técnicos"
+    },
+    "marketing_text_challenges-6":{
+        "en": "One of the biggest obstacles for small businesses is a lack of technical knowledge. Creating and managing a mobile app requires skills in several programming languages and a deep understanding of mobile operating systems.",
+        "es": "Uno de los mayores obstáculos para las pequeñas empresas es la falta de conocimientos técnicos. Crear y gestionar una aplicación móvil requiere habilidades en varios lenguajes de programación y un profundo conocimiento de los sistemas operativos móviles."
+    },
+    "marketing_subtitle_challenges-6":{
+        "en": "Our Services",
+        "es": "Nuestros servicios"
+    },
+    "marketing_text_challenges-7":{
+        "en": "This is where we, Your APP Factory , come in. We are experts in mobile app development and mobile marketing. We offer complete solutions, from consulting to design and development, through to publishing in the App Store and Google Play. We train our clients in the proper use of their App so that they get the most out of it and recover their investment. We take care of the entire process so that you can focus on what you do best: managing your business.",
+        "es": "Aquí es donde entramos nosotros, Your APP Factory. Somos expertos en desarrollo de aplicaciones móviles y marketing móvil. Ofrecemos soluciones completas, desde la consultoría hasta el diseño y desarrollo, pasando por la publicación en la App Store y Google Play. Capacitamos a nuestros clientes en el uso adecuado de su App para que obtengan el máximo provecho y recuperen su inversión. Nos encargamos de todo el proceso para que puedas centrarte en lo que mejor sabes hacer: gestionar tu negocio."
+    },
+    "marketing_subtitle_challenges-7":{
+        "en": "Uncertainty about Return on Investment",
+        "es": "Incertidumbre sobre el retorno de la inversión"
+    },
+    "marketing_text_challenges-8":{
+        "en": "Another common concern is whether the app will generate enough revenue to justify the investment. While the initial investment may seem high, it is actually not that high, and we have very good solutions at a low cost. It is important to consider that the long-term benefits, such as increased sales and improved customer loyalty, far outweigh the cost. Additionally, with a little analysis, we offer payment methods that accommodate customers' cash flow.",
+        "es": "Otra preocupación común es si la aplicación generará suficientes ingresos para justificar la inversión. Si bien la inversión inicial puede parecer alta, en realidad no lo es tanto, y tenemos soluciones muy buenas a bajo costo. Es importante tener en cuenta que los beneficios a largo plazo, como el aumento de las ventas y la mejora de la fidelidad del cliente, superan con creces el costo. Además, con un poco de análisis, ofrecemos métodos de pago que se adaptan al flujo de efectivo de los clientes."
+    },
+    "marketing_title_yourappfactory":{
+        "en": "Your APP Factory - Affordable Solutions with Paid Plans.",
+        "es": "Your APP Factory - Soluciones asequibles con planes de pago."
+    },
+    "marketing_text_yourappfactory-1":{
+        "en": "At Your APP Factory, we understand the concerns of small businesses and offer affordable solutions at a fraction of the market price. Plus, we have paid plans to make mobile app development accessible to all types of businesses including grocery stores, restaurants, gyms, real estate agencies, hair salons, clinics, freelancers, and more.",
+        "es": "En Your APP Factory, entendemos las preocupaciones de las pequeñas empresas y ofrecemos soluciones asequibles a una fracción del precio del mercado. Además, tenemos planes de pago para hacer que el desarrollo de aplicaciones móviles sea accesible para todo tipo de empresas, incluidas tiendas de comestibles, restaurantes, gimnasios, agencias inmobiliarias, salones de belleza, clínicas, freelancers y más."
+    },
+    "marketing_subtitle_yourappfactory-1":{
+        "es": "Una inversión que vale la pena",
+        "en": "An Investment Worth Making"
+    },
+    "marketing_text_yourappfactory-2":{
+        "en": "With Your APP Factory you can make the leap into technology. Investing in a mobile app may seem intimidating, but it is easier than you think, and the benefits are many. Firstly, the prestige that the business gains, followed by greater visibility, better customer service and increased sales. A mobile app is an invaluable asset for any business.",
+        "es": "Con Your APP Factory puedes dar el salto a la tecnología. Invertir en una aplicación móvil puede parecer intimidante, pero es más fácil de lo que piensas, y los beneficios son muchos. En primer lugar, el prestigio que gana el negocio, seguido de una mayor visibilidad, un mejor servicio al cliente y un aumento de las ventas. Una aplicación móvil es un activo invaluable para cualquier negocio."
+    },
+    "marketing_text_yourappfactory-3":{
+        "en": "If you want to know more about how a mobile app can transform your business, contact us! Follow us on our social media for more updates and share this article with anyone you think could benefit from it. Fill out our online form to learn more and find out how Your APP Factory can help you achieve your goals.",
+        "es": "Si quieres saber más sobre cómo una aplicación móvil puede transformar tu negocio, ¡contáctanos! Síguenos en nuestras redes sociales para obtener más actualizaciones y comparte este artículo con cualquier persona que creas que podría beneficiarse de él. Completa nuestro formulario en línea para obtener más información y descubrir cómo Your APP Factory puede ayudarte a alcanzar tus objetivos."
     }
 }

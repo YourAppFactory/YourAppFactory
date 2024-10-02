@@ -21,6 +21,13 @@ class PublicController{
         ]);
     }
 
+    public static function marketing(Router $router){
+        $titulo = "marketing_title";
+        $router->render('/pages/marketing',[
+            'titulo' => $titulo
+        ]);
+    }
+
     public static function retail(Router $router){
         $titulo = "retail_title";
         $router->render('/pages/services',[

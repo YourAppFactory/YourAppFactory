@@ -10,13 +10,13 @@
     border-radius: 1rem;
     box-shadow: v.$shadow;
     transition: all 0.3s;
-    &:hover {
-        background-color: #029955;
-    }
     position: fixed;
     bottom: 5rem;
     right: 5rem;
     z-index: 1000;
+    &:hover {
+        background-color: #029955;
+    }
     @include m.maxtablet {
         font-size: 4rem;
         padding: 0.5rem 0.8rem;
