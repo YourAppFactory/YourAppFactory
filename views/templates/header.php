@@ -24,7 +24,7 @@
                                 <?php echo tt('nav_link--about');?>
                         </li>
                     </a>
-                    <a class="header__nav--link" href="#yourBusiness">
+                    <a class="header__nav--link" href="/#yourBusiness">
                         <li class="header__nav--item">
                                 <?php echo tt('nav_link--business');?>
                         </li>
@@ -46,4 +46,7 @@
             </div>
         </div>
     </div>
+    <a href="https://wa.me/12028679694" class="btn-whatsapp" target="_blank">
+        <i class="fab fa-whatsapp"></i>
+    </a>
 </header>

@@ -1,0 +1,26 @@
+@use 'sass:math';
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+.btn-whatsapp {
+    color: v.$white;
+    font-size: 5rem;
+    background-color: #00C46C;
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+    box-shadow: v.$shadow;
+    transition: all 0.3s;
+    &:hover {
+        background-color: #029955;
+    }
+    position: fixed;
+    bottom: 5rem;
+    right: 5rem;
+    z-index: 1000;
+    @include m.maxtablet {
+        font-size: 4rem;
+        padding: 0.5rem 0.8rem;
+        bottom: 3rem;
+        right: 2rem;
+    }
+}

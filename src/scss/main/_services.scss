@@ -7,6 +7,10 @@
     grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
     gap: math.div(v.$separate, 2);
     margin: 3rem 0;
+    @include m.maxtablet{
+        width: 70%;
+        margin: auto;
+    }
     @include m.tablet{
         gap: v.$separate;
         margin: v.$separate 0;
@@ -98,6 +102,95 @@
                 padding: 2rem;
                 border-left-width: 5rem;
                 position: relative;
+                border-left: 5rem solid v.$blue;
+                &:nth-child(2){
+                    border-left-color: v.$yellow;
+                }
+                &:nth-child(3){
+                    border-left-color: v.$green;
+                }
+                &:nth-child(4){
+                    border-left-color: v.$red;
+                }
+                &:nth-child(5){
+                    border-left-color: v.$pink;
+                }
+                &:nth-child(6){
+                    border-left-color: v.$green-dark;
+                }
+                &:nth-child(7){
+                    border-left-color: v.$orange;
+                }
+                &:nth-child(8){
+                    border-left-color: v.$gray-dark;
+                }
+                &:nth-child(9){
+                    border-left-color: v.$blue-light;
+                }
+                &:nth-child(10){
+                    border-left-color: v.$pink;
+                }
+                &:nth-child(11){
+                    border-left-color: v.$blue-dark;
+                }
+                &:nth-child(12){
+                    border-left-color: v.$yellow;
+                }
+                &:nth-child(13){
+                    border-left-color: v.$green;
+                }
+                &:nth-child(14){
+                    border-left-color: v.$red;
+                }
+                &:nth-child(15){
+                    border-left-color: v.$pink;
+                }
+                &:nth-child(16){
+                    border-left-color: v.$green-dark;
+                }
+                &:nth-child(17){
+                    border-left-color: v.$orange;
+                }
+                &:nth-child(18){
+                    border-left-color: v.$gray-dark;
+                }
+                &:nth-child(19){
+                    border-left-color: v.$blue-light;
+                }
+                &:nth-child(20){
+                    border-left-color: v.$blue;
+                }
+                &:nth-child(21){
+                    border-left-color: v.$yellow;
+                }
+                &:nth-child(22){
+                    border-left-color: v.$green;
+                }
+                &:nth-child(23){
+                    border-left-color: v.$red;
+                }
+                &:nth-child(24){
+                    border-left-color: v.$pink;
+                }
+                &:nth-child(25){
+                    border-left-color: v.$green-dark;
+                }
+                &:nth-child(26){
+                    border-left-color: v.$orange;
+                }
+                &:nth-child(27){
+                    border-left-color: v.$gray-dark;
+                }
+                &:nth-child(28){
+                    border-left-color: v.$blue-light;
+                }
+                &:nth-child(29){
+                    border-left-color: v.$blue;
+                }
+                &:nth-child(30){
+                    border-left-color: v.$yellow;
+                }
+
             }
             &__icon{
                 position: absolute;

@@ -26,7 +26,7 @@
                 ]
             },
             "link": "/retail",
-            "image": "../build/img/app-retail.png",
+            "image": "../build/img/app-retail.webp",
             "background": "../build/img/retail.webp"
         },
         {
@@ -53,7 +53,7 @@
                 ]
             },
             "link": "/restaurant",
-            "image": "../build/img/app-restaurant.png",
+            "image": "../build/img/app-restaurant.webp",
             "background": "../build/img/restaurant.webp"
         },
         {
@@ -84,7 +84,7 @@
                 ]
             },
             "link": "/hairsalon",
-            "image": "../build/img/app-hairsalon.png",
+            "image": "../build/img/app-hairsalon.webp",
             "background": "../build/img/hairsalon.webp"
         },
         {
@@ -113,7 +113,7 @@
                 ]
             },
             "link": "/spa",
-            "image": "../build/img/app-spa.png",
+            "image": "../build/img/app-spa.webp",
             "background": "../build/img/spa.webp"
         },
         {
@@ -138,7 +138,7 @@
                 ]
             },
             "link": "/gym",
-            "image": "../build/img/app-gym.png",
+            "image": "../build/img/app-gym.webp",
             "background": "../build/img/gym.webp"
         },
         {
@@ -165,7 +165,7 @@
                 ]
             },
             "link": "/healthcare",
-            "image": "../build/img/app-healthcare.png",
+            "image": "../build/img/app-healthcare.webp",
             "background": "../build/img/healthcare.webp"
         },
         {
@@ -190,7 +190,7 @@
                 ]
             },
             "link": "/realestate",
-            "image": "../build/img/app-realestate.png",
+            "image": "../build/img/app-realestate.webp",
             "background": "../build/img/realestate.webp"
         },
         {
@@ -221,7 +221,7 @@
                 ]
             },
             "link": "/education",
-            "image": "../build/img/app-education.png",
+            "image": "../build/img/app-education.webp",
             "background": "../build/img/education.webp"
         },
         {
@@ -250,7 +250,7 @@
                 ]
             },
             "link": "/entertainment",
-            "image": "../build/img/app-entertainment.png",
+            "image": "../build/img/app-entertainment.webp",
             "background": "../build/img/entertainment.webp"
         },
         {
@@ -279,7 +279,7 @@
                 ]
             },
             "link": "/eventagency",
-            "image": "../build/img/app-eventagency.png",
+            "image": "../build/img/app-eventagency.webp",
             "background": "../build/img/eventagency.webp"
         },
         {
@@ -308,7 +308,7 @@
                 ]
             },
             "link": "/travelagency",
-            "image": "../build/img/app-travelagency.png",
+            "image": "../build/img/app-travelagency.webp",
             "background": "../build/img/travelagency.webp"
         },
         {
@@ -339,7 +339,7 @@
                 ]
             },
             "link": "/professionalservices",
-            "image": "../build/img/app-professionalservices.png",
+            "image": "../build/img/app-professionalservices.webp",
             "background": "../build/img/professionalservices.webp"
         },
         {
@@ -368,7 +368,7 @@
                 ]
             },
             "link": "/automotive",
-            "image": "../build/img/app-automotive.png",
+            "image": "../build/img/app-automotive.webp",
             "background": "../build/img/automotive.webp"
         },
         {
@@ -399,7 +399,7 @@
                 ]
             },
             "link": "/nonprofit",
-            "image": "../build/img/app-nonprofit.png",
+            "image": "../build/img/app-nonprofit.webp",
             "background": "../build/img/nonprofit.webp"
         },
         {
@@ -432,7 +432,7 @@
                 ]
             },
             "link": "/community",
-            "image": "../build/img/app-community.png",
+            "image": "../build/img/app-community.webp",
             "background": "../build/img/community.webp"
         }
     ]

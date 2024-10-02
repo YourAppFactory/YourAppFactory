@@ -15,7 +15,7 @@
         text-shadow: 0.1rem 0.1rem 0.5rem rgba(0, 0, 0, 0.7);
         font-size: 3.2rem;
         padding: 0 1rem;
-        margin-top: v.$header-height;
+        margin-top: 10.2rem;
         @include m.midscreen{
             font-size: 3.6rem;
         }
@@ -53,7 +53,7 @@
         box-sizing: border-box;
         @include m.maxlaptop {
             min-height: 62rem;
-            padding: v.$separate;
+            padding: v.$separate 2rem;
             padding-top: calc(v.$header-height + v.$separate);
         }
         @include m.laptop {
@@ -86,7 +86,9 @@
         &__title{
             font-size: 3rem;
             color: v.$white;
+            text-align: center;
             @include m.laptop {
+                text-align: left;
                 font-size: 3.6rem;
             }
             @include m.desktop-large {
@@ -117,10 +119,9 @@
         }
         &__list{
             margin-bottom: v.$separate;
-            list-style: outside;
+            list-style: inside;
             background-color: rgba(0, 0, 0, 0.5);
-            padding-top: 1rem;
-            padding-bottom: 1rem;
+            padding: 1rem;
             @include m.tablet {
                 margin-bottom: math.div(v.$separate, 2);
             }
@@ -141,10 +142,14 @@
             &:hover{
                 background-color: v.$blue-dark;
             }
+            @include m.maxtablet {
+                display: block;
+            }   
         }
         &__text{
             @include m.maxtablet {
                 width: 100%;
+                text-align: center;
             }
         }
     }
@@ -162,6 +167,9 @@
     border: none;
     background-color: rgba(0, 0, 0, 0.5);
     user-select: none;
+    @include m.maxlaptop {
+        font-size: 2.2rem;
+    }
 }
 
 .prev {
