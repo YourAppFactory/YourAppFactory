@@ -119,6 +119,14 @@
         "es": "Términos y condiciones",
         "en": "Terms and conditions"
     },
+    "footer_terms": {
+        "es": "Términos y condiciones",
+        "en": "Terms and conditions"
+    },
+    "footer_privacy": {
+        "es": "Política de privacidad",
+        "en": "Privacy policy"
+    },
     "footer_rights":{
         "es": "Todos los derechos reservados",
         "en": "All rights reserved"
@@ -129,7 +137,7 @@
     },
     "contact_title":{
         "es": "Contáctanos para una consulta gratuita y personalizada",
-        "en": "Contact us for a free tailored consultation"
+        "en": "Contact us for a Free Tailored Estimation"
     },
     "about_us_title":{
         "es": "Sobre nosotros",
@@ -384,5 +392,393 @@
     "marketing_text_yourappfactory-3":{
         "en": "If you want to know more about how a mobile app can transform your business, contact us! Follow us on our social media for more updates and share this article with anyone you think could benefit from it. Fill out our online form to learn more and find out how Your APP Factory can help you achieve your goals.",
         "es": "Si quieres saber más sobre cómo una aplicación móvil puede transformar tu negocio, ¡contáctanos! Síguenos en nuestras redes sociales para obtener más actualizaciones y comparte este artículo con cualquier persona que creas que podría beneficiarse de él. Completa nuestro formulario en línea para obtener más información y descubrir cómo Your APP Factory puede ayudarte a alcanzar tus objetivos."
+    },
+    "terms_title":{
+        "es": "Términos y condiciones",
+        "en": "Terms and conditions"
+    },
+    "terms_text_last-update":{
+        "es": "Última actualización: 1 de octubre de 2024",
+        "en": "Last update: October 1, 2024"
+    },
+    "terms_text-1":{
+        "es": "Bienvenido al sitio web de Your App Factory (yourappfactory.app). Al acceder a este sitio, aceptas estar sujeto a los siguientes Términos y Condiciones. Si no estás de acuerdo con alguna parte de estos Términos, debes dejar de utilizar el sitio inmediatamente.",
+        "en": "Welcome to the Your App Factory website (yourappfactory.app). By accessing this site, you agree to be bound by the following Terms and Conditions. If you do not agree with any part of these Terms, you must stop using the site immediately."
+    },
+    "terms_text-2":{
+        "es": "Por favor visita nuestra política de privacidad para entender como manejamos la información y tratamos tus datos personales.",
+        "en": "Please visit our privacy policy to understand how we handle information and treat your personal data."
+    },
+    "terms_subtitle-1":{
+        "es": "1. Nuestra Empresa",
+        "en": "1. Our Company"
+    },
+    "company_name-affordable":{
+        "es": "Affordable Professional Productions Factory LLC (operando como Your App Factory)",
+        "en": "Affordable Professional Productions Factory LLC (operating as Your App Factory)"
+    },
+    "terms_text-3":{
+        "es": "es una empresa comprometida con ofrecer soluciones tecnológicas avanzadas para pequeñas y medianas empresas. Nos especializamos en la creación de aplicaciones móviles personalizadas, páginas web, landing pages y funnels de ventas. Nuestro objetivo es optimizar la eficiencia y la rentabilidad de nuestros clientes mediante el uso de tecnología no-code y herramientas de marketing digital. Para más información, visita",
+        "en": "is a company committed to providing advanced technological solutions for small and medium-sized businesses. We specialize in creating custom mobile applications, websites, landing pages, and sales funnels. Our goal is to optimize the efficiency and profitability of our clients through the use of no-code technology and digital marketing tools. For more information, visit "
+    },
+    "terms_subtitle-2":{
+        "es": "2. Aceptación de los términos",
+        "en": "2. Acceptance of the terms"
+    },
+    "terms_text-4":{
+        "es": "Al utilizar nuestro sitio web, confirmas que has leído, entendido y aceptado estos Términos en su totalidad. Si no estás de acuerdo con alguna parte de estos Términos, debes dejar de usar el sitio de inmediato.",
+        "en": "By using our website, you confirm that you have read, understood, and accepted these Terms in their entirety. If you do not agree with any part of these Terms, you must stop using the site immediately."
+    },
+    "terms_text-5":{
+        "es": "Se recomienda revisar los términos periódicamente para mantenerse informado de cualquier modificación.",
+        "en": "It is recommended to review the terms periodically to stay informed of any modifications."
+    },
+    "terms_subtitle-3":{
+        "es": "3. Modificaciones a los términos",
+        "en": "3. Modifications to the terms"
+    },
+    "terms_text-6":{
+        "es": "La empresa se reserva el derecho de modificar estos Términos en cualquier momento. Cualquier cambio significativo será notificado a los usuarios mediante un aviso destacado en el sitio web o por correo electrónico. Las modificaciones serán efectivas una vez publicadas en la plataforma. Es responsabilidad del usuario revisar periódicamente los Términos.",
+        "en": "The company reserves the right to modify these Terms at any time. Any significant changes will be notified to users through a prominent notice on the website or by email. Modifications will be effective once published on the platform. It is the user's responsibility to periodically review the Terms."
+    },
+    "terms_subtitle-4":{
+        "es": "4. Precios y Servicios",
+        "en": "4. Prices and Services"
+    },
+    "terms_text-7":{
+        "es": "No tenemos precios fijos de lista ya que nuestros servicios son personalizados según las necesidades de cada cliente. Para solicitar una cotización, los clientes deben proporcionar sus datos en nuestra página de contacto. Luego, nuestro equipo se pondrá en contacto para agendar una cita, escuchar las necesidades del cliente y elaborar una propuesta de desarrollo de aplicaciones móviles. Nuestras promociones y/o descuentos no son acumulables para la misma oferta.",
+        "en": "We do not have fixed list prices as our services are customized according to the needs of each client. To request a quote, customers must provide their data on our contact page. Then, our team will contact you to schedule an appointment, listen to the customer's needs, and develop a proposal for mobile application development. Our promotions and/or discounts are not cumulative for the same offer."
+    },
+    "terms_subtitle-5":{
+        "es": "5. Nuestras Ofertas y Contratos de Servicios",
+        "en": "5. Our Offers and Service Contracts"
+    },
+    "terms_text-8":{
+        "es": "Una vez registrado el cliente, se le enviará una propuesta inicial. Cada propuesta tendrá una vigencia de 15 días calendario, aunque podrá ser modificada por acuerdo mutuo, en términos de funcionalidades, plazos, precios y formas de pago. Cada contrato formalizado será la fuente legal que regirá la relación entre ambas partes.",
+        "en": "Once the customer is registered, an initial proposal will be sent. Each proposal will have a validity of 15 calendar days, although it may be modified by mutual agreement, in terms of functionalities, deadlines, prices, and payment methods. Each formalized contract will be the legal source that will govern the relationship between both parties."
+    },
+    "terms_subtitle-6":{
+        "es": "6. Mobile Marketing",
+        "en": "6. Mobile Marketing"
+    },
+    "terms_text-9":{
+        "es": "Somos una empresa especialista en soluciones de tecnología móvil y Mobile Marketing, este es el proceso de dirigirse activamente a los usuarios a través de sus dispositivos móviles, generalmente como parte de una estrategia de marketing multicanal. En dispositivos móviles, los usuarios suelen estar en movimiento o navegando casualmente, mientras que, en un escritorio, suelen estar en un entorno más formal, como el trabajo, y realizan investigaciones más detalladas. El marketing móvil tiende a estar dirigido al consumidor final (B2C), mientras que en escritorio es más común el marketing entre empresas (B2B).",
+        "en": "We are a company specializing in mobile technology solutions and Mobile Marketing, this is the process of actively targeting users through their mobile devices, usually as part of a multichannel marketing strategy. On mobile devices, users are usually on the move or casually browsing, while on a desktop, they are usually in a more formal environment, such as work, and conduct more detailed research. Mobile marketing tends to be aimed at the end consumer (B2C), while desktop marketing is more common in business-to-business (B2B)."
+    },
+    "terms_text-10":{
+        "es": "Beneficios del Mobile Marketing:",
+        "en": "Benefits of Mobile Marketing:"
+    },
+    "terms_list-1":{
+        "es": "Da prestigio al negocio e impulsa las ventas.",
+        "en": "It gives prestige to the business and boosts sales."
+    },
+    "terms_list-2":{
+        "es": "Mejora de la experiencia del cliente y el compromiso (engagement).",
+        "en": "Improves customer experience and engagement."
+    },
+    "terms_list-3":{
+        "es": "Refuerza el conocimiento de la marca.",
+        "en": "Strengthens brand awareness."
+    },
+    "terms_list-4":{
+        "es": "Mejora la reputación online y las reseñas (Reviews).",
+        "en": "Improves online reputation and reviews."
+    },
+    "terms_list-5":{
+        "es": "Aumenta la presencia en redes sociales.",
+        "en": "Increases social media presence."
+    },
+    "terms_list-6":{
+        "es": "Facilita que los usuarios compartan su experiencia con terceros promoviendo la descarga de la aplicación móvil.",
+        "en": "Facilitates users to share their experience with third parties promoting the download of the mobile application."
+    },
+    "terms_list-7":{
+        "es": "Contribuye al crecimiento de la base de datos de clientes.",
+        "en": "Contributes to the growth of the customer database."
+    },
+    "terms_subtitle-7":{
+        "es": "7. Uso de las Aplicaciones",
+        "en": "7. Use of Applications"
+    },
+    "terms_text-11":{
+        "es": "Nuestros clientes son responsables de la gestión de sus aplicaciones móviles, de acuerdo con las leyes de privacidad, protección de datos y responsabilidad de la información, según las normativas vigentes en los Estados Unidos. Esto incluye, entre otras, la ",
+        "en": "Our clients are responsible for managing their mobile applications, in accordance with privacy laws, data protection, and information liability, according to current regulations in the United States. This includes, among others, the "
+    },
+    "terms_link-1":{
+        "es": "Ley de Protección al Consumidor de Telecomunicaciones (TCPA)",
+        "en": "Telecommunications Consumer Protection Act (TCPA)"
+    },
+    "terms_text-12":{
+        "es": " y la ",
+        "en": " and the "
+    },
+    "terms_link-2":{
+        "es": "Ley de Protección de la Privacidad en Línea de los Niños (COPPA)",
+        "en": "Children's Online Privacy Protection Act (COPPA)"
+    },
+    "terms_subtitle-8":{
+        "es": "8. Funciones de las Aplicaciones",
+        "en": "8. Application Functions"
+    },
+    "terms_text-13":{
+        "es": "Las funciones de las aplicaciones serán configuradas de acuerdo con las necesidades de cada negocio y sus objetivos estratégicos de marketing o comerciales. Cada aplicación es única y se personalizará en función de los requisitos del cliente. Nuestros clientes serán responsables del buen uso de dichas funciones, su configuración no podrá ser modificada una vez que se haya hecho por parte de la empresa.",
+        "en": "The functions of the applications will be configured according to the needs of each business and its strategic marketing or commercial objectives. Each application is unique and will be customized based on the client's requirements. Our clients will be responsible for the proper use of these functions, their configuration cannot be modified once it has been done by the company."
+    },
+    "terms_text-14":{
+        "es": "Una vez publicada una aplicación no podrá ser modificada, salvo solicitud de parte del cliente para lo cual se realizará un cálculo de los costes que se propondrán en un oferta.",
+        "en": "Once an application is published, it cannot be modified, except upon request from the client, for which a calculation of the costs will be made and proposed in an offer."
+    },
+    "terms_text-15":{
+        "es": "El costo del hosting de cada aplicación generará un cargo mensual que deberá ser pagado por el cliente. Dicho valor hará parte de nuestra propuesta de servicios.",
+        "en": "The cost of hosting for each application will generate a monthly charge that must be paid by the client. This value will be part of our service proposal."
+    },
+    "terms_subtitle-9":{
+        "es": "9. Integración con Servicios de Terceros",
+        "en": "9. Integration with Third-Party Services"
+    },
+    "terms_text-16":{
+        "es": "Para optimizar ciertas funcionalidades, nuestras aplicaciones se integran con plataformas de terceros. El cliente es responsable de proporcionar información precisa para las integraciones. Todos los costos adicionales derivados de estas integraciones serán facturados al cliente. La empresa se compromete a cumplir con las normativas aplicables y garantizar la seguridad y confidencialidad de la información proporcionada.",
+        "en": "To optimize certain functionalities, our applications are integrated with third-party platforms. The client is responsible for providing accurate information for integrations. All additional costs derived from these integrations will be billed to the client. The company undertakes to comply with applicable regulations and ensure the security and confidentiality of the information provided."
+    },
+    "terms_subtitle-10":{
+        "es": "10. Publicación en App Store y Google Play",
+        "en": "10. Publication in App Store and Google Play"
+    },
+    "terms_text-17":{
+        "es": "La empresa gestionará la publicación de las aplicaciones en App Store y Google Play en nombre del cliente. Los costos asociados con la creación y mantenimiento de cuentas de desarrollador serán responsabilidad del cliente. La aprobación de las aplicaciones está sujeta a las políticas de las plataformas. Marketplaces como Google Play y App Store pueden suspender el uso, descarga o actualización de una aplicación si se detecta mal uso o contenido que viole sus políticas. La empresa se reserva el derecho de suspender el servicio si el cliente incumple estos Términos, no paga el hosting o hace un uso indebido de la aplicación.",
+        "en": "The company will manage the publication of applications in the App Store and Google Play on behalf of the client. The costs associated with the creation and maintenance of developer accounts will be the responsibility of the client. The approval of applications is subject to the policies of the platforms. Marketplaces such as Google Play and App Store may suspend the use, download, or update of an application if misuse is detected or content that violates their policies. The company reserves the right to suspend the service if the client breaches these Terms, does not pay the hosting, or misuses the application."
+    },
+    "terms_subtitle-11":{
+        "es": "11. Integración de Métodos de Pago",
+        "en": "11. Payment Methods Integration"
+    },
+    "terms_text-18":{
+        "es": "La empresa ofrece la integración con plataformas de pago como PayPal, Stripe, y Braintree. Para ello, se requiere la configuración de accesos y claves seguras proporcionadas por el cliente. La empresa sigue los estándares de seguridad establecidos por el ",
+        "en": "The company offers integration with payment platforms such as PayPal, Stripe, and Braintree. To do this, the configuration of accesses and secure keys provided by the client is required. The company follows the security standards established by the "
+    },
+    "terms_link-3":{
+        "es": "Payment Card Industry Data Security Standard (PCI DSS) ",
+        "en": "Payment Card Industry Data Security Standard (PCI DSS) "
+    },
+    "terms_text-19":{
+        "es": "para garantizar la protección de la información sensible.",
+        "en": "to ensure the protection of sensitive information."
+    },
+    "terms_subtitle-12":{
+        "es": "12. Cuentas de Usuario",
+        "en": "12. User Accounts"
+    },
+    "terms_text-20":{
+        "es": "Los usuarios son responsables de mantener la confidencialidad de sus cuentas y contraseñas, así como de todas las actividades realizadas bajo sus credenciales. La empresa se reserva el derecho de monitorear, cancelar o crear cuentas de usuario según sea necesario.",
+        "en": "Users are responsible for maintaining the confidentiality of their accounts and passwords, as well as all activities carried out under their credentials. The company reserves the right to monitor, cancel, or create user accounts as needed."
+    },
+    "terms_subtitle-13":{
+        "es": "13. Propiedad Intelectual",
+        "en": "13. Intellectual Property"
+    },
+    "terms_text-21":{
+        "es": "Todo el contenido presente en el sitio web, incluidos logotipos, nombres comerciales, textos, imágenes y diseños, es propiedad exclusiva de Your App Factory o de sus licenciantes. Está prohibida la reproducción, distribución o modificación no autorizada de cualquier contenido del sitio sin el consentimiento expreso de la empresa.",
+        "en": "All content on the website, including logos, trade names, texts, images, and designs, is the exclusive property of Your App Factory or its licensors. Unauthorized reproduction, distribution, or modification of any content on the site is prohibited without the express consent of the company."
+    },
+    "terms_subtitle-14":{
+        "es": "14. Resolución de Disputas",
+        "en": "14. Dispute Resolution"
+    },
+    "terms_text-22":{
+        "es": "Cualquier disputa relacionada con estos Términos y Condiciones será resuelta mediante arbitraje en los Estados Unidos, de conformidad con las leyes del estado de Maryland",
+        "en": "Any dispute related to these Terms and Conditions will be resolved through arbitration in the United States, in accordance with the laws of the state of Maryland"
+    },
+    "terms_subtitle-15":{
+        "es": "15. Ley Aplicable",
+        "en": "15. Applicable Law"
+    },
+    "terms_text-23":{
+        "es": "Estos Términos se regirán por las leyes de los Estados Unidos, y cualquier disputa será sometida a la jurisdicción de los tribunales competentes en el estado de Maryland.",
+        "en": "These Terms will be governed by the laws of the United States, and any dispute will be submitted to the jurisdiction of the competent courts in the state of Maryland."
+    },
+    "terms_subtitle-16":{
+        "es": "16. Enlaces Externos",
+        "en": "16. External Links"
+    },
+    "terms_text-24":{
+        "es": "Nuestro sitio web puede contener enlaces a sitios web de terceros. Your App Factory no se hace responsable del contenido ni de las políticas de privacidad de dichos sitios.",
+        "en": "Our website may contain links to third-party websites. Your App Factory is not responsible for the content or privacy policies of such sites."
+    },
+    "terms_subtitle-17":{
+        "es": "17. Limitación de Responsabilidad",
+        "en": "17. Limitation of Liability"
+    },
+    "terms_text-25":{
+        "es": "No garantizamos que nuestro sitio web esté libre de errores o interrupciones. No seremos responsables de ningún daño derivado del uso o la imposibilidad de uso del sitio web o de las aplicaciones desarrolladas.",
+        "en": "We do not guarantee that our website is free from errors or interruptions. We will not be liable for any damage arising from the use or inability to use the website or the applications developed."
+    },
+    "terms_subtitle-18":{
+        "es": "18. Contacto",
+        "en": "18. Contact"
+    },
+    "terms_text-26":{
+        "es": "Si desea contactar los servicios de  nuestra empresa por favor vaya al formulario de contacto o envíe un correo electrónico a ",
+        "en": "If you would like to contact our company's services, please go to the contact form or send an email to "
+    },
+    "terms_text-27":{
+        "es": "info@yourappfactory.app ",
+        "en": "info@yourappfactory.app "
+    },
+    "terms_text-28":{
+        "es": "y con gusto atenderemos su contacto.",
+        "en": "and we will be happy to assist you."
+    },
+    "privacy_title":{
+        "es": "Política de Privacidad y Protección de Datos",
+        "en": "Privacy Policy and Data Protection"
+    },
+    "privacy_text_last-update":{
+        "es": "Última actualización: 1 de octubre de 2024",
+        "en": "Last update: October 1, 2024"
+    },
+    "privacy_text-1":{
+        "es": "En Your App Factory, estamos comprometidos con la protección de la privacidad y los datos personales de nuestros usuarios. Esta Política de Privacidad describe cómo recopilamos, utilizamos, almacenamos y protegemos la información proporcionada por nuestros usuarios al acceder a nuestra página web yourappfactory.app y nuestros servicios.",
+        "en": "At Your App Factory, we are committed to protecting the privacy and personal data of our users. This Privacy Policy describes how we collect, use, store, and protect the information provided by our users when accessing our website yourappfactory.app and our services."
+    },
+    "privacy_subtitle-1":{
+        "es": "1. Información Recopilada",
+        "en": "1. Information Collected"
+    },
+    "privacy_text-2":{
+        "es": "Recopilamos información personal que los usuarios proporcionan de manera voluntaria al interactuar con nuestro sitio web y servicios. Esta información incluye nombre, dirección de correo electrónico, número de teléfono, y otros detalles de contacto proporcionados a través de formularios. También recopilamos datos de navegación como dirección IP y tipo de navegador, utilizando herramientas de análisis. Toda esta información se maneja conforme a las normativas de protección de datos, incluyendo la ",
+        "en": "We collect personal information that users provide voluntarily when interacting with our website and services. This information includes name, email address, phone number, and other contact details provided through forms. We also collect browsing data such as IP address and browser type, using analytics tools. All this information is handled in accordance with data protection regulations, including the "
+    },
+    "privacy_link-1":{
+        "es": "Ley de Privacidad del Consumidor de California (CCPA), ",
+        "en": "California Consumer Privacy Act (CCPA), "
+    },
+    "privacy_text-3":{
+        "es": "y la ",
+        "en": "and the "
+    },
+    "privacy_link-2":{
+        "es": "Reglamento General de Protección de Datos (GDPR).",
+        "en": "General Data Protection Regulation (GDPR)."
+    },
+    "privacy_subtitle-2":{
+        "es": "2. Uso de la Información",
+        "en": "2. Use of Information"
+    },
+    "privacy_text-4":{
+        "es": "Utilizamos la información que recopilamos para los siguientes fines:",
+        "en": "We use the information we collect for the following purposes:"
+    },
+    "privacy_list-1":{
+        "es": "Procesar solicitudes de información o contacto realizadas a través de nuestro sitio web.",
+        "en": "Process information or contact requests made through our website."
+    },
+    "privacy_list-2":{
+        "es": "Mejorar la experiencia del usuario y optimizar nuestros servicios.",
+        "en": "Improve the user experience and optimize our services."
+    },
+    "privacy_list-3":{
+        "es": "Medir el tráfico del sitio web y analizar su rendimiento mediante herramientas de analítica como Google Analytics.",
+        "en": "Measure website traffic and analyze its performance using analytics tools such as Google Analytics."
+    },
+    "privacy_list-4":{
+        "es": "Enviar información relevante sobre productos y servicios, siempre que el usuario haya dado su consentimiento expreso.",
+        "en": "Send relevant information about products and services, provided that the user has given their express consent."
+    },
+    "privacy_list-5":{
+        "es": "Enviar comunicaciones relevantes solo con el consentimiento expreso del usuario, conforme a la CCPA y GDPR.",
+        "en": "Send relevant communications only with the express consent of the user, in accordance with the CCPA and GDPR."
+    },
+    "privacy_text-5":{
+        "es": "No compartimos la información personal de nuestros usuarios con terceros en ninguna circunstancia, salvo que exista una orden judicial o requerimiento de una autoridad competente.",
+        "en": "We do not share the personal information of our users with third parties under any circumstances, unless there is a court order or requirement from a competent authority."
+    },
+    "privacy_subtitle-3":{
+        "es": "3. Plataformas de CRM y Manejo de Datos",
+        "en": "3. CRM Platforms and Data Management"
+    },
+    "privacy_text-6":{
+        "es": "La información proporcionada a través de los formularios de contacto es gestionada mediante una plataforma de Customer Relationship Management (CRM). Esta plataforma nos permite administrar las comunicaciones con nuestros clientes de manera eficiente. La información contenida en la plataforma es privada y no será compartida con terceros en ninguna circunstancia. La información gestionada a través de plataformas de Customer Relationship Management (CRM) es privada y cumple con las normativas de protección de datos, como el GDPR y la CCPA. No será compartida con terceros sin autorización.",
+        "en": "The information provided through contact forms is managed through a Customer Relationship Management (CRM) platform. This platform allows us to manage communications with our clients efficiently. The information contained in the platform is private and will not be shared with third parties under any circumstances. The information managed through Customer Relationship Management (CRM) platforms is private and complies with data protection regulations, such as the GDPR and the CCPA. It will not be shared with third parties without authorization."
+    },
+    "privacy_subtitle-4":{
+        "es": "4. Cookies y Tecnologías Similares",
+        "en": "4. Cookies and Similar Technologies"
+    },
+    "privacy_text-7":{
+        "es": "Utilizamos cookies funcionales para el correcto funcionamiento del sitio web. Estas cookies permiten la navegación y el uso de funciones básicas del sitio.",
+        "en": "We use functional cookies for the proper functioning of the website. These cookies allow navigation and the use of basic site functions."
+    },
+    "privacy_list-6":{
+        "es": "No utilizamos cookies de terceros para rastrear a los usuarios con fines publicitarios.",
+        "en": "We do not use third-party cookies to track users for advertising purposes."
+    },
+    "privacy_list-7":{
+        "es": "No instalamos cookies de seguimiento bajo la justificación de 'interés legítimo' que rastreen la actividad del usuario en otros sitios.",
+        "en": "We do not install tracking cookies under the justification of 'legitimate interest' that track user activity on other sites."
+    },
+    "privacy_list-8":{
+        "es": "-Puedes configurar tu navegador para bloquear o eliminar cookies, aunque esto puede afectar la funcionalidad de algunas áreas de nuestro sitio web.",
+        "en": "-You can configure your browser to block or delete cookies, although this may affect the functionality of some areas of our website."
+    },
+    "privacy_subtitle-5":{
+        "es": "5. Herramientas de Analítica",
+        "en": "5. Analytics Tools"
+    },
+    "privacy_text-8":{
+        "es": "Utilizamos Google Analytics® y otras herramientas de analítica para recopilar información sobre el tráfico y la interacción de los usuarios con nuestro sitio web conforme a los estándares de anonimización de datos establecidos por la GDPR. Los datos recopilados son anónimos y se utilizan exclusivamente para mejorar el rendimiento del sitio. Estos datos no se comparten con terceros y no contienen información personal identificable.",
+        "en": "We use Google Analytics® and other analytics tools to collect information about traffic and user interaction with our website in accordance with the data anonymization standards established by the GDPR. The data collected is anonymous and is used exclusively to improve site performance. This data is not shared with third parties and does not contain personally identifiable information."
+    },
+    "privacy_subtitle-6":{
+        "es": "6. Protección de la Información",
+        "en": "6. Information Protection"
+    },
+    "privacy_text-9":{
+        "es": "Implementamos estrictas medidas de seguridad para proteger los datos personales de nuestros usuarios contra accesos no autorizados, alteraciones o pérdidas.",
+        "en": "We implement strict security measures to protect the personal data of our users against unauthorized access, alterations, or loss."
+    },
+    "privacy_text-10":{
+        "es": "Estas medidas garantizan que la información transferida a través de nuestro sitio esté encriptada y protegida durante su transmisión. No almacenamos datos de información financiera, como números de cuentas bancarias o tarjetas débito o crédito. En caso de que exista, la interacción de nuestros clientes con las plataformas de pago se hace directamente entre ellos y las plataformas de manera que nuestra web o sistemas no tienen interacción directa o indirecta con las transacciones.Implementamos medidas estrictas de seguridad, como el cifrado y el uso de certificados SSL de proveedores reconocidos. Esto asegura que los datos transferidos estén protegidos. No almacenamos datos financieros como números de tarjeta de crédito o cuentas bancarias. Las transacciones de pago se realizan directamente en plataformas seguras que cumplen con el ",
+        "en": "These measures ensure that the information transferred through our site is encrypted and protected during transmission. We do not store financial information, such as bank account numbers or debit or credit cards. In case it exists, the interaction of our clients with the payment platforms is done directly between them and the platforms so that our website or systems do not have direct or indirect interaction with the transactions. We implement strict security measures, such as encryption and the use of SSL certificates from recognized providers. This ensures that the transferred data is protected. We do not store financial data such as credit card numbers or bank accounts. Payment transactions are made directly on secure platforms that comply with the "
+    },
+    "privacy_link-3":{
+        "es": "Estándar de Seguridad de Datos de la Industria de Tarjetas de Pago (PCI DSS).",
+        "en": "Payment Card Industry Data Security Standard (PCI DSS)."
+    },
+    "privacy_subtitle-7":{
+        "es": "7. Período de Retención de Datos",
+        "en": "7. Data Retention Period"
+    },
+    "privacy_text-11":{
+        "es": "Retendremos la información personal de los usuarios durante un período de un año, salvo para los clientes activos, en cuyo caso la información será retenida mientras se mantenga la relación comercial. Una vez transcurrido dicho período, la información será eliminada de nuestros sistemas, salvo que exista una obligación legal que requiera su conservación. Esto se realiza conforme a la GDPR y la CCPA.",
+        "en": "We will retain the personal information of users for a period of one year, except for active clients, in which case the information will be retained as long as the business relationship is maintained. Once this period has elapsed, the information will be deleted from our systems, unless there is a legal obligation that requires its preservation. This is done in accordance with the GDPR and the CCPA."
+    },
+    "privacy_subtitle-8":{
+        "es": "8. Derechos de los Usuarios",
+        "en": "8. User Rights"
+    },
+    "privacy_text-12":{
+        "es": "Los usuarios tienen el derecho de acceder, corregir o eliminar su información personal en cualquier momento. Además, conforme a la GDPR y la CCPA, los usuarios pueden solicitar la portabilidad de sus datos o limitar su procesamiento.",
+        "en": "Users have the right to access, correct, or delete their personal information at any time. In addition, in accordance with the GDPR and the CCPA, users can request the portability of their data or limit its processing."
+    },
+    "privacy_text-13":{
+        "es": "Si deseas ejercer cualquiera de estos derechos, puedes contactarnos en info@youappfactory.app con el asunto ELIMINAR MI INFORMACIÓN y detallar que información requiere ser borrada, de no detallarse la información, será eliminada toda la información asociada con el correo electrónico relacionado.",
+        "en": "If you wish to exercise any of these rights, you can contact us at info@yourappfactory.com with the subject DELETE MY INFORMATION and detail what information needs to be deleted, if the information is not detailed, all information associated with the related email will be deleted."
+    },
+    "privacy_subtitle-9":{
+        "es": "9. Modificaciones a la Política de Privacidad",
+        "en": "9. Modifications to the Privacy Policy"
+    },
+    "privacy_text-14":{
+        "es": "Nos reservamos el derecho de modificar esta Política de Privacidad en cualquier momento, especialmente cuando sea necesario cumplir con nuevas normativas. Los cambios serán notificados a través del sitio web o por correo electrónico.",
+        "en": "We reserve the right to modify this Privacy Policy at any time, especially when it is necessary to comply with new regulations. Changes will be notified through the website or by email."
+    },
+    "privacy_subtitle-10":{
+        "es": "10. Jurisdicción",
+        "en": "10. Jurisdiction"
+    },
+    "privacy_text-15":{
+        "es": "Esta Política de Privacidad está sujeta a las leyes de los Estados Unidos y la Unión europea respecto del manejo de datos, seguridad y privacidad. Cualquier disputa que surja en relación con la privacidad será resuelta bajo la jurisdicción competente de acuerdo con la legislación aplicable.",
+        "en": "This Privacy Policy is subject to the laws of the United States and the European Union regarding data handling, security, and privacy. Any dispute arising in relation to privacy will be resolved under the competent jurisdiction in accordance with applicable law."
     }
 }

@@ -28,6 +28,8 @@ $router->get('/professionalservices', [PublicController::class, 'professionalser
 $router->get('/automotive', [PublicController::class, 'automotive']);
 $router->get('/nonprofit', [PublicController::class, 'nonprofit']);
 $router->get('/community', [PublicController::class, 'community']);
+$router->get('/terms', [PublicController::class, 'terms']);
+$router->get('/privacy', [PublicController::class, 'privacy']);
 //debugging($router);
 
 //APIs Main

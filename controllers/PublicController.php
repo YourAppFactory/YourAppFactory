@@ -132,4 +132,18 @@ class PublicController{
             'titulo' => $titulo
         ]);
     }
+
+    public static function terms(Router $router){
+        $titulo = "terms_title";
+        $router->render('/pages/terms',[
+            'titulo' => $titulo
+        ]);
+    }
+
+    public static function privacy(Router $router){
+        $titulo = "privacy_title";
+        $router->render('/pages/privacy',[
+            'titulo' => $titulo
+        ]);
+    }
 }

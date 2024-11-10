@@ -54,11 +54,15 @@ include_once __DIR__ .'/../templates/contact.php';
         </div>
     </div>
     <div class="footer__copy">
+        <a href="/terms" class="m-b-2">
+            <?php echo tt('footer_terms');?>
+        </a>
+        <a href="/privacy">
+            <?php echo tt('footer_privacy');?>
+        </a>
         <p>
-            <?php echo tt('footer_rights');?>
-        </p>
-        <p>
-           &copy; <?php echo date('Y');?>
+        <?php echo tt('footer_rights');?>
+        &copy; <?php echo date('Y');?>
         </p>
     </div>
 </footer>
