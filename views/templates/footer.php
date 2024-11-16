@@ -20,7 +20,7 @@ include_once __DIR__ .'/../templates/contact.php';
                             <?php echo tt('nav_link--login');?>
                         </li>
                     </a>
-                    <!-- <a class="footer__nav--link" href="/privacy">
+                    <a class="footer__nav--link" href="/privacy">
                         <li class="footer__nav--item">
                             <?php echo tt('nav_link--privacy');?>
                         </li>
@@ -29,7 +29,7 @@ include_once __DIR__ .'/../templates/contact.php';
                         <li class="footer__nav--item">
                             <?php echo tt('nav_link--terms');?>
                         </li>
-                    </a> -->
+                    </a>
                 </ul>
             </div>
         </div>
@@ -54,12 +54,6 @@ include_once __DIR__ .'/../templates/contact.php';
         </div>
     </div>
     <div class="footer__copy">
-        <a href="/terms" class="m-b-2">
-            <?php echo tt('footer_terms');?>
-        </a>
-        <a href="/privacy">
-            <?php echo tt('footer_privacy');?>
-        </a>
         <p>
         <?php echo tt('footer_rights');?>
         &copy; <?php echo date('Y');?>

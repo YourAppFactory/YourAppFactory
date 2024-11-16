@@ -3,7 +3,11 @@
 require_once __DIR__ . '/../includes/app.php';
 
 use MVC\Router;
+use Controllers\AuthController;
+use Controllers\AdminController;
 use Controllers\PublicController;
+use Controllers\BuilderController;
+use Controllers\CommercialController;
 use Controllers\PublicAPISController;
 
 $router = new Router();
@@ -36,5 +40,19 @@ $router->get('/privacy', [PublicController::class, 'privacy']);
 $router->get('/api/yourappfactory/main-slider', [PublicAPISController::class, 'getMainSlider']);
 $router->get('/api/yourappfactory/language', [PublicAPISController::class, 'getLanguage']);
 $router->get('/api/yourappfactory/content-services', [PublicAPISController::class, 'getServices']);
+
+//Auth
+$router->get('/login', [AuthController::class, 'login']);
+$router->post('/login', [AuthController::class, 'login']);
+$router->post('/logout', [AuthController::class, 'logout']);
+
+//superAdmin
+$router->get('/admin/dashboard', [AdminController::class, 'dashboard']);
+
+//builder
+$router->get('/builder/dashboard', [BuilderController::class, 'dashboard']);
+
+//commercial
+$router->get('/commercial/dashboard', [CommercialController::class, 'dashboard']);
 
 $router->checkRoutes();

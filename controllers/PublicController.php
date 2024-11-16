@@ -6,144 +6,144 @@ use MVC\Router;
 
 class PublicController{
     public static function index(Router $router){
-        $titulo = "home_title";
+        $title = "home_title";
         $home = true;
         $router->render('/pages/index',[
-            'titulo' => $titulo,
+            'title' => $title,
             'home' => $home
         ]);
     }
 
     public static function about(Router $router){
-        $titulo = "about_title";
+        $title = "about_title";
         $router->render('/pages/about',[
-            'titulo' => $titulo
+            'title' => $title
         ]);
     }
 
     public static function marketing(Router $router){
-        $titulo = "marketing_title";
+        $title = "marketing_title";
         $router->render('/pages/marketing',[
-            'titulo' => $titulo
+            'title' => $title
         ]);
     }
 
     public static function retail(Router $router){
-        $titulo = "retail_title";
+        $title = "retail_title";
         $router->render('/pages/services',[
-            'titulo' => $titulo
+            'title' => $title
         ]);
     }
 
     public static function restaurant(Router $router){
-        $titulo = "restaurant_title";
+        $title = "restaurant_title";
         $router->render('/pages/services',[
-            'titulo' => $titulo
+            'title' => $title
         ]);
     }
 
     public static function hairsalon(Router $router){
-        $titulo = "hairsalon_title";
+        $title = "hairsalon_title";
         $router->render('/pages/services',[
-            'titulo' => $titulo
+            'title' => $title
         ]);
     }
 
     public static function spa(Router $router){
-        $titulo = "spa_title";
+        $title = "spa_title";
         $router->render('/pages/services',[
-            'titulo' => $titulo
+            'title' => $title
         ]);
     }
 
     public static function gym(Router $router){
-        $titulo = "gym_title";
+        $title = "gym_title";
         $router->render('/pages/services',[
-            'titulo' => $titulo
+            'title' => $title
         ]);
     }
 
     public static function healthcare(Router $router){
-        $titulo = "healthcare_title";
+        $title = "healthcare_title";
         $router->render('/pages/services',[
-            'titulo' => $titulo
+            'title' => $title
         ]);
     }
 
     public static function realestate(Router $router){
-        $titulo = "realestate_title";
+        $title = "realestate_title";
         $router->render('/pages/services',[
-            'titulo' => $titulo
+            'title' => $title
         ]);
     }
 
     public static function education(Router $router){
-        $titulo = "education_title";
+        $title = "education_title";
         $router->render('/pages/services',[
-            'titulo' => $titulo
+            'title' => $title
         ]);
     }
 
     public static function entertainment(Router $router){
-        $titulo = "entertainment_title";
+        $title = "entertainment_title";
         $router->render('/pages/services',[
-            'titulo' => $titulo
+            'title' => $title
         ]);
     }
 
     public static function eventagency(Router $router){
-        $titulo = "eventagency_title";
+        $title = "eventagency_title";
         $router->render('/pages/services',[
-            'titulo' => $titulo
+            'title' => $title
         ]);
     }
 
     public static function travelagency(Router $router){
-        $titulo = "travelagency_title";
+        $title = "travelagency_title";
         $router->render('/pages/services',[
-            'titulo' => $titulo
+            'title' => $title
         ]);
     }
 
     public static function professionalservices(Router $router){
-        $titulo = "professionalservices_title";
+        $title = "professionalservices_title";
         $router->render('/pages/services',[
-            'titulo' => $titulo
+            'title' => $title
         ]);
     }
 
     public static function automotive(Router $router){
-        $titulo = "automotive_title";
+        $title = "automotive_title";
         $router->render('/pages/services',[
-            'titulo' => $titulo
+            'title' => $title
         ]);
     }
 
     public static function nonprofit(Router $router){
-        $titulo = "nonprofit_title";
+        $title = "nonprofit_title";
         $router->render('/pages/services',[
-            'titulo' => $titulo
+            'title' => $title
         ]);
     }
 
     public static function community(Router $router){
-        $titulo = "community_title";
+        $title = "community_title";
         $router->render('/pages/services',[
-            'titulo' => $titulo
+            'title' => $title
         ]);
     }
 
     public static function terms(Router $router){
-        $titulo = "terms_title";
+        $title = "terms_title";
         $router->render('/pages/terms',[
-            'titulo' => $titulo
+            'title' => $title
         ]);
     }
 
     public static function privacy(Router $router){
-        $titulo = "privacy_title";
+        $title = "privacy_title";
         $router->render('/pages/privacy',[
-            'titulo' => $titulo
+            'title' => $title
         ]);
     }
 }

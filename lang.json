@@ -780,5 +780,105 @@
     "privacy_text-15":{
         "es": "Esta Política de Privacidad está sujeta a las leyes de los Estados Unidos y la Unión europea respecto del manejo de datos, seguridad y privacidad. Cualquier disputa que surja en relación con la privacidad será resuelta bajo la jurisdicción competente de acuerdo con la legislación aplicable.",
         "en": "This Privacy Policy is subject to the laws of the United States and the European Union regarding data handling, security, and privacy. Any dispute arising in relation to privacy will be resolved under the competent jurisdiction in accordance with applicable law."
+    },
+    "auth_already_logged":{
+        "es": "Ya has iniciado sesión",
+        "en": "You are already logged in"
+    },
+    "auth_back_admin_btn":{
+        "es": "Volver al admin",
+        "en": "Back to admin page"
+    },
+    "auth_login_title":{
+        "es": "Iniciar sesión",
+        "en": "Log in"
+    },
+    "auth_login_email_label":{
+        "es": "Correo electrónico",
+        "en": "Email"
+    },
+    "auth_login_email_placeholder":{
+        "es": "Ingresa tu correo electrónico",
+        "en": "Enter your email"
+    },
+    "auth_login_password_label":{
+        "es": "Contraseña",
+        "en": "Password"
+    },
+    "auth_login_password_placeholder":{
+        "es": "Ingresa tu contraseña",
+        "en": "Enter your password"
+    },
+    "auth_login_submit_btn":{
+        "es": "Iniciar sesión",
+        "en": "Log in"
+    },
+    "auth_login_forgot_password":{
+        "es": "¿Olvidaste tu contraseña?",
+        "en": "Forgot your password?"
+    },
+    "auth_alert_email_required":{
+        "es": "El correo electrónico es requerido",
+        "en": "Email is required"
+    },
+    "auth_alert_email_invalid":{
+        "es": "El correo electrónico no es válido",
+        "en": "Email is not valid"
+    },
+    "auth_alert_password_required":{
+        "es": "La contraseña es requerida",
+        "en": "Password is required"
+    },
+    "auth_alert_name_required":{
+        "es": "El nombre es obligatorio",
+        "en": "Name is required"
+    },
+    "auth_alert_lastname_required":{
+        "es": "El apellido es obligatorio",
+        "en": "Lastname is required"
+    },
+    "auth_alert_password_match":{
+        "es": "Las contraseñas no coinciden",
+        "en": "Passwords do not match"
+    },
+    "auth_alert_password_weak":{
+        "es": "La contraseña debe tener al menos 8 caracteres, una letra mayúscula, una letra minúscula y un número",
+        "en": "Password must be at least 8 characters, one uppercase letter, one lowercase letter, and one number"
+    },
+    "auth_alert_password-old_required":{
+        "es": "La contraseña actual es requerida",
+        "en": "Current password is required"
+    },
+    "auth_alert_password_confirm_required":{
+        "es": "Confirmar la contraseña es obligatorio",
+        "en": "Confirm password is required"
+    },
+    "auth_alert_user-not-exist":{
+        "es": "El usuario no existe",
+        "en": "User does not exist"
+    },
+    "auth_alert_user-exist":{
+        "es": "El usuario ya existe",
+        "en": "User already exists"
+    },
+    "auth_alert_password_wrong":{
+        "es": "La contraseña es incorrecta",
+        "en": "Password is incorrect"
+    },
+    "admin_dashboard_title":{
+        "es": "Panel de control",
+        "en": "Dashboard"
+    },
+    "admin_users_title":{
+        "es": "Usuarios",
+        "en": "Users"
+    },
+    "admin_user_title":{
+        "es": "Usuario",
+        "en": "User"
+    },
+    "profile_title":{
+        "es": "Perfil",
+        "en": "Profile"
     }
 }
