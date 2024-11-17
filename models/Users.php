@@ -4,7 +4,7 @@ namespace Model;
 
 class Users extends ActiveRecord {
     protected static $table = 'users';
-    protected static $columnasDB = ['id', 'name', 'lastname', 'email', 'password'];
+    protected static $columnsDB = ['id', 'name', 'lastname', 'email', 'password'];
     
     public function __construct($args = [])
     {
@@ -57,21 +57,9 @@ class Users extends ActiveRecord {
         if(!$this->password) {
             self::$alerts['error'][] = 'auth_alert_password_required';
         }
-        if(!$this->password2) {
-            self::$alerts['error'][] = 'auth_alert_password_confirm-required';
-        }
         if($this->password !== $this->password2) {
             self::$alerts['error'][] = 'auth_alert_password_match';
         }
-        
-        $uppercase = preg_match('@[A-Z]@', $this->password);
-        $lowercase = preg_match('@[a-z]@', $this->password);
-        $number    = preg_match('@[0-9]@', $this->password);
-        
-        if(!$uppercase || !$lowercase || !$number) {
-            self::$alerts['error'][] = 'auth_alert_password-weak';
-        }
-
         return self::$alerts;
     }
 

@@ -235,17 +235,19 @@ class ActiveRecord{
         $attributes = $this->sanitizeAttributes();
 
         // Iterar para ir agregando cada campo de la BD
-        $valuees = [];
+        $values = [];
         foreach($attributes as $key => $value) {
-            $valuees[] = "{$key}='{$value}'";
+            $values[] = "{$key}='{$value}'";
         }
+        //debugging($attributes);
 
         // Consulta SQL
         $query = "UPDATE " . static::$table ." SET ";
-        $query .=  join(', ', $valuees );
+        $query .=  join(', ', $values );
         $query .= " WHERE id = '" . self::$db->escape_string($this->id) . "' ";
         $query .= " LIMIT 1 ";
 
+        //debugging($query);
         // Actualizar BD
         $result = self::$db->query($query);
         return $result;

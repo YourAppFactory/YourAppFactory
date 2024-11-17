@@ -92,7 +92,7 @@
     grid-template-columns: repeat($columns, 1fr);
 }
 
-@mixin boton($bgColor, $color, $display){
+@mixin button($bgColor, $color, $display){
     background-color: $bgColor;
     color: $color;
     font-weight: bold;

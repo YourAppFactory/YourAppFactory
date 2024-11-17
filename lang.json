@@ -23,6 +23,26 @@
         "es": "Contacto",
         "en": "Contact"
     },
+    "nav_hello":{
+        "es": "Hola,",
+        "en": "Hello,"
+    },
+    "nav_logout":{
+        "es": "Cerrar sesión",
+        "en": "Log out"
+    },
+    "sidebar_index":{
+        "es": "Inicio",
+        "en": "Home"
+    },
+    "sidebar_profile":{
+        "es": "Perfil",
+        "en": "Profile"
+    },
+    "sidebar_users":{
+        "es": "Usuarios",
+        "en": "Users"
+    },
     "about_title":{
         "es": "Nosotros",
         "en": "About us"
@@ -865,6 +885,10 @@
         "es": "La contraseña es incorrecta",
         "en": "Password is incorrect"
     },
+    "auth_alert_level_required":{
+        "es": "El rol es requerido",
+        "en": "Role is required"
+    },
     "admin_dashboard_title":{
         "es": "Panel de control",
         "en": "Dashboard"
@@ -877,8 +901,104 @@
         "es": "Usuario",
         "en": "User"
     },
+    "admin_users_total":{
+        "es": "Total de usuarios",
+        "en": "Total users"
+    },
+    "admin_role_select_default":{
+        "es": "Selecciona un rol",
+        "en": "Select a role"
+    },
+    "users_search_placeholder":{
+        "es": "Buscar usuarios",
+        "en": "Search users"
+    },
+    "users_new_submit_btn":{
+        "es": "Nuevo usuario",
+        "en": "New user"
+    },
+    "admin_new_user_title":{
+        "es": "Nuevo usuario",
+        "en": "New user"
+    },
+    "admin_edit_user_title":{
+        "es": "Editar usuario",
+        "en": "Edit user"
+    },
+    "admin_users_back_btn":{
+        "es": "Volver a usuarios",
+        "en": "Back to users"
+    },
+    "admin_users_new_legend":{
+        "es": "Crear nuevo usuario",
+        "en": "Create new user"
+    },
+    "admin_users_edit_legend":{
+        "es": "Editar usuario",
+        "en": "Edit user"
+    },
+    "admin_users_name_label":{
+        "es": "Nombre",
+        "en": "Name"
+    },
+    "admin_users_lastname_label":{
+        "es": "Apellido",
+        "en": "Lastname"
+    },
+    "admin_users_email_label":{
+        "es": "Correo electrónico",
+        "en": "Email"
+    },
+    "admin_users_password_label":{
+        "es": "Contraseña",
+        "en": "Password"
+    },
+    "admin_users_password_confirm_label":{
+        "es": "Confirmar contraseña",
+        "en": "Confirm password"
+    },
+    "admin_users_role_label":{
+        "es": "Rol",
+        "en": "Role"
+    },
+    "admin_users_submit_btn":{
+        "es": "Guardar",
+        "en": "Save"
+    },
     "profile_title":{
         "es": "Perfil",
         "en": "Profile"
+    },
+    "profile_name_label":{
+        "es": "Nombre",
+        "en": "Name"
+    },
+    "profile_lastname_label":{
+        "es": "Apellido",
+        "en": "Lastname"
+    },
+    "profile_email_label":{
+        "es": "Correo electrónico",
+        "en": "Email"
+    },
+    "profile_password_label":{
+        "es": "Contraseña",
+        "en": "Password"
+    },
+    "profile_password_confirm_label":{
+        "es": "Confirmar contraseña",
+        "en": "Confirm password"
+    },
+    "update_btn":{
+        "es": "Actualizar",
+        "en": "Update"
+    },
+    "profile_alert-profile-updated":{
+        "es": "Perfil actualizado",
+        "en": "Profile updated"
+    },
+    "profile_alert-profile-error":{
+        "es": "Error al actualizar el perfil",
+        "en": "Error updating profile"
     }
 }

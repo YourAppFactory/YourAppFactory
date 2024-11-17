@@ -1,8 +1,9 @@
-import { banner, selectLang, slidesContainer } from "./selectors.js";
+import { banner, gridUsers, passbtn, selectLang, slidesContainer } from "./selectors.js";
 import { chooseLang } from "./language.js";
 import { fetchSlides } from "./slider.js";
-import { menuResponsive } from "./UI.js";
+import { menuResponsive, showPassword } from "./UI.js";
 import { fetchServices } from "./services.js";
+import { consultUsers } from "./users.js";
 
 class App {
     constructor() {
@@ -18,6 +19,12 @@ class App {
         }
         if(banner){
             fetchServices();
+        }
+        if(passbtn){
+            showPassword();
+        }
+        if(gridUsers){
+            consultUsers();
         }
         menuResponsive();
     }

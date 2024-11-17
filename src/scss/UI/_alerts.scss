@@ -6,20 +6,21 @@
     padding: 0.5rem 1rem;
     text-transform: uppercase;
     margin: 0.8rem auto;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     font-weight: v.$bold;
     border-radius: 1rem;
     width: 100%;
+    background-color: v.$white;
     &__error{
         @extend .alert;
-        border: 0.2rem solid lighten(v.$red, 5);
-        color: lighten(v.$red, 5);
+        border: 0.2rem solid darken(v.$red , 10);
+        color: darken(v.$red, 10);
     }
 
     &__success{
         @extend .alert;
-        border: 0.2rem solid lighten(v.$green, 10);
-        color: lighten(v.$green, 10);
+        border: 0.2rem solid darken(v.$green, 25%);
+        color: darken(v.$green, 25%);
     }
 }
 

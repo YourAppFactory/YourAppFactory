@@ -17,4 +17,13 @@ class PublicAPISController{
         $services = file_get_contents(__DIR__.'/../final_business_types.json');
         echo $services;
     }
+
+    public static function alerts(){
+        //leer el archivo de alerts.json
+        $archivo = file_get_contents(__DIR__.'/../alerts.json');
+        //convertir el json a un arreglo asociativo
+        $archivo = json_decode($archivo, true);
+
+        echo json_encode($archivo);
+    }
 }

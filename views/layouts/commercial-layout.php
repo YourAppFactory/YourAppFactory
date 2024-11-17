@@ -14,9 +14,9 @@
     <body>
 
         <?php
-            include_once __DIR__ .'/../templates/header-commercial.php';
+            include_once __DIR__ .'/../templates/header-dashboard.php';
             echo $content;
-            include_once __DIR__ .'/../templates/footer-admin.php'; 
+            include_once __DIR__ .'/../templates/footer-dashboard.php'; 
         ?>
 
     <script type="module" src="/build/js/app.js"></script>

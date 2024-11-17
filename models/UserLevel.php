@@ -12,4 +12,11 @@ class UserLevel extends ActiveRecord {
         $this->id_user = $args['id_user'] ?? '';
         $this->id_level = $args['id_level'] ?? '';
     }
+
+    public function validateLevel() {
+        if(!$this->id_level) {
+            self::$alerts['error'][] = 'auth_alert_level_required';
+        }
+        return self::$alerts;
+    }
 }

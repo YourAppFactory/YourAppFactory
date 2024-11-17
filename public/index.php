@@ -40,6 +40,7 @@ $router->get('/privacy', [PublicController::class, 'privacy']);
 $router->get('/api/yourappfactory/main-slider', [PublicAPISController::class, 'getMainSlider']);
 $router->get('/api/yourappfactory/language', [PublicAPISController::class, 'getLanguage']);
 $router->get('/api/yourappfactory/content-services', [PublicAPISController::class, 'getServices']);
+$router->get('/api/yourappfactory/alerts', [PublicAPISController::class, 'alerts']);
 
 //Auth
 $router->get('/login', [AuthController::class, 'login']);
@@ -48,6 +49,15 @@ $router->post('/logout', [AuthController::class, 'logout']);
 
 //superAdmin
 $router->get('/admin/dashboard', [AdminController::class, 'dashboard']);
+$router->get('/admin/users', [AdminController::class, 'users']);
+$router->get('/admin/api/consult-users', [AdminController::class, 'consultUsers']);
+$router->get('/admin/users/new', [AdminController::class, 'newUser']);
+$router->post('/admin/users/new', [AdminController::class, 'newUser']);
+$router->get('/admin/users/edit', [AdminController::class, 'editUser']);
+$router->post('/admin/users/edit', [AdminController::class, 'editUser']);
+$router->get('/admin/user', [AdminController::class, 'user']);
+$router->get('/admin/profile', [AdminController::class, 'profile']);
+$router->post('/admin/profile', [AdminController::class, 'profile']);
 
 //builder
 $router->get('/builder/dashboard', [BuilderController::class, 'dashboard']);

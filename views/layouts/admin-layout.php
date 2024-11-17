@@ -14,11 +14,20 @@
     <body>
 
         <?php
-            include_once __DIR__ .'/../templates/header-admin.php';
-            echo $content;
-            include_once __DIR__ .'/../templates/footer-admin.php'; 
+            include_once __DIR__ .'/../templates/loading-screen.php';
+            include_once __DIR__ .'/../templates/header-dashboard.php';
         ?>
+            <div class="dashboard__grid">
+            <?php
+                include_once __DIR__ .'/../templates/admin-sidebar.php'; 
+            ?>
 
+            <main class="dashboard__contenido">
+                <?php 
+                    echo $content; 
+                ?> 
+            </main>
+        </div>
     <script type="module" src="/build/js/app.js"></script>
     
         <?php

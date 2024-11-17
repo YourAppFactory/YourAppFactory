@@ -1,0 +1,22 @@
+{
+    "delete_item":{
+      "es": "¿Estás seguro que deseas eliminar este elemento?",
+      "en": "Are you sure you want to delete this item?"
+    },
+    "delete_confirmation":{
+      "es": "Esta acción no se puede deshacer",
+      "en": "This action cannot be undone"
+    },
+    "delete":{
+      "es": "Eliminar",
+      "en": "Delete"
+    },
+    "cancel":{
+      "es": "Cancelar",
+      "en": "Cancel"
+    },
+    "see-more":{
+      "es": "Ver más",
+      "en": "See more"
+    }
+}
