@@ -9,13 +9,15 @@
     background-color: v.$back-white;
     &__title{
         position: absolute;
-        color: lighten(v.$blue, 40%);
+        color: transparent;
         width: 100%;
         text-align: center;
-        text-shadow: 0.1rem 0.1rem 0.5rem rgba(0, 0, 0, 0.7);
         font-size: 3.2rem;
         padding: 0 1rem;
         margin-top: 10.2rem;
+        background-image: linear-gradient(45deg, v.$blue-light 25%,  v.$green 85%);
+        background-size: 100%;
+        background-clip: text;
         @include m.midscreen{
             font-size: 3.6rem;
         }
