@@ -29,7 +29,7 @@
             {%admin_role_select_default%}
         </option>
         <?php foreach ($levels as $role): ?>
-            <option value="<?php echo $role->id; ?>">
+            <option value="<?php echo $role->id; ?>" <?php echo ($userRole === $role->id) ? 'selected' :'' ?>>
                 <?php echo $role->level; ?>
             </option>
         <?php endforeach; ?>

@@ -1,0 +1,189 @@
+@use 'sass:math';
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+
+.loadingScreen{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.93);
+    position: fixed;
+    cursor: progress;
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
+      
+
+.loader {
+    width: 2rem;
+    height: 2rem;
+    box-shadow: 0 3rem, 0 -3rem;
+    border-radius: 0.4rem;
+    background: currentColor;
+    display: block;
+    margin: -5rem auto 0;
+    position: relative;
+    color: v.$white;
+    transform: translate(-3rem, -2rem);
+    box-sizing: border-box;
+    animation: animloader 2s ease infinite;
+}
+.loader::after,
+.loader::before {
+content: '';  
+box-sizing: border-box;
+width: 2rem;
+height: 2rem;
+box-shadow: 0 3rem, 0 -3rem;
+border-radius: 0.4rem;
+background: currentColor;
+color: v.$white;
+position: absolute;
+left: 3rem;
+top: 0;
+animation: animloader 2s 0.2s ease infinite;
+}
+.loader::before {
+    animation-delay: 0.4s;
+    left: 6rem;
+}
+
+@keyframes animloader {
+    0% {
+        top: 0;
+        color: v.$blue;
+    }
+    25% {
+        top: 3rem;
+        color: v.$green;
+    }
+    50% {
+        top: 3rem;
+        color: v.$pink;
+    }
+    100% {
+        top: 0;
+        color: v.$blue;
+    }
+}
+
+.loader-text{
+    transform: translateY(70%);
+    &__wrapper{
+        margin: 0;
+        padding: 0;
+        font-weight: 700;
+        transform: translateY(-65%);
+        letter-spacing: -0.15rem;
+        display: flex;
+        & p {
+            color: v.$blue;
+            position: relative;
+            top: 0;  
+            display: inline-block; 
+            opacity: 0;
+            transform: rotateX(-90deg);
+            font-size: 3.6rem;
+        }
+    }
+}
+
+.let1 {
+    animation: drop 0.6s ease-in-out infinite;
+    animation-delay: 0.6s;
+}
+
+.let2 {
+    animation: drop 0.6s ease-in-out infinite;
+    animation-delay: 0.7s;
+}
+
+.let3 {
+    animation: drop 0.6s ease-in-out infinite;
+    animation-delay: 0.8s;
+}
+
+.let4 {
+    animation: drop 0.6s ease-in-out infinite;
+    animation-delay: 0.9s;
+
+}
+
+.let5 {
+    animation: drop 0.6s ease-in-out infinite;
+    animation-delay: 1s;
+}
+
+.let6 {
+    animation: drop 0.6s ease-in-out infinite;
+    animation-delay: 1.1s;
+}
+
+.let7 {
+    animation: drop 0.6s ease-in-out infinite;
+    animation-delay: 1.2s;
+}
+
+.let8 {
+    animation: drop 0.6s ease-in-out infinite;
+    animation-delay: 1.3s;
+}
+
+.let9 {
+    animation: drop 0.6s ease-in-out infinite;
+    animation-delay: 1.4s;
+}
+
+.let10 {
+    animation: drop 0.6s ease-in-out infinite;
+    animation-delay: 1.5s;
+}
+
+.let11 {
+    animation: drop 0.6s ease-in-out infinite;
+    animation-delay: 1.6s;
+}
+
+.let12 {
+    animation: drop 0.6s ease-in-out infinite;
+    animation-delay: 1.7s;
+}
+
+.let13 {
+    animation: drop 0.6s ease-in-out infinite;
+    animation-delay: 1.8s;
+}
+
+.let14 {
+    animation: drop 0.6s ease-in-out infinite;
+    animation-delay: 1.9s;
+}
+
+@keyframes drop {
+    10% {
+        opacity: 0.5;
+    }
+    20% {
+        opacity: 1;
+        top: 1.78em;
+        transform: rotateX(-360deg);
+    }
+    80% {
+        opacity: 1;
+        top: 1.78em;
+        transform: rotateX(-360deg);
+    }
+    90% {
+        opacity: 0.5;
+    }
+    100% {
+        opacity: 0;
+        top: 2.94em
+    }
+}
+

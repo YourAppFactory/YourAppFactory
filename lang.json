@@ -917,6 +917,14 @@
         "es": "Nuevo usuario",
         "en": "New user"
     },
+    "user_alert-user-updated":{
+        "es": "Usuario actualizado",
+        "en": "User updated"
+    },
+    "user_alert-user-error":{
+        "es": "Error al actualizar el usuario",
+        "en": "Error updating user"
+    },
     "admin_new_user_title":{
         "es": "Nuevo usuario",
         "en": "New user"

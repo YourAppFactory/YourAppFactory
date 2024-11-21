@@ -12,7 +12,8 @@ export async function consultUsers(){
 }
 export async function showUsers(data){
     data.forEach(user => {
-        const {id, name, lastname, email, role} = user;
+        const {id, name, lastname, email, level} = user;
+        console.log(user);
 
         //generar el link para la artist
         const userLink = document.createElement('A');
@@ -27,15 +28,15 @@ export async function showUsers(data){
 
         const cardName = document.createElement('P');
         cardName.textContent = name+' '+lastname;
-        cardName.classList.add('cards__text', 'cards__text--span', 'text-green', 'text-24');
+        cardName.classList.add('cards__text', 'cards__text--span', 'text-24');
 
         const cardEmail = document.createElement('P');
         cardEmail.textContent = email;
-        cardEmail.classList.add('cards__text', 'text-20', 'text-yellow');
+        cardEmail.classList.add('cards__text', 'text-20');
 
         const cardRole = document.createElement('P');
-        cardRole.textContent = role;
-        cardRole.classList.add('cards__text');
+        cardRole.textContent = level;
+        cardRole.classList.add('cards__text', 'text-pink', 'bold');
 
 
         cardInfo.appendChild(cardName);
@@ -47,7 +48,7 @@ export async function showUsers(data){
 
         const btnEdit = document.createElement('A');
         btnEdit.classList.add('btn-update');
-        btnEdit.href = window.location.origin+'/admin/user/edit?id='+id;
+        btnEdit.href = window.location.origin+'/admin/users/edit?id='+id;
 
         const iconoLapiz = document.createElement('I');
         iconoLapiz.classList.add('fas', 'fa-pencil-alt', 'no-click');
@@ -58,8 +59,8 @@ export async function showUsers(data){
         btnDelete.classList.add('btn-delete');
         btnDelete.id = 'eliminar';
         btnDelete.value = id;
-        btnDelete.dataset.item = 'albums';
-        btnDelete.dataset.role = 'music';
+        btnDelete.dataset.item = 'users';
+        btnDelete.dataset.role = 'admin';
         btnDelete.onclick = deleteItem;
 
         const iconEliminar = document.createElement('I');

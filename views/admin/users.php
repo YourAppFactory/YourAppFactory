@@ -2,7 +2,7 @@
     <h1>{%admin_users_title%}</h1>
     <div class="dashboard__total">
         <p><span>{%admin_users_total%}: </span>
-            <?php echo count($users); ?>
+            <?php echo count($users) - 1; ?>
         </p>
 
         <div class="dashboard__search">

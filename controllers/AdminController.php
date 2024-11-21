@@ -3,8 +3,9 @@
 namespace Controllers;
 
 use MVC\Router;
-use Model\Level;
+use Model\Role;
 use Model\Users;
+use Model\UsersRole;
 use Model\UserLevel;
 
 class AdminController {
@@ -29,7 +30,14 @@ class AdminController {
     public static function consultUsers(Router $router){
         isAdmin();
         $title = "admin_users_title";
-        $users = Users::allOrderBy('name');
+        $id = $_SESSION['id'];
+        $consult = "SELECT u.id, u.name, u.lastname, u.email, r.level 
+        FROM users u
+        LEFT JOIN user_level ul ON u.id = ul.id_user
+        LEFT JOIN role r ON ul.id_level = r.id
+        WHERE u.id != $id
+        ORDER BY name;";
+        $users = UsersRole::consultSQl($consult);
         
         echo json_encode($users);
     }
@@ -39,7 +47,8 @@ class AdminController {
         $title = "admin_new_user_title";
         $user = new Users;
         $alerts = [];
-        $levels = Level::all();
+        $levels = Role::all();
+        $userRole = 0;
 
         if($_SERVER['REQUEST_METHOD'] === 'POST'){
             $args = $_POST;
@@ -63,7 +72,8 @@ class AdminController {
             'title' => $title,
             'alerts' => $alerts,
             'user' => $user,
-            'levels' => $levels
+            'levels' => $levels,
+            'userRole' => $userRole
         ]);
     }
 
@@ -72,25 +82,59 @@ class AdminController {
         $title = "admin_edit_user_title";
         $alerts = [];
         $user = Users::find($_GET['id']);
+        $role = UserLevel::where('id_user',$user->id);
+        $levels = Role::all();
+        $userRole = $role->id_level;
+
         if($_SERVER['REQUEST_METHOD'] === 'POST'){
             $args = $_POST;
+            
+            if($args['password'] === '' && $args['password2'] === ''){
+                $args['password'] = $user->password;
+                $args['password2'] = $user->password;
+            }
             $user->sincronize($args);
-            $alerts = $user->validate();
+            $alerts = $user->validatePassword();
+
+            $role->id_level = $_POST['role'];
             if(empty($alerts)){
-                $result = $user->save();
-                if($result){
-                    Users::setAlert('success','user_alert-user-updated');
-                } else {
-                    Users::setAlert('error','user_alert-user-error');
+                if($_POST['password'] !== ''){
+                    $user->password = password_hash($args['password'],PASSWORD_BCRYPT);
+                }       
+                unset($user->password2);
+
+                $alerts = $user->validate();
+                if(empty($alerts)){
+                    $result = $user->save();
+                    $role->save();
+                    if($result){
+                        Users::setAlert('success','user_alert-user-updated');
+                    } else {
+                        Users::setAlert('error','user_alert-user-error');
+                    }
+                    $alerts = Users::getAlerts();
+                    header('Location: /admin/users');
                 }
-                $alerts = Users::getAlerts();
             }
         }
         $router->render('/admin/edit',[
             'title' => $title,
             'alerts' => $alerts,
-            'user' => $user
+            'user' => $user,
+            'levels' => $levels,
+            'userRole' => $userRole
         ]);
+    }
+
+    public static function deleteUser(){
+        isAdmin();
+        $id = s($_GET['id']);
+        $id = filter_var($id, FILTER_VALIDATE_INT);
+        $user = Users::find($id);
+        $result = $user->delete();
+        if($result){
+            header('Location: /admin/users');
+        }
     }
 
     public static function user(Router $router){
@@ -109,16 +153,18 @@ class AdminController {
         $alerts = [];
         if($_SERVER['REQUEST_METHOD'] === 'POST'){
             $args = $_POST;
+            
             if($args['password'] === '' && $args['password2'] === ''){
                 $args['password'] = $user->password;
                 $args['password2'] = $user->password;
             }
-
             $user->sincronize($args);
             $alerts = $user->validatePassword();
 
             if(empty($alerts)){
-                $user->password = password_hash($args['password'],PASSWORD_BCRYPT);
+                if($_POST['password'] !== ''){
+                    $user->password = password_hash($args['password'],PASSWORD_BCRYPT);
+                }
                 unset($user->password2);
 
                 $alerts = $user->validate();

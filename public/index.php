@@ -55,6 +55,7 @@ $router->get('/admin/users/new', [AdminController::class, 'newUser']);
 $router->post('/admin/users/new', [AdminController::class, 'newUser']);
 $router->get('/admin/users/edit', [AdminController::class, 'editUser']);
 $router->post('/admin/users/edit', [AdminController::class, 'editUser']);
+$router->get('/admin/users/delete', [AdminController::class, 'deleteUser']);
 $router->get('/admin/user', [AdminController::class, 'user']);
 $router->get('/admin/profile', [AdminController::class, 'profile']);
 $router->post('/admin/profile', [AdminController::class, 'profile']);

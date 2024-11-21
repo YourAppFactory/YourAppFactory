@@ -2,54 +2,8 @@
 @use 'base/variables' as v;
 @use 'base/mixins' as m;
 
-.alert {
-    padding: 0.5rem 1rem;
-    text-transform: uppercase;
-    margin: 0.8rem auto;
-    font-size: 1.4rem;
-    font-weight: v.$bold;
-    border-radius: 1rem;
-    width: 50%;
-    background-color: v.$white;
-    &__error{
-        @extend .alert;
-        border: 0.2rem solid darken(v.$red , 10);
-        color: darken(v.$red, 10);
-    }
-
-    &__success{
-        @extend .alert;
-        border: 0.2rem solid darken(v.$green, 25%);
-        color: darken(v.$green, 25%);
-    }
-}
-
-.dashboard .alert{
-    margin: 0;
-    padding: 0.5rem 1rem;
-    font-size: 1.2rem;
-    text-align: center;
-    @include m.desktop{
-        max-width: 100%;
-    }
-    &__error{
-        @extend .alert;
-        border: 0.2rem solid lighten(v.$red, 5);
-        color: lighten(v.$red, 5);
-        margin-bottom: 0.5rem;
-    }
-
-    &__success{
-        @extend .alert;
-        border: 0.2rem solid lighten(v.$green, 10);
-        color: lighten(v.$green, 10);
-        margin-bottom: 0.5rem;
-    }
-
-}
-
 .modal-alert{
-    background-color: v.$gray;
+    background-color: v.$white;
     box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
     border-radius: 1rem;
     width: auto;
@@ -88,7 +42,7 @@
         font-weight: v.$regular;
     }
 
-    &__paragraph{
+    &__text{
         margin:0;
     }
 
@@ -98,7 +52,7 @@
         margin-top: 3rem;
     }
 
-    &__button{
+    &__btn{
         background-color: darken(v.$red, 10);
         color: #FFFFFF;
         font-weight: bold;
@@ -118,6 +72,8 @@
         &--cancel{
             background-color: darken(v.$blue, 30%);
             color: v.$white;
+            min-width: 11rem;
+            min-height: 4rem;
             &:hover{
                 background-color: v.$blue;
                 color: #FFFFFF;

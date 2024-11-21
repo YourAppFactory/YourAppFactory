@@ -189,43 +189,47 @@
 }
 
 .text-yellow{
-    color: v.$yellow;
+    color: v.$yellow !important;
 }
 
 .text-green{
-    color: v.$green;
+    color: v.$green !important;
+}
+
+.text-green-dark{
+    color: v.$green-dark !important;
 }
 
 .text-blue{
-    color: v.$blue;
+    color: v.$blue !important;
 }
 
 .text-blue-light{
-    color: v.$blue-light;
+    color: v.$blue-light !important;
 }
 
 .text-blue-dark{
-    color: v.$blue-dark;
+    color: v.$blue-dark !important;
 }
 
 .text-white{
-    color: v.$white;
+    color: v.$white !important;
 }
 
 .text-black{
-    color: v.$black;
+    color: v.$black !important;
 }
 
 .text-gray{
-    color: v.$gray;
+    color: v.$gray !important;
 }
 
 .text-pink{
-    color: v.$pink;
+    color: v.$pink !important;
 }
 
 .text-orange{
-    color: v.$orange;
+    color: v.$orange !important;
 }
 
 .text-20{
@@ -389,4 +393,8 @@
 
 .w-100{
     width: 100%;
+}
+
+.deleteModal{
+    @include m.modal(v.$gray-dark, 3rem, 90%, 40%, 0.2rem, v.$blue, solid);
 }

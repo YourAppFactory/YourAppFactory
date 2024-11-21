@@ -35,28 +35,28 @@ export async function deleteItem(e){
         dashboardContent.classList.add('overlay');
 
         const alertContainer = document.createElement('div');
-        alertContainer.classList.add('modal-alerta--activo');
+        alertContainer.classList.add('modal-alert--active');
 
         const alertDiv = document.createElement('DIV');
-        alertDiv.classList.add('modal-alerta');
+        alertDiv.classList.add('modal-alert');
 
         const alertIcon = document.createElement('I');
-        alertIcon.classList.add('fa-solid', 'fa-circle-exclamation', 'modal-alerta__icono');
+        alertIcon.classList.add('fa-solid', 'fa-circle-exclamation', 'modal-alert__icon');
 
         const alertTitle = document.createElement('H3');
-        alertTitle.classList.add('modal-alerta__titulo');
+        alertTitle.classList.add('modal-alert__title');
         alertTitle.textContent = alerts['delete_item'][lang];
 
         const alertText = document.createElement('P');
-        alertText.classList.add('modal-alerta__parrafo');
+        alertText.classList.add('modal-alert__text');
         alertText.textContent = alerts['delete_confirmation'][lang];
 
         const alertButtons = document.createElement('DIV');
-        alertButtons.classList.add('modal-alerta__botones');
+        alertButtons.classList.add('modal-alert__buttons');
 
         const alertCancelButton = document.createElement('BUTTON');
-        alertCancelButton.classList.add('modal-alerta__boton', 'modal-alerta__boton--cancelar');
-        alertCancelButton.textContent = 'Cancelar';
+        alertCancelButton.classList.add('modal-alert__btn', 'modal-alert__btn--cancel');
+        alertCancelButton.textContent = alerts['cancel'][lang];
         alertCancelButton.onclick = closeAlert;
 
         const btnClose = document.createElement('button');
@@ -109,8 +109,29 @@ export function loader(button){
     }
 }
 
+//set the loader on page load
+export function loaderPage() {
+    // Show the loading screen immediately
+    const loadingScreen = document.getElementById('loadingScreen');
+    loadingScreen.style.display = 'flex';
+
+    // Hide the loading screen once the window is fully loaded
+    window.addEventListener('load', () => {
+        setTimeout(() => {
+            loadingScreen.style.display = 'none';
+        }, 1800); // Hide loader after 1.8 seconds
+    });
+
+    // Fallback: Hide the loading screen after 3 seconds, even if 'load' event hasn't fired
+    setTimeout(() => {
+        loadingScreen.style.display = 'none';
+    }, 3000);
+}
+
+
+
 export function closeAlert(){
-    const alert = document.querySelector('.modal-alerta--activo');
+    const alert = document.querySelector('.modal-alert--active');
     if(alert){
         alert.remove();
     }

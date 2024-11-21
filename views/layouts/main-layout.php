@@ -24,6 +24,7 @@
     <body>
 
         <?php
+            include_once __DIR__ .'/../templates/loading-screen.php';
             include_once __DIR__ .'/../templates/header.php';
             echo $content; 
             include_once __DIR__ .'/../templates/footer.php'; 

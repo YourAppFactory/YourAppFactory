@@ -4,6 +4,7 @@ import { fetchSlides } from "./slider.js";
 import { menuResponsive, showPassword } from "./UI.js";
 import { fetchServices } from "./services.js";
 import { consultUsers } from "./users.js";
+import { loaderPage } from "../base/functions.js";
 
 class App {
     constructor() {
@@ -27,6 +28,7 @@ class App {
             consultUsers();
         }
         menuResponsive();
+        loaderPage();
     }
 }
 
