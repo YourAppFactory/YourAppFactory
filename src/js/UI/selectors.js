@@ -1,6 +1,7 @@
 //dashboard
 export const dashboardContent = document.querySelector('.dashboard__contenido');
 export const body = document.querySelector('body');
+export const loader = document.getElementById('loadingScreen');
 
 //Lang
 export const selectLang = document.querySelector('#language');

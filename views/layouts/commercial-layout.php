@@ -14,7 +14,6 @@
     <body>
 
         <?php
-            include_once __DIR__ .'/../templates/loading-screen.php';
             include_once __DIR__ .'/../templates/header-dashboard.php';
             echo $content;
             include_once __DIR__ .'/../templates/footer-dashboard.php'; 

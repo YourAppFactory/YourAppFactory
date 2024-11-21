@@ -1008,5 +1008,82 @@
     "profile_alert-profile-error":{
         "es": "Error al actualizar el perfil",
         "en": "Error updating profile"
+    },
+    "learning-lounge_title":{
+        "es": "Learning Lounge",
+        "en": "Learning Lounge"
+    },
+    "builder_creation_app_title":{
+        "es": "Creación de Apps",
+        "en": "App Creation"
+    },
+    "builder_creation_app_text":{
+        "en": "Create Mobile Applications without programming, for any type of business and in a matter of minutes.",
+        "es": "Crea Aplicaciones Móviles sin programar, para cualquier tipo de negocio y en cuestión de minutos."
+    },
+    "builder_creation_funnels_title":{
+        "en": "Funnels and Pages Creation",
+        "es": "Creación de Funnels y Páginas"
+    },
+    "builder_creation_funnels_text":{
+        "en": "Create and manage all kinds of Pages, Online Stores and Sales Funnels by simply dragging and dropping elements with our user-friendly builder." ,
+        "es": "Crea y gestiona todo tipo de Páginas, Tiendas Online y Funnels de Ventas simplemente arrastrando y soltando elementos con nuestro constructor amigable."
+    },
+    "builder_back_btn_dashboard":{
+        "en": "Back to Dashboard",
+        "es": "Volver al Panel de Control"
+    },
+    "builder_back_btn_app-creation":{
+        "en": "Back to App Creation",
+        "es": "Volver a Creación de Apps"
+    },
+    "builder_creation_section_title-1":{
+        "en": "Examples and Step by Step Guides",
+        "es": "Ejemplos y Guías Paso a Paso"
+    },
+    "builder_creation_section_title-2":{
+        "en": "App Features",
+        "es": "Funcionalidades de la App"
+    },
+    "builder_creation_section_title-3":{
+        "en": "Publishing Apps",
+        "es": "Publicación de Apps"
+    },
+    "builder_creation_section_item-1":{
+        "en": "Create an App for gyms or fitness trainers",
+        "es": "Crea una App para gimnasios o entrenadores de fitness"
+    },
+    "builder_creation_section_item-2":{
+        "en": "Create an App for Courses",
+        "es": "Crea una App para Cursos"
+    },
+    "builder_creation_section_item-3":{
+        "en": "How to create ANY KIND of App",
+        "es": "Cómo crear CUALQUIER TIPO de App"
+    },
+    "builder_creation_section_item-4":{
+        "en": "Create an App for a store",
+        "es": "Crea una App para una tienda"
+    },
+    "builder_creation_section_item-5":{
+        "en": "How to build an App for a Restaurant",
+        "es": "Cómo construir una App para un Restaurante"
+    },
+    "builder_creation_section_item-6":{
+        "en": "Create an App for a Service based business (Clinics, Gyms ...)",
+        "es": "Crea una App para un negocio basado en servicios (Clínicas, Gimnasios...)"
+    },
+    "builder_creation_section_item-7":{
+        "en": "How to build an App for Events",
+        "es": "Cómo construir una App para Eventos"
+    },
+    "builder_creation_section_item-8":{
+        "en": "How to build a Directory App",
+        "es": "Cómo construir una App de Directorio"
+    },
+    "builder_creation_section_item-9":{
+        "en": "How to create an App for Attendance",
+        "es": "Cómo crear una App para Asistencia"
     }
+
 }

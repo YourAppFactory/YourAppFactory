@@ -130,6 +130,23 @@
     } 
 }
 
+@mixin card-lounge {
+    &{
+        box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+        background-color: v.$white;
+        border-left: 2rem solid v.$blue;
+        padding: 2rem;
+        border-radius: v.$border-radius;
+        @include tablet{
+            padding: v.$separate;
+        }
+    }
+    &:hover{
+        border-left: 2rem solid v.$green;
+        cursor: pointer;
+    }
+}
+
 @mixin modal($background-color, $padding, $width, $width-tablet, $border-width, $border-color, $border-style){
     position: absolute;
     background-color: rgba(0,0,0,0.7);

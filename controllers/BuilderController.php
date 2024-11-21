@@ -12,4 +12,36 @@ class BuilderController {
             'title' => $title
         ]);
     }
+
+    public static function apps(Router $router){
+        isBuilder();
+        $title = "builder_creation_app_title";
+        $router->render('/builder/apps',[
+            'title' => $title
+        ]);
+    }
+
+    public static function guides(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-1";
+        $router->render('/builder/guides/index',[
+            'title' => $title
+        ]);
+    }
+
+    public static function features(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/index',[
+            'title' => $title
+        ]);
+    }
+
+    public static function publishing(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-3";
+        $router->render('/builder/publishing/index',[
+            'title' => $title
+        ]);
+    }
 }

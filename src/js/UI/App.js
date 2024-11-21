@@ -1,4 +1,4 @@
-import { banner, gridUsers, passbtn, selectLang, slidesContainer } from "./selectors.js";
+import { banner, gridUsers, passbtn, selectLang, slidesContainer, loader } from "./selectors.js";
 import { chooseLang } from "./language.js";
 import { fetchSlides } from "./slider.js";
 import { menuResponsive, showPassword } from "./UI.js";
@@ -27,8 +27,11 @@ class App {
         if(gridUsers){
             consultUsers();
         }
+        if(loader){
+            loaderPage();
+        }
         menuResponsive();
-        loaderPage();
+        
     }
 }
 

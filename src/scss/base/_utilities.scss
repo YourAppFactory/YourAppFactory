@@ -188,6 +188,10 @@
     width: 100%;
 }
 
+.m-auto{
+    margin: auto;
+}
+
 .text-yellow{
     color: v.$yellow !important;
 }
@@ -232,6 +236,16 @@
     color: v.$orange !important;
 }
 
+.text-gradient{
+    color: transparent !important;
+    background: linear-gradient(90deg, v.$blue , v.$green);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 100%;
+    width: fit-content;
+}
+
 .text-20{
     font-size: 1.4rem !important;
     @include m.tablet{
@@ -249,6 +263,26 @@
     }
     @include m.desktop{
         font-size: 2.4rem !important;
+    }
+}
+
+.text-40{
+    font-size: 2.4rem !important;
+    @include m.tablet{
+        font-size: 3rem !important;
+    }
+    @include m.desktop{
+        font-size: 4rem !important;
+    }
+}
+
+.text-50{
+    font-size: 3rem !important;
+    @include m.tablet{
+        font-size: 4rem !important;
+    }
+    @include m.desktop{
+        font-size: 5rem !important;
     }
 }
 

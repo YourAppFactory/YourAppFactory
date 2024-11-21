@@ -62,6 +62,10 @@ $router->post('/admin/profile', [AdminController::class, 'profile']);
 
 //builder
 $router->get('/builder/dashboard', [BuilderController::class, 'dashboard']);
+$router->get('/builder/apps', [BuilderController::class, 'apps']);
+$router->get('/builder/apps/guides', [BuilderController::class, 'guides']);
+$router->get('/builder/apps/features', [BuilderController::class, 'features']);
+$router->get('/builder/apps/publishing', [BuilderController::class, 'publishing']);
 
 //commercial
 $router->get('/commercial/dashboard', [CommercialController::class, 'dashboard']);
