@@ -25,10 +25,10 @@
                 transform: scale(1.05) rotate(2deg);
                 transition: transform 0.2s;
             }
-            &:hover > .builder__card__image{
+            &:hover > .builder__grid__card__image{
                 filter: hue-rotate(-90deg) drop-shadow(0.2rem 0.4rem 0.5rem rgba(0, 0, 0, 0.9));
             }
-            &:hover > .builder__card__title{
+            &:hover > .builder__grid__card__title{
                 color: v.$green;
             }
             &__image{
@@ -60,9 +60,10 @@
                 align-items: center;
                 gap: 3rem;
                 width: 100%;
-                padding: 2.5rem;
+                padding: 1.5rem;
                 @include m.tablet{
                     width: 70%;
+                    padding: 2.5rem;
                 }
             }
             &:hover{
@@ -83,7 +84,11 @@
         &__title{
             color: v.$black !important;
             font-weight: v.$regular;
-            font-size: 2.4rem;
+            font-size: 1.8rem;
+            margin: 0;
+            @include m.tablet{
+                font-size: 2.4rem;
+            }
         }
     }
 }
