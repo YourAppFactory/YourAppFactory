@@ -28,3 +28,7 @@ export const serviceList = document.querySelector('.banner__service__list');
 //users
 export const usersInput = document.querySelector('#users-search');
 export const gridUsers = document.querySelector('#grid-users');
+
+//promo
+export const promoContainer = document.querySelector('.modal-promo--active');
+export const promoClose = document.querySelectorAll('.modal-btn');

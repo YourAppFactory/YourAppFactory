@@ -22,4 +22,10 @@
                 <?php echo tt('sidebar_users');?>
             </span>
         </a>
+        <a href="/admin/promos" class="dashboard__enlace <?php admin_page('promos');?>">
+            <i class="fa-solid fa-gift dashboard__icono"></i>
+            <span class="dashboard__menu-texto">
+                <?php echo tt('sidebar_promo');?>
+            </span>
+        </a>
 </aside>

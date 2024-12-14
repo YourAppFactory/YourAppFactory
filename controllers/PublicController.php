@@ -3,14 +3,17 @@
 namespace Controllers;
 
 use MVC\Router;
+use Model\Promo;
 
 class PublicController{
     public static function index(Router $router){
         $title = "home_title";
         $home = true;
+        $promo = Promo::find(1);
         $router->render('/pages/index',[
             'title' => $title,
-            'home' => $home
+            'home' => $home,
+            'promo' => $promo
         ]);
     }
 

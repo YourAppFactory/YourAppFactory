@@ -1,3 +1,8 @@
+<?php
+    if($promo->status === '1'){
+        @include_once __DIR__.'/../templates/promo.php';
+    }
+?>
 <main>
     <div class="slider">
         <h1 class="slider__title">{%slider_main_title%}</h1>        

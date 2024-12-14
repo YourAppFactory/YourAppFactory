@@ -43,6 +43,10 @@
         "es": "Usuarios",
         "en": "Users"
     },
+    "sidebar_promo":{
+        "es": "Promos",
+        "en": "Promos"
+    },
     "about_title":{
         "es": "Nosotros",
         "en": "About us"
@@ -909,6 +913,22 @@
         "es": "Selecciona un rol",
         "en": "Select a role"
     },
+    "admin_promos_title":{
+        "en": "Current promo",
+        "es": "Promoción actual"
+    },
+    "admin_promos_subtitle":{
+        "en": "Promo for Desktop",
+        "es": "Promo para escritorio"
+    },
+    "admin_promos_subtitle_mobile":{
+        "en": "Promo for Mobile",
+        "es": "Promo para móvil"
+    },
+    "admin_edit_promo_title":{
+        "en": "Edit Promo",
+        "es": "Editar Promo"
+    },
     "users_search_placeholder":{
         "es": "Buscar usuarios",
         "en": "Search users"
@@ -1084,6 +1104,53 @@
     "builder_creation_section_item-9":{
         "en": "How to create an App for Attendance",
         "es": "Cómo crear una App para Asistencia"
+    },
+    "promo_contact_btn":{
+        "en": "I want it!",
+        "es": "¡Lo quiero!"
+    },
+    "promo_close_btn":{
+        "en": "Close",
+        "es": "Cerrar"
+    },
+    "active":{
+        "es": "Activo",
+        "en": "Active"
+    },
+    "inactive":{
+        "es": "Inactivo",
+        "en": "Inactive"
+    },
+    "edit":{
+        "es": "Editar",
+        "en": "Edit"
+    },
+    "activate":{
+        "es": "Activar",
+        "en": "Activate"
+    },
+    "deactivate":{
+        "es": "Desactivar",
+        "en": "Deactivate"
+    },
+    "promo_alert-promo-updated":{
+        "es": "Promoción actualizada",
+        "en": "Promo updated"
+    },
+    "promo_alert-promo-error":{
+        "es": "Error al actualizar la promoción",
+        "en": "Error updating promo"
+    },
+    "promo_desktop_label":{
+        "es": "Promoción para escritorio",
+        "en": "Promo for Desktop"
+    },
+    "promo_mobile_label":{
+        "es": "Promoción para móvil",
+        "en": "Promo for Mobile"
+    },
+    "promo_submit_btn":{
+        "es": "Guardar",
+        "en": "Save"
     }
-
 }

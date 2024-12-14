@@ -1,4 +1,4 @@
-import { menu, mobileMenu, btnMenu, passbtn } from './selectors.js';
+import { menu, mobileMenu, btnMenu, passbtn, promoClose, promoContainer } from './selectors.js';
 
 export function menuResponsive(){
     if(mobileMenu){
@@ -26,4 +26,14 @@ export function showPassword(){
             }
         });
     });
+}
+
+export function closePromo(){
+    if(promoClose){
+        promoClose.forEach(btn => {
+            btn.addEventListener('click', () => {
+                promoContainer.remove();
+            });
+        });
+    }
 }

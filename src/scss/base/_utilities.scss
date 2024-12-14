@@ -334,6 +334,18 @@
     background-color: v.$orange;
 }
 
+.border-pink{
+    border: 0.2rem solid v.$pink;
+    border-radius: 1rem;
+    padding: 1rem 2rem;
+}
+
+.border-gray{
+    border: 0.2rem solid v.$gray;
+    border-radius: 1rem;
+    padding: 1rem 2rem;
+}
+
 .caps{
     text-transform: capitalize;
 }
@@ -352,6 +364,11 @@
 .overlay{
     overflow: hidden !important;
     overflow-y: hidden !important;
+}
+
+.block{
+    display: block;
+    width: 100%;
 }
 
 .flex{
@@ -384,6 +401,18 @@
 .block{
     display: block;
     width: 100%;
+}
+
+.align-center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    @include m.tablet{
+        gap: 5rem;
+        flex-direction: row;
+    }
 }
 
 .deleteModal{
@@ -431,4 +460,8 @@
 
 .deleteModal{
     @include m.modal(v.$gray-dark, 3rem, 90%, 40%, 0.2rem, v.$blue, solid);
+}
+
+.img-250{
+    width: 25rem;
 }

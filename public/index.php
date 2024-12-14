@@ -59,6 +59,10 @@ $router->get('/admin/users/delete', [AdminController::class, 'deleteUser']);
 $router->get('/admin/user', [AdminController::class, 'user']);
 $router->get('/admin/profile', [AdminController::class, 'profile']);
 $router->post('/admin/profile', [AdminController::class, 'profile']);
+$router->get('/admin/promos', [AdminController::class, 'promos']);
+$router->post('/admin/promos', [AdminController::class, 'promos']);
+$router->get('/admin/promos/edit', [AdminController::class, 'editPromo']);
+$router->post('/admin/promos/edit', [AdminController::class, 'editPromo']);
 
 //builder
 $router->get('/builder/dashboard', [BuilderController::class, 'dashboard']);
