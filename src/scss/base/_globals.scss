@@ -25,11 +25,16 @@ body {
     }
 }
 
-p, ul li {
+p, ul li, ol li {
     font-size: 1.4rem;
+    line-height: 1.6;
     @include m.tablet{
         font-size: 1.8rem;
     }
+}
+
+ol li:not(:last-child), ul li:not(:last-child){
+    margin-bottom: 0.3rem;
 }
 
 .container {
@@ -37,6 +42,20 @@ p, ul li {
     margin: 2.5rem auto;
     @include m.tablet{
         margin: 5rem auto;
+    }
+    &--form{
+        width: 95%;
+        max-width: 50rem;
+        margin: 0 auto;
+        padding: 2rem;
+        @include m.tablet{
+            padding: 3rem;
+            width: 50%;
+            max-width: 75rem;
+        }
+        & .alert{
+            width: 100%;
+        }
     }
 }
 
@@ -72,16 +91,16 @@ h1 {
         font-size: 3rem;
     }
     @include m.desktop-large{
-        font-size: 3.4rem;
+        font-size: 3.6rem;
     }
     @include m.ultra-wide{
-        font-size: 3.8rem;
+        font-size: 4rem;
     }
 }
-h2, h3 {
-    font-size: 1.6rem;
+h2{
+    font-size:2rem;
     @include m.phone{
-        font-size: 2rem;
+        font-size: 2.2rem;
     }
     @include m.tablet{
         font-size: 2.4rem;
@@ -90,10 +109,29 @@ h2, h3 {
         font-size: 2.8rem;
     }
     @include m.desktop-large{
-        font-size: 3.2rem;
+        font-size: 3rem;
     }
     @include m.ultra-wide{
-        font-size: 3.4rem;
+        font-size: 3.6rem;
+    }
+}
+
+h3{
+    font-size: 1.8rem;
+    @include m.phone{
+        font-size: 2rem;
+    }
+    @include m.tablet{
+        font-size: 2.2rem;
+    }
+    @include m.desktop{
+        font-size: 2.4rem;
+    }
+    @include m.desktop-large{
+        font-size: 2.6rem;
+    }
+    @include m.ultra-wide{
+        font-size: 3rem;
     }
 }
 

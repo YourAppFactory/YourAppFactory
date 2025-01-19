@@ -8,7 +8,7 @@ $font-primary: 'Roboto', sans-serif;
 $font-secondary: 'Lato', sans-serif;
 
 // Tamaño de Media Queries
-$phone: 380px;
+$phone: 400px;
 $midscreen: 565px;
 $tablet: 950px;
 $laptop: 1024px;
@@ -24,13 +24,14 @@ $gray: #5e5e5e;
 $gray-light: #c5c5c5;
 $gray-dark: #353535;
 $blue:#116FB5;
-$blue-light: #60C0C5;
+$blue-light: #7efdfd;
 $blue-dark: #151A2E;
 $yellow: #F39C3D;
 $pink: #CD214F;
-$green: #A6C84E;
+$green: #90c706;
+$green-light: #A6C84E;
 $green-dark: #117E37;
-$orange: #ED7827;
+$orange: #ed5f27;
 $red: #ff3939;
 
 //Sombra Neomorphic
@@ -50,3 +51,6 @@ $ultrabold: 800;
 // Borders
 $border-radius: 1rem;
 $border-tabs: 0.2rem solid $white;
+
+// header
+$header-height: 12.2rem;

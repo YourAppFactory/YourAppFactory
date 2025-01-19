@@ -61,32 +61,30 @@ function admin_page($path){
 }
 
 function isAdmin() : void {
-    if(!isset($_SESSION['level_admin'])){
-        header('Location: /');
-    }
-}
-
-
-
-function isCommercial() : void {
-    if(!isset($_SESSION['level_commercial'])){
+    if(($_SESSION['userLevel'] !== '1')){
         header('Location: /');
     }
 }
 
 function isBuilder() : void {
-    if(!isset($_SESSION['level_builder'])){
+    if(($_SESSION['userLevel'] !== '2')){
+        header('Location: /');
+    }
+}
+
+function isCommercial() : void {
+    if(($_SESSION['userLevel'] !== '3')){
         header('Location: /');
     }
 }
 
 //Compueba si el usuario está logueado y redirige a su dashboard
 function sessionActive() : void {
-    if(isset($_SESSION['level_admin'])){
+    if($_SESSION['userLevel'] === '1'){
         echo '/admin/dashboard';
-    } elseif(isset($_SESSION['level_commercial'])){
+    } elseif($_SESSION['userLevel'] === '2'){
         echo '/builder/dashboard';
-    } elseif(isset($_SESSION['level_builder'])){
+    } elseif($_SESSION['userLevel'] === '3'){
         echo '/builder/dashboard';
     } else{
         echo '/';

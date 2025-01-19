@@ -1,4 +1,4 @@
-<header class="header">
+<header class="header <?php echo !isset($home) ? 'header--regular' : ''?>">
     <div class="header__bar">
         <a class="header__logo--link" href="/">
             <img class="header__logo" src="/build/img/logo.png" alt="Logo">
@@ -12,30 +12,41 @@
                 </div>
             </div>
            
-           <nav class="header__nav">
+            <nav class="header__nav">
                 <ul class="header__nav--ul">
-                <li class="header__nav--item">
-                        <a class="header__nav--link" href="/">
-                            <?php echo tt('nav_link--home');?>
-                        </a>
-                    </li>
-                    <li class="header__nav--item">
-                        <a class="header__nav--link" href="/about">
-                            <?php echo tt('nav_link--about');?>
-                        </a>
-                    </li>
-                    <li class="header__nav--item">
-                        <a class="header__nav--link" href="/marketing">
-                            <?php echo tt('nav_link--business');?>
-                        </a>
-                    </li>
-                    <li class="header__nav--item">
-                        <a class="header__nav--link" href="/contact">
-                            <?php echo tt('nav_link--contact');?>
-                        </a>
-                    </li>
+                    <a class="header__nav--link" href="/">
+                        <li class="header__nav--item">
+                                <?php echo tt('nav_link--home');?>
+                        </li>
+                    </a>
+                    <a class="header__nav--link" href="/about">
+                        <li class="header__nav--item">
+                                <?php echo tt('nav_link--about');?>
+                        </li>
+                    </a>
+                    <a class="header__nav--link" href="/#yourBusiness">
+                        <li class="header__nav--item">
+                                <?php echo tt('nav_link--business');?>
+                        </li>
+                    </a>
+                    <a class="header__nav--link" href="/marketing">
+                        <li class="header__nav--item">
+                                <?php echo tt('nav_link--marketing');?>
+                        </li>
+                    </a>
+                    <a class="header__nav--link" href="#contact">
+                        <li class="header__nav--item">
+                                <?php echo tt('nav_link--contact');?>
+                        </li>
+                    </a>
                 </ul>
             </nav>
+            <div class="header__nav--mobile only--tablet">
+                <i class="fa fa-bars pointer" id="btnMenu"></i>
+            </div>
         </div>
     </div>
+    <a href="https://wa.me/12028679694" class="btn-whatsapp" target="_blank">
+        <i class="fab fa-whatsapp"></i>
+    </a>
 </header>

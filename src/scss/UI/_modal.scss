@@ -1,0 +1,196 @@
+@use 'sass:math';
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+.modal-alert{
+    background-color: v.$white;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    border-radius: 1rem;
+    width: auto;
+    height: auto;
+    padding: 3rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 11;
+
+    &__icon{
+        font-size: 8rem;
+        color: v.$yellow;
+        animation: transform 3s ease-in-out infinite;
+
+        @keyframes transform{
+            0%{
+                transform: rotateY(360deg);
+            }
+            50%{
+                transform: scale(0deg);
+            }
+            100%{
+                transform: scale(360deg);
+            }
+        }
+    }
+
+    &__title{
+        margin: 1rem auto;
+        font-weight: v.$regular;
+    }
+
+    &__text{
+        margin:0;
+    }
+
+    &__buttons{
+        display: flex;
+        gap: 7rem;
+        margin-top: 3rem;
+    }
+
+    &__btn{
+        background-color: darken(v.$red, 10);
+        color: #FFFFFF;
+        font-weight: bold;
+        text-decoration: none;
+        padding: 1rem 1.5rem;
+        text-align: center;
+        display: block;
+        border: none;
+        margin-bottom: 1.2rem;
+        border-radius: 1rem;
+        transition: transform .2s ease;
+        &:hover{
+            transform: scale(1.03);
+            cursor: pointer;
+            background-color: v.$red;
+        }
+        &--cancel{
+            background-color: darken(v.$blue, 30%);
+            color: v.$white;
+            min-width: 11rem;
+            min-height: 4rem;
+            &:hover{
+                background-color: v.$blue;
+                color: #FFFFFF;
+            }
+        }
+    }
+    &--active{
+        background-color: rgba(0, 0, 0, 0.7);
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;     
+    } 
+}
+
+.modal-promo{
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    border-radius: 1rem;
+    width: auto;
+    height: auto;
+    min-width: 90%;
+    padding: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    @include m.tablet{
+        min-width: 55%;
+    }
+    &--active{
+        z-index: 111;
+        background-color: rgba(0, 0, 0, 0.5);
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;     
+    }
+    &__buttons{
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+        margin-top: 1.5rem;
+        width: 100%;
+        @include m.tablet{
+            gap: 4rem;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+        }
+    }
+    &__img{
+        border-radius: 1rem 1rem 0 0;
+        max-height: 80vh;
+        width: 100%;
+        object-fit: cover;
+        @include m.tablet{
+            width: auto;
+        }
+    }
+    &__btn{
+        background-image: linear-gradient(to right, v.$blue-dark, v.$blue);
+        font-size: 2rem;
+        color: #FFFFFF;
+        font-weight: bold;
+        text-decoration: none;
+        padding: 1rem 1.5rem;
+        text-align: center;
+        display: block;
+        border: none;
+        margin-bottom: 1.2rem;
+        border-radius: 1rem;
+        transition: transform .2s ease;
+        min-width: 30rem;
+        min-height: 3rem;
+        width: 100%;
+        @include m.tablet{
+            width: auto;
+        }
+        &:hover{
+            transform: scale(1.03);
+            cursor: pointer;
+            background-color: v.$red;
+        }
+        &--cancel{
+            @extend .modal-promo__btn;
+            background-image: none;
+            background-color: v.$gray;
+            min-width: fit-content;
+            &:hover{
+                background-color: v.$gray-dark;
+                color: #FFFFFF;
+            }
+        }
+        &--close{
+            position: absolute;
+            top: 1.25rem;
+            right: 1.25rem;
+            color: v.$white;
+            font-size: 2rem;
+            background-color: transparent;
+            text-shadow: v.$shadow;
+            border: none;
+            cursor: pointer;
+            text-shadow: v.$shadow;
+            @include m.tablet{
+                font-size: 3rem;
+            }
+            &:hover{
+                color: v.$blue-light;
+            }
+        }
+    }
+}

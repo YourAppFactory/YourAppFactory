@@ -23,8 +23,2312 @@
         "es": "Contacto",
         "en": "Contact"
     },
+    "nav_hello":{
+        "es": "Hola,",
+        "en": "Hello,"
+    },
+    "nav_logout":{
+        "es": "Cerrar sesión",
+        "en": "Log out"
+    },
+    "sidebar_index":{
+        "es": "Inicio",
+        "en": "Home"
+    },
+    "sidebar_profile":{
+        "es": "Perfil",
+        "en": "Profile"
+    },
+    "sidebar_users":{
+        "es": "Usuarios",
+        "en": "Users"
+    },
+    "sidebar_promo":{
+        "es": "Promos",
+        "en": "Promos"
+    },
     "about_title":{
         "es": "Nosotros",
         "en": "About us"
+    },
+    "slider_main_title":{
+        "es": "¿Qué tipo de negocio tienes?",
+        "en": "What type of business do you have?"
+    },
+    "services_title":{
+        "es": "Tenemos soluciones asequibles, revisa la tuya:",
+        "en": "We have affordable solutions, check yours:"
+    },
+    "see_more":{
+        "es": "Ver más",
+        "en": "See more"
+    },
+    "retail_title":{
+        "es": "Retail",
+        "en": "Retail"
+    },
+    "restaurant_title":{
+        "es": "Restaurante",
+        "en": "Restaurant"
+    },
+    "hairsalon_title":{
+        "es": "Salón de belleza",
+        "en": "Hair salon"
+    },
+    "spa_title":{
+        "es": "Spa",
+        "en": "Spa"
+    },
+    "gym_title":{
+        "es": "Gimnasio",
+        "en": "Gym"
+    },
+    "healthcare_title":{
+        "es": "Salud",
+        "en": "Healthcare"
+    },
+    "realestate_title":{
+        "es": "Bienes raíces",
+        "en": "Real estate"
+    },
+    "education_title":{
+        "es": "Educación",
+        "en": "Education"
+    },
+    "entertainment_title":{
+        "es": "Entretenimiento",
+        "en": "Entertainment"
+    },
+    "eventagency_title":{
+        "es": "Agencia de eventos",
+        "en": "Event agency"
+    },
+    "travelagency_title":{
+        "es": "Agencia de viajes",
+        "en": "Travel agency"
+    },
+    "professionalservices_title":{
+        "es": "Servicios profesionales",
+        "en": "Professional services"
+    },
+    "automotive_title":{
+        "es": "Automotriz",
+        "en": "Automotive"
+    },
+    "nonprofit_title":{
+        "es": "Organización sin fines de lucro",
+        "en": "Nonprofit organization"
+    },
+    "community_title":{
+        "es": "Comunidad",
+        "en": "Community"
+    },
+    "footer_title":{
+        "es": "Síguenos en nuestras redes sociales",
+        "en": "Follow us on our social networks"
+    },
+    "nav_link--builder":{
+        "es": "Acceso para builders",
+        "en": "Builder access"
+    }, 
+    "nav_link--login":{
+        "es": "Acceso privado",
+        "en": "Private access"
+    },
+    "nav_link--privacy":{
+        "es": "Política de privacidad",
+        "en": "Privacy policy"
+    },
+    "nav_link--terms":{
+        "es": "Términos y condiciones",
+        "en": "Terms and conditions"
+    },
+    "footer_terms": {
+        "es": "Términos y condiciones",
+        "en": "Terms and conditions"
+    },
+    "footer_privacy": {
+        "es": "Política de privacidad",
+        "en": "Privacy policy"
+    },
+    "footer_rights":{
+        "es": "Todos los derechos reservados",
+        "en": "All rights reserved"
+    },
+    "functionality_title":{
+        "es": "Estas son algunas funcionalidades y características de las Apps móviles",
+        "en": "These are some functionalities and features of mobile Apps"
+    },
+    "contact_title":{
+        "es": "Contáctanos para una consulta gratuita y personalizada",
+        "en": "Contact us for a Free Tailored Estimation"
+    },
+    "about_us_title":{
+        "es": "Sobre nosotros",
+        "en": "About us"
+    },
+    "about_us_text-1":{
+        "en": "At Affordable Professional Productions Factory LLC, also known as Your App Factory, we are committed to empowering small businesses through affordable, innovative, and effective mobile app solutions. Based in Maryland, we offer accessible technology tailored to the specific needs of small businesses across Maryland, Washington DC, and Virginia, and we extend our services throughout the United States.",
+        "es": "En Affordable Professional Productions Factory LLC, también conocida como Your App Factory, estamos comprometidos a empoderar a pequeñas empresas a través de soluciones de aplicaciones móviles asequibles, innovadoras y efectivas. Con sede en Maryland, ofrecemos tecnología accesible adaptada a las necesidades específicas de pequeñas empresas en Maryland, Washington DC y Virginia, y extendemos nuestros servicios a lo largo de los Estados Unidos."
+    },
+    "about_us_text-2":{
+        "en": "Our partners, who are entrepreneurs and business professionals with over 25 years of experience advising small businesses in key areas such as marketing, strategy, technology, and finance, have come together to leverage their expertise in developing this venture. Our vision is to integrate these disciplines to provide small businesses with the necessary tools to grow and compete in today’s digital landscape.",
+        "es": "Nuestros socios, que son emprendedores y profesionales de negocios con más de 25 años de experiencia asesorando a pequeñas empresas en áreas clave como marketing, estrategia, tecnología y finanzas, se han unido para aprovechar su experiencia en el desarrollo de esta empresa. Nuestra visión es integrar estas disciplinas para proporcionar a las pequeñas empresas las herramientas necesarias para crecer y competir en el panorama digital actual."
+    },
+    "about_us_mission_title":{
+        "es": "Nuestra misión",
+        "en": "Our mission"
+    },
+    "about_us_mission_text":{
+        "en": "Our mission is to enable small businesses to thrive in the digital age by developing affordable, professional, and high-quality mobile applications. We ensure that businesses in sectors like beauty salons, gyms, restaurants, and more can harness the power of mobile technology to increase sales, enhance customer experiences, streamline operations, and improve their competitive edge in the market.",
+        "es": "Nuestra misión es permitir que las pequeñas empresas prosperen en la era digital mediante el desarrollo de aplicaciones móviles asequibles, profesionales y de alta calidad. Nos aseguramos de que las empresas en sectores como salones de belleza, gimnasios, restaurantes y más puedan aprovechar el poder de la tecnología móvil para aumentar las ventas, mejorar las experiencias de los clientes, optimizar las operaciones y mejorar su ventaja competitiva en el mercado."
+    },
+    "about_us_how_title":{
+        "en": "How We Help Small Businesses",
+        "es": "Cómo ayudamos a las pequeñas empresas"
+    },
+    "about_us_how_text":{
+        "en": "Today, mobile apps are no longer a luxury; they are a necessity for small businesses to remain competitive. With features like real-time communication, customer loyalty programs, and push notifications, our apps provide businesses with a direct and effective way to interact with their customers, foster loyalty, and drive repeat business. These tools not only strengthen customer relationships but also support long-term profitability.",
+        "es": "Hoy en día, las aplicaciones móviles ya no son un lujo; son una necesidad para que las pequeñas empresas sigan siendo competitivas. Con funciones como la comunicación en tiempo real, programas de fidelización de clientes y notificaciones push, nuestras aplicaciones proporcionan a las empresas una forma directa y efectiva de interactuar con sus clientes, fomentar la lealtad y fomentar la repetición de negocios. Estas herramientas no solo fortalecen las relaciones con los clientes, sino que también respaldan la rentabilidad a largo plazo."
+    },
+    "about_us_benefits_title":{
+        "en": "Benefits to Society",
+        "es": "Beneficios para la sociedad"
+    },
+    "about_us_benefits_text":{
+        "en": "At Your App Factory, we believe every small business should have access to the tools necessary to succeed in the digital landscape. Our solutions help improve SEO, enhance customer retention, and maximize business visibility. By making advanced technology affordable and accessible, we contribute to the local economy by helping small businesses grow and create more opportunities within the communities they serve.",
+        "es": "En Your App Factory, creemos que todas las pequeñas empresas deberían tener acceso a las herramientas necesarias para tener éxito en el panorama digital. Nuestras soluciones ayudan a mejorar el SEO, aumentar la retención de clientes y maximizar la visibilidad del negocio. Al hacer que la tecnología avanzada sea asequible y accesible, contribuimos a la economía local ayudando a las pequeñas empresas a crecer y crear más oportunidades dentro de las comunidades a las que sirven."
+    },
+    "about_us_vision_title":{
+        "en": "Our Vision",
+        "es": "Nuestra visión"
+    },
+    "about_us_vision_text-1":{
+        "en": "Over the next five years, our goal is to become the leading provider of mobile solutions for small businesses in the Maryland, DC, and Virginia region. We strive to be the most trusted partner for small businesses, providing them with the tools they need to grow sustainably and successfully in an increasingly mobile-focused world.",
+        "es": "En los próximos cinco años, nuestro objetivo es convertirnos en el principal proveedor de soluciones móviles para pequeñas empresas en la región de Maryland, DC y Virginia. Nos esforzamos por ser el socio más confiable para las pequeñas empresas, brindándoles las herramientas que necesitan para crecer de manera sostenible y exitosa en un mundo cada vez más centrado en lo móvil."
+    },
+    "about_us_vision_text-2":{
+        "es": "Contáctanos en info@yourappfactory.app",
+        "en": "Contact us at info@yourappfactory.app"
+    },
+    "marketing_title":{
+        "es": "Marketing móvil",
+        "en": "Mobile Marketing"
+    },
+    "marketing_title-power":{
+        "en": "The Power of Mobile Apps",
+        "es": "El poder de las aplicaciones móviles"
+    },
+    "marketing_subtitle-power":{
+        "en": "An Investment That Pays for Itself",
+        "es": "Una inversión que se paga sola"
+    },
+    "marketing_subtitle-power-2":{
+        "en": "The Era of Mobile Apps",
+        "es": "La era de las aplicaciones móviles"
+    },
+    "marketing_text-power-1":{
+        "en": "In today's business world, mobile apps have become an essential tool for success and competitiveness. The main characteristic of mobile marketing is that we are literally in the pocket or purse of our customers, and this has developed a whole new area of knowledge in marketing.",
+        "es": "En el mundo empresarial actual, las aplicaciones móviles se han convertido en una herramienta esencial para el éxito y la competitividad. La principal característica del marketing móvil es que estamos literalmente en el bolsillo o bolso de nuestros clientes, y esto ha desarrollado toda una nueva área de conocimiento en marketing."
+    },
+    "marketing_text-power-2":{
+        "en": "According to the most recent statistics, 90% of the population in the United States uses social networking apps, 70% uses gaming apps and 60% uses productivity apps. These numbers clearly show the importance of having a robust mobile presence. However, many small businesses are still hesitant to take the leap due to the initial investment required to develop a mobile app, which can range from $25,000-$30,000 to hundreds of thousands of dollars. Here we will show entrepreneurs and small business owners that this investment not only pays for itself but is also an invaluable asset to their company.",
+        "es": "Según las estadísticas más recientes, el 90% de la población en los Estados Unidos utiliza aplicaciones de redes sociales, el 70% utiliza aplicaciones de juegos y el 60% utiliza aplicaciones de productividad. Estos números muestran claramente la importancia de tener una presencia móvil sólida. Sin embargo, muchas pequeñas empresas aún dudan en dar el salto debido a la inversión inicial requerida para desarrollar una aplicación móvil, que puede oscilar entre $25,000 y $30,000 hasta cientos de miles de dólares. Aquí mostraremos a los emprendedores y propietarios de pequeñas empresas que esta inversión no solo se paga sola, sino que también es un activo invaluable para su empresa."
+    },
+    "marketing_text-power-3":{
+        "en": "Even today, after so many technological advances, many small businesses do not know how to take advantage of mobile applications, especially to improve their business indicators. The endless flow of information and possibilities makes it difficult to decide in this regard.",
+        "es": "Incluso hoy, después de tantos avances tecnológicos, muchas pequeñas empresas no saben cómo aprovechar las aplicaciones móviles, especialmente para mejorar sus indicadores comerciales. El flujo interminable de información y posibilidades dificulta la toma de decisiones al respecto."
+    },
+    "marketing_text-power-4":{
+        "en": "Here we are going to shed some light on this fascinating topic, which ultimately involves improving our performance as companies, making communication with our customers more efficient and at the same time improving sales.",
+        "es": "Aquí vamos a arrojar algo de luz sobre este fascinante tema, que en última instancia implica mejorar nuestro desempeño como empresas, hacer que la comunicación con nuestros clientes sea más eficiente y al mismo tiempo mejorar las ventas."
+    },
+    "marketing_title_why":{
+        "en": "Why a Mobile App?",
+        "es": "¿Por qué una aplicación móvil?"
+    },
+    "marketing_subtitle_why":{
+        "en": "Amortizable Investment and Increase in Sales",
+        "es": "Inversión amortizable y aumento de ventas"
+    },
+    "marketing_text_why-1":{
+        "en": "When a business invests in a mobile app, it is creating a platform that can completely transform the way it interacts with its customers. Mobile apps make shopping easier, improve customer service, can actively engage with customers to improve the experience, promote customer loyalty, and enable more effective marketing resulting in increased sales.",
+        "es": "Cuando un negocio invierte en una aplicación móvil, está creando una plataforma que puede transformar por completo la forma en que interactúa con sus clientes. Las aplicaciones móviles facilitan las compras, mejoran el servicio al cliente, pueden interactuar activamente con los clientes para mejorar la experiencia, fomentar la lealtad del cliente y permitir un marketing más efectivo que resulta en un aumento de las ventas."
+    },
+    "marketing_text_why-2":{
+        "en": "For example, a clothing store can send push notifications with exclusive offers, or a restaurant can send real-time invitations to a last-minute event, or any business can announce a promotion or share content, thereby increasing sales by engaging customers with personalized promotions.",
+        "es": "Por ejemplo, una tienda de ropa puede enviar notificaciones push con ofertas exclusivas, o un restaurante puede enviar invitaciones en tiempo real a un evento de última hora, o cualquier negocio puede anunciar una promoción o compartir contenido, aumentando así las ventas al involucrar a los clientes con promociones personalizadas."
+    },
+    "marketing_text_why-3":{
+        "en": "Take the case of a local restaurant that decided to invest in a mobile app. At first, the investment seemed high, but they soon discovered that they could send notifications of special offers and daily menus to their customers. Customers could make reservations and orders directly from the app, which not only increased efficiency, but also improved the customer experience. Within a few months, the restaurant's sales increased by 30%, thus amortizing the initial investment in record time.",
+        "es": "Tomemos el caso de un restaurante local que decidió invertir en una aplicación móvil. Al principio, la inversión parecía alta, pero pronto descubrieron que podían enviar notificaciones de ofertas especiales y menús diarios a sus clientes. Los clientes podían hacer reservas y pedidos directamente desde la aplicación, lo que no solo aumentó la eficiencia, sino que también mejoró la experiencia del cliente. En unos pocos meses, las ventas del restaurante aumentaron un 30%, amortizando así la inversión inicial en tiempo récord."
+    },
+    "marketing_title_benefits":
+    {
+        "en": "Benefits of Having Your Own Mobile App",
+        "es": "Beneficios de tener tu propia aplicación móvil"
+    },
+    "marketing_subtitle_benefits-1":
+    {
+        "en": "Increased Visibility",
+        "es": "Mayor visibilidad"
+    },
+    "marketing_text_benefits-1":
+    {
+        "en": "Mobile apps increase your business's visibility. An app on your customers' phone ensures that you're always just a tap away. This is especially important in an era where consumers prefer to use apps over websites.",
+        "es": "Las aplicaciones móviles aumentan la visibilidad de tu negocio. Una aplicación en el teléfono de tus clientes garantiza que siempre estés a solo un toque de distancia. Esto es especialmente importante en una era en la que los consumidores prefieren usar aplicaciones en lugar de sitios web."
+    },
+    "marketing_text_benefits-2":
+    {
+        "en": "Imagine a clothing store that launches its own app. Customers can browse the catalog, receive notifications of sales and promotions, and even make purchases directly from the app. This level of visibility and convenience can turn potential customers into repeat buyers.",
+        "es": "Imagina una tienda de ropa que lanza su propia aplicación. Los clientes pueden navegar por el catálogo, recibir notificaciones de ventas y promociones e incluso realizar compras directamente desde la aplicación. Este nivel de visibilidad y conveniencia puede convertir a los clientes potenciales en compradores recurrentes."
+    },
+    "marketing_subtitle_benefits-2":
+    {
+        "en": "Improved Customer Service",
+        "es": "Mejora del servicio al cliente"
+    },
+    "marketing_text_benefits-3":
+    {
+        "en": "A mobile app offers a platform to significantly improve customer service. Through features like live chat, push notifications, and a reservation system, businesses can offer faster and more efficient service.",
+        "es": "Una aplicación móvil ofrece una plataforma para mejorar significativamente el servicio al cliente. A través de funciones como chat en vivo, notificaciones push y un sistema de reservas, las empresas pueden ofrecer un servicio más rápido y eficiente."
+    },
+    "marketing_text_benefits-4":
+    {
+        "en": "Let's consider a hair salon or spa implementing a mobile app. Customers can book appointments, get reminders and review services offered, accumulate points and earn rewards, all from the convenience of their phones. This not only improves customer satisfaction, but also reduces no-shows and double bookings.",
+        "es": "Consideremos un salón de belleza o spa que implementa una aplicación móvil. Los clientes pueden reservar citas, recibir recordatorios y revisar los servicios ofrecidos, acumular puntos y ganar recompensas, todo desde la comodidad de sus teléfonos. Esto no solo mejora la satisfacción del cliente, sino que también reduce las ausencias y las reservas dobles."
+    },
+    "marketing_subtitle_benefits-3":
+    {
+        "en": "Increased Sales",
+        "es": "Aumento de las ventas"
+    },
+    "marketing_text_benefits-5":
+    {
+        "en": "Mobile apps can be a powerful tool to increase sales. With features like in-app purchases, personalized promotions, and loyalty programs, businesses can encourage customers to use our services more and promote “word-of-mouth” with a technology feature.",
+        "es": "Las aplicaciones móviles pueden ser una herramienta poderosa para aumentar las ventas. Con funciones como compras dentro de la aplicación, promociones personalizadas y programas de fidelización, las empresas pueden alentar a los clientes a utilizar nuestros servicios con más frecuencia y promover el “boca a boca” con una función tecnológica."
+    },
+    "marketing_text_benefits-6":
+    {
+        "en": "A grocery store that launches a mobile app can offer exclusive discounts to its app-using customers, send notifications of new products, allow online shopping for in-store pickup or delivery, and display its locations on a map. These features not only increase sales but also improve customer loyalty.",
+        "es": "Una tienda de comestibles que lanza una aplicación móvil puede ofrecer descuentos exclusivos a sus clientes que usan la aplicación, enviar notificaciones de nuevos productos, permitir compras en línea para recoger en la tienda o entrega y mostrar sus ubicaciones en un mapa. Estas funciones no solo aumentan las ventas, sino que también mejoran la fidelidad del cliente."
+    },
+    "marketing_subtitle_benefits-4":
+    {
+        "en": "Taking advantage of mobile applications for community organizations",
+        "es": "Aprovechando las aplicaciones móviles para organizaciones comunitarias"
+    },
+    "marketing_text_benefits-7":
+    {
+        "en": "Businesses and organizations that manage communities, such as churches, professional associations, and chambers of commerce, can significantly benefit from having their own mobile applications. These apps can serve as powerful tools to improve communication, engagement, and member services.",
+        "es": "Las empresas y organizaciones que gestionan comunidades, como iglesias, asociaciones profesionales y cámaras de comercio, pueden beneficiarse significativamente de tener sus propias aplicaciones móviles. Estas aplicaciones pueden servir como herramientas poderosas para mejorar la comunicación, el compromiso y los servicios para los miembros."
+    },
+    "marketing_text_benefits-8":
+    {
+        "en": "For example, a church can use an app to share event updates, stream sermons, and collect donations more easily over the phone. Professional associations can offer members easy access to resources, networking opportunities, and event registrations through their app.",
+        "es": "Por ejemplo, una iglesia puede usar una aplicación para compartir actualizaciones de eventos, transmitir sermones y recolectar donaciones de manera más fácil por teléfono. Las asociaciones profesionales pueden ofrecer a los miembros un fácil acceso a recursos, oportunidades de networking y registros de eventos a través de su aplicación."
+    },
+    "marketing_text_benefits-9":
+    {
+        "en": "Similarly, chambers of commerce can keep their members informed about local business news, provide directories, and promote local events. By adopting mobile apps, these community organizations can strengthen their connection with their members, streamline their operations, and improve overall engagement.",
+        "es": "De manera similar, las cámaras de comercio pueden mantener informados a sus miembros sobre noticias de negocios locales, proporcionar directorios y promover eventos locales. Al adoptar aplicaciones móviles, estas organizaciones comunitarias pueden fortalecer su conexión con sus miembros, optimizar sus operaciones y mejorar el compromiso general."
+    },
+    "marketing_title_challenges":{
+        "en": "Challenges and Solutions",
+        "es": "Desafíos y soluciones"
+    },
+    "marketing_text_challenges-1":{
+        "en": "There are many barriers and challenges that entrepreneurs and business owners have to face. In the modern world, where technology has become omnipresent, having a strong online presence is crucial to the success of any business, large or small. However, for many small businesses, accessing proprietary mobile apps remains a significant challenge due to high development costs and the technological barrier to entry.",
+        "es": "Existen muchas barreras y desafíos a los que se enfrentan los emprendedores y propietarios de negocios. En el mundo moderno, donde la tecnología se ha vuelto omnipresente, tener una fuerte presencia en línea es crucial para el éxito de cualquier empresa, grande o pequeña. Sin embargo, para muchas pequeñas empresas, acceder a aplicaciones móviles propias sigue siendo un desafío significativo debido a los altos costos de desarrollo y la barrera tecnológica de entrada."
+    },
+    "marketing_subtitle_challenges-1":{
+        "en": "The Prohibitive Costs of App Development",
+        "es": "Los costos prohibitivos del desarrollo de aplicaciones"
+    },
+    "marketing_text_challenges-2":{
+        "en": "One of the biggest hurdles facing small businesses is the prohibitive cost of mobile app development. The process of designing, developing, and launching an app can require a significant investment of time and money, as engineers must write code for multiple operating systems (Android and Apple's iOS) and resolve conflicts between them on the fly, which can be difficult for businesses on a budget to cope with. The costs of hiring qualified app developers can be exorbitant, leaving many small businesses in a bind",
+        "es": "Uno de los mayores obstáculos que enfrentan las pequeñas empresas es el costo prohibitivo del desarrollo de aplicaciones móviles. El proceso de diseño, desarrollo y lanzamiento de una aplicación puede requerir una inversión significativa de tiempo y dinero, ya que los ingenieros deben escribir código para múltiples sistemas operativos (Android e iOS de Apple) y resolver conflictos entre ellos sobre la marcha, lo que puede ser difícil para las empresas con un presupuesto ajustado. Los costos de contratar desarrolladores de aplicaciones calificados pueden ser exorbitantes, dejando a muchas pequeñas empresas en un aprieto."
+    },
+    "marketing_subtitle_challenges-2":{
+        "en": "Limited access to technology",
+        "es": "Acceso limitado a la tecnología"
+    },
+    "marketing_text_challenges-3":{
+        "en": "In addition to costs, limited access to technology also represents a significant challenge for small businesses looking to develop their own mobile apps. Many companies lack the necessary internal resources, such as trained technical staff and development teams, to carry out app development projects effectively. This leads them to rely on outside companies, which can further increase the costs and complexity of the process.",
+        "es": "Además de los costos, el acceso limitado a la tecnología también representa un desafío significativo para las pequeñas empresas que buscan desarrollar sus propias aplicaciones móviles. Muchas empresas carecen de los recursos internos necesarios, como personal técnico capacitado y equipos de desarrollo, para llevar a cabo proyectos de desarrollo de aplicaciones de manera efectiva. Esto los lleva a depender de empresas externas, lo que puede aumentar aún más los costos y la complejidad del proceso."
+    },
+    "marketing_subtitle_challenges-3":{
+        "en": "The technology gap between small and large businesses",
+        "es": "La brecha tecnológica entre pequeñas y grandes empresas"
+    },
+    "marketing_text_challenges-4":{
+        "en": "The gap between small and large companies in terms of technology also contributes to the difficulty of small businesses in accessing unique mobile applications. While large corporations can afford to invest large sums of money in developing cutting-edge technology, small businesses are often constrained by tighter budgets and limited resources. This leaves them at a competitive disadvantage in an increasingly digitalized market.",
+        "es": "La brecha entre pequeñas y grandes empresas en términos de tecnología también contribuye a la dificultad de las pequeñas empresas para acceder a aplicaciones móviles únicas. Mientras que las grandes corporaciones pueden permitirse invertir grandes sumas de dinero en el desarrollo de tecnología de vanguardia, las pequeñas empresas suelen estar limitadas por presupuestos más ajustados y recursos limitados. Esto las deja en desventaja competitiva en un mercado cada vez más digitalizado."
+    },
+    "marketing_subtitle_challenges-4":{
+        "en": "Consequences of Lack of Mobile Apps",
+        "es": "Consecuencias de la falta de aplicaciones móviles"
+    },
+    "marketing_text_challenges-5":{
+        "en": "Absence of mobile apps can have serious consequences for small businesses in a market where convenience and accessibility are paramount. Without a mobile presence, these companies can miss out on opportunities to reach new customers, offer personalized user experiences, and increase customer loyalty. Additionally, they can fall behind their competitors who have managed to develop successful mobile apps.",
+        "es": "La ausencia de aplicaciones móviles puede tener consecuencias graves para las pequeñas empresas en un mercado donde la conveniencia y la accesibilidad son primordiales. Sin una presencia móvil, estas empresas pueden perder oportunidades para llegar a nuevos clientes, ofrecer experiencias de usuario personalizadas y aumentar la fidelidad del cliente. Además, pueden quedarse atrás de sus competidores que han logrado desarrollar aplicaciones móviles exitosas."
+    },
+    "marketing_subtitle_challenges-5":{
+        "en": "Lack of Technical Knowledge",
+        "es": "Falta de conocimientos técnicos"
+    },
+    "marketing_text_challenges-6":{
+        "en": "One of the biggest obstacles for small businesses is a lack of technical knowledge. Creating and managing a mobile app requires skills in several programming languages and a deep understanding of mobile operating systems.",
+        "es": "Uno de los mayores obstáculos para las pequeñas empresas es la falta de conocimientos técnicos. Crear y gestionar una aplicación móvil requiere habilidades en varios lenguajes de programación y un profundo conocimiento de los sistemas operativos móviles."
+    },
+    "marketing_subtitle_challenges-6":{
+        "en": "Our Services",
+        "es": "Nuestros servicios"
+    },
+    "marketing_text_challenges-7":{
+        "en": "This is where we, Your APP Factory , come in. We are experts in mobile app development and mobile marketing. We offer complete solutions, from consulting to design and development, through to publishing in the App Store and Google Play. We train our clients in the proper use of their App so that they get the most out of it and recover their investment. We take care of the entire process so that you can focus on what you do best: managing your business.",
+        "es": "Aquí es donde entramos nosotros, Your APP Factory. Somos expertos en desarrollo de aplicaciones móviles y marketing móvil. Ofrecemos soluciones completas, desde la consultoría hasta el diseño y desarrollo, pasando por la publicación en la App Store y Google Play. Capacitamos a nuestros clientes en el uso adecuado de su App para que obtengan el máximo provecho y recuperen su inversión. Nos encargamos de todo el proceso para que puedas centrarte en lo que mejor sabes hacer: gestionar tu negocio."
+    },
+    "marketing_subtitle_challenges-7":{
+        "en": "Uncertainty about Return on Investment",
+        "es": "Incertidumbre sobre el retorno de la inversión"
+    },
+    "marketing_text_challenges-8":{
+        "en": "Another common concern is whether the app will generate enough revenue to justify the investment. While the initial investment may seem high, it is actually not that high, and we have very good solutions at a low cost. It is important to consider that the long-term benefits, such as increased sales and improved customer loyalty, far outweigh the cost. Additionally, with a little analysis, we offer payment methods that accommodate customers' cash flow.",
+        "es": "Otra preocupación común es si la aplicación generará suficientes ingresos para justificar la inversión. Si bien la inversión inicial puede parecer alta, en realidad no lo es tanto, y tenemos soluciones muy buenas a bajo costo. Es importante tener en cuenta que los beneficios a largo plazo, como el aumento de las ventas y la mejora de la fidelidad del cliente, superan con creces el costo. Además, con un poco de análisis, ofrecemos métodos de pago que se adaptan al flujo de efectivo de los clientes."
+    },
+    "marketing_title_yourappfactory":{
+        "en": "Your APP Factory - Affordable Solutions with Paid Plans.",
+        "es": "Your APP Factory - Soluciones asequibles con planes de pago."
+    },
+    "marketing_text_yourappfactory-1":{
+        "en": "At Your APP Factory, we understand the concerns of small businesses and offer affordable solutions at a fraction of the market price. Plus, we have paid plans to make mobile app development accessible to all types of businesses including grocery stores, restaurants, gyms, real estate agencies, hair salons, clinics, freelancers, and more.",
+        "es": "En Your APP Factory, entendemos las preocupaciones de las pequeñas empresas y ofrecemos soluciones asequibles a una fracción del precio del mercado. Además, tenemos planes de pago para hacer que el desarrollo de aplicaciones móviles sea accesible para todo tipo de empresas, incluidas tiendas de comestibles, restaurantes, gimnasios, agencias inmobiliarias, salones de belleza, clínicas, freelancers y más."
+    },
+    "marketing_subtitle_yourappfactory-1":{
+        "es": "Una inversión que vale la pena",
+        "en": "An Investment Worth Making"
+    },
+    "marketing_text_yourappfactory-2":{
+        "en": "With Your APP Factory you can make the leap into technology. Investing in a mobile app may seem intimidating, but it is easier than you think, and the benefits are many. Firstly, the prestige that the business gains, followed by greater visibility, better customer service and increased sales. A mobile app is an invaluable asset for any business.",
+        "es": "Con Your APP Factory puedes dar el salto a la tecnología. Invertir en una aplicación móvil puede parecer intimidante, pero es más fácil de lo que piensas, y los beneficios son muchos. En primer lugar, el prestigio que gana el negocio, seguido de una mayor visibilidad, un mejor servicio al cliente y un aumento de las ventas. Una aplicación móvil es un activo invaluable para cualquier negocio."
+    },
+    "marketing_text_yourappfactory-3":{
+        "en": "If you want to know more about how a mobile app can transform your business, contact us! Follow us on our social media for more updates and share this article with anyone you think could benefit from it. Fill out our online form to learn more and find out how Your APP Factory can help you achieve your goals.",
+        "es": "Si quieres saber más sobre cómo una aplicación móvil puede transformar tu negocio, ¡contáctanos! Síguenos en nuestras redes sociales para obtener más actualizaciones y comparte este artículo con cualquier persona que creas que podría beneficiarse de él. Completa nuestro formulario en línea para obtener más información y descubrir cómo Your APP Factory puede ayudarte a alcanzar tus objetivos."
+    },
+    "terms_title":{
+        "es": "Términos y condiciones",
+        "en": "Terms and conditions"
+    },
+    "terms_text_last-update":{
+        "es": "Última actualización: 1 de octubre de 2024",
+        "en": "Last update: October 1, 2024"
+    },
+    "terms_text-1":{
+        "es": "Bienvenido al sitio web de Your App Factory (yourappfactory.app). Al acceder a este sitio, aceptas estar sujeto a los siguientes Términos y Condiciones. Si no estás de acuerdo con alguna parte de estos Términos, debes dejar de utilizar el sitio inmediatamente.",
+        "en": "Welcome to the Your App Factory website (yourappfactory.app). By accessing this site, you agree to be bound by the following Terms and Conditions. If you do not agree with any part of these Terms, you must stop using the site immediately."
+    },
+    "terms_text-2":{
+        "es": "Por favor visita nuestra política de privacidad para entender como manejamos la información y tratamos tus datos personales.",
+        "en": "Please visit our privacy policy to understand how we handle information and treat your personal data."
+    },
+    "terms_subtitle-1":{
+        "es": "1. Nuestra Empresa",
+        "en": "1. Our Company"
+    },
+    "company_name-affordable":{
+        "es": "Affordable Professional Productions Factory LLC (operando como Your App Factory)",
+        "en": "Affordable Professional Productions Factory LLC (operating as Your App Factory)"
+    },
+    "terms_text-3":{
+        "es": "es una empresa comprometida con ofrecer soluciones tecnológicas avanzadas para pequeñas y medianas empresas. Nos especializamos en la creación de aplicaciones móviles personalizadas, páginas web, landing pages y funnels de ventas. Nuestro objetivo es optimizar la eficiencia y la rentabilidad de nuestros clientes mediante el uso de tecnología no-code y herramientas de marketing digital. Para más información, visita",
+        "en": "is a company committed to providing advanced technological solutions for small and medium-sized businesses. We specialize in creating custom mobile applications, websites, landing pages, and sales funnels. Our goal is to optimize the efficiency and profitability of our clients through the use of no-code technology and digital marketing tools. For more information, visit "
+    },
+    "terms_subtitle-2":{
+        "es": "2. Aceptación de los términos",
+        "en": "2. Acceptance of the terms"
+    },
+    "terms_text-4":{
+        "es": "Al utilizar nuestro sitio web, confirmas que has leído, entendido y aceptado estos Términos en su totalidad. Si no estás de acuerdo con alguna parte de estos Términos, debes dejar de usar el sitio de inmediato.",
+        "en": "By using our website, you confirm that you have read, understood, and accepted these Terms in their entirety. If you do not agree with any part of these Terms, you must stop using the site immediately."
+    },
+    "terms_text-5":{
+        "es": "Se recomienda revisar los términos periódicamente para mantenerse informado de cualquier modificación.",
+        "en": "It is recommended to review the terms periodically to stay informed of any modifications."
+    },
+    "terms_subtitle-3":{
+        "es": "3. Modificaciones a los términos",
+        "en": "3. Modifications to the terms"
+    },
+    "terms_text-6":{
+        "es": "La empresa se reserva el derecho de modificar estos Términos en cualquier momento. Cualquier cambio significativo será notificado a los usuarios mediante un aviso destacado en el sitio web o por correo electrónico. Las modificaciones serán efectivas una vez publicadas en la plataforma. Es responsabilidad del usuario revisar periódicamente los Términos.",
+        "en": "The company reserves the right to modify these Terms at any time. Any significant changes will be notified to users through a prominent notice on the website or by email. Modifications will be effective once published on the platform. It is the user's responsibility to periodically review the Terms."
+    },
+    "terms_subtitle-4":{
+        "es": "4. Precios y Servicios",
+        "en": "4. Prices and Services"
+    },
+    "terms_text-7":{
+        "es": "No tenemos precios fijos de lista ya que nuestros servicios son personalizados según las necesidades de cada cliente. Para solicitar una cotización, los clientes deben proporcionar sus datos en nuestra página de contacto. Luego, nuestro equipo se pondrá en contacto para agendar una cita, escuchar las necesidades del cliente y elaborar una propuesta de desarrollo de aplicaciones móviles. Nuestras promociones y/o descuentos no son acumulables para la misma oferta.",
+        "en": "We do not have fixed list prices as our services are customized according to the needs of each client. To request a quote, customers must provide their data on our contact page. Then, our team will contact you to schedule an appointment, listen to the customer's needs, and develop a proposal for mobile application development. Our promotions and/or discounts are not cumulative for the same offer."
+    },
+    "terms_subtitle-5":{
+        "es": "5. Nuestras Ofertas y Contratos de Servicios",
+        "en": "5. Our Offers and Service Contracts"
+    },
+    "terms_text-8":{
+        "es": "Una vez registrado el cliente, se le enviará una propuesta inicial. Cada propuesta tendrá una vigencia de 15 días calendario, aunque podrá ser modificada por acuerdo mutuo, en términos de funcionalidades, plazos, precios y formas de pago. Cada contrato formalizado será la fuente legal que regirá la relación entre ambas partes.",
+        "en": "Once the customer is registered, an initial proposal will be sent. Each proposal will have a validity of 15 calendar days, although it may be modified by mutual agreement, in terms of functionalities, deadlines, prices, and payment methods. Each formalized contract will be the legal source that will govern the relationship between both parties."
+    },
+    "terms_subtitle-6":{
+        "es": "6. Mobile Marketing",
+        "en": "6. Mobile Marketing"
+    },
+    "terms_text-9":{
+        "es": "Somos una empresa especialista en soluciones de tecnología móvil y Mobile Marketing, este es el proceso de dirigirse activamente a los usuarios a través de sus dispositivos móviles, generalmente como parte de una estrategia de marketing multicanal. En dispositivos móviles, los usuarios suelen estar en movimiento o navegando casualmente, mientras que, en un escritorio, suelen estar en un entorno más formal, como el trabajo, y realizan investigaciones más detalladas. El marketing móvil tiende a estar dirigido al consumidor final (B2C), mientras que en escritorio es más común el marketing entre empresas (B2B).",
+        "en": "We are a company specializing in mobile technology solutions and Mobile Marketing, this is the process of actively targeting users through their mobile devices, usually as part of a multichannel marketing strategy. On mobile devices, users are usually on the move or casually browsing, while on a desktop, they are usually in a more formal environment, such as work, and conduct more detailed research. Mobile marketing tends to be aimed at the end consumer (B2C), while desktop marketing is more common in business-to-business (B2B)."
+    },
+    "terms_text-10":{
+        "es": "Beneficios del Mobile Marketing:",
+        "en": "Benefits of Mobile Marketing:"
+    },
+    "terms_list-1":{
+        "es": "Da prestigio al negocio e impulsa las ventas.",
+        "en": "It gives prestige to the business and boosts sales."
+    },
+    "terms_list-2":{
+        "es": "Mejora de la experiencia del cliente y el compromiso (engagement).",
+        "en": "Improves customer experience and engagement."
+    },
+    "terms_list-3":{
+        "es": "Refuerza el conocimiento de la marca.",
+        "en": "Strengthens brand awareness."
+    },
+    "terms_list-4":{
+        "es": "Mejora la reputación online y las reseñas (Reviews).",
+        "en": "Improves online reputation and reviews."
+    },
+    "terms_list-5":{
+        "es": "Aumenta la presencia en redes sociales.",
+        "en": "Increases social media presence."
+    },
+    "terms_list-6":{
+        "es": "Facilita que los usuarios compartan su experiencia con terceros promoviendo la descarga de la aplicación móvil.",
+        "en": "Facilitates users to share their experience with third parties promoting the download of the mobile application."
+    },
+    "terms_list-7":{
+        "es": "Contribuye al crecimiento de la base de datos de clientes.",
+        "en": "Contributes to the growth of the customer database."
+    },
+    "terms_subtitle-7":{
+        "es": "7. Uso de las Aplicaciones",
+        "en": "7. Use of Applications"
+    },
+    "terms_text-11":{
+        "es": "Nuestros clientes son responsables de la gestión de sus aplicaciones móviles, de acuerdo con las leyes de privacidad, protección de datos y responsabilidad de la información, según las normativas vigentes en los Estados Unidos. Esto incluye, entre otras, la ",
+        "en": "Our clients are responsible for managing their mobile applications, in accordance with privacy laws, data protection, and information liability, according to current regulations in the United States. This includes, among others, the "
+    },
+    "terms_link-1":{
+        "es": "Ley de Protección al Consumidor de Telecomunicaciones (TCPA)",
+        "en": "Telecommunications Consumer Protection Act (TCPA)"
+    },
+    "terms_text-12":{
+        "es": " y la ",
+        "en": " and the "
+    },
+    "terms_link-2":{
+        "es": "Ley de Protección de la Privacidad en Línea de los Niños (COPPA)",
+        "en": "Children's Online Privacy Protection Act (COPPA)"
+    },
+    "terms_subtitle-8":{
+        "es": "8. Funciones de las Aplicaciones",
+        "en": "8. Application Functions"
+    },
+    "terms_text-13":{
+        "es": "Las funciones de las aplicaciones serán configuradas de acuerdo con las necesidades de cada negocio y sus objetivos estratégicos de marketing o comerciales. Cada aplicación es única y se personalizará en función de los requisitos del cliente. Nuestros clientes serán responsables del buen uso de dichas funciones, su configuración no podrá ser modificada una vez que se haya hecho por parte de la empresa.",
+        "en": "The functions of the applications will be configured according to the needs of each business and its strategic marketing or commercial objectives. Each application is unique and will be customized based on the client's requirements. Our clients will be responsible for the proper use of these functions, their configuration cannot be modified once it has been done by the company."
+    },
+    "terms_text-14":{
+        "es": "Una vez publicada una aplicación no podrá ser modificada, salvo solicitud de parte del cliente para lo cual se realizará un cálculo de los costes que se propondrán en un oferta.",
+        "en": "Once an application is published, it cannot be modified, except upon request from the client, for which a calculation of the costs will be made and proposed in an offer."
+    },
+    "terms_text-15":{
+        "es": "El costo del hosting de cada aplicación generará un cargo mensual que deberá ser pagado por el cliente. Dicho valor hará parte de nuestra propuesta de servicios.",
+        "en": "The cost of hosting for each application will generate a monthly charge that must be paid by the client. This value will be part of our service proposal."
+    },
+    "terms_subtitle-9":{
+        "es": "9. Integración con Servicios de Terceros",
+        "en": "9. Integration with Third-Party Services"
+    },
+    "terms_text-16":{
+        "es": "Para optimizar ciertas funcionalidades, nuestras aplicaciones se integran con plataformas de terceros. El cliente es responsable de proporcionar información precisa para las integraciones. Todos los costos adicionales derivados de estas integraciones serán facturados al cliente. La empresa se compromete a cumplir con las normativas aplicables y garantizar la seguridad y confidencialidad de la información proporcionada.",
+        "en": "To optimize certain functionalities, our applications are integrated with third-party platforms. The client is responsible for providing accurate information for integrations. All additional costs derived from these integrations will be billed to the client. The company undertakes to comply with applicable regulations and ensure the security and confidentiality of the information provided."
+    },
+    "terms_subtitle-10":{
+        "es": "10. Publicación en App Store y Google Play",
+        "en": "10. Publication in App Store and Google Play"
+    },
+    "terms_text-17":{
+        "es": "La empresa gestionará la publicación de las aplicaciones en App Store y Google Play en nombre del cliente. Los costos asociados con la creación y mantenimiento de cuentas de desarrollador serán responsabilidad del cliente. La aprobación de las aplicaciones está sujeta a las políticas de las plataformas. Marketplaces como Google Play y App Store pueden suspender el uso, descarga o actualización de una aplicación si se detecta mal uso o contenido que viole sus políticas. La empresa se reserva el derecho de suspender el servicio si el cliente incumple estos Términos, no paga el hosting o hace un uso indebido de la aplicación.",
+        "en": "The company will manage the publication of applications in the App Store and Google Play on behalf of the client. The costs associated with the creation and maintenance of developer accounts will be the responsibility of the client. The approval of applications is subject to the policies of the platforms. Marketplaces such as Google Play and App Store may suspend the use, download, or update of an application if misuse is detected or content that violates their policies. The company reserves the right to suspend the service if the client breaches these Terms, does not pay the hosting, or misuses the application."
+    },
+    "terms_subtitle-11":{
+        "es": "11. Integración de Métodos de Pago",
+        "en": "11. Payment Methods Integration"
+    },
+    "terms_text-18":{
+        "es": "La empresa ofrece la integración con plataformas de pago como PayPal, Stripe, y Braintree. Para ello, se requiere la configuración de accesos y claves seguras proporcionadas por el cliente. La empresa sigue los estándares de seguridad establecidos por el ",
+        "en": "The company offers integration with payment platforms such as PayPal, Stripe, and Braintree. To do this, the configuration of accesses and secure keys provided by the client is required. The company follows the security standards established by the "
+    },
+    "terms_link-3":{
+        "es": "Payment Card Industry Data Security Standard (PCI DSS) ",
+        "en": "Payment Card Industry Data Security Standard (PCI DSS) "
+    },
+    "terms_text-19":{
+        "es": "para garantizar la protección de la información sensible.",
+        "en": "to ensure the protection of sensitive information."
+    },
+    "terms_subtitle-12":{
+        "es": "12. Cuentas de Usuario",
+        "en": "12. User Accounts"
+    },
+    "terms_text-20":{
+        "es": "Los usuarios son responsables de mantener la confidencialidad de sus cuentas y contraseñas, así como de todas las actividades realizadas bajo sus credenciales. La empresa se reserva el derecho de monitorear, cancelar o crear cuentas de usuario según sea necesario.",
+        "en": "Users are responsible for maintaining the confidentiality of their accounts and passwords, as well as all activities carried out under their credentials. The company reserves the right to monitor, cancel, or create user accounts as needed."
+    },
+    "terms_subtitle-13":{
+        "es": "13. Propiedad Intelectual",
+        "en": "13. Intellectual Property"
+    },
+    "terms_text-21":{
+        "es": "Todo el contenido presente en el sitio web, incluidos logotipos, nombres comerciales, textos, imágenes y diseños, es propiedad exclusiva de Your App Factory o de sus licenciantes. Está prohibida la reproducción, distribución o modificación no autorizada de cualquier contenido del sitio sin el consentimiento expreso de la empresa.",
+        "en": "All content on the website, including logos, trade names, texts, images, and designs, is the exclusive property of Your App Factory or its licensors. Unauthorized reproduction, distribution, or modification of any content on the site is prohibited without the express consent of the company."
+    },
+    "terms_subtitle-14":{
+        "es": "14. Resolución de Disputas",
+        "en": "14. Dispute Resolution"
+    },
+    "terms_text-22":{
+        "es": "Cualquier disputa relacionada con estos Términos y Condiciones será resuelta mediante arbitraje en los Estados Unidos, de conformidad con las leyes del estado de Maryland",
+        "en": "Any dispute related to these Terms and Conditions will be resolved through arbitration in the United States, in accordance with the laws of the state of Maryland"
+    },
+    "terms_subtitle-15":{
+        "es": "15. Ley Aplicable",
+        "en": "15. Applicable Law"
+    },
+    "terms_text-23":{
+        "es": "Estos Términos se regirán por las leyes de los Estados Unidos, y cualquier disputa será sometida a la jurisdicción de los tribunales competentes en el estado de Maryland.",
+        "en": "These Terms will be governed by the laws of the United States, and any dispute will be submitted to the jurisdiction of the competent courts in the state of Maryland."
+    },
+    "terms_subtitle-16":{
+        "es": "16. Enlaces Externos",
+        "en": "16. External Links"
+    },
+    "terms_text-24":{
+        "es": "Nuestro sitio web puede contener enlaces a sitios web de terceros. Your App Factory no se hace responsable del contenido ni de las políticas de privacidad de dichos sitios.",
+        "en": "Our website may contain links to third-party websites. Your App Factory is not responsible for the content or privacy policies of such sites."
+    },
+    "terms_subtitle-17":{
+        "es": "17. Limitación de Responsabilidad",
+        "en": "17. Limitation of Liability"
+    },
+    "terms_text-25":{
+        "es": "No garantizamos que nuestro sitio web esté libre de errores o interrupciones. No seremos responsables de ningún daño derivado del uso o la imposibilidad de uso del sitio web o de las aplicaciones desarrolladas.",
+        "en": "We do not guarantee that our website is free from errors or interruptions. We will not be liable for any damage arising from the use or inability to use the website or the applications developed."
+    },
+    "terms_subtitle-18":{
+        "es": "18. Contacto",
+        "en": "18. Contact"
+    },
+    "terms_text-26":{
+        "es": "Si desea contactar los servicios de  nuestra empresa por favor vaya al formulario de contacto o envíe un correo electrónico a ",
+        "en": "If you would like to contact our company's services, please go to the contact form or send an email to "
+    },
+    "terms_text-27":{
+        "es": "info@yourappfactory.app ",
+        "en": "info@yourappfactory.app "
+    },
+    "terms_text-28":{
+        "es": "y con gusto atenderemos su contacto.",
+        "en": "and we will be happy to assist you."
+    },
+    "privacy_title":{
+        "es": "Política de Privacidad y Protección de Datos",
+        "en": "Privacy Policy and Data Protection"
+    },
+    "privacy_text_last-update":{
+        "es": "Última actualización: 1 de octubre de 2024",
+        "en": "Last update: October 1, 2024"
+    },
+    "privacy_text-1":{
+        "es": "En Your App Factory, estamos comprometidos con la protección de la privacidad y los datos personales de nuestros usuarios. Esta Política de Privacidad describe cómo recopilamos, utilizamos, almacenamos y protegemos la información proporcionada por nuestros usuarios al acceder a nuestra página web yourappfactory.app y nuestros servicios.",
+        "en": "At Your App Factory, we are committed to protecting the privacy and personal data of our users. This Privacy Policy describes how we collect, use, store, and protect the information provided by our users when accessing our website yourappfactory.app and our services."
+    },
+    "privacy_subtitle-1":{
+        "es": "1. Información Recopilada",
+        "en": "1. Information Collected"
+    },
+    "privacy_text-2":{
+        "es": "Recopilamos información personal que los usuarios proporcionan de manera voluntaria al interactuar con nuestro sitio web y servicios. Esta información incluye nombre, dirección de correo electrónico, número de teléfono, y otros detalles de contacto proporcionados a través de formularios. También recopilamos datos de navegación como dirección IP y tipo de navegador, utilizando herramientas de análisis. Toda esta información se maneja conforme a las normativas de protección de datos, incluyendo la ",
+        "en": "We collect personal information that users provide voluntarily when interacting with our website and services. This information includes name, email address, phone number, and other contact details provided through forms. We also collect browsing data such as IP address and browser type, using analytics tools. All this information is handled in accordance with data protection regulations, including the "
+    },
+    "privacy_link-1":{
+        "es": "Ley de Privacidad del Consumidor de California (CCPA), ",
+        "en": "California Consumer Privacy Act (CCPA), "
+    },
+    "privacy_text-3":{
+        "es": "y la ",
+        "en": "and the "
+    },
+    "privacy_link-2":{
+        "es": "Reglamento General de Protección de Datos (GDPR).",
+        "en": "General Data Protection Regulation (GDPR)."
+    },
+    "privacy_subtitle-2":{
+        "es": "2. Uso de la Información",
+        "en": "2. Use of Information"
+    },
+    "privacy_text-4":{
+        "es": "Utilizamos la información que recopilamos para los siguientes fines:",
+        "en": "We use the information we collect for the following purposes:"
+    },
+    "privacy_list-1":{
+        "es": "Procesar solicitudes de información o contacto realizadas a través de nuestro sitio web.",
+        "en": "Process information or contact requests made through our website."
+    },
+    "privacy_list-2":{
+        "es": "Mejorar la experiencia del usuario y optimizar nuestros servicios.",
+        "en": "Improve the user experience and optimize our services."
+    },
+    "privacy_list-3":{
+        "es": "Medir el tráfico del sitio web y analizar su rendimiento mediante herramientas de analítica como Google Analytics.",
+        "en": "Measure website traffic and analyze its performance using analytics tools such as Google Analytics."
+    },
+    "privacy_list-4":{
+        "es": "Enviar información relevante sobre productos y servicios, siempre que el usuario haya dado su consentimiento expreso.",
+        "en": "Send relevant information about products and services, provided that the user has given their express consent."
+    },
+    "privacy_list-5":{
+        "es": "Enviar comunicaciones relevantes solo con el consentimiento expreso del usuario, conforme a la CCPA y GDPR.",
+        "en": "Send relevant communications only with the express consent of the user, in accordance with the CCPA and GDPR."
+    },
+    "privacy_text-5":{
+        "es": "No compartimos la información personal de nuestros usuarios con terceros en ninguna circunstancia, salvo que exista una orden judicial o requerimiento de una autoridad competente.",
+        "en": "We do not share the personal information of our users with third parties under any circumstances, unless there is a court order or requirement from a competent authority."
+    },
+    "privacy_subtitle-3":{
+        "es": "3. Plataformas de CRM y Manejo de Datos",
+        "en": "3. CRM Platforms and Data Management"
+    },
+    "privacy_text-6":{
+        "es": "La información proporcionada a través de los formularios de contacto es gestionada mediante una plataforma de Customer Relationship Management (CRM). Esta plataforma nos permite administrar las comunicaciones con nuestros clientes de manera eficiente. La información contenida en la plataforma es privada y no será compartida con terceros en ninguna circunstancia. La información gestionada a través de plataformas de Customer Relationship Management (CRM) es privada y cumple con las normativas de protección de datos, como el GDPR y la CCPA. No será compartida con terceros sin autorización.",
+        "en": "The information provided through contact forms is managed through a Customer Relationship Management (CRM) platform. This platform allows us to manage communications with our clients efficiently. The information contained in the platform is private and will not be shared with third parties under any circumstances. The information managed through Customer Relationship Management (CRM) platforms is private and complies with data protection regulations, such as the GDPR and the CCPA. It will not be shared with third parties without authorization."
+    },
+    "privacy_subtitle-4":{
+        "es": "4. Cookies y Tecnologías Similares",
+        "en": "4. Cookies and Similar Technologies"
+    },
+    "privacy_text-7":{
+        "es": "Utilizamos cookies funcionales para el correcto funcionamiento del sitio web. Estas cookies permiten la navegación y el uso de funciones básicas del sitio.",
+        "en": "We use functional cookies for the proper functioning of the website. These cookies allow navigation and the use of basic site functions."
+    },
+    "privacy_list-6":{
+        "es": "No utilizamos cookies de terceros para rastrear a los usuarios con fines publicitarios.",
+        "en": "We do not use third-party cookies to track users for advertising purposes."
+    },
+    "privacy_list-7":{
+        "es": "No instalamos cookies de seguimiento bajo la justificación de 'interés legítimo' que rastreen la actividad del usuario en otros sitios.",
+        "en": "We do not install tracking cookies under the justification of 'legitimate interest' that track user activity on other sites."
+    },
+    "privacy_list-8":{
+        "es": "-Puedes configurar tu navegador para bloquear o eliminar cookies, aunque esto puede afectar la funcionalidad de algunas áreas de nuestro sitio web.",
+        "en": "-You can configure your browser to block or delete cookies, although this may affect the functionality of some areas of our website."
+    },
+    "privacy_subtitle-5":{
+        "es": "5. Herramientas de Analítica",
+        "en": "5. Analytics Tools"
+    },
+    "privacy_text-8":{
+        "es": "Utilizamos Google Analytics® y otras herramientas de analítica para recopilar información sobre el tráfico y la interacción de los usuarios con nuestro sitio web conforme a los estándares de anonimización de datos establecidos por la GDPR. Los datos recopilados son anónimos y se utilizan exclusivamente para mejorar el rendimiento del sitio. Estos datos no se comparten con terceros y no contienen información personal identificable.",
+        "en": "We use Google Analytics® and other analytics tools to collect information about traffic and user interaction with our website in accordance with the data anonymization standards established by the GDPR. The data collected is anonymous and is used exclusively to improve site performance. This data is not shared with third parties and does not contain personally identifiable information."
+    },
+    "privacy_subtitle-6":{
+        "es": "6. Protección de la Información",
+        "en": "6. Information Protection"
+    },
+    "privacy_text-9":{
+        "es": "Implementamos estrictas medidas de seguridad para proteger los datos personales de nuestros usuarios contra accesos no autorizados, alteraciones o pérdidas.",
+        "en": "We implement strict security measures to protect the personal data of our users against unauthorized access, alterations, or loss."
+    },
+    "privacy_text-10":{
+        "es": "Estas medidas garantizan que la información transferida a través de nuestro sitio esté encriptada y protegida durante su transmisión. No almacenamos datos de información financiera, como números de cuentas bancarias o tarjetas débito o crédito. En caso de que exista, la interacción de nuestros clientes con las plataformas de pago se hace directamente entre ellos y las plataformas de manera que nuestra web o sistemas no tienen interacción directa o indirecta con las transacciones.Implementamos medidas estrictas de seguridad, como el cifrado y el uso de certificados SSL de proveedores reconocidos. Esto asegura que los datos transferidos estén protegidos. No almacenamos datos financieros como números de tarjeta de crédito o cuentas bancarias. Las transacciones de pago se realizan directamente en plataformas seguras que cumplen con el ",
+        "en": "These measures ensure that the information transferred through our site is encrypted and protected during transmission. We do not store financial information, such as bank account numbers or debit or credit cards. In case it exists, the interaction of our clients with the payment platforms is done directly between them and the platforms so that our website or systems do not have direct or indirect interaction with the transactions. We implement strict security measures, such as encryption and the use of SSL certificates from recognized providers. This ensures that the transferred data is protected. We do not store financial data such as credit card numbers or bank accounts. Payment transactions are made directly on secure platforms that comply with the "
+    },
+    "privacy_link-3":{
+        "es": "Estándar de Seguridad de Datos de la Industria de Tarjetas de Pago (PCI DSS).",
+        "en": "Payment Card Industry Data Security Standard (PCI DSS)."
+    },
+    "privacy_subtitle-7":{
+        "es": "7. Período de Retención de Datos",
+        "en": "7. Data Retention Period"
+    },
+    "privacy_text-11":{
+        "es": "Retendremos la información personal de los usuarios durante un período de un año, salvo para los clientes activos, en cuyo caso la información será retenida mientras se mantenga la relación comercial. Una vez transcurrido dicho período, la información será eliminada de nuestros sistemas, salvo que exista una obligación legal que requiera su conservación. Esto se realiza conforme a la GDPR y la CCPA.",
+        "en": "We will retain the personal information of users for a period of one year, except for active clients, in which case the information will be retained as long as the business relationship is maintained. Once this period has elapsed, the information will be deleted from our systems, unless there is a legal obligation that requires its preservation. This is done in accordance with the GDPR and the CCPA."
+    },
+    "privacy_subtitle-8":{
+        "es": "8. Derechos de los Usuarios",
+        "en": "8. User Rights"
+    },
+    "privacy_text-12":{
+        "es": "Los usuarios tienen el derecho de acceder, corregir o eliminar su información personal en cualquier momento. Además, conforme a la GDPR y la CCPA, los usuarios pueden solicitar la portabilidad de sus datos o limitar su procesamiento.",
+        "en": "Users have the right to access, correct, or delete their personal information at any time. In addition, in accordance with the GDPR and the CCPA, users can request the portability of their data or limit its processing."
+    },
+    "privacy_text-13":{
+        "es": "Si deseas ejercer cualquiera de estos derechos, puedes contactarnos en info@youappfactory.app con el asunto ELIMINAR MI INFORMACIÓN y detallar que información requiere ser borrada, de no detallarse la información, será eliminada toda la información asociada con el correo electrónico relacionado.",
+        "en": "If you wish to exercise any of these rights, you can contact us at info@yourappfactory.com with the subject DELETE MY INFORMATION and detail what information needs to be deleted, if the information is not detailed, all information associated with the related email will be deleted."
+    },
+    "privacy_subtitle-9":{
+        "es": "9. Modificaciones a la Política de Privacidad",
+        "en": "9. Modifications to the Privacy Policy"
+    },
+    "privacy_text-14":{
+        "es": "Nos reservamos el derecho de modificar esta Política de Privacidad en cualquier momento, especialmente cuando sea necesario cumplir con nuevas normativas. Los cambios serán notificados a través del sitio web o por correo electrónico.",
+        "en": "We reserve the right to modify this Privacy Policy at any time, especially when it is necessary to comply with new regulations. Changes will be notified through the website or by email."
+    },
+    "privacy_subtitle-10":{
+        "es": "10. Jurisdicción",
+        "en": "10. Jurisdiction"
+    },
+    "privacy_text-15":{
+        "es": "Esta Política de Privacidad está sujeta a las leyes de los Estados Unidos y la Unión europea respecto del manejo de datos, seguridad y privacidad. Cualquier disputa que surja en relación con la privacidad será resuelta bajo la jurisdicción competente de acuerdo con la legislación aplicable.",
+        "en": "This Privacy Policy is subject to the laws of the United States and the European Union regarding data handling, security, and privacy. Any dispute arising in relation to privacy will be resolved under the competent jurisdiction in accordance with applicable law."
+    },
+    "auth_already_logged":{
+        "es": "Ya has iniciado sesión",
+        "en": "You are already logged in"
+    },
+    "auth_back_admin_btn":{
+        "es": "Volver al admin",
+        "en": "Back to admin page"
+    },
+    "auth_login_title":{
+        "es": "Iniciar sesión",
+        "en": "Log in"
+    },
+    "auth_login_email_label":{
+        "es": "Correo electrónico",
+        "en": "Email"
+    },
+    "auth_login_email_placeholder":{
+        "es": "Ingresa tu correo electrónico",
+        "en": "Enter your email"
+    },
+    "auth_login_password_label":{
+        "es": "Contraseña",
+        "en": "Password"
+    },
+    "auth_login_password_placeholder":{
+        "es": "Ingresa tu contraseña",
+        "en": "Enter your password"
+    },
+    "auth_login_submit_btn":{
+        "es": "Iniciar sesión",
+        "en": "Log in"
+    },
+    "auth_login_forgot_password":{
+        "es": "¿Olvidaste tu contraseña?",
+        "en": "Forgot your password?"
+    },
+    "auth_alert_email_required":{
+        "es": "El correo electrónico es requerido",
+        "en": "Email is required"
+    },
+    "auth_alert_email_invalid":{
+        "es": "El correo electrónico no es válido",
+        "en": "Email is not valid"
+    },
+    "auth_alert_password_required":{
+        "es": "La contraseña es requerida",
+        "en": "Password is required"
+    },
+    "auth_alert_name_required":{
+        "es": "El nombre es obligatorio",
+        "en": "Name is required"
+    },
+    "auth_alert_lastname_required":{
+        "es": "El apellido es obligatorio",
+        "en": "Lastname is required"
+    },
+    "auth_alert_password_match":{
+        "es": "Las contraseñas no coinciden",
+        "en": "Passwords do not match"
+    },
+    "auth_alert_password_weak":{
+        "es": "La contraseña debe tener al menos 8 caracteres, una letra mayúscula, una letra minúscula y un número",
+        "en": "Password must be at least 8 characters, one uppercase letter, one lowercase letter, and one number"
+    },
+    "auth_alert_password-old_required":{
+        "es": "La contraseña actual es requerida",
+        "en": "Current password is required"
+    },
+    "auth_alert_password_confirm_required":{
+        "es": "Confirmar la contraseña es obligatorio",
+        "en": "Confirm password is required"
+    },
+    "auth_alert_user-not-exist":{
+        "es": "El usuario no existe",
+        "en": "User does not exist"
+    },
+    "auth_alert_user-exist":{
+        "es": "El usuario ya existe",
+        "en": "User already exists"
+    },
+    "auth_alert_password_wrong":{
+        "es": "La contraseña es incorrecta",
+        "en": "Password is incorrect"
+    },
+    "auth_alert_level_required":{
+        "es": "El rol es requerido",
+        "en": "Role is required"
+    },
+    "admin_dashboard_title":{
+        "es": "Panel de control",
+        "en": "Dashboard"
+    },
+    "admin_users_title":{
+        "es": "Usuarios",
+        "en": "Users"
+    },
+    "admin_user_title":{
+        "es": "Usuario",
+        "en": "User"
+    },
+    "admin_users_total":{
+        "es": "Total de usuarios",
+        "en": "Total users"
+    },
+    "admin_role_select_default":{
+        "es": "Selecciona un rol",
+        "en": "Select a role"
+    },
+    "admin_promos_title":{
+        "en": "Current promo",
+        "es": "Promoción actual"
+    },
+    "admin_promos_subtitle":{
+        "en": "Promo for Desktop",
+        "es": "Promo para escritorio"
+    },
+    "admin_promos_subtitle_mobile":{
+        "en": "Promo for Mobile",
+        "es": "Promo para móvil"
+    },
+    "admin_edit_promo_title":{
+        "en": "Edit Promo",
+        "es": "Editar Promo"
+    },
+    "users_search_placeholder":{
+        "es": "Buscar usuarios",
+        "en": "Search users"
+    },
+    "users_new_submit_btn":{
+        "es": "Nuevo usuario",
+        "en": "New user"
+    },
+    "user_alert-user-updated":{
+        "es": "Usuario actualizado",
+        "en": "User updated"
+    },
+    "user_alert-user-error":{
+        "es": "Error al actualizar el usuario",
+        "en": "Error updating user"
+    },
+    "admin_new_user_title":{
+        "es": "Nuevo usuario",
+        "en": "New user"
+    },
+    "admin_edit_user_title":{
+        "es": "Editar usuario",
+        "en": "Edit user"
+    },
+    "admin_users_back_btn":{
+        "es": "Volver a usuarios",
+        "en": "Back to users"
+    },
+    "admin_users_new_legend":{
+        "es": "Crear nuevo usuario",
+        "en": "Create new user"
+    },
+    "admin_users_edit_legend":{
+        "es": "Editar usuario",
+        "en": "Edit user"
+    },
+    "admin_users_name_label":{
+        "es": "Nombre",
+        "en": "Name"
+    },
+    "admin_users_lastname_label":{
+        "es": "Apellido",
+        "en": "Lastname"
+    },
+    "admin_users_email_label":{
+        "es": "Correo electrónico",
+        "en": "Email"
+    },
+    "admin_users_password_label":{
+        "es": "Contraseña",
+        "en": "Password"
+    },
+    "admin_users_password_confirm_label":{
+        "es": "Confirmar contraseña",
+        "en": "Confirm password"
+    },
+    "admin_users_role_label":{
+        "es": "Rol",
+        "en": "Role"
+    },
+    "admin_users_submit_btn":{
+        "es": "Guardar",
+        "en": "Save"
+    },
+    "profile_title":{
+        "es": "Perfil",
+        "en": "Profile"
+    },
+    "profile_name_label":{
+        "es": "Nombre",
+        "en": "Name"
+    },
+    "profile_lastname_label":{
+        "es": "Apellido",
+        "en": "Lastname"
+    },
+    "profile_email_label":{
+        "es": "Correo electrónico",
+        "en": "Email"
+    },
+    "profile_password_label":{
+        "es": "Contraseña",
+        "en": "Password"
+    },
+    "profile_password_confirm_label":{
+        "es": "Confirmar contraseña",
+        "en": "Confirm password"
+    },
+    "update_btn":{
+        "es": "Actualizar",
+        "en": "Update"
+    },
+    "profile_alert-profile-updated":{
+        "es": "Perfil actualizado",
+        "en": "Profile updated"
+    },
+    "profile_alert-profile-error":{
+        "es": "Error al actualizar el perfil",
+        "en": "Error updating profile"
+    },
+    "learning-lounge_title":{
+        "es": "Learning Lounge",
+        "en": "Learning Lounge"
+    },
+    "builder_creation_app_title":{
+        "es": "Creación de Apps",
+        "en": "App Creation"
+    },
+    "builder_creation_app_text":{
+        "en": "Create Mobile Applications without programming, for any type of business and in a matter of minutes.",
+        "es": "Crea Aplicaciones Móviles sin programar, para cualquier tipo de negocio y en cuestión de minutos."
+    },
+    "builder_creation_funnels_title":{
+        "en": "Funnels and Pages Creation",
+        "es": "Creación de Funnels y Páginas"
+    },
+    "builder_creation_funnels_text":{
+        "en": "Create and manage all kinds of Pages, Online Stores and Sales Funnels by simply dragging and dropping elements with our user-friendly builder." ,
+        "es": "Crea y gestiona todo tipo de Páginas, Tiendas Online y Funnels de Ventas simplemente arrastrando y soltando elementos con nuestro constructor amigable."
+    },
+    "builder_back_btn_dashboard":{
+        "en": "Back to Dashboard",
+        "es": "Volver al Panel de Control"
+    },
+    "builder_back_btn_app-creation":{
+        "en": "Back to App Creation",
+        "es": "Volver a Creación de Apps"
+    },
+    "builder_creation_section_title-1":{
+        "en": "Examples and Step by Step Guides",
+        "es": "Ejemplos y Guías Paso a Paso"
+    },
+    "builder_creation_section_title-2":{
+        "en": "App Features",
+        "es": "Funcionalidades de la App"
+    },
+    "builder_creation_section_title-3":{
+        "en": "Publishing Apps",
+        "es": "Publicación de Apps"
+    },
+    "builder_creation_section_item-1":{
+        "es": "Diseñar la pantalla de inicio de una app",
+        "en": "Design the home screen of an app"
+    },
+    "builder_creation_section_item-2":{
+        "es": "Crear una app de marketplace",
+        "en": "Create a marketplace app"
+    },
+    "builder_creation_section_item-3":{
+        "en": "Create an App for gyms or fitness trainers",
+        "es": "Crea una App para gimnasios o entrenadores de fitness"
+    },
+    "builder_creation_section_item-4":{
+        "en": "Create an App for Courses",
+        "es": "Crea una App para Cursos"
+    },
+    "builder_creation_section_item-5":{
+        "en": "How to create ANY KIND of App",
+        "es": "Cómo crear CUALQUIER TIPO de App"
+    },
+    "builder_creation_section_item-6":{
+        "en": "Create an App for a store",
+        "es": "Crea una App para una tienda"
+    },
+    "builder_creation_section_item-7":{
+        "en": "How to build an App for a Restaurant",
+        "es": "Cómo construir una App para un Restaurante"
+    },
+    "builder_creation_section_item-8":{
+        "en": "Create an App for a Service based business (Clinics, Gyms ...)",
+        "es": "Crea una App para un negocio basado en servicios (Clínicas, Gimnasios...)"
+    },
+    "builder_creation_section_item-9":{
+        "en": "How to build an App for Events",
+        "es": "Cómo construir una App para Eventos"
+    },
+    "builder_creation_section_item-10":{
+        "en": "How to build a Directory App",
+        "es": "Cómo construir una App de Directorio"
+    },
+    "builder_creation_section_item-11":{
+        "en": "How to create an App for Attendance",
+        "es": "Cómo crear una App para Asistencia"
+    },
+    "promo_contact_btn":{
+        "en": "I want it!",
+        "es": "¡Lo quiero!"
+    },
+    "promo_close_btn":{
+        "en": "Close",
+        "es": "Cerrar"
+    },
+    "active":{
+        "es": "Activo",
+        "en": "Active"
+    },
+    "inactive":{
+        "es": "Inactivo",
+        "en": "Inactive"
+    },
+    "edit":{
+        "es": "Editar",
+        "en": "Edit"
+    },
+    "activate":{
+        "es": "Activar",
+        "en": "Activate"
+    },
+    "deactivate":{
+        "es": "Desactivar",
+        "en": "Deactivate"
+    },
+    "promo_alert-promo-updated":{
+        "es": "Promoción actualizada",
+        "en": "Promo updated"
+    },
+    "promo_alert-promo-error":{
+        "es": "Error al actualizar la promoción",
+        "en": "Error updating promo"
+    },
+    "promo_desktop_label":{
+        "es": "Promoción para escritorio",
+        "en": "Promo for Desktop"
+    },
+    "promo_mobile_label":{
+        "es": "Promoción para móvil",
+        "en": "Promo for Mobile"
+    },
+    "promo_submit_btn":{
+        "es": "Guardar",
+        "en": "Save"
+    },
+    "gym_main_title":{
+        "es": "Cómo crear una App para Gimnasios o Entrenadores",
+        "en": "How to create an App for Gyms or Trainers"
+    },
+    "gym_text-1":{
+        "es": "Si sigues los pasos de esta guía, en poco más de media hora contarás con una App Móvil para el sector del Fitness capaz de rivalizar con cualquier desarrollo a medida como el de las grandes empresas del sector.",
+        "en": "If you follow the steps in this guide, in just over half an hour you will have a Mobile App for the Fitness sector capable of competing with any custom development like that of the big companies in the sector."
+    },
+    "gym_text-2":{
+        "es": "En este ejemplo aprenderemos a configurar una App con:",
+        "en": "In this example we will learn to configure an App with:"
+    },
+    "gym_list-1":{
+        "es": "Información del gimnasio o entrenador",
+        "en": "Gym or trainer information"
+    },
+    "gym_list-2":{
+        "es": "Una sección de Preguntas Frecuentes",
+        "en": "A Frequently Asked Questions section"
+    },
+    "gym_list-3":{
+        "es": "Horario de Clases",
+        "en": "Class Schedule"
+    },
+    "gym_list-4":{
+        "es": "Reserva de Clases",
+        "en": "Class Booking"
+    },
+    "gym_list-5":{
+        "es": "Zona privada para acceder a la tabla o documentación personal de cada usuario",
+        "en": "Private area to access the table or personal documentation of each user"
+    },
+    "gym_list-6":{
+        "es": "Mensajes Push",
+        "en": "Push Messages"
+    },
+    "gym_text-3":{
+        "es": "Estas son las funciones que hemos escogido para nuestro ejemplo, pero lógicamente podrías añadir muchas otras si así lo deseas:",
+        "en": "These are the functions we have chosen for our example, but logically you could add many others if you wish:"
+    },
+    "gym_text-4":{
+        "es": "Chat, Formulario de Sugerencias, Formulario para Captar emails, Eventos, Tienda etc...",
+        "en": "Chat, Suggestions Form, Form to Capture emails, Events, Store etc..."
+    },
+    "gym_text-5":{
+        "es": "Si quieres ver el ejemplo que hemos creado en tu propio dispositivo, puedes escanear el siguiente Código QR:",
+        "en": "If you want to see the example we have created on your own device, you can scan the following QR Code:"
+    },
+    "gym_main_subtitle":{
+        "es": "Primeros Pasos",
+        "en": "First Steps"
+    },
+    "gym_text-6":{
+        "es": "Una vez en la pantalla de inicio de Scoreapps, en el menú lateral izquierdo encontrarás el icono con forma de 'a' del constructor de apps. Ahí podrás crear una nueva aplicación y darle nombre.",
+        "en": "Once on the Scoreapps home screen, in the left side menu you will find the 'a' shaped icon of the app builder. There you can create a new application and give it a name."
+    },
+    "gym_text-7":{
+        "es": "Una vez estés en la pantalla de administración de Apps, haz clic en 'Nueva App':",
+        "en": "Once you are on the App management screen, click on 'New App':"
+    },
+    "gym_text-8":{
+        "es": "Una vez hayas creado y puesto nombre a tu app, te aparecerá una pantalla en la que podrás elegir entre varias plantillas.",
+        "en": "Once you have created and named your app, you will see a screen where you can choose from several templates."
+    },
+    "gym_text-9":{
+        "es": "Son diseños predefinidos para que no partas de cero pero en realidad, después podrás modificar absolutamente todo. De hecho, podrás cambiar la plantilla que escojas ahora. Y si no te encaja ninguna, haz clic en 'Blank Template' para empezar de cero a diseñar tu App.",
+        "en": "They are predefined designs so you don't start from scratch but in reality, later you can modify absolutely everything. In fact, you can change the template you choose now. And if you don't like any of them, click on 'Blank Template' to start from scratch to design your App."
+    },
+    "gym_text-10":{
+        "es": "Para este ejemplo escogeremos una plantilla en blanco",
+        "en": "For this example we will choose a blank template"
+    },
+    "gym_text-11":{
+        "es": "El proceso de creación de Aplicaciones con Scoreapps es muy sencillo. Sólo tienes que ir siguiendo los pasos del constructor.",
+        "en": "The process of creating Apps with Scoreapps is very simple. You just have to follow the steps of the builder."
+    },
+    "gym_text-12":{
+        "es": "Estos pasos están representados en la barra de progreso que tendrás siempre a tu disposición en la parte superior del constructor y que te permitirá fácilmente navegar entre las distintas páginas, con sólo clicar encima del icono.",
+        "en": "These steps are represented in the progress bar that you will always have at your disposal at the top of the builder and that will allow you to easily navigate between the different pages, with just a click on the icon."
+    },
+    "gym_main_subtitle-2":{
+        "es": "Primer paso. Diseño de la App",
+        "en": "First step. App Design"
+    },
+    "gym_text-13":{
+        "es": "En la pestaña Diseño, encontrarás todas las opciones relacionadas con la información del menú y de la pantalla inicial de tu App.",
+        "en": "In the Design tab, you will find all the options related to the menu information and the home screen of your App."
+    },
+    "gym_text-14":{
+        "es": "La sección Opciones de Pantalla de Inicio muestra las opciones disponibles según el estilo de navegación (Layout) escogido. Debes tener en cuenta que cada estilo de navegación o Layout dispone de sus propios ajustes de configuración.",
+        "en": "The Home Screen Options section shows the available options according to the chosen navigation style (Layout). You should keep in mind that each navigation style or Layout has its own configuration settings."
+    },
+    "gym_text-15":{
+        "es": "Menú de elección del Layout",
+        "en": "Layout selection menu"
+    },
+    "gym_text-16":{
+        "es": "Para este aplicación, hemos escogido el layout 9. Este diseño de layout muestra el contenido de la primera función que hemos establecido en el menú. Un botón tipo hamburguesa desplegará lateralmente un menú dónde se mostrarán el resto de funciones.",
+        "en": "For this application, we have chosen layout 9. This layout design shows the content of the first function we have established in the menu. A hamburger button will display a side menu where the rest of the functions will be shown."
+    },
+    "gym_text-17":{
+        "es": "Como puedes observar, la pantalla inicial de nuestra aplicación muestra directamente la presentación del gimnasio en una página personalizada. Cómo configurar esta función lo veremos más adelante.",
+        "en": "As you can see, the home screen of our application directly shows the presentation of the gym on a personalized page. How to configure this function we will see later."
+    },
+    "gym_text-18":{
+        "es": "Estos son los parámetros de configuración que podrás ver en el constructor para este layout en concreto.",
+        "en": "These are the configuration parameters that you can see in the builder for this particular layout."
+    },
+    "gym_list-2-1":{
+        "es": "Puedes escoger si queres que se vean los títulos de las funciones en el menú.",
+        "en": "You can choose if you want the titles of the functions to be displayed in the menu."
+    },
+    "gym_list-2-2":{
+        "es": "Puedes configurar que los títulos se muestren en minúsculas o mayúsculas.",
+        "en": "You can configure the titles to be displayed in lowercase or uppercase."
+    },
+    "gym_list-2-3":{
+        "es": "Ancho sidebar: puedes establecer el tamaño del menú desplegable. Puedes configurarlo en base a un porcentaje respecto la pantalla o un ancho fijo de píxeles.",
+        "en": "Sidebar width: you can set the size of the drop-down menu. You can configure it based on a percentage of the screen or a fixed width in pixels."
+    },
+
+    "gym_text-19":{
+        "es": "La sección que se muestra a continuación, te ayuda a elegir una imagen para la pantalla de inicio que se vea bien en todos los dispositivos y ratios de pantalla. Usa la herramienta overlay (sombreado) para comprobar si la información importante de tu diseño queda dentro de las zonas seguras recomendadas en función de la orientación de pantalla para la que está diseñada tu App.",
+        "en": "The section shown below helps you choose an image for the home screen that looks good on all devices and screen ratios. Use the overlay tool to check if the important information in your design falls within the recommended safe zones based on the screen orientation for which your App is designed."
+    },
+
+    "gym_text-20":{
+        "es": "Asegúrate que los elementos que consideres importantes, queden dentro de la zona sin sombrear.",
+        "en": "Make sure that the elements you consider important are within the unshaded area."
+    },
+    "gym_text-21":{
+        "es": "Para saber cómo diseñar bien las imágenes puedes descargar la plantilla con las medidas, disponible tanto en formato .png como en .psd.",
+        "en": "To know how to design the images well you can download the template with the measurements, available in both .png and .psd format."
+    },
+    "gym_text-22":{
+        "es": "Veamos ahora un pequeño vídeo de 5 minutos para aprender a diseñar la Pantalla de Inicio de la Aplicación:",
+        "en": "Let's see a short 5-minute video now to learn how to design the App's Home Screen:"
+    },
+    "gym_text-23":{
+        "es": "Escoge el idioma en función de tu país y la moneda de tu aplicación. Se utilizará para diferentes aspectos, como la zona horaria y el símbolo de la moneda.",
+        "en": "Choose the language based on your country and the currency of your application. It will be used for different aspects, such as the time zone and the currency symbol."
+    },
+    "gym_text-24":{
+        "es": "Si quieres cambiar la fuente de tu app puedes seleccionar una de las que aparecen en el menú del constructor, o importar una desde Google Fonts. Para hacerlo es tan sencillo como escribir el nombre de la fuente.",
+        "en": "If you want to change the font of your app you can select one of those that appear in the builder menu, or import one from Google Fonts. To do this, it is as simple as writing the name of the font."
+    },
+    "gym_main_subtitle-3":{
+        "es": "Segundo paso. Colores",
+        "en": "Second step. Colors"
+    },
+    "gym_text-25":{
+        "es": "Elige los colores principales de la aplicación.",
+        "en": "Choose the main colors of the application."
+    },
+    "gym_list-3-1":{
+        "es": "General: aplica al fondo (si no hay una imagen específica) y al texto general.",
+        "en": "General: applies to the background (if there is no specific image) and general text."
+    },
+    "gym_list-3-2":{
+        "es": "Inicio: aplica al menú de navegación y a sus elementos.",
+        "en": "Home: applies to the navigation menu and its elements."
+    },
+    "gym_list-3-3":{
+        "es": "Cabecera: aplica a la cabecera de navegación de la app.",
+        "en": "Header: applies to the navigation header of the app."
+    },
+    "gym_list-3-4":{
+        "es": "Tarjeta: aplica a los elementos mostrados en formato tarjeta.",
+        "en": "Card: applies to elements displayed in card format."
+    },
+    "gym_list-3-5":{
+        "es": "Lista: aplica a los elementos mostrados en formato lista.",
+        "en": "List: applies to elements displayed in list format."
+    },
+    "gym_text-26":{
+        "es": "Además, si dispones de conocimientos de programación Web, en la parte inferior del panel encontrarás un espacio para poder introducir código CSS y así, personalizar al 100% los elementos de tu App.",
+        "en": "In addition, if you have knowledge of Web programming, at the bottom of the panel you will find a space to enter CSS code and thus, customize 100% of the elements of your App."
+    },
+    "gym_main_subtitle-4":{
+        "es": "Tercer paso. Funciones",
+        "en": "Third step. Functions"
+    },
+    "gym_text-27":{
+        "es": "Una vez diseñada la pantalla inicial y escogidos los colores principales de la Aplicación, vamos con la parte funcional.",
+        "en": "Once the home screen has been designed and the main colors of the Application have been chosen, let's go to the functional part."
+    },
+    "gym_text-28":{
+        "es": "Las plantillas incorporan de forma predeterminada algunas funciones que consideramos interesantes para cada sector. Puedes verlas en el carrusel de funciones. Pero si quieres eliminar alguna, sólo tendrás que darle a la “X”.",
+        "en": "The templates incorporate by default some functions that we consider interesting for each sector. You can see them in the function carousel. But if you want to remove any, you just have to click on the “X”."
+    },
+    "gym_text-29":{
+        "es": "Para que veas lo sencillo que es incorporar nuevas funciones a tu App, te mostramos este gif donde podrás ver cómo realizamos el proceso.",
+        "en": "To show you how easy it is to incorporate new functions into your App, we show you this gif where you can see how we do the process."
+    },
+    "gym_main_subtitle-5":{
+        "es": "'Altafitness' (Página Personalizada)",
+        "en": "'Altafitness' (Custom Page)"
+    },
+    "gym_text-30":{
+        "es": "Para esta app hemos configurado una página de presentación del gimnasio. Un espacio dónde hemos añadido el logotipo de la marca en la cabecera de la página, un 'claim', un video promocional y una imagen de presentación de las distintas actividades que se ofrecen.",
+        "en": "For this app we have configured a gym presentation page. A space where we have added the brand logo in the header of the page, a 'claim', a promotional video and an image presenting the different activities offered."
+    },
+    "gym_text-31":{
+        "es": "Esta funcionalidad te ofrece múltiples opciones para crear una página informativa. Puedes escribir un artículo con una imagen, puedes publicar una galería de fotos, puedes publicar un vídeo directamente en esta página y puedes agregar botones de llamada o un enlace a cualquier sitio web externo.",
+        "en": "This functionality offers you multiple options to create an informative page. You can write an article with an image, you can publish a photo gallery, you can publish a video directly on this page and you can add call buttons or a link to any external website."
+    },
+    "gym_main_subtitle-6":{
+        "es": "'Mi cuenta' (Mi cuenta)",
+        "en": "'My account' (My account)"
+    },
+    "gym_text-32":{
+        "es": "Esta función es muy sencilla, con sólo añadirla en tu menú, ya viene preconfigurada para que pueda funcionar. Edita los estilos y modifica alguna opción si es de tu preferencia.",
+        "en": "This function is very simple, just by adding it to your menu, it comes preconfigured to work. Edit the styles and modify some options if you prefer."
+    },
+    "gym_main_subtitle-7":{
+        "es": "'Preguntas Frecuentes' (Página Personalizada)",
+        "en": "'Frequently Asked Questions' (Custom Page)"
+    },
+    "gym_text-33":{
+        "es": "En esta sección, Altafitness responde a las preguntas más frecuentes que formulan los usuarios.",
+        "en": "In this section, Altafitness answers the most frequently asked questions from users."
+    },
+    "gym_text-34":{
+        "es": "La función que hemos utilizado es la de 'Página Personalizada', y se compone de una cabecera y texto.",
+        "en": "The function we have used is the 'Custom Page', and it consists of a header and text."
+    },
+    "gym_main_subtitle-8":{
+        "es": "'Horario Clases' (Página Personalizada)",
+        "en": "'Class Schedule' (Custom Page)"
+    },
+    "gym_text-35":{
+        "es": "En esta sección, se pueden consultar los horarios de las distintas actividades dirigidas. También hemos añadido la opción de poder descargarlos, por si algún usuario quiere imprimirlo, guardarlo en otro lugar, etc.",
+        "en": "In this section, you can check the schedules of the different directed activities. We have also added the option to download them, in case a user wants to print it, save it elsewhere, etc."
+    },
+    "gym_main_subtitle-9":{
+        "es": "'Reserva tu clase' (Reservas Pro)",
+        "en": "'Book your class' (Pro Reservations)"
+    },
+    "gym_text-36":{
+        "es": "Para un gimnasio, es fundamental disponer de un sistema de reserva de citas completo, eficaz y efectivo. Tus clientes van a poder reservar su cita desde su teléfono con sólo un cliq. La función Reservas Pro, no sólo va a permitir ésto, si no que enviará a tus clientes recordatorios de su cita, permitirá el previo pago de éstas, automatizará el sistema de puntos de fidelidad (función vinculada a 'Tarjeta de Fidelidad'), y mucho más.",
+        "en": "For a gym, it is essential to have a complete, efficient and effective appointment booking system. Your clients will be able to book their appointment from their phone with just one click. The Pro Reservations function will not only allow this, but will send your clients reminders of their appointment, allow for pre-payment of these, automate the loyalty points system (function linked to 'Loyalty Card'), and much more."
+    },
+    "gym_text-37":{
+        "es": "Cuando el usuario paga a través de diferentes modos de pago, las pasarelas de pago cobran al dueño del negocio por cada transacción, y si el consumidor canceló la reserva, en ese caso, los dueños de los negocios tienen que asumir todas las pérdidas. Para proteger estas pérdidas, Reservas Pro cuenta con una opción de 'Cancelación' a través de la cual, se pueden aplicar cargos por la cancelación de la reserva.",
+        "en": "When the user pays through different payment methods, the payment gateways charge the business owner for each transaction, and if the consumer canceled the reservation, in that case, the business owners have to assume all the losses. To protect these losses, Pro Reservations has a 'Cancellation' option through which cancellation charges can be applied."
+    },
+    "gym_text-38":{
+        "es": "Como administrador, podrás definir de forma sencilla los horarios de cierre y apertura de tus gimnasios o centros y establecer horarios específicos para cada uno de tus proveedores de servicios. ",
+        "en": "As an administrator, you can easily define the closing and opening hours of your gyms or centers and establish specific schedules for each of your service providers."
+    },
+    "gym_text-39":{
+        "es": "Para una experiencia de usuario más completa, ésta función también permite mostrar la distancia a la que se encuentran las distintas sucursales de su negocio en relación a la ubicación del usuario (Para ello es necesario ingresar correctamente una clave API de Google Maps desde el apartado del menú 'Claves API' > Configuración de Google Maps).",
+        "en": "For a more complete user experience, this function also allows you to show the distance to the different branches of your business in relation to the user's location (For this it is necessary to correctly enter a Google Maps API key from the 'API Keys' menu section > Google Maps Configuration)."
+    },
+    "gym_text-40":{
+        "es": "Veámos paso por paso cómo hemos configurado esta función para nuestro gimnasio.",
+        "en": "Let's see step by step how we have configured this function for our gym."
+    },
+    "gym_main_subtitle-10":{
+        "es": "Pestaña de ajustes",
+        "en": "Settings tab"
+    },
+    "gym_text-41":{
+        "es": "Visualiza este vídeo para ver las opciones de configuración de esta pestaña.",
+        "en": "Watch this video to see the configuration options of this tab."
+    },
+    "gym_text-42":{
+        "es": "A continuación puedes ver las configuraciones que hemos utilizado para nuestro gimasio.",
+        "en": "Below you can see the settings we have used for our gym."
+    },
+    "gym_main_subtitle-11":{
+        "es": "Pestaña de Pago",
+        "en": "Payment tab"
+    },
+    "gym_text-43":{
+        "es": "Para configurar las distintas opciones de pago, deberás seleccionar y rellenar los datos de las distintas plataformas. Por ejemplo, para el pago con tarjeta, deberás rellenar los datos de Stripe. Éstos los podrás encontrar en su página web.",
+        "en": "To configure the different payment options, you must select and fill in the data of the different platforms. For example, for payment by card, you must fill in the data of Stripe. You can find them on their website."
+    },
+    "gym_text-44":{
+        "es": "Si no sabes cómo obtener tus claves de Stripe, te dejamos el enlace a un artículo de su página web",
+        "en": "If you don't know how to get your Stripe keys, we leave you the link to an article on their website"
+    },
+    "gym_link-1":{
+        "es": "Aquí.",
+        "en": "Here."
+    },
+    "gym_text-45":{
+        "es": "Para nuestra app de gimnasio, al no tener coste las reservas de las clase, no configuramos ningún medio de pago.",
+        "en": "For our gym app, as the class reservations are free, we did not configure any payment method."
+    },
+    "gym_main_subtitle-12":{
+        "es": "Pestaña Carrusel",
+        "en": "Carousel tab"
+    },
+    "gym_text-46":{
+        "es": "Si lo deseas puedes añadir un carrusel de imágenes en la parte superior de la pantalla principal de la función Reservas Pro. Para ello debes haber marcado la casilla de verificación 'Mostrar Carrusel' en la pestaña 'Ajustes'.",
+        "en": "If you wish you can add an image carousel at the top of the main screen of the Pro Reservations function. To do this you must have checked the 'Show Carousel' checkbox in the 'Settings' tab."
+    },
+    "gym_text-47":{
+        "es": "Para añadir más imágenes al carrusel solo tienes que repetir de nuevo este proceso.",
+        "en": "To add more images to the carousel you just have to repeat this process again."
+    },
+    "gym_text-48":{
+        "es": "Recuerda que las imágenes deberán tener un tamaño de 512 x 320 píxeles.",
+        "en": "Remember that the images must have a size of 512 x 320 pixels."
+    },
+    "gym_text-49":{
+        "es": "En nuestra app de Altafitness no hemos añadido esta opción.",
+        "en": "In our Altafitness app we have not added this option."
+    },
+    "gym_main_subtitle-13":{
+        "es": "Integraciones",
+        "en": "Integrations"
+    },
+    "gym_text-50":{
+        "es": "Desde aquí puedes obtener la URL web y el código de inserción para usar la función de reservas donde quieras.",
+        "en": "From here you can get the web URL and the embed code to use the booking function wherever you want."
+    },
+    "gym_main_subtitle-14":{
+        "es": "Etiquetas",
+        "en": "Tags"
+    },
+    "gym_text-51":{
+        "es": "Desde aquí podrás modificar el texto de las distintas etiquetas del sistema, como por ejemplo sustituir el texto 'Proveedores' por 'Monitores'.",
+        "en": "From here you can modify the text of the different system tags, such as replacing the text 'Providers' with 'Monitors'."
+        
+    },
+    "gym_main_subtitle-15":{
+        "es": "Panel",
+        "en": "Panel"
+    },
+    "gym_text-52":{
+        "es": "Desde aquí puedes administrar los requisitos completos del sistema de reservas como crear y administrar las ubicaciones, los servicios o clases, los proveedores, gestionar las reservas, acceder al calendario y a Informes para analizar la recaudación de fondos a través de las reservas.",
+        "en": "From here you can manage the complete requirements of the reservation system such as creating and managing locations, services or classes, providers, managing reservations, accessing the calendar and Reports to analyze fundraising through reservations."
+    },
+    "gym_text-53":{
+        "es": "Nada mas acceder a esta sección encontrarás una gráfica que de forma predeterminada muestra información de la estimación de ingresos de la semana actual de lunes a domingo en orden creciente como se muestra en la imagen de arriba. Obtendrás información sobre el total de reservas confirmadas, ingresos de la semana hasta la fecha, ingresos proyectados (lo que significa el valor previsto de los ingresos, quepuede cambiar de acuerdo con el número final de reservas) y el ingreso total estimado.",
+        "en": "As soon as you access this section you will find a graph that by default shows information on the estimated income of the current week from Monday to Sunday in ascending order as shown in the image above. You will get information about the total confirmed reservations, income for the week to date, projected income (which means the expected value of the income, which can change according to the final number of reservations) and the total estimated income."
+    },
+    "gym_text-54":{
+        "es": "En el área de visualización de análisis gráfico del tablero, podrás identificar el total de reservas en la linea de color rojoy  las reservas completadas en la línea de color verde. El gráfico de análisis muestra los datos de un mes completo.",
+        "en": "In the graphical analysis display area of the dashboard, you can identify the total reservations in the red line and the completed reservations in the green line. The analysis chart shows the data for a full month."
+    },
+    "gym_main_subtitle-16":{
+        "es": "Ubicaciones, Categorías, Servicios y Proveedores",
+        "en": "Locations, Categories, Services and Providers"
+    },
+    "gym_text-55":{
+        "es": "Te mostramos las opciones de configuración de este panel.",
+        "en": "We show you the configuration options of this panel."
+    },
+    "gym_text-56":{
+        "es": "En nuestra app, hemos configurado la información de la siguiente manera.",
+        "en": "In our app, we have configured the information as follows."
+    },
+    "gym_text-57":{
+        "es": "En ubicaciones hemos configurado la situación geográfica del gimnasio, los datos de contacto y el horario de apertura y cierre. También hemos añadido una pequeña galería fotográfica.",
+        "en": "In locations we have configured the geographical location of the gym, contact details and opening and closing hours. We have also added a small photo gallery."
+    },
+    "gym_text-58":{
+        "es": "En Categorías hemos establecido las distintas tipologías de clase. Puedes organizar tus servicios de la forma que tu prefieras. Podríamos haber dividido las clases en 'Cardio', 'Relax' o 'Tonificación', por ejemplo.",
+        "en": "In Categories we have established the different types of class. You can organize your services in the way you prefer. We could have divided the classes into 'Cardio', 'Relax' or 'Toning', for example."
+    },
+    "gym_text-59":{
+        "es": "En servicios hemos detallado las distintas clases, a qué categoría pertenecen, su duración, el profesional que lo imparte, etc.",
+        "en": "In services we have detailed the different classes, to which category they belong, their duration, the professional who teaches it, etc."
+    },
+    "gym_text-60":{
+        "es": "En proveedores hemos configurado los datos de los profesionales que prestan sus servicios en el gimnasio dando clases colectivas.",
+        "en": "In providers we have configured the data of the professionals who provide their services in the gym by giving group classes."
+    },
+    "gym_text-61":{
+        "es": "Tenemos que tener en cuenta que cada servicio se da a ciertas horas puntuales, es decir, que la clase de Yoga se imparte el lunes a las 9:00, por ejemplo. Otra forma de enfocarlo es que la clase de yoga no está disponible todo el día, sólo el lunes a las 9:00, el martes a las 10:00, etc. por lo tanto, no podemos establecer que Megan, la profesora de Yoga, está disponible todo el lunes (aunque quizás Megan trabaje en otros momentos del día en la sala de musculación o en la recepción).",
+        "en": "We have to take into account that each service is given at certain specific times, that is, that the Yoga class is given on Monday at 9:00, for example. Another way to approach it is that the yoga class is not available all day, only on Monday at 9:00, Tuesday at 10:00, etc. therefore, we cannot establish that Megan, the Yoga teacher, is available all day Monday (although perhaps Megan works at other times of the day in the weight room or at the reception)."
+    },
+    "gym_text-62":{
+        "es": "Habrá que establecer una disponibilidad de Megan para el lunes a las 9:00, otra para el martes a las 10:00. Es decir, que la disponibilidad de los profesionales, estará sujeta a los horarios de las clases que ellos imparten.",
+        "en": "We will have to establish Megan's availability for Monday at 9:00, another for Tuesday at 10:00. That is, the availability of professionals will be subject to the schedules of the classes they teach."
+    },
+    "gym_text-63":{
+        "es": "Como sólo se puede establecer una franja horaria para cada día de la semana, puede darse el caso de que tengamos que repetir el perfil del profesional. En este nuevo perfil añadiremos el horario de la nueva clase.",
+        "en": "As only one time slot can be established for each day of the week, it may be the case that we have to repeat the profile of the professional. In this new profile we will add the schedule of the new class."
+    },
+    "gym_text-64":{
+        "es": "Por ejemplo: Megan imparte clase de Yoga el lunes a las 9:00 y el lunes a las 17:00. En el primer perfil de Megan deberá reflejarse la clase de las 9:00 y en el segundo, la clase de las 17:00. ",
+        "en": "For example: Megan teaches Yoga on Monday at 9:00 and Monday at 17:00. In Megan's first profile, the 9:00 class should be reflected and in the second, the 17:00 class."
+    },
+    "gym_text-65":{
+        "es": "En 'Servicios' de cada profesional, estableceremos las actividades que imparten.",
+        "en": "In 'Services' of each professional, we will establish the activities they teach."
+    },
+    "gym_main_subtitle-17":{
+        "es": "Reservas de Servicios",
+        "en": "Service Reservations"
+    },
+    "gym_text-66":{
+        "es": "En la sección Reservas de Servicios, puedes administrar todas las reservas pudiendo filtrar por Próximas / Hoy / Todas o agregar nuevas reservas.",
+        "en": "In the Service Reservations section, you can manage all reservations by filtering by Upcoming / Today / All or adding new reservations."
+    },
+    "gym_list-4-1":{
+        "es": "Selecciona Ubicación: Desde aquí puedes aplicar un filtro por ubicación seleccionando la ubicación en el menú desplegable.",
+        "en": "Select Location: From here you can apply a filter by location by selecting the location in the drop-down menu."
+    },
+    "gym_list-4-2":{
+        "es": "Selecciona Proveedor: Desde aquí puedes aplicar un filtro por proveedores seleccionando el proveedor del menú desplegable.",
+        "en": "Select Provider: From here you can apply a filter by providers by selecting the provider from the drop-down menu."
+    },
+    "gym_list-4-3":{
+        "es": "Selecciona Estado: Desde aquí puede aplicar un filtro según el estado de la reserva como: Aceptado, Pendiente, completado, Rechazado, etc. seleccionando el estado en el menú desplegable.",
+        "en": "Select Status: From here you can apply a filter according to the status of the reservation such as: Accepted, Pending, completed, Rejected, etc. by selecting the status in the drop-down menu."
+    },
+    "gym_list-4-4":{
+        "es": "ID: Desde la columna ID puede obtener el número de identificación único de la reserva.",
+        "en": "ID: From the ID column you can get the unique identification number of the reservation."
+    },
+    "gym_list-4-5":{
+        "es": "Cliente / Ubicación / Servicio: Desde esta columna puedes obtener los detalles sobre el nombre del cliente, la ubicación de la reserva y el servicio reservado por el cliente.",
+        "en": "Client / Location / Service: From this column you can get details about the client's name, the location of the reservation and the service reserved by the client."
+    },
+    "gym_list-4-6":{
+        "es": "Fecha: Desde esta columna puedes ver la fecha de la reserva.",
+        "en": "Date: From this column you can see the date of the reservation."
+    },
+    "gym_list-4-7":{
+        "es": "Slot: Desde esta columna puedes ver el detalle de duración del slot de la reserva.",
+        "en": "Slot: From this column you can see the slot duration detail of the reservation."
+    },
+    "gym_list-4-8":{
+        "es": "Importe: Desde esta columna puede ver el importe a cobrar por esa reserva en particular.",
+        "en": "Amount: From this column you can see the amount to be charged for that particular reservation."
+    },
+    "gym_list-4-9":{
+        "es": "Estado: Desde esta columna puedes ver el estado actual de la reserva.",
+        "en": "Status: From this column you can see the current status of the reservation."
+    },
+    "gym_list-4-10":{
+        "es": "Acción: Al hacer clic sobre el icono de los tres puntos, puedes administrar la reserva por completo:.",
+        "en": "Action: By clicking on the three dots icon, you can manage the reservation completely:."
+    },
+    "gym_list-4-10-1":{
+        "es": "Vista: Desde aquí puedes ver los detalles completos de la reserva, es decir: Reserva, Pago, Cliente y servicio.",
+        "en": "View: From here you can see the complete details of the reservation, that is: Reservation, Payment, Client and service."
+    },
+    "gym_list-4-10-2":{
+        "es": "Aceptar: Al hacer clic en 'Aceptar' aceptarás la reserva y se preparará para la entrega.",
+        "en": "Accept: By clicking on 'Accept' you will accept the reservation and it will be prepared for delivery."
+    },
+    "gym_list-4-10-3":{
+        "es": "Rechazar: Al hacer clic en 'Rechazar' rechazarás la solicitud de la reserva por parte del cliente.",
+        "en": "Reject: By clicking on 'Reject' you will reject the reservation request from the client."
+    },
+    "gym_list-4-10-4":{
+        "es": "Marcar como completado: Al hacer clic en 'Marcar como completado' se actualizará el estado de la reserva como completado.",
+        "en": "Mark as completed: By clicking on 'Mark as completed' the status of the reservation will be updated as completed."
+    },
+    "gym_list-4-10-5":{
+        "es": "Cancelar: Al hacer clic en 'Cancelar' se cancelará la reserva.",
+        "en": "Cancel: By clicking on 'Cancel' the reservation will be canceled."
+    },
+    "gym_list-4-10-6":{
+        "es": "Nota: El usuario tiene también podrá cancelar la reserva por su parte desde la aplicación.",
+        "en": "Note: The user can also cancel the reservation on his part from the application."
+    },
+    "gym_list-4-10-7":{
+        "es": "Eliminar: Al hacer clic en 'Eliminar' se eliminará la reserva de la plataforma.",
+        "en": "Delete: By clicking on 'Delete' the reservation will be deleted from the platform."
+    },
+    "gym_text-67":{
+        "es": "- Añadir Reservas: También puedes añadir reservas directamente desde la plataforma, para ello simplemente tienes que hacer clic en el botón azul 'Añadir reserva' y completar los datos necesarios.",
+        "en": "- Add Reservations: You can also add reservations directly from the platform, for this you just have to click on the blue 'Add reservation' button and complete the necessary data."
+    },
+    "gym_main_subtitle-18":{
+        "es": "Calendario",
+        "en": "Calendar"
+    },
+    "gym_text-68":{
+        "es": "Desde aquí puedes ver las reservas que se han realizado desde la aplicación de forma individual y y de todas las ubicaciones de tu negocio. También puedes gestionar la reservas directamente desde aquí ya que puedes Ver, Aceptar, Rechazar, Marcar como Completado, Cancelar y Eliminar la reserva.",
+        "en": "From here you can see the reservations that have been made from the application individually and from all the locations of your business. You can also manage reservations directly from here since you can View, Accept, Reject, Mark as Completed, Cancel and Delete the reservation."
+    },
+    "gym_main_subtitle-19":{
+        "es": "'Fit Plan' (Carpetas)",
+        "en": "'Fit Plan' (Folders)"
+    },
+    "gym_text-69":{
+        "es": "Hemos creado una sección exclusiva para los socios del gimnasio dónde podrán encontrar distintas tablas y rutinas de ejercicios. Esta sección estará controlada por la función 'Candado Pro', que explicaremos un poco más adelante.",
+        "en": "We have created an exclusive section for gym members where they can find different tables and exercise routines. This section will be controlled by the 'Pro Lock' function, which we will explain a little later."
+    },
+    "gym_text-70":{
+        "es": "Para crear este contenido hemos utilizado una función 'Carpetas'. Esta función tiene como objetivo contener y organizar dentro de ella otras funciones. Es decir, que a la función carpeta que hemos llamado 'Fit Plan' va a contener otras funciones, en este caso, una página personalizada, dónde se añadirán las tablas de ejercicios.",
+        "en": "To create this content we have used a 'Folders' function. This function aims to contain and organize other functions within it. That is, the folder function that we have called 'Fit Plan' will contain other functions, in this case, a custom page, where the exercise tables will be added."
+    },
+    "gym_text-71":{
+        "es": "Aquí te mostramos un video sobre la función Carpetas.",
+        "en": "Here we show you a video about the Folders function."
+    },
+    "gym_main_subtitle-20":{
+        "es": "'Gym en casa' (Página Personalizada)",
+        "en": "'Home Gym' (Custom Page)"
+    },
+    "gym_text-72":{
+        "es": "En esta página, que también es de acceso exclusivo para los socios del gimnasio, se muestran videos con clases guiadas para hacer en casa. Esta configurada a través de la función 'Página Personalizada' y está compuesta por textos y videos embebidos.",
+        "en": "On this page, which is also exclusively for gym members, videos with guided classes to do at home are shown. It is configured through the 'Custom Page' function and is composed of texts and embedded videos."
+    },
+    "gym_main_subtitle-21":{
+        "es": "'Share' (Candado Pro)",
+        "en": "'Share' (Pro Lock)"
+    },
+    "gym_text-73":{
+        "es": "Una vez creadas las páginas que queremos 'proteger' o restringir su acceso sólo a los socios del club, añadiremos la función 'Candado Pro'",
+        "en": "Once the pages we want to 'protect' or restrict access only to club members have been created, we will add the 'Pro Lock' function."
+    },
+    "gym_text-74":{
+        "es": "Seleccionaremos:",
+        "en": "We will select:"
+    },
+    "gym_list-5-1":{
+        "es": "Desbloqueo mediante: Cuenta",
+        "en": "Unlock by: Account"
+    },
+    "gym_list-5-2":{
+        "es": "Elige las funciones a bloquear: 'Fit Plan' y 'Gym en casa'",
+        "en": "Choose the functions to block: 'Fit Plan' and 'Home Gym'"
+    },
+    "gym_text-75":{
+        "es": "Una vez hayamos seleccionado estas opciones, pasaremos a asignar el acceso a cada usuario a su correspondiente página:",
+        "en": "Once we have selected these options, we will proceed to assign access to each user to their corresponding page:"
+    },
+    "gym_list-6-1":{
+        "es": "Selecciona a un cliente o socio del desplegable (aparecerán por su dirección de correo electrónico).",
+        "en": "Select a customer or partner from the drop-down list (they will appear by their email address)."
+    },
+    "gym_list-6-2":{
+        "es": "Selecciona el Rol al cual le das acceso, es decir, aquellas funciones a las que puede acceder. En este caso 'Fit Plan' y 'Gym en casa'",
+        "en": "Select the Role to which you give access, that is, those functions to which you can access. In this case 'Fit Plan' and 'Home Gym'"
+    },
+    "gym_text-76":{
+        "es": "En Fecha de expiración puedes seleccionar si quieres que esta acción expire. Si lo dejas en blanco no caducará.",
+        "en": "In Expiration Date you can select if you want this action to expire. If you leave it blank it will not expire."
+    },
+    "gym_text-77":{
+        "es": "Por último, como no queremos'Candado Pro' aparezca en el menú, desactivaremos esta opción.",
+        "en": "Finally, as we do not want 'Pro Lock' to appear in the menu, we will deactivate this option."
+    },
+    "gym_main_subtitle-22":{
+        "es": "Mensajes Push",
+        "en": "Push Messages"
+    },
+    "gym_text-78":{
+        "es": "Los mensajes o notificaciones Push son el sistema de marketing más eficiente que existe en la actualidad. Mientras que de cada 10 emails enviados 8 caen en las bandejas de SPAM, con los Mensajes Push ocurre lo contrario... el 99% son leídos.",
+        "en": "Push messages or notifications are the most efficient marketing system that exists today. While out of every 10 emails sent 8 fall into SPAM trays, with Push Messages the opposite happens... 99% are read."
+    },
+    "gym_text-79":{
+        "es": "Añadir esta potente herramienta a tu App es muy sencillo:",
+        "en": "Adding this powerful tool to your App is very simple:"
+    },
+    "gym_list-7-1":{
+        "es": "Debes incluir en la Aplicación la función 'Notificaciones Push'",
+        "en": "You must include the 'Push Notifications' function in the Application"
+    },
+    "gym_list-7-2":{
+        "es": "Para poder hacer uso de las Notificaciones Push, es necesario que la Aplicación en cuestión se encuentre publicada para las versiones nativas Android y/o iOS.",
+        "en": "To be able to use Push Notifications, it is necessary that the Application in question is published for the native Android and/or iOS versions."
+    },
+    "gym_text-80":{
+        "es": "Una vez que la aplicación haya sido publicada en App Store y/o Google Play, podrás enviar notificaciones directamente desde la propia función 'Notificaciones Push'.",
+        "en": "Once the application has been published in the App Store and/or Google Play, you can send notifications directly from the 'Push Notifications' function."
+    },
+    "gym_main_subtitle-23":{
+        "es": "Paso 4. Icono y ajustes de la Aplicación",
+        "en": "Step 4. Application icon and settings"
+    },
+    "gym_text-81":{
+        "es": "Desde aquí puedes elegir el icono que se mostrará en la pantalla del dispositivo del usuario, así como el diseño del botón 'volver'.",
+        "en": "From here you can choose the icon that will be displayed on the user's device screen, as well as the design of the 'back' button."
+    },
+    "gym_text-82":{
+        "es": "Si quieres enviar notificaciones push, aquí es donde puedes personalizar algunos aspectos, como el icono o el color de fondo.",
+        "en": "If you want to send push notifications, this is where you can customize some aspects, such as the icon or the background color."
+    },
+    "gym_text-83":{
+        "es": "Esta herramienta te ayudará a elegir una imagen de inicio que será compatible con todos los tamaños de pantalla de los diferentes dispositivos. Ésta se verá cuando se inicie la aplicación mientras se está cargando.",
+        "en": "This tool will help you choose a start image that will be compatible with all screen sizes of different devices. This will be seen when the application is started while it is loading."
+    },
+    "gym_main_subtitle-24":{
+        "es": "Paso 5. Avanzado",
+        "en": "Step 5. Advanced"
+    },
+    "gym_text-84":{
+        "es": "Si lo deseas, puedes monetizar tu aplicación agregando anuncios publicitarios o anuncios intersticiales que se mostrarán a los usuarios de tu aplicación. Para ello deberás configurar el sistema de publicidad Admob.",
+        "en": "If you wish, you can monetize your application by adding advertising banners or interstitial ads that will be shown to users of your application. To do this you must configure the Admob advertising system."
+    },
+    "gym_main_subtitle-25":{
+        "es": "Publicación de tu App",
+        "en": "Publishing your App"
+    },
+    "gym_text-85":{
+        "es": "En función de Plan (Starter, Business, Growth o Reseller) dispondrás de distintos tipos de Publicación:",
+        "en": "Depending on the Plan (Starter, Business, Growth or Reseller) you will have different types of Publication:"
+    },
+    "gym_list-8-1":{
+        "es": "Versión Nativa Android.",
+        "en": "Native Android version."
+    },
+    "gym_list-8-2":{
+        "es": "Versión Nativa iOS.",
+        "en": "Native iOS version."
+    },
+    "gym_list-8-3":{
+        "es": "Web app HTML5",
+        "en": "HTML5 Web app"
+    },
+    "gym_list-8-4":{
+        "es": "Modo PWA (Progressive Web App).",
+        "en": "PWA mode (Progressive Web App)."
+    },
+    "gym_text-86":{
+        "es": "Para publicar la versión nativa de tu App en Appstore o en Google Play, necesitas un plan Business, Growth o Reseller, mientras que la versión Web App y PWA puedes publicarlas con un plan Starter o incluso durante el Trial gratuito de 14 días.",
+        "en": "To publish the native version of your App in the Appstore or Google Play, you need a Business, Growth or Reseller plan, while the Web App and PWA version can be published with a Starter plan or even during the free 14-day Trial."
+    },
+    "go-back":{
+        "es": "Volver",
+        "en": "Go back"
+    },
+    "appindex_main_title":{
+        "es": "Cómo diseñar la pantalla de inicio o portada de una App",
+        "en": "How to design the home screen or cover of an App"
+    },
+    "appindex_text-1":{
+        "es": "En el video que te mostramos a continuación te explicamos cómo diseñar la pantalla de inicio de una App:",
+        "en": "In the video we show you below we explain how to design the home screen of an App:"
+    },
+    "marketplace_main_title":{
+        "es": "Cómo crear una App de Market Place",
+        "en": "How to create a Market Place App"
+    },
+    "marketplace_subtitle-1":{
+        "es": "¿Quieres crear un Market Place?",
+        "en": "Do you want to create a Market Place?"
+    },
+    "marketplace_text-1":{
+        "es": "Puedes crear 2 tipos de Marketplace:",
+        "en": "You can create 2 types of Marketplace:"
+    },
+    "marketplace_subtitle-2":{
+        "es": "1) Market Place de Clasificados o Anuncios",
+        "en": "1) Classified or Ad Market Place"
+    },
+    "marketplace_text-2":{
+        "es": "Los usuarios de la App podrán postear anuncios de sus productos o servicios y ofrecer al resto de usuarios información de contacto para formalizar la venta o prestación del servicio, o buscar productos o servicios que otros usuarios hayan posteado y contactar con ellos.",
+        "en": "App users will be able to post ads for their products or services and offer the rest of users contact information to formalize the sale or provision of the service, or search for products or services that other users have posted and contact them."
+    },
+    "marketplace_text-3":{
+        "es": "Puedes ver cómo hacerlo siguiendo",
+        "en": "You can see how to do it by following"
+    },
+    "marketplace_link-1":{
+        "es": "ESTA GUÍA",
+        "en": "THIS GUIDE"
+    },
+    "marketplace_subtitle-3":{
+        "es": "2) Market Place donde los usuarios de tu App podrán crear sus propias tiendas",
+        "en": "2) Market Place where the users of your App can create their own stores"
+    },
+    "marketplace_text-4":{
+        "es": "Los usuarios de la Aplicación podrán crear sus propias tiendas directamente desde la App y vender sus productos a otros usuarios de la App.",
+        "en": "App users will be able to create their own stores directly from the App and sell their products to other App users."
+    },
+    "marketplace_text-5":{
+        "es": "Puedes ver cómo hacerlo siguiendo",
+        "en": "You can see how to do it by following"
+    },
+    "marketplace_link-2":{
+        "es": "ESTA GUÍA",
+        "en": "THIS GUIDE"
+    },
+    "courses_main_title-1":{
+        "es": "Cómo crear una App de Cursos",
+        "en": "How to create a Courses App"
+    },
+    "courses_text-1":{
+        "es": "A la hora de construir una App para Infoproductos, en la que se establece una membresía, es muy importante incluir una sección de la App con una 'función código' para poder embeber el inicio de sesión a estos cursos.  Si ya se dispone de este Membership se puede enlazar directamente el Inicio de sesión. Para nuestro ejemplo, te vamos a mostrar cómo creamos una sección de membresía con nuestra Tecnología de Funnels y embeberemos el inicio de sesión del membership.",
+        "en": "When building an App for Infoproducts, in which a membership is established, it is very important to include a section of the App with a 'code function' to be able to embed the login to these courses. If you already have this Membership you can link directly to the Login. For our example, we will show you how we created a membership section with our Funnels Technology and we will embed the login of the membership."
+    },
+    "courses_text-2":{
+        "es": "En el siguiente vídeo te mostramos el gran valor que aporta contar con una APP en el ecosistema de venta de tus Infoproductos.",
+        "en": "In the following video we show you the great value of having an APP in the sales ecosystem of your Infoproducts."
+    },
+    "courses_subtitle-1":{
+        "es": "Construcción Área Membership",
+        "en": "Membership Area Construction"
+    },
+    "courses_subtitle-2":{
+        "es": "¿Qué es un área de tipo Membership?",
+        "en": "What is a Membership type area?"
+    },
+    "courses_text-3":{
+        "es": "Es un tipo de página web que alberga contenidos que sólo serán visibles para los clientes que les has dado un acceso específico, por ejemplo, una subscripción de pago a un curso online que está formado por distintos vídeos, como es el caso de nuestro ejemplo.",
+        "en": "It is a type of web page that hosts content that will only be visible to customers to whom you have given specific access, for example, a paid subscription to an online course that is made up of different videos, as is the case of our example."
+    },
+    "courses_text-4":{
+        "es": "Hemos creado un Funnel de ventas para una instructora de Yoga, Catherine Willgood. Éste se compone de cuatro pasos.",
+        "en": "We have created a sales Funnel for a Yoga instructor, Catherine Willgood. It consists of four steps."
+    },
+    "courses_text-5":{
+        "es": "1- En el primer paso del Funnel se ofrece la posibilidad de comprar un curso de Introducción al yoga. Se trata de una serie de vídeos que sólo serán accesibles a través de la compra de la membresía.",
+        "en": "1- In the first step of the Funnel, the possibility of buying an Introduction to yoga course is offered It is a series of videos that will only be accessible through the purchase of the membership."
+    },
+    "courses_text-6":{
+        "es": "2- Cuando se añade el Curso de yoga al carrito, en la página de resumen de compra, aparece la opción de añadir también el ebook de alimentación saludable, con sólo un click.",
+        "en": "2- When the Yoga Course is added to the cart, on the purchase summary page, the option to also add the healthy eating ebook appears, with just one click."
+    },
+    "courses_text-7":{
+        "es": "3- En el tercer paso del Funnel, cuando se pulsa el botón de comprar en la página de 'resumen de compra', se redirige al comprador a una página en la que se le informa que su pedido está a punto de procesarse, pero antes, se le ofrece la oportunidad de añadir el Curso Avanzado de yoga, a un precio muy especial. Esto se trata de un Up-selling, es decir, una estrategia de ventas que pretende incentivar a los clientes a adquirir una versión más sofisticada o moderna del producto que originariamente pretendian comprar.",
+        "en": "3- In the third step of the Funnel, when the buy button is pressed on the 'purchase summary' page, the buyer is redirected to a page where he is informed that his order is about to be processed, but before, he is offered the opportunity to add the Advanced Yoga Course, at a very special price. This is an Up-selling, that is, a sales strategy that aims to encourage customers to acquire a more sophisticated or modern version of the product they originally intended to buy."
+    },
+    "courses_text-8":{
+        "es": "44- El cuarto y último paso del funnel lo constituye la página de gracias, dónde además de agradecer la transacción realizada, se ofrece la descarga de la app, informando de todas las ventajas y beneficios que se pueden obtener.",
+        "en": "4- The fourth and final step of the funnel is the thank you page, where in addition to thanking for the transaction made, the download of the app is offered, informing of all the advantages and benefits that can be obtained."
+    },
+    "courses_text-9":{
+        "es": "De esta forma, los pasos del Funnel, quedan configurados de la siguiente manera en el constructor:",
+        "en": "In this way, the steps of the Funnel are configured as follows in the constructor:"
+    },
+    "courses_text-10":{
+        "es": "Las páginas que conformarán el Membership las construiremos a partir de éste cuarto paso. Por lo tanto, añadiremos un nuevo paso que lo constituirá la página de presentación del Curso de introducción al yoga. Te lo mostramos todo en el siguiente video:",
+        "en": "The pages that will make up the Membership will be built from this fourth step. Therefore, we will add a new step that will constitute the presentation page of the Introduction to yoga course. We show you everything in the following video:"
+    },
+    "courses_subtitle-3":{
+        "es": "Construcción de la APP",
+        "en": "Construction of the APP"
+    },
+    "courses_subtitle-4":{
+        "es": "Primeros Pasos",
+        "en": "First Steps"
+    },
+    "courses_text-11":{
+        "es": "Una vez en la pantalla de inicio de Scoreapps, en el menú lateral izquierdo encontrarás el icono con forma de 'a' del constructor de apps. Ahí podrás crear una nueva aplicación y darle nombre.",
+        "en": "Once on the Scoreapps home screen, in the left side menu you will find the 'a' shaped icon of the app builder. There you can create a new application and give it a name."
+    },
+    "courses_text-12":{
+        "es": "Una vez estés en la pantalla de administración de Apps, haz clic en 'Nueva App':",
+        "en": "Once you are on the App administration screen, click on 'New App':"
+    },
+    "courses_text-13":{
+        "es": "Una vez hayas creado y puesto nombre a tu app, te aparecerá una pantalla en la que podrás elegir entre varias plantillas.",
+        "en": "Once you have created and named your app, you will see a screen where you can choose from several templates."
+    },
+    "courses_text-14":{
+        "es": "Son diseños predefinidos para que no partas de cero pero en realidad, después podrás modificar absolutamente todo. De hecho, podrás cambiar la plantilla que escojas ahora. Y si no te encaja ninguna, haz clic en 'Blank Template' para empezar de cero a diseñar tu App.",
+        "en": "They are predefined designs so you don't start from scratch but in reality, later you can modify absolutely everything. In fact, you can change the template you choose now. And if you don't fit any, click on 'Blank Template' to start from scratch to design your App."
+    },
+    "courses_text-15":{
+        "es": "Para este ejemplo escogeremos una plantilla en blanco",
+        "en": "For this example we will choose a blank template"
+    },
+    "courses_text-16":{
+        "es": "El proceso de creación de Aplicaciones con Scoreapps es muy sencillo. Sólo tienes que ir siguiendo los pasos del constructor.",
+        "en": "The process of creating Applications with Scoreapps is very simple. You just have to follow the steps of the builder."
+    },
+    "courses_text-17":{
+        "es": "Estos pasos están representados en la barra de progreso que tendrás siempre a tu disposición en la parte superior del constructor y que te permitirá fácilmente navegar entre las distintas páginas, con sólo clicar encima del icono.",
+        "en": "These steps are represented in the progress bar that you will always have at your disposal at the top of the builder and that will allow you to easily navigate between the different pages, with just a click on the icon."
+    },
+    "courses_subtitle-5":{
+        "es": "Primer paso. Diseño de la App",
+        "en": "First step. App design"
+    },
+    "courses_text-18":{
+        "es": "En la pestaña Diseño, encontrarás todas las opciones relacionadas con la información del menú y de la pantalla inicial de tu App.",
+        "en": "In the Design tab, you will find all the options related to the information in the menu and the home screen of your App."
+    },
+    "courses_text-19":{
+        "es": "La sección Opciones de Pantalla de Inicio muestra las opciones disponibles según el estilo de navegación (Layout) escogido. Debes tener en cuenta que cada estilo de navegación o Layout dispone de sus propios ajustes de configuración.",
+        "en": "The Home Screen Options section shows the options available according to the chosen navigation style (Layout). You must take into account that each navigation style or Layout has its own configuration settings."
+    },
+    "courses_text-20":{
+        "es": "Menú de elección del Layout",
+        "en": "Layout selection menu"
+    },
+    "courses_text-21":{
+        "es": "Para este aplicación, hemos escogido el layout 95. Este diseño de layout muestra el contenido de la primera función que hemos establecido en el menú, con la posibilidad de establecer una imagen de cabecera. Para esta disposición, resulta especialmente atractivo mostrar el logotipo de la compañía. Un botón tipo hamburguesa desplegará lateralmente un menú dónde se mostrarán el resto de funciones.",
+        "en": "For this application, we have chosen layout 95. This layout design shows the content of the first function that we have established in the menu, with the possibility of establishing a header image. For this arrangement, it is especially attractive to show the company logo. A hamburger type button will display a menu where the rest of the functions will be shown laterally."
+    },
+    "courses_text-22":{
+        "es": "Como puedes observar, la pantalla inicial de nuestra aplicación muestra directamente la presentación de Catherine en una página personalizada. Cómo configurar esta función lo veremos más adelante.",
+        "en": "As you can see, the initial screen of our application directly shows Catherine's presentation on a custom page. How to configure this function we will see later."
+    },
+    "courses_text-23":{
+        "es": "Estos son los parámetros de configuración que podrás ver en el constructor para este layout en concreto.",
+        "en": "These are the configuration parameters that you can see in the builder for this particular layout."
+    },
+    "courses_list-1":{
+        "es": "Visibility of logo: puedes establecer si quieres que se vea o no tu logotipo.",
+        "en": "Visibility of logo: you can set whether you want your logo to be visible or not."
+    },
+    "courses_list-2":{
+        "es": "Ancho sidebar: puedes establecer el tamaño del menú desplegable. Puedes configurarlo en base a un porcentaje respecto la pantalla o un ancho fijo de píxeles.",
+        "en": "Sidebar width: you can set the size of the drop-down menu. You can configure it based on a percentage of the screen or a fixed width in pixels."
+    },
+    "courses_list-3":{
+        "es": "Logo URL: en este espacio deberás pegar el link que se generará en la herramienta para subir imágenes. Ésta se encuentra en el menú lateral izquierdo de tu pantalla. Para entrar deberás hacer clic en el siguiente icono.",
+        "en": "Logo URL: in this space you must paste the link that will be generated in the tool to upload images. It is located in the left side menu of your screen. To enter you must click on the following icon."
+    },
+    "courses_text-24":{
+        "es": "Te aparecerá la siguiente pantalla. En ella, sólo deberás arrastrar la imagen que deseas subir y automáticamente se generará el link.",
+        "en": "The following screen will appear. In it, you just have to drag the image you want to upload and the link will be generated automatically."
+    },
+    "courses_text-25":{
+        "es": "El tamaño de imagen no debe superar los 500KB. Cuánto menos pesen tus imágenes, más rápida será la carga de las imágenes y mejor será la experiencia de usuario al navegar por tu app.",
+        "en": "The image size should not exceed 500KB. The less your images weigh, the faster the images will load and the better the user experience will be when browsing your app."
+    },
+    "courses_text-26":{
+        "es": "La sección que vas a ver a continuación, te ayuda a elegir una imagen para la pantalla de inicio que se vea bien en todos los dispositivos y ratios de pantalla. Usa la herramienta overlay (sombreado) para comprobar si la información importante de tu diseño queda dentro de las zonas seguras recomendadas en función de la orientación de pantalla para la que está diseñada tu App.",
+        "en": "The section you will see next, helps you choose an image for the home screen that looks good on all devices and screen ratios. Use the overlay tool to check if the important information of your design fits within the recommended safe zones depending on the screen orientation for which your App is designed."
+    },
+    "courses_text-27":{
+        "es": "Asegúrate que los elementos que consideres importantes, queden dentro de la zona sin sombrear.",
+        "en": "Make sure that the elements you consider important are within the unshaded area."
+    },
+    "courses_text-28":{
+        "es": "Para saber cómo diseñar bien las imágenes puedes descargar la plantilla con las medidas, disponible tanto en formato .png como en .psd.",
+        "en": "To know how to design the images well you can download the template with the measurements, available in both .png and .psd format."
+    },
+    "courses_text-29":{
+        "es": "Veamos ahora un pequeño vídeo de 5 minutos para aprender a diseñar la Pantalla de Inicio de la Aplicación:",
+        "en": "Let's now watch a short 5-minute video to learn how to design the Application's Home Screen:"
+    },
+    "courses_text-30":{
+        "es": "Escoge el idioma en función de tu país y la moneda de tu aplicación. Se utilizará para diferentes aspectos, como la zona horaria y el símbolo de la moneda.",
+        "en": "Choose the language according to your country and the currency of your application. It will be used for different aspects, such as the time zone and the currency symbol."
+    },
+    "courses_text-31":{
+        "es": "Para cambiar la fuente de tu app puedes seleccionar una de las que aparecen en el menú del constructor, o importar una desde Google Fonts. Para hacerlo es tan sencillo como escribir el nombre de la fuente.",
+        "en": "To change the font of your app you can select one of the ones that appear in the builder menu, or import one from Google Fonts. To do this is as simple as writing the name of the font."
+    },
+    "courses_subtitle-6":{
+        "es": "Segundo paso. Colores",
+        "en": "Second step. Colors"
+    },
+    "courses_text-32":{
+        "es": "Elige los colores principales de la aplicación.",
+        "en": "Choose the main colors of the application."
+    },
+    "courses_list-2-1":{
+        "es": "General: aplica al fondo (si no hay una imagen específica) y al texto general.",
+        "en": "General: applies to the background (if there is no specific image) and to the general text."
+    },
+    "courses_list-2-2":{
+        "es": "Inicio: aplica al menú de navegación y a sus elementos.",
+        "en": "Home: applies to the navigation menu and its elements."
+    },
+    "courses_list-2-3":{
+        "es": "Cabecera: aplica a la cabecera de navegación de la app.",
+        "en": "Header: applies to the navigation header of the app."
+    },
+    "courses_list-2-4":{
+        "es": "Tarjeta: aplica a los elementos mostrados en formato tarjeta.",
+        "en": "Card: applies to the elements shown in card format."
+    },
+    "courses_list-2-5":{
+        "es": "Lista: aplica a los elementos mostrados en formato lista.",
+        "en": "List: applies to the elements shown in list format."
+    },
+    "courses_text-33":{
+        "es": "Además, si dispones de conocimientos de programación Web, en la parte inferior del panel encontrarás un espacio para poder introducir código CSS y así, personalizar al 100% los elementos de tu App.",
+        "en": "In addition, if you have knowledge of Web programming, at the bottom of the panel you will find a space to enter CSS code and thus, customize 100% the elements of your App."
+    },
+    "courses_subtitle-7":{
+        "es": "Tercer paso. Funciones",
+        "en": "Third step. Functions"
+    },
+    "courses_text-34":{
+        "es": "Una vez diseñada la pantalla inicial y escogidos los colores principales de la Aplicación, vamos con la parte funcional.",
+        "en": "Once the home screen has been designed and the main colors of the Application have been chosen, let's go with the functional part."
+    },
+    "courses_text-35":{
+        "es": "Las plantillas incorporan de forma predeterminada algunas funciones que consideramos interesantes para cada sector. Puedes verlas en el carrusel de funciones. Pero si quieres eliminar alguna, sólo tendrás que darle a la “X”. "
+    },
+    "courses_text-36":{
+        "es": "Para que veas lo sencillo que es incorporar nuevas funciones a tu App, te mostramos este gif donde podrás ver cómo realizamos el proceso.",
+        "en": "To show you how easy it is to incorporate new functions into your App, we show you this gif where you can see how we do the process."
+    },
+    "courses_subtitle-8":{
+        "es": "'The Coach' y 'The Course' (Página Personalizada)",
+        "en": "'The Coach' and 'The Course' (Custom Page)"
+    },
+    "courses_text-37":{
+        "es": "Para esta app hemos configurado una página de presentación de la instructora y del curso de yoga que ofrece.",
+        "en": "For this app we have configured a presentation page of the instructor and the yoga course she offers."
+    },
+    "courses_text-38":{
+        "es": "Esta funcionalidad te ofrece múltiples opciones para crear una página informativa. Puedes escribir un artículo con una imagen, puedes publicar una galería de fotos, puedes publicar un vídeo directamente en esta página y puedes agregar botones de llamada o un enlace a cualquier sitio web externo.",
+        "en": "This functionality offers you multiple options to create an informative page. You can write an article with an image, you can publish a photo gallery, you can publish a video directly on this page and you can add call buttons or a link to any external website."
+    },
+    "courses_subtitle-9":{
+        "es": "'Yoga trainning' (Enlace)",
+        "en": "'Yoga trainning' (Link)"
+    },
+    "courses_text-39":{
+        "es": "En esta sección hemos embebido el acceso al curso de Introducción al Yoga que hemos creado al principio del video. Como la página creada es de tipo responsive, en las plataformas móviles tiene una perfecta visualización. De esta forma, los usuarios podrán seguir el curso desde cualquier lugar e incrementar así, las tasas de éxito y de finalización al curso.",
+        "en": "In this section we have embedded access to the Introduction to Yoga course that we created at the beginning of the video. As the created page is responsive, on mobile platforms it has a perfect visualization. In this way, users can follow the course from anywhere and thus increase the success and completion rates of the course."
+    },
+    "courses_text-40":{
+        "es": "Para opder realizar esta acción hemos utilizado la función 'enlace'. Es muy sencilla de utilizar, te lo mostramos en el siguiente video.",
+        "en": "To be able to perform this action we have used the 'link' function. It is very easy to use, we show you in the following video."
+    },
+    "courses_text-41":{
+        "es": "Recuerda que el link que se tiene que embeber es el de la página de Inicio de Sesión o Acceso a miembros.",
+        "en": "Remember that the link to be embedded is the Login or Member Access page."
+    },
+    "courses_subtitle-10":{
+        "es": "'Weekly Masterclass' (Página Personalizada)",
+        "en": "'Weekly Masterclass' (Custom Page)"
+    },
+    "courses_text-42":{
+        "es": "En esta sección, Catherine Willgood ofrece contenido de tipo semanal sólo para los usuarios de su app.",
+        "en": "In this section, Catherine Willgood offers weekly content only for users of her app."
+    },
+    "courses_text-43":{
+        "es": "La función que hemos utilizado es la de 'Página Personalizada', la misma que hemos utilizado al principio en la sección 'The Coach' y 'The Course'."
+    },
+    "courses_subtitle-11":{
+        "es": "'Social Wall' (Muro Social)",
+        "en": "'Social Wall'"
+    },
+    "courses_text-44":{
+        "es": "El objetivo de esta sección es generar comunidad y engagement. Desde esta sección sus usuarios podrán postear comentarios, compartir experiencias con otros usuarios o abordar cualquier consulta con el mundo del yoga.",
+        "en": "The objective of this section is to generate community and engagement. From this section its users can post comments, share experiences with other users or address any questions with the world of yoga."
+    },
+    "courses_subtitle-12":{
+        "es": "'Upcoming events' (Calendario eventos)",
+        "en": "'Upcoming events'"
+    },
+    "courses_text-45":{
+        "es": "Desde esta sección, Catherine Willgood mantiene informados a sus usuarios de todos sus eventos o webinars.",
+        "en": "From this section, Catherine Willgood keeps her users informed of all her events or webinars."
+    },
+    "courses_text-46":{
+        "es": "Para construirla hemos utilizado la función  'Calendario de eventos'.",
+        "en": "To build it we have used the 'Events Calendar' function."
+    },
+    "courses_text-47":{
+        "es": "En este video puedes ver paso a paso cómo configurar esta función.",
+        "en": "In this video you can see step by step how to configure this function."
+    },
+    "courses_subtitle-13":{
+        "es": "'Yoga Playlist' (Audio & Music)",
+        "en": "'Yoga Playlist' (Audio & Music)"
+    },
+    "courses_text-48":{
+        "es": "La app también cuenta con una playlist de música de yoga. De esta forma los usuarios de Catherine pueden disfrutar de música exclusivamente seleccionada por ella.",
+        "en": "The app also has a yoga music playlist. In this way, Catherine's users can enjoy music exclusively selected by her."
+    },
+    "courses_text-49":{
+        "es": "Para poder configurar esta función, hemos seleccionado 'Audio & Music'.",
+        "en": "To be able to configure this function, we have selected 'Audio & Music'."
+    },
+    "courses_text-50":{
+        "es": "Hemos creado cuatro playlists: 'Yoga playlist', 'Meditation playlist', 'Sounds of Nature' y 'Tibetian Bells'.",
+        "en": "We have created four playlists: 'Yoga playlist', 'Meditation playlist', 'Sounds of Nature' and 'Tibetian Bells'."
+    },
+    "courses_text-51":{
+        "es": "Para conocer mejor cómo configurar esta función, puedes ver el siguiente video paso a paso:",
+        "en": "To better understand how to configure this function, you can watch the following step-by-step video:"
+    },
+    "courses_subtitle-14":{
+        "es": "'SHOP' (Tienda / Delivery)",
+        "en": "'SHOP' (Store / Delivery)"
+    },
+    "courses_text-52":{
+        "es": "Desde esta sección Catherine Willgood vende productos con su branding. Los usuarios de la app podrán comprar de forma rápida y sencilla todos los articulos que puedan necesitar para sus ejercicios de yoga.",
+        "en": "From this section Catherine Willgood sells products with her branding. App users can quickly and easily buy all the items they may need for their yoga exercises."
+    },
+    "courses_text-53":{
+        "es": "Esta función te permite crear una o varias tiendas, poner a la venta todos tus productos por categorías, mostrando los precios, las tallas, opciones de productos, etc. y personalizar las opciones de venta, entrega o envío. Asimismo, podrás configurar varias opciones de pago y descuentos.",
+        "en": "This function allows you to create one or more stores, put all your products up for sale by categories, showing prices, sizes, product options, etc. and customize sales, delivery or shipping options. Likewise, you can configure various payment and discount options."
+    },
+    "courses_text-54":{
+        "es": "En nuestra app, primero hemos configurado la tienda. En este caso, se trata sólo de una tienda online y no dispone de una dirección concreta. Si se diera el caso contario, esta tienda estaría geolocalizada y su ubicación se mostraría en el mapa (su funcionamiento requiere añadir una clave API de Google Maps).",
+        "en": "In our app, we have first configured the store. In this case, it is only an online store and does not have a specific address. If the opposite were the case, this store would be geolocated and its location would be shown on the map (its operation requires adding a Google Maps API key)."
+    },
+    "courses_text-55":{
+        "es": "En la sección de 'Categorías', hemos establecido las siguientes:",
+        "en": "In the 'Categories' section, we have established the following:"
+    },
+    "courses_text-56":{
+        "es": "Y por último, te mostramos cómo se ve en la pantalla del constructor, todos los productos una vez añadidos.",
+        "en": "And finally, we show you how all the products look on the builder screen once added."
+    },
+    "courses_text-57":{
+        "es": "Para aprender paso a paso cómo configurar todas opciones de la función 'tienda/delivery', te lo mostramos en el siguiente vídeo.",
+        "en": "To learn step by step how to configure all options of the 'store/delivery' function, we show you in the following video."
+    },
+    "courses_subtitle-15":{
+        "es": "'Newsletter' (Temas)",
+        "en": "'Newsletter' (Topics)"
+    },
+    "courses_text-58":{
+        "es": "Esta sección permite a los usuarios de Catherine Willgood subscribirse a su newsletter para mantenerse informados de todo lo que les interesa.",
+        "en": "This section allows Catherine Willgood's users to subscribe to her newsletter to stay informed about everything that interests them."
+    },
+    "courses_text-59":{
+        "es": "La función que hemos utilizado es 'Temas'.",
+        "en": "The function we have used is 'Topics'."
+    },
+    "courses_text-60":{
+        "es": "Hemos creado una descripción, en este caso, acompañada de una fotografía.",
+        "en": "We have created a description, in this case, accompanied by a photograph."
+    },
+    "courses_text-61":{
+        "es": "Y luego hemos establecido los distintos temas de interés a los que se pueden subscribir los usuarios.",
+        "en": "And then we have established the different topics of interest to which users can subscribe."
+    },
+    "courses_text-62":{
+        "es": "Para aprender paso a paso cómo configurar todas opciones de la función 'temas', te lo mostramos en el siguiente vídeo.",
+        "en": "To learn step by step how to configure all options of the 'topics' function, we show you in the following video."
+    },
+    "courses_subtitle-16":{
+        "es": "'Yogui Food' (Carpetas)",
+        "en": "'Yogui Food' (Folders)"
+    },
+    "courses_text-63":{
+        "es": "Hemos creado también una secció dedicada a la alimentación yogui con recetas y consejos alimenticios exclusivos para usuarios de la app.",
+        "en": "We have also created a section dedicated to yogi food with recipes and exclusive food tips for app users."
+    },
+    "courses_text-64":{
+        "es": "Hemos utilizado una función 'Carpetas'. Esta función tiene como objetivo contener y organizar dentro de ella otras funciones. Es decir, que a la función carpeta que hemos llamado 'Yogui Food' va a contener otras funciones, en este caso, páginas personalizadas, que recibirán el título de cada una de las recetas.",
+        "en": "We have used a 'Folders' function. This function aims to contain and organize other functions within it. That is, the folder function that we have called 'Yogui Food' will contain other functions, in this case, custom pages, which will receive the title of each of the recipes."
+    },
+    "courses_text-65":{
+        "es": "Aquí te mostramos un video sobre la función Carpetas.",
+        "en": "Here we show you a video about the Folders function."
+    },
+    "courses_subtitle-17":{
+        "es": "'Contact us' (Form V2)",
+        "en": "'Contact us' (Form V2)"
+    },
+    "courses_text-66":{
+        "es": "La aplicación cuanta con un formulario de contacto para que Catherine Willgood pueda resolver cualquier tipo de duda o consulta de los usuarios de su comunidad.",
+        "en": "The application has a contact form so that Catherine Willgood can resolve any questions or queries from the users of her community."
+    },
+    "courses_text-67":{
+        "es": "Para crear la sección de Suggerencias, hemos utilizado la función de Formulario.",
+        "en": "To create the Suggestions section, we have used the Form function."
+    },
+    "courses_text-68":{
+        "es": "Para obtener un formulario como el de la imagen, hemos seguido la siguiente secuencia de campos.",
+        "en": "To get a form like the one in the image, we have followed the following sequence of fields."
+    },
+    "courses_text-69":{
+        "es": "Si quieres aprender cómo utilizar esta función paso a paso, visualiza el siguiente video.",
+        "en": "If you want to learn how to use this function step by step, watch the following video."
+    },
+    "courses_text-70":{
+        "es": "Haz clic en este enlace y podrás ver un artículo paso a paso de la función",
+        "en": "Click on this link and you can see a step-by-step article of the function"
+    },
+    "courses_link-1":{
+        "es": "'Formulario'",
+        "en": "'Form'"
+    },
+    "courses_subtitle-18":{
+        "es": "'Share' (Share app)",
+        "en": "'Share' (Share app)"
+    },
+    "courses_text-71":{
+        "es": "La app también cuenta con una sección, a través de la cual, los usuarios pueden compartir la aplicación de forma rápida y sencilla con familiares, amigos, etc. generano así, una mayor viralización de la app.",
+        "en": "The app also has a section, through which, users can quickly and easily share the application with family, friends, etc. generating a greater viralization of the app."
+    },
+    "courses_text-72":{
+        "es": "La función 'Share app' permite a tus usuarios compartir la App con sólo dar a un botón. Puedes configurar el mensaje y el texto del botón, para una experiencia más personalizada.",
+        "en": "The 'Share app' function allows your users to share the App with just one button. You can configure the message and the button text, for a more personalized experience."
+    },
+    "courses_text-73":{
+        "es": "Si quieres aprender cómo utilizar esta función, puedes visualizar el siguiente video.",
+        "en": "If you want to learn how to use this function, you can watch the following video."
+    },
+    "courses_subtitle-19":{
+        "es": "'Instagram' (Enlace)",
+        "en": "'Instagram' (Link)"
+    },
+    "courses_text-74":{
+        "es": "Esta sección es muy sencilla. Para integrar tu página de Instagram en la app, hemos utilizado la función enlace. Sólo tendrás que copiar el enlace de tu página de Instagram en el campo de nuestro constructor y tu página quedará conectada.",
+        "en": "This section is very simple. To integrate your Instagram page into the app, we have used the link function. You just have to copy the link to your Instagram page in the field of our builder and your page will be connected."
+    },
+    "courses_subtitle-20":{
+        "es": "Mensajes Push",
+        "en": "Push Messages"
+    },
+    "courses_text-75":{
+        "es": "Los mensajes o notificaciones Push son el sistema de marketing más eficiente que existe en la actualidad. Mientras que de cada 10 emails enviados 8 caen en las bandejas de SPAM, con los Mensajes Push ocurre lo contrario... el 99% son leídos.",
+        "en": "Push messages or notifications are the most efficient marketing system that exists today. While out of every 10 emails sent 8 fall into SPAM trays, with Push Messages the opposite happens... 99% are read."
+    },
+    "courses_text-76":{
+        "es": "Para enviar un mensaje Push, sólo tienes que ir a la sección de 'Mensajes Push' y hacer clic en 'Nuevo Mensaje'..",
+        "en": "To send a Push message, you just have to go to the 'Push Messages' section and click on 'New Message'.."
+    },
+    "courses_list-3-1":{
+        "es": "Debes incluir en la Aplicación la función 'Notificaciones Push'",
+        "en": "Select the type of message you want to send: Push or In-App."
+    },
+    "courses_list-3-2":{
+        "es": "Para poder hacer uso de las Notificaciones Push, es necesario que la Aplicación en cuestión se encuentre publicada para las versiones nativas Android y/o iOS.",
+        "en": "To be able to use Push Notifications, it is necessary that the Application in question is published for the native Android and/or iOS versions."
+    },
+    "courses_text-77":{
+        "es": "Una vez que la aplicación haya sido publicada en App Store y/o Google Play, podrás enviar notificaciones directamente desde la propia función 'Notificaciones Push'."
+    },
+    "courses_subtitle-21":{
+        "es": "Paso 4. Icono y ajustes de la Aplicación",
+        "en": "Step 4. Application icon and settings"
+    },
+    "courses_text-78":{
+        "es": "Desde aquí puedes elegir el icono que se mostrará en la pantalla del dispositivo del usuario, así como el diseño del botón 'volver'.",
+        "en": "From here you can choose the icon that will be displayed on the user's device screen, as well as the design of the 'back' button."
+    },
+    "courses_text-79":{
+        "es": "Si quieres enviar notificaciones push, aquí es donde puedes personalizar algunos aspectos, como el icono o el color de fondo.",
+        "en": "If you want to send push notifications, here is where you can customize some aspects, such as the icon or the background color."
+    },
+    "courses_text-80":{
+        "es": "Esta herramienta te ayudará a elegir una imagen de inicio que será compatible con todos los tamaños de pantalla de los diferentes dispositivos. Ésta se verá cuando se inicie la aplicación mientras se está cargando.",
+        "en": "This tool will help you choose a start image that will be compatible with all screen sizes of different devices. This will be seen when the application is started while it is loading."
+    },
+    "courses_subtitle-22":{
+        "es": "Paso 5. Avanzado",
+        "en": "Step 5. Advanced"
+    },
+    "courses_text-81":{
+        "es": "Si lo deseas, puedes monetizar tu aplicación agregando anuncios publicitarios o anuncios intersticiales que se mostrarán a los usuarios de tu aplicación. Para ello deberás configurar el sistema de publicidad Admob.",
+        "en": "If you wish, you can monetize your application by adding advertising banners or interstitial ads that will be shown to users of your application. To do this you will need to configure the Admob advertising system."
+    },
+    "courses_subtitle-23":{
+        "es": "Publicación de tu App",
+        "en": "Publishing your App"
+    },
+    "courses_text-82":{
+        "es": "En función de Plan (Starter, Business, Growth o Reseller) dispondrás de distintos tipos de Publicación:",
+        "en": "Depending on the Plan (Starter, Business, Growth or Reseller) you will have different types of Publication:"
+    },
+    "courses_list-4-1":{
+        "es": "Versión Nativa Android.",
+        "en": "Native Android version."
+    },
+    "courses_list-4-2":{
+        "es": "Versión Nativa iOS.",
+        "en": "Native iOS version."
+    },
+    "courses_list-4-3":{
+        "es": "Web app HTML5.",
+        "en": "HTML5 Web app."
+    },
+    "courses_list-4-4":{
+        "es": "Modo PWA (Progressive Web App).",
+        "en": "PWA mode (Progressive Web App)."
+    },
+    "courses_text-83":{
+        "es": "Para publicar la versión nativa de tu App en Appstore o en Google Play, necesitas un plan Business, Growth o Reseller, mientras que la versión Web App y PWA puedes publicarlas con un plan Starter o incluso durante el Trial gratuito de 14 días.",
+        "en": "To publish the native version of your App in the Appstore or Google Play, you need a Business, Growth or Reseller plan, while the Web App and PWA version can be published with a Starter plan or even during the free 14-day Trial."
     }
+
+
+
+
+
+
+    
+
+    
+
 }

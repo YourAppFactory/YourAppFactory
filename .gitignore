@@ -78,7 +78,8 @@ typings/
 #contracts
 /public/contracts
 
-vendor\
+#vendor
+/vendor
 vendor\*
 
 # composer.lock

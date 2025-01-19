@@ -1,0 +1,206 @@
+@use 'sass:math';
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+.services{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
+    gap: math.div(v.$separate, 2);
+    margin: 3rem 0;
+    @include m.maxtablet{
+        width: 70%;
+        margin: auto;
+    }
+    @include m.tablet{
+        gap: v.$separate;
+        margin: v.$separate 0;
+    }
+    @include m.desktop{
+        gap: v.$separate * 2;
+        margin: calc(v.$separate * 2) 0;
+    }
+    &__title{
+        font-size: clamp(2.4rem, 3vw, 4.5rem);
+        text-align: center;
+    }
+    &__item{
+        padding: math.div(v.$separate,2);
+        border-radius: 0.5rem;
+        box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
+        width: 100%;
+        display: grid;
+        place-items: center;
+        @include m.laptop{
+            padding: v.$separate;
+        }
+        &:hover{
+            transform: translateY(-0.5rem);
+            box-shadow: 0 0 1rem rgba(0, 0, 0, 0.4);
+        }
+    }
+    &__item:nth-child(odd){
+        background: lighten(v.$blue, 55%);
+    }
+    &__icon{
+        width: 100%;
+        height: 7.5rem;
+    }
+    & p{
+        font-size: 2.2rem;
+        color: v.$black;
+        @include m.tablet{
+            font-size: 2.5rem;
+        }
+    }
+    &__link{
+        border: none;
+        background: v.$blue-dark;
+        color: v.$white;
+        font-size: 1.8rem;
+        padding: 0.5rem 1rem;
+        width: 100%;
+        display: block;
+        pointer-events: none;
+    }
+}
+
+.banner{
+    &__service{
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        min-height: 20rem;
+        display: grid;
+        align-content: center;
+        @include m.tablet{
+            min-height: 40rem;
+        }
+        &__title{
+            font-size: 3.5rem;
+            width: 100%;
+            text-shadow: 0.5rem 0.5rem 0.5rem rgba(0, 0, 0, 0.5); 
+            @include m.tablet{
+                font-size: 5rem;
+            }
+            @include m.laptop{
+                font-size: 7rem;
+            }
+        }
+        &__list{
+            list-style: none;
+            padding-left: 0;
+            display: grid;
+            gap: 2rem;
+            @include m.tablet{
+                grid-template-columns: repeat(2, 1fr);
+            }
+            &--title{
+                margin: 5rem 0 7rem 0;
+            }
+            &__item{
+                @include m.card;
+                padding: 2rem;
+                border-left-width: 5rem;
+                position: relative;
+                border-left: 5rem solid v.$blue;
+                &:nth-child(2){
+                    border-left-color: v.$yellow;
+                }
+                &:nth-child(3){
+                    border-left-color: v.$green;
+                }
+                &:nth-child(4){
+                    border-left-color: v.$red;
+                }
+                &:nth-child(5){
+                    border-left-color: v.$pink;
+                }
+                &:nth-child(6){
+                    border-left-color: v.$green-dark;
+                }
+                &:nth-child(7){
+                    border-left-color: v.$orange;
+                }
+                &:nth-child(8){
+                    border-left-color: v.$gray-dark;
+                }
+                &:nth-child(9){
+                    border-left-color: v.$blue-light;
+                }
+                &:nth-child(10){
+                    border-left-color: v.$pink;
+                }
+                &:nth-child(11){
+                    border-left-color: v.$blue-dark;
+                }
+                &:nth-child(12){
+                    border-left-color: v.$yellow;
+                }
+                &:nth-child(13){
+                    border-left-color: v.$green;
+                }
+                &:nth-child(14){
+                    border-left-color: v.$red;
+                }
+                &:nth-child(15){
+                    border-left-color: v.$pink;
+                }
+                &:nth-child(16){
+                    border-left-color: v.$green-dark;
+                }
+                &:nth-child(17){
+                    border-left-color: v.$orange;
+                }
+                &:nth-child(18){
+                    border-left-color: v.$gray-dark;
+                }
+                &:nth-child(19){
+                    border-left-color: v.$blue-light;
+                }
+                &:nth-child(20){
+                    border-left-color: v.$blue;
+                }
+                &:nth-child(21){
+                    border-left-color: v.$yellow;
+                }
+                &:nth-child(22){
+                    border-left-color: v.$green;
+                }
+                &:nth-child(23){
+                    border-left-color: v.$red;
+                }
+                &:nth-child(24){
+                    border-left-color: v.$pink;
+                }
+                &:nth-child(25){
+                    border-left-color: v.$green-dark;
+                }
+                &:nth-child(26){
+                    border-left-color: v.$orange;
+                }
+                &:nth-child(27){
+                    border-left-color: v.$gray-dark;
+                }
+                &:nth-child(28){
+                    border-left-color: v.$blue-light;
+                }
+                &:nth-child(29){
+                    border-left-color: v.$blue;
+                }
+                &:nth-child(30){
+                    border-left-color: v.$yellow;
+                }
+
+            }
+            &__icon{
+                position: absolute;
+                top: 50%;
+                left: -3.6rem;
+                transform: translateY(-50%);
+                font-size: 2.2rem;
+                color: v.$white;
+                max-width: 1.7rem;
+            }
+        }
+    }
+}

@@ -1,0 +1,89 @@
+@use 'sass:math';
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+.btn-whatsapp {
+    color: v.$white;
+    font-size: 5rem;
+    background-color: #00C46C;
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+    box-shadow: v.$shadow;
+    transition: all 0.3s;
+    position: fixed;
+    bottom: 5rem;
+    right: 5rem;
+    z-index: 1000;
+    &:hover {
+        background-color: #029955;
+    }
+    @include m.maxtablet {
+        font-size: 4rem;
+        padding: 0.5rem 0.8rem;
+        bottom: 3rem;
+        right: 2rem;
+    }
+}
+
+.btn-submit {
+    &{
+        background-color: v.$blue;
+        color: v.$white;
+        padding: 1rem 2rem;
+        border: none;
+        border-radius: 0.5rem;
+        font-size: 1.6rem;
+        cursor: pointer;
+    }
+    @include m.tablet {
+        font-size: 1.8rem;
+    }
+    &:hover{
+        background-color: v.$blue-light;
+        color: v.$blue-dark;
+    }
+}
+
+.btn-back{
+    @include m.button(v.$pink, v.$white, inline-block);
+    &{
+        margin-bottom: 1rem;
+    }
+}
+
+.btn-delete{
+    @include m.button(v.$red, v.$white, block);
+    &{
+        width: 100%;
+        height: fit-content;
+        border-radius: 1rem;
+        color: v.$white;
+    }
+    @include m.tablet{
+        width: fit-content;
+    }
+    &--form{
+        @extend .btn-delete;
+        padding: 1rem 0;
+        @include m.tablet{
+            padding: 0 3rem;
+            height: 5rem;
+        }
+    }
+}
+
+.btn-update{
+    @include m.button(darken(v.$green, 17%), v.$white, flex);
+    &{
+        width: 100%;
+        margin-top: 0;
+        margin-bottom: 1rem;
+        border-radius: 1rem;
+        color: v.$white;
+        justify-content: center;
+    }
+    @include m.tablet{
+        width: auto;
+        margin-bottom: 0;
+    }
+}

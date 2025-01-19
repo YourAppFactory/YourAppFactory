@@ -1,0 +1,94 @@
+@use 'sass:math';
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+.builder{
+    &__grid{
+        display: grid;
+        gap: math.div(v.$separate, 2);
+        @include m.tablet{
+            grid-template-columns: repeat(2, 1fr);
+            align-items: center;
+            justify-content: space-around;
+        }
+        &__card{
+            @include m.card-lounge;
+            &{
+                margin: auto;
+                width: 100%;
+                @include m.tablet{
+                    max-width: 50rem;
+                    min-height: 48rem;
+                }
+            }
+            &:hover{
+                transform: scale(1.05) rotate(2deg);
+                transition: transform 0.2s;
+            }
+            &:hover > .builder__grid__card__image{
+                filter: hue-rotate(-90deg) drop-shadow(0.2rem 0.4rem 0.5rem rgba(0, 0, 0, 0.9));
+            }
+            &:hover > .builder__grid__card__title{
+                color: v.$green;
+            }
+            &__image{
+                max-height: 12rem;
+                filter: drop-shadow(0.2rem 0.4rem 0.5rem rgba(0, 0, 0, 0.9));
+                @include m.tablet{
+                    max-height: 16rem;
+                }
+            }
+            &__text{
+                color: v.$black;
+            }
+        }
+    }
+    
+
+    &__block{
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+        @include m.tablet{
+            gap: 3rem;
+        }
+        &__card{
+            @include m.card-lounge;
+            &{
+                margin: auto;
+                display: flex;
+                align-items: center;
+                gap: 3rem;
+                width: 100%;
+                padding: 1.5rem;
+                @include m.tablet{
+                    width: 70%;
+                    padding: 2.5rem;
+                }
+            }
+            &:hover{
+                transform: translateY(-0.5rem);
+                transition: transform 0.2s;
+            }
+            &:hover .builder__block__icon{
+                color: v.$green !important;
+            }
+            &:hover .builder__block__title{
+                text-decoration: underline;
+            }
+        }
+        &__icon{
+            font-size: 3rem;
+            color: v.$blue;
+        }
+        &__title{
+            color: v.$black !important;
+            font-weight: v.$regular;
+            font-size: 1.8rem;
+            margin: 0;
+            @include m.tablet{
+                font-size: 2.4rem;
+            }
+        }
+    }
+}
