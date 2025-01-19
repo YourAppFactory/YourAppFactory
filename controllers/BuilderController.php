@@ -29,6 +29,14 @@ class BuilderController {
         ]);
     }
 
+    public static function guidesGym(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-1";
+        $router->render('/builder/guides/gym',[
+            'title' => $title
+        ]);
+    }
+
     public static function features(Router $router){
         isBuilder();
         $title = "builder_creation_section_title-2";

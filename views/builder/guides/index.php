@@ -1,8 +1,9 @@
 <div class="container">
     <h1 class="center">{%builder_creation_section_title-1%}</h1>
     <a href="/builder/apps" class="btn-back m-t-5">{%builder_back_btn_app-creation%}</a>
+
     <section class="builder__block m-t-5">
-        <a href="/builder/apps/guides" class="builder__block__card">
+        <a href="/builder/apps/guides/gym" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item-1%}</h2>
         </a>
         <a href="/builder/apps/guides" class="builder__block__card">

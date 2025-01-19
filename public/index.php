@@ -68,6 +68,7 @@ $router->post('/admin/promos/edit', [AdminController::class, 'editPromo']);
 $router->get('/builder/dashboard', [BuilderController::class, 'dashboard']);
 $router->get('/builder/apps', [BuilderController::class, 'apps']);
 $router->get('/builder/apps/guides', [BuilderController::class, 'guides']);
+$router->get('/builder/apps/guides/gym', [BuilderController::class, 'guidesGym']);
 $router->get('/builder/apps/features', [BuilderController::class, 'features']);
 $router->get('/builder/apps/publishing', [BuilderController::class, 'publishing']);
 

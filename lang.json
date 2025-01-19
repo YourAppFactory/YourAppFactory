@@ -1152,5 +1152,485 @@
     "promo_submit_btn":{
         "es": "Guardar",
         "en": "Save"
+    },
+    "gym_main_title":{
+        "es": "Cómo crear una App para Gimnasios o Entrenadores",
+        "en": "How to create an App for Gyms or Trainers"
+    },
+    "gym_text-1":{
+        "es": "Si sigues los pasos de esta guía, en poco más de media hora contarás con una App Móvil para el sector del Fitness capaz de rivalizar con cualquier desarrollo a medida como el de las grandes empresas del sector.",
+        "en": "If you follow the steps in this guide, in just over half an hour you will have a Mobile App for the Fitness sector capable of competing with any custom development like that of the big companies in the sector."
+    },
+    "gym_text-2":{
+        "es": "En este ejemplo aprenderemos a configurar una App con:",
+        "en": "In this example we will learn to configure an App with:"
+    },
+    "gym_list-1":{
+        "es": "Información del gimnasio o entrenador",
+        "en": "Gym or trainer information"
+    },
+    "gym_list-2":{
+        "es": "Una sección de Preguntas Frecuentes",
+        "en": "A Frequently Asked Questions section"
+    },
+    "gym_list-3":{
+        "es": "Horario de Clases",
+        "en": "Class Schedule"
+    },
+    "gym_list-4":{
+        "es": "Reserva de Clases",
+        "en": "Class Booking"
+    },
+    "gym_list-5":{
+        "es": "Zona privada para acceder a la tabla o documentación personal de cada usuario",
+        "en": "Private area to access the table or personal documentation of each user"
+    },
+    "gym_list-6":{
+        "es": "Mensajes Push",
+        "en": "Push Messages"
+    },
+    "gym_text-3":{
+        "es": "Estas son las funciones que hemos escogido para nuestro ejemplo, pero lógicamente podrías añadir muchas otras si así lo deseas:",
+        "en": "These are the functions we have chosen for our example, but logically you could add many others if you wish:"
+    },
+    "gym_text-4":{
+        "es": "Chat, Formulario de Sugerencias, Formulario para Captar emails, Eventos, Tienda etc...",
+        "en": "Chat, Suggestions Form, Form to Capture emails, Events, Store etc..."
+    },
+    "gym_text-5":{
+        "es": "Si quieres ver el ejemplo que hemos creado en tu propio dispositivo, puedes escanear el siguiente Código QR:",
+        "en": "If you want to see the example we have created on your own device, you can scan the following QR Code:"
+    },
+    "gym_main_subtitle":{
+        "es": "Primeros Pasos",
+        "en": "First Steps"
+    },
+    "gym_text-6":{
+        "es": "Una vez en la pantalla de inicio de Scoreapps, en el menú lateral izquierdo encontrarás el icono con forma de 'a' del constructor de apps. Ahí podrás crear una nueva aplicación y darle nombre.",
+        "en": "Once on the Scoreapps home screen, in the left side menu you will find the 'a' shaped icon of the app builder. There you can create a new application and give it a name."
+    },
+    "gym_text-7":{
+        "es": "Una vez estés en la pantalla de administración de Apps, haz clic en 'Nueva App':",
+        "en": "Once you are on the App management screen, click on 'New App':"
+    },
+    "gym_text-8":{
+        "es": "Una vez hayas creado y puesto nombre a tu app, te aparecerá una pantalla en la que podrás elegir entre varias plantillas.",
+        "en": "Once you have created and named your app, you will see a screen where you can choose from several templates."
+    },
+    "gym_text-9":{
+        "es": "Son diseños predefinidos para que no partas de cero pero en realidad, después podrás modificar absolutamente todo. De hecho, podrás cambiar la plantilla que escojas ahora. Y si no te encaja ninguna, haz clic en 'Blank Template' para empezar de cero a diseñar tu App.",
+        "en": "They are predefined designs so you don't start from scratch but in reality, later you can modify absolutely everything. In fact, you can change the template you choose now. And if you don't like any of them, click on 'Blank Template' to start from scratch to design your App."
+    },
+    "gym_text-10":{
+        "es": "Para este ejemplo escogeremos una plantilla en blanco",
+        "en": "For this example we will choose a blank template"
+    },
+    "gym_text-11":{
+        "es": "El proceso de creación de Aplicaciones con Scoreapps es muy sencillo. Sólo tienes que ir siguiendo los pasos del constructor.",
+        "en": "The process of creating Apps with Scoreapps is very simple. You just have to follow the steps of the builder."
+    },
+    "gym_text-12":{
+        "es": "Estos pasos están representados en la barra de progreso que tendrás siempre a tu disposición en la parte superior del constructor y que te permitirá fácilmente navegar entre las distintas páginas, con sólo clicar encima del icono.",
+        "en": "These steps are represented in the progress bar that you will always have at your disposal at the top of the builder and that will allow you to easily navigate between the different pages, with just a click on the icon."
+    },
+    "gym_main_subtitle-2":{
+        "es": "Primer paso. Diseño de la App",
+        "en": "First step. App Design"
+    },
+    "gym_text-13":{
+        "es": "En la pestaña Diseño, encontrarás todas las opciones relacionadas con la información del menú y de la pantalla inicial de tu App.",
+        "en": "In the Design tab, you will find all the options related to the menu information and the home screen of your App."
+    },
+    "gym_text-14":{
+        "es": "La sección Opciones de Pantalla de Inicio muestra las opciones disponibles según el estilo de navegación (Layout) escogido. Debes tener en cuenta que cada estilo de navegación o Layout dispone de sus propios ajustes de configuración.",
+        "en": "The Home Screen Options section shows the available options according to the chosen navigation style (Layout). You should keep in mind that each navigation style or Layout has its own configuration settings."
+    },
+    "gym_text-15":{
+        "es": "Menú de elección del Layout",
+        "en": "Layout selection menu"
+    },
+    "gym_text-16":{
+        "es": "Para este aplicación, hemos escogido el layout 9. Este diseño de layout muestra el contenido de la primera función que hemos establecido en el menú. Un botón tipo hamburguesa desplegará lateralmente un menú dónde se mostrarán el resto de funciones.",
+        "en": "For this application, we have chosen layout 9. This layout design shows the content of the first function we have established in the menu. A hamburger button will display a side menu where the rest of the functions will be shown."
+    },
+    "gym_text-17":{
+        "es": "Como puedes observar, la pantalla inicial de nuestra aplicación muestra directamente la presentación del gimnasio en una página personalizada. Cómo configurar esta función lo veremos más adelante.",
+        "en": "As you can see, the home screen of our application directly shows the presentation of the gym on a personalized page. How to configure this function we will see later."
+    },
+    "gym_text-18":{
+        "es": "Estos son los parámetros de configuración que podrás ver en el constructor para este layout en concreto.",
+        "en": "These are the configuration parameters that you can see in the builder for this particular layout."
+    },
+    "gym_list-2-1":{
+        "es": "Puedes escoger si queres que se vean los títulos de las funciones en el menú.",
+        "en": "You can choose if you want the titles of the functions to be displayed in the menu."
+    },
+    "gym_list-2-2":{
+        "es": "Puedes configurar que los títulos se muestren en minúsculas o mayúsculas.",
+        "en": "You can configure the titles to be displayed in lowercase or uppercase."
+    },
+    "gym_list-2-3":{
+        "es": "Ancho sidebar: puedes establecer el tamaño del menú desplegable. Puedes configurarlo en base a un porcentaje respecto la pantalla o un ancho fijo de píxeles.",
+        "en": "Sidebar width: you can set the size of the drop-down menu. You can configure it based on a percentage of the screen or a fixed width in pixels."
+    },
+
+    "gym_text-19":{
+        "es": "La sección que se muestra a continuación, te ayuda a elegir una imagen para la pantalla de inicio que se vea bien en todos los dispositivos y ratios de pantalla. Usa la herramienta overlay (sombreado) para comprobar si la información importante de tu diseño queda dentro de las zonas seguras recomendadas en función de la orientación de pantalla para la que está diseñada tu App.",
+        "en": "The section shown below helps you choose an image for the home screen that looks good on all devices and screen ratios. Use the overlay tool to check if the important information in your design falls within the recommended safe zones based on the screen orientation for which your App is designed."
+    },
+
+    "gym_text-20":{
+        "es": "Asegúrate que los elementos que consideres importantes, queden dentro de la zona sin sombrear.",
+        "en": "Make sure that the elements you consider important are within the unshaded area."
+    },
+    "gym_text-21":{
+        "es": "Para saber cómo diseñar bien las imágenes puedes descargar la plantilla con las medidas, disponible tanto en formato .png como en .psd.",
+        "en": "To know how to design the images well you can download the template with the measurements, available in both .png and .psd format."
+    },
+    "gym_text-22":{
+        "es": "Veamos ahora un pequeño vídeo de 5 minutos para aprender a diseñar la Pantalla de Inicio de la Aplicación:",
+        "en": "Let's see a short 5-minute video now to learn how to design the App's Home Screen:"
+    },
+    "gym_text-23":{
+        "es": "Escoge el idioma en función de tu país y la moneda de tu aplicación. Se utilizará para diferentes aspectos, como la zona horaria y el símbolo de la moneda.",
+        "en": "Choose the language based on your country and the currency of your application. It will be used for different aspects, such as the time zone and the currency symbol."
+    },
+    "gym_text-24":{
+        "es": "Si quieres cambiar la fuente de tu app puedes seleccionar una de las que aparecen en el menú del constructor, o importar una desde Google Fonts. Para hacerlo es tan sencillo como escribir el nombre de la fuente.",
+        "en": "If you want to change the font of your app you can select one of those that appear in the builder menu, or import one from Google Fonts. To do this, it is as simple as writing the name of the font."
+    },
+    "gym_main_subtitle-3":{
+        "es": "Segundo paso. Colores",
+        "en": "Second step. Colors"
+    },
+    "gym_text-25":{
+        "es": "Elige los colores principales de la aplicación.",
+        "en": "Choose the main colors of the application."
+    },
+    "gym_list-3-1":{
+        "es": "General: aplica al fondo (si no hay una imagen específica) y al texto general.",
+        "en": "General: applies to the background (if there is no specific image) and general text."
+    },
+    "gym_list-3-2":{
+        "es": "Inicio: aplica al menú de navegación y a sus elementos.",
+        "en": "Home: applies to the navigation menu and its elements."
+    },
+    "gym_list-3-3":{
+        "es": "Cabecera: aplica a la cabecera de navegación de la app.",
+        "en": "Header: applies to the navigation header of the app."
+    },
+    "gym_list-3-4":{
+        "es": "Tarjeta: aplica a los elementos mostrados en formato tarjeta.",
+        "en": "Card: applies to elements displayed in card format."
+    },
+    "gym_list-3-5":{
+        "es": "Lista: aplica a los elementos mostrados en formato lista.",
+        "en": "List: applies to elements displayed in list format."
+    },
+    "gym_text-26":{
+        "es": "Además, si dispones de conocimientos de programación Web, en la parte inferior del panel encontrarás un espacio para poder introducir código CSS y así, personalizar al 100% los elementos de tu App.",
+        "en": "In addition, if you have knowledge of Web programming, at the bottom of the panel you will find a space to enter CSS code and thus, customize 100% of the elements of your App."
+    },
+    "gym_main_subtitle-4":{
+        "es": "Tercer paso. Funciones",
+        "en": "Third step. Functions"
+    },
+    "gym_text-27":{
+        "es": "Una vez diseñada la pantalla inicial y escogidos los colores principales de la Aplicación, vamos con la parte funcional.",
+        "en": "Once the home screen has been designed and the main colors of the Application have been chosen, let's go to the functional part."
+    },
+    "gym_text-28":{
+        "es": "Las plantillas incorporan de forma predeterminada algunas funciones que consideramos interesantes para cada sector. Puedes verlas en el carrusel de funciones. Pero si quieres eliminar alguna, sólo tendrás que darle a la “X”.",
+        "en": "The templates incorporate by default some functions that we consider interesting for each sector. You can see them in the function carousel. But if you want to remove any, you just have to click on the “X”."
+    },
+    "gym_text-29":{
+        "es": "Para que veas lo sencillo que es incorporar nuevas funciones a tu App, te mostramos este gif donde podrás ver cómo realizamos el proceso.",
+        "en": "To show you how easy it is to incorporate new functions into your App, we show you this gif where you can see how we do the process."
+    },
+    "gym_main_subtitle-5":{
+        "es": "'Altafitness' (Página Personalizada)",
+        "en": "'Altafitness' (Custom Page)"
+    },
+    "gym_text-30":{
+        "es": "Para esta app hemos configurado una página de presentación del gimnasio. Un espacio dónde hemos añadido el logotipo de la marca en la cabecera de la página, un 'claim', un video promocional y una imagen de presentación de las distintas actividades que se ofrecen.",
+        "en": "For this app we have configured a gym presentation page. A space where we have added the brand logo in the header of the page, a 'claim', a promotional video and an image presenting the different activities offered."
+    },
+    "gym_text-31":{
+        "es": "Esta funcionalidad te ofrece múltiples opciones para crear una página informativa. Puedes escribir un artículo con una imagen, puedes publicar una galería de fotos, puedes publicar un vídeo directamente en esta página y puedes agregar botones de llamada o un enlace a cualquier sitio web externo.",
+        "en": "This functionality offers you multiple options to create an informative page. You can write an article with an image, you can publish a photo gallery, you can publish a video directly on this page and you can add call buttons or a link to any external website."
+    },
+    "gym_main_subtitle-6":{
+        "es": "'Mi cuenta' (Mi cuenta)",
+        "en": "'My account' (My account)"
+    },
+    "gym_text-32":{
+        "es": "Esta función es muy sencilla, con sólo añadirla en tu menú, ya viene preconfigurada para que pueda funcionar. Edita los estilos y modifica alguna opción si es de tu preferencia.",
+        "en": "This function is very simple, just by adding it to your menu, it comes preconfigured to work. Edit the styles and modify some options if you prefer."
+    },
+    "gym_main_subtitle-7":{
+        "es": "'Preguntas Frecuentes' (Página Personalizada)",
+        "en": "'Frequently Asked Questions' (Custom Page)"
+    },
+    "gym_text-33":{
+        "es": "En esta sección, Altafitness responde a las preguntas más frecuentes que formulan los usuarios.",
+        "en": "In this section, Altafitness answers the most frequently asked questions from users."
+    },
+    "gym_text-34":{
+        "es": "La función que hemos utilizado es la de 'Página Personalizada', y se compone de una cabecera y texto.",
+        "en": "The function we have used is the 'Custom Page', and it consists of a header and text."
+    },
+    "gym_main_subtitle-8":{
+        "es": "'Horario Clases' (Página Personalizada)",
+        "en": "'Class Schedule' (Custom Page)"
+    },
+    "gym_text-35":{
+        "es": "En esta sección, se pueden consultar los horarios de las distintas actividades dirigidas. También hemos añadido la opción de poder descargarlos, por si algún usuario quiere imprimirlo, guardarlo en otro lugar, etc.",
+        "en": "In this section, you can check the schedules of the different directed activities. We have also added the option to download them, in case a user wants to print it, save it elsewhere, etc."
+    },
+    "gym_main_subtitle-9":{
+        "es": "'Reserva tu clase' (Reservas Pro)",
+        "en": "'Book your class' (Pro Reservations)"
+    },
+    "gym_text-36":{
+        "es": "Para un gimnasio, es fundamental disponer de un sistema de reserva de citas completo, eficaz y efectivo. Tus clientes van a poder reservar su cita desde su teléfono con sólo un cliq. La función Reservas Pro, no sólo va a permitir ésto, si no que enviará a tus clientes recordatorios de su cita, permitirá el previo pago de éstas, automatizará el sistema de puntos de fidelidad (función vinculada a 'Tarjeta de Fidelidad'), y mucho más.",
+        "en": "For a gym, it is essential to have a complete, efficient and effective appointment booking system. Your clients will be able to book their appointment from their phone with just one click. The Pro Reservations function will not only allow this, but will send your clients reminders of their appointment, allow for pre-payment of these, automate the loyalty points system (function linked to 'Loyalty Card'), and much more."
+    },
+    "gym_text-37":{
+        "es": "Cuando el usuario paga a través de diferentes modos de pago, las pasarelas de pago cobran al dueño del negocio por cada transacción, y si el consumidor canceló la reserva, en ese caso, los dueños de los negocios tienen que asumir todas las pérdidas. Para proteger estas pérdidas, Reservas Pro cuenta con una opción de 'Cancelación' a través de la cual, se pueden aplicar cargos por la cancelación de la reserva.",
+        "en": "When the user pays through different payment methods, the payment gateways charge the business owner for each transaction, and if the consumer canceled the reservation, in that case, the business owners have to assume all the losses. To protect these losses, Pro Reservations has a 'Cancellation' option through which cancellation charges can be applied."
+    },
+    "gym_text-38":{
+        "es": "Como administrador, podrás definir de forma sencilla los horarios de cierre y apertura de tus gimnasios o centros y establecer horarios específicos para cada uno de tus proveedores de servicios. ",
+        "en": "As an administrator, you can easily define the closing and opening hours of your gyms or centers and establish specific schedules for each of your service providers."
+    },
+    "gym_text-39":{
+        "es": "Para una experiencia de usuario más completa, ésta función también permite mostrar la distancia a la que se encuentran las distintas sucursales de su negocio en relación a la ubicación del usuario (Para ello es necesario ingresar correctamente una clave API de Google Maps desde el apartado del menú 'Claves API' > Configuración de Google Maps).",
+        "en": "For a more complete user experience, this function also allows you to show the distance to the different branches of your business in relation to the user's location (For this it is necessary to correctly enter a Google Maps API key from the 'API Keys' menu section > Google Maps Configuration)."
+    },
+    "gym_text-40":{
+        "es": "Veámos paso por paso cómo hemos configurado esta función para nuestro gimnasio.",
+        "en": "Let's see step by step how we have configured this function for our gym."
+    },
+    "gym_main_subtitle-10":{
+        "es": "Pestaña de ajustes",
+        "en": "Settings tab"
+    },
+    "gym_text-41":{
+        "es": "Visualiza este vídeo para ver las opciones de configuración de esta pestaña.",
+        "en": "Watch this video to see the configuration options of this tab."
+    },
+    "gym_text-42":{
+        "es": "A continuación puedes ver las configuraciones que hemos utilizado para nuestro gimasio.",
+        "en": "Below you can see the settings we have used for our gym."
+    },
+    "gym_main_subtitle-11":{
+        "es": "Pestaña de Pago",
+        "en": "Payment tab"
+    },
+    "gym_text-43":{
+        "es": "Para configurar las distintas opciones de pago, deberás seleccionar y rellenar los datos de las distintas plataformas. Por ejemplo, para el pago con tarjeta, deberás rellenar los datos de Stripe. Éstos los podrás encontrar en su página web.",
+        "en": "To configure the different payment options, you must select and fill in the data of the different platforms. For example, for payment by card, you must fill in the data of Stripe. You can find them on their website."
+    },
+    "gym_text-44":{
+        "es": "Si no sabes cómo obtener tus claves de Stripe, te dejamos el enlace a un artículo de su página web",
+        "en": "If you don't know how to get your Stripe keys, we leave you the link to an article on their website"
+    },
+    "gym_link-1":{
+        "es": "Aquí.",
+        "en": "Here."
+    },
+    "gym_text-45":{
+        "es": "Para nuestra app de gimnasio, al no tener coste las reservas de las clase, no configuramos ningún medio de pago.",
+        "en": "For our gym app, as the class reservations are free, we did not configure any payment method."
+    },
+    "gym_main_subtitle-12":{
+        "es": "Pestaña Carrusel",
+        "en": "Carousel tab"
+    },
+    "gym_text-46":{
+        "es": "Si lo deseas puedes añadir un carrusel de imágenes en la parte superior de la pantalla principal de la función Reservas Pro. Para ello debes haber marcado la casilla de verificación 'Mostrar Carrusel' en la pestaña 'Ajustes'.",
+        "en": "If you wish you can add an image carousel at the top of the main screen of the Pro Reservations function. To do this you must have checked the 'Show Carousel' checkbox in the 'Settings' tab."
+    },
+    "gym_text-47":{
+        "es": "Para añadir más imágenes al carrusel solo tienes que repetir de nuevo este proceso.",
+        "en": "To add more images to the carousel you just have to repeat this process again."
+    },
+    "gym_text-48":{
+        "es": "Recuerda que las imágenes deberán tener un tamaño de 512 x 320 píxeles.",
+        "en": "Remember that the images must have a size of 512 x 320 pixels."
+    },
+    "gym_text-49":{
+        "es": "En nuestra app de Altafitness no hemos añadido esta opción.",
+        "en": "In our Altafitness app we have not added this option."
+    },
+    "gym_main_subtitle-13":{
+        "es": "Integraciones",
+        "en": "Integrations"
+    },
+    "gym_text-50":{
+        "es": "Desde aquí puedes obtener la URL web y el código de inserción para usar la función de reservas donde quieras.",
+        "en": "From here you can get the web URL and the embed code to use the booking function wherever you want."
+    },
+    "gym_main_subtitle-14":{
+        "es": "Etiquetas",
+        "en": "Tags"
+    },
+    "gym_text-51":{
+        "es": "Desde aquí podrás modificar el texto de las distintas etiquetas del sistema, como por ejemplo sustituir el texto 'Proveedores' por 'Monitores'.",
+        "en": "From here you can modify the text of the different system tags, such as replacing the text 'Providers' with 'Monitors'."
+        
+    },
+    "gym_main_subtitle-15":{
+        "es": "Panel",
+        "en": "Panel"
+    },
+    "gym_text-52":{
+        "es": "Desde aquí puedes administrar los requisitos completos del sistema de reservas como crear y administrar las ubicaciones, los servicios o clases, los proveedores, gestionar las reservas, acceder al calendario y a Informes para analizar la recaudación de fondos a través de las reservas.",
+        "en": "From here you can manage the complete requirements of the reservation system such as creating and managing locations, services or classes, providers, managing reservations, accessing the calendar and Reports to analyze fundraising through reservations."
+    },
+    "gym_text-53":{
+        "es": "Nada mas acceder a esta sección encontrarás una gráfica que de forma predeterminada muestra información de la estimación de ingresos de la semana actual de lunes a domingo en orden creciente como se muestra en la imagen de arriba. Obtendrás información sobre el total de reservas confirmadas, ingresos de la semana hasta la fecha, ingresos proyectados (lo que significa el valor previsto de los ingresos, quepuede cambiar de acuerdo con el número final de reservas) y el ingreso total estimado.",
+        "en": "As soon as you access this section you will find a graph that by default shows information on the estimated income of the current week from Monday to Sunday in ascending order as shown in the image above. You will get information about the total confirmed reservations, income for the week to date, projected income (which means the expected value of the income, which can change according to the final number of reservations) and the total estimated income."
+    },
+    "gym_text-54":{
+        "es": "En el área de visualización de análisis gráfico del tablero, podrás identificar el total de reservas en la linea de color rojoy  las reservas completadas en la línea de color verde. El gráfico de análisis muestra los datos de un mes completo.",
+        "en": "In the graphical analysis display area of the dashboard, you can identify the total reservations in the red line and the completed reservations in the green line. The analysis chart shows the data for a full month."
+    },
+    "gym_main_subtitle-16":{
+        "es": "Ubicaciones, Categorías, Servicios y Proveedores",
+        "en": "Locations, Categories, Services and Providers"
+    },
+    "gym_text-55":{
+        "es": "Te mostramos las opciones de configuración de este panel.",
+        "en": "We show you the configuration options of this panel."
+    },
+    "gym_text-56":{
+        "es": "En nuestra app, hemos configurado la información de la siguiente manera.",
+        "en": "In our app, we have configured the information as follows."
+    },
+    "gym_text-57":{
+        "es": "En ubicaciones hemos configurado la situación geográfica del gimnasio, los datos de contacto y el horario de apertura y cierre. También hemos añadido una pequeña galería fotográfica.",
+        "en": "In locations we have configured the geographical location of the gym, contact details and opening and closing hours. We have also added a small photo gallery."
+    },
+    "gym_text-58":{
+        "es": "En Categorías hemos establecido las distintas tipologías de clase. Puedes organizar tus servicios de la forma que tu prefieras. Podríamos haber dividido las clases en 'Cardio', 'Relax' o 'Tonificación', por ejemplo.",
+        "en": "In Categories we have established the different types of class. You can organize your services in the way you prefer. We could have divided the classes into 'Cardio', 'Relax' or 'Toning', for example."
+    },
+    "gym_text-59":{
+        "es": "En servicios hemos detallado las distintas clases, a qué categoría pertenecen, su duración, el profesional que lo imparte, etc.",
+        "en": "In services we have detailed the different classes, to which category they belong, their duration, the professional who teaches it, etc."
+    },
+    "gym_text-60":{
+        "es": "En proveedores hemos configurado los datos de los profesionales que prestan sus servicios en el gimnasio dando clases colectivas.",
+        "en": "In providers we have configured the data of the professionals who provide their services in the gym by giving group classes."
+    },
+    "gym-text-61":{
+        "es": "Tenemos que tener en cuenta que cada servicio se da a ciertas horas puntuales, es decir, que la clase de Yoga se imparte el lunes a las 9:00, por ejemplo. Otra forma de enfocarlo es que la clase de yoga no está disponible todo el día, sólo el lunes a las 9:00, el martes a las 10:00, etc. por lo tanto, no podemos establecer que Megan, la profesora de Yoga, está disponible todo el lunes (aunque quizás Megan trabaje en otros momentos del día en la sala de musculación o en la recepción).",
+        "en": "We have to take into account that each service is given at certain specific times, that is, that the Yoga class is given on Monday at 9:00, for example. Another way to approach it is that the yoga class is not available all day, only on Monday at 9:00, Tuesday at 10:00, etc. therefore, we cannot establish that Megan, the Yoga teacher, is available all day Monday (although perhaps Megan works at other times of the day in the weight room or at the reception)."
+    },
+    "gym_text-62":{
+        "es": "Habrá que establecer una disponibilidad de Megan para el lunes a las 9:00, otra para el martes a las 10:00. Es decir, que la disponibilidad de los profesionales, estará sujeta a los horarios de las clases que ellos imparten.",
+        "en": "We will have to establish Megan's availability for Monday at 9:00, another for Tuesday at 10:00. That is, the availability of professionals will be subject to the schedules of the classes they teach."
+    },
+    "gym_text-63":{
+        "es": "Como sólo se puede establecer una franja horaria para cada día de la semana, puede darse el caso de que tengamos que repetir el perfil del profesional. En este nuevo perfil añadiremos el horario de la nueva clase.",
+        "en": "As only one time slot can be established for each day of the week, it may be the case that we have to repeat the profile of the professional. In this new profile we will add the schedule of the new class."
+    },
+    "gym_text-64":{
+        "es": "Por ejemplo: Megan imparte clase de Yoga el lunes a las 9:00 y el lunes a las 17:00. En el primer perfil de Megan deberá reflejarse la clase de las 9:00 y en el segundo, la clase de las 17:00. ",
+        "en": "For example: Megan teaches Yoga on Monday at 9:00 and Monday at 17:00. In Megan's first profile, the 9:00 class should be reflected and in the second, the 17:00 class."
+    },
+    "gym_text-65":{
+        "es": "En 'Servicios' de cada profesional, estableceremos las actividades que imparten.",
+        "en": "In 'Services' of each professional, we will establish the activities they teach."
+    },
+    "gym_main_subtitle-17":{
+        "es": "Reservas de Servicios",
+        "en": "Service Reservations"
+    },
+    "gym_text-66":{
+        "es": "En la sección Reservas de Servicios, puedes administrar todas las reservas pudiendo filtrar por Próximas / Hoy / Todas o agregar nuevas reservas.",
+        "en": "In the Service Reservations section, you can manage all reservations by filtering by Upcoming / Today / All or adding new reservations."
+    },
+    "gym_list-4-1":{
+        "es": "Selecciona Ubicación: Desde aquí puedes aplicar un filtro por ubicación seleccionando la ubicación en el menú desplegable.",
+        "en": "Select Location: From here you can apply a filter by location by selecting the location in the drop-down menu."
+    },
+    "gym_list-4-2":{
+        "es": "Selecciona Proveedor: Desde aquí puedes aplicar un filtro por proveedores seleccionando el proveedor del menú desplegable.",
+        "en": "Select Provider: From here you can apply a filter by providers by selecting the provider from the drop-down menu."
+    },
+    "gym_list-4-3":{
+        "es": "Selecciona Estado: Desde aquí puede aplicar un filtro según el estado de la reserva como: Aceptado, Pendiente, completado, Rechazado, etc. seleccionando el estado en el menú desplegable.",
+        "en": "Select Status: From here you can apply a filter according to the status of the reservation such as: Accepted, Pending, completed, Rejected, etc. by selecting the status in the drop-down menu."
+    },
+    "gym_list-4-4":{
+        "es": "ID: Desde la columna ID puede obtener el número de identificación único de la reserva.",
+        "en": "ID: From the ID column you can get the unique identification number of the reservation."
+    },
+    "gym_list-4-5":{
+        "es": "Cliente / Ubicación / Servicio: Desde esta columna puedes obtener los detalles sobre el nombre del cliente, la ubicación de la reserva y el servicio reservado por el cliente.",
+        "en": "Client / Location / Service: From this column you can get details about the client's name, the location of the reservation and the service reserved by the client."
+    },
+    "gym_list-4-6":{
+        "es": "Fecha: Desde esta columna puedes ver la fecha de la reserva.",
+        "en": "Date: From this column you can see the date of the reservation."
+    },
+    "gym_list-4-7":{
+        "es": "Slot: Desde esta columna puedes ver el detalle de duración del slot de la reserva.",
+        "en": "Slot: From this column you can see the slot duration detail of the reservation."
+    },
+    "gym_list-4-8":{
+        "es": "Importe: Desde esta columna puede ver el importe a cobrar por esa reserva en particular.",
+        "en": "Amount: From this column you can see the amount to be charged for that particular reservation."
+    },
+    "gym_list-4-9":{
+        "es": "Estado: Desde esta columna puedes ver el estado actual de la reserva.",
+        "en": "Status: From this column you can see the current status of the reservation."
+    },
+    "gym_list-4-10":{
+        "es": "Acción: Al hacer clic sobre el icono de los tres puntos, puedes administrar la reserva por completo:.",
+        "en": "Action: By clicking on the three dots icon, you can manage the reservation completely:."
+    },
+    "gym_list-4-10-1":{
+        "es": "Vista: Desde aquí puedes ver los detalles completos de la reserva, es decir: Reserva, Pago, Cliente y servicio.",
+        "en": "View: From here you can see the complete details of the reservation, that is: Reservation, Payment, Client and service."
+    },
+    "gym_list-4-10-2":{
+        "es": "Aceptar: Al hacer clic en 'Aceptar' aceptarás la reserva y se preparará para la entrega.",
+        "en": "Accept: By clicking on 'Accept' you will accept the reservation and it will be prepared for delivery."
+    },
+    "gym_list-4-10-3":{
+        "es": "Rechazar: Al hacer clic en 'Rechazar' rechazarás la solicitud de la reserva por parte del cliente.",
+        "en": "Reject: By clicking on 'Reject' you will reject the reservation request from the client."
+    },
+    "gym_list-4-10-4":{
+        "es": "Marcar como completado: Al hacer clic en 'Marcar como completado' se actualizará el estado de la reserva como completado.",
+        "en": "Mark as completed: By clicking on 'Mark as completed' the status of the reservation will be updated as completed."
+    },
+    "gym_list-4-10-5":{
+        "es": "Cancelar: Al hacer clic en 'Cancelar' se cancelará la reserva.",
+        "en": "Cancel: By clicking on 'Cancel' the reservation will be canceled."
+    },
+    "gym_list-4-10-6":{
+        "es": "Nota: El usuario tiene también podrá cancelar la reserva por su parte desde la aplicación.",
+        "en": "Note: The user can also cancel the reservation on his part from the application."
+    },
+    "gym_list-4-10-7":{
+        "es": "Eliminar: Al hacer clic en 'Eliminar' se eliminará la reserva de la plataforma.",
+        "en": "Delete: By clicking on 'Delete' the reservation will be deleted from the platform."
+    },
+    "gym_text-67":{
+        "es": "- Añadir Reservas: También puedes añadir reservas directamente desde la plataforma, para ello simplemente tienes que hacer clic en el botón azul 'Añadir reserva' y completar los datos necesarios.",
+        "en": "- Add Reservations: You can also add reservations directly from the platform, for this you just have to click on the blue 'Add reservation' button and complete the necessary data."
     }
+
+
+
+
+
+
+
+
+
 }

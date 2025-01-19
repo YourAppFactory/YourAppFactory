@@ -25,12 +25,16 @@ body {
     }
 }
 
-p, ul li {
+p, ul li, ol li {
     font-size: 1.4rem;
     line-height: 1.6;
     @include m.tablet{
         font-size: 1.8rem;
     }
+}
+
+ol li:nth-last-of-type(){
+    margin-bottom: 0.3rem;
 }
 
 .container {
