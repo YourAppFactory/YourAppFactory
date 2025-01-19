@@ -37,6 +37,14 @@ class BuilderController {
         ]);
     }
 
+    public static function guidesAppIndex(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-1";
+        $router->render('/builder/guides/appindex',[
+            'title' => $title
+        ]);
+    }
+
     public static function features(Router $router){
         isBuilder();
         $title = "builder_creation_section_title-2";
@@ -49,6 +57,22 @@ class BuilderController {
         isBuilder();
         $title = "builder_creation_section_title-3";
         $router->render('/builder/publishing/index',[
+            'title' => $title
+        ]);
+    }
+
+    public static function guidesMarketplace(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-1";
+        $router->render('/builder/guides/marketplace',[
+            'title' => $title
+        ]);
+    }
+
+    public static function guideCourses(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-1";
+        $router->render('/builder/guides/courses',[
             'title' => $title
         ]);
     }

@@ -1070,38 +1070,46 @@
         "es": "Publicación de Apps"
     },
     "builder_creation_section_item-1":{
+        "es": "Diseñar la pantalla de inicio de una app",
+        "en": "Design the home screen of an app"
+    },
+    "builder_creation_section_item-2":{
+        "es": "Crear una app de marketplace",
+        "en": "Create a marketplace app"
+    },
+    "builder_creation_section_item-3":{
         "en": "Create an App for gyms or fitness trainers",
         "es": "Crea una App para gimnasios o entrenadores de fitness"
     },
-    "builder_creation_section_item-2":{
+    "builder_creation_section_item-4":{
         "en": "Create an App for Courses",
         "es": "Crea una App para Cursos"
     },
-    "builder_creation_section_item-3":{
+    "builder_creation_section_item-5":{
         "en": "How to create ANY KIND of App",
         "es": "Cómo crear CUALQUIER TIPO de App"
     },
-    "builder_creation_section_item-4":{
+    "builder_creation_section_item-6":{
         "en": "Create an App for a store",
         "es": "Crea una App para una tienda"
     },
-    "builder_creation_section_item-5":{
+    "builder_creation_section_item-7":{
         "en": "How to build an App for a Restaurant",
         "es": "Cómo construir una App para un Restaurante"
     },
-    "builder_creation_section_item-6":{
+    "builder_creation_section_item-8":{
         "en": "Create an App for a Service based business (Clinics, Gyms ...)",
         "es": "Crea una App para un negocio basado en servicios (Clínicas, Gimnasios...)"
     },
-    "builder_creation_section_item-7":{
+    "builder_creation_section_item-9":{
         "en": "How to build an App for Events",
         "es": "Cómo construir una App para Eventos"
     },
-    "builder_creation_section_item-8":{
+    "builder_creation_section_item-10":{
         "en": "How to build a Directory App",
         "es": "Cómo construir una App de Directorio"
     },
-    "builder_creation_section_item-9":{
+    "builder_creation_section_item-11":{
         "en": "How to create an App for Attendance",
         "es": "Cómo crear una App para Asistencia"
     },
@@ -1771,9 +1779,556 @@
     "gym_text-86":{
         "es": "Para publicar la versión nativa de tu App en Appstore o en Google Play, necesitas un plan Business, Growth o Reseller, mientras que la versión Web App y PWA puedes publicarlas con un plan Starter o incluso durante el Trial gratuito de 14 días.",
         "en": "To publish the native version of your App in the Appstore or Google Play, you need a Business, Growth or Reseller plan, while the Web App and PWA version can be published with a Starter plan or even during the free 14-day Trial."
+    },
+    "go-back":{
+        "es": "Volver",
+        "en": "Go back"
+    },
+    "appindex_main_title":{
+        "es": "Cómo diseñar la pantalla de inicio o portada de una App",
+        "en": "How to design the home screen or cover of an App"
+    },
+    "appindex_text-1":{
+        "es": "En el video que te mostramos a continuación te explicamos cómo diseñar la pantalla de inicio de una App:",
+        "en": "In the video we show you below we explain how to design the home screen of an App:"
+    },
+    "marketplace_main_title":{
+        "es": "Cómo crear una App de Market Place",
+        "en": "How to create a Market Place App"
+    },
+    "marketplace_subtitle-1":{
+        "es": "¿Quieres crear un Market Place?",
+        "en": "Do you want to create a Market Place?"
+    },
+    "marketplace_text-1":{
+        "es": "Puedes crear 2 tipos de Marketplace:",
+        "en": "You can create 2 types of Marketplace:"
+    },
+    "marketplace_subtitle-2":{
+        "es": "1) Market Place de Clasificados o Anuncios",
+        "en": "1) Classified or Ad Market Place"
+    },
+    "marketplace_text-2":{
+        "es": "Los usuarios de la App podrán postear anuncios de sus productos o servicios y ofrecer al resto de usuarios información de contacto para formalizar la venta o prestación del servicio, o buscar productos o servicios que otros usuarios hayan posteado y contactar con ellos.",
+        "en": "App users will be able to post ads for their products or services and offer the rest of users contact information to formalize the sale or provision of the service, or search for products or services that other users have posted and contact them."
+    },
+    "marketplace_text-3":{
+        "es": "Puedes ver cómo hacerlo siguiendo",
+        "en": "You can see how to do it by following"
+    },
+    "marketplace_link-1":{
+        "es": "ESTA GUÍA",
+        "en": "THIS GUIDE"
+    },
+    "marketplace_subtitle-3":{
+        "es": "2) Market Place donde los usuarios de tu App podrán crear sus propias tiendas",
+        "en": "2) Market Place where the users of your App can create their own stores"
+    },
+    "marketplace_text-4":{
+        "es": "Los usuarios de la Aplicación podrán crear sus propias tiendas directamente desde la App y vender sus productos a otros usuarios de la App.",
+        "en": "App users will be able to create their own stores directly from the App and sell their products to other App users."
+    },
+    "marketplace_text-5":{
+        "es": "Puedes ver cómo hacerlo siguiendo",
+        "en": "You can see how to do it by following"
+    },
+    "marketplace_link-2":{
+        "es": "ESTA GUÍA",
+        "en": "THIS GUIDE"
+    },
+    "courses_main_title-1":{
+        "es": "Cómo crear una App de Cursos",
+        "en": "How to create a Courses App"
+    },
+    "courses_text-1":{
+        "es": "A la hora de construir una App para Infoproductos, en la que se establece una membresía, es muy importante incluir una sección de la App con una 'función código' para poder embeber el inicio de sesión a estos cursos.  Si ya se dispone de este Membership se puede enlazar directamente el Inicio de sesión. Para nuestro ejemplo, te vamos a mostrar cómo creamos una sección de membresía con nuestra Tecnología de Funnels y embeberemos el inicio de sesión del membership.",
+        "en": "When building an App for Infoproducts, in which a membership is established, it is very important to include a section of the App with a 'code function' to be able to embed the login to these courses. If you already have this Membership you can link directly to the Login. For our example, we will show you how we created a membership section with our Funnels Technology and we will embed the login of the membership."
+    },
+    "courses_text-2":{
+        "es": "En el siguiente vídeo te mostramos el gran valor que aporta contar con una APP en el ecosistema de venta de tus Infoproductos.",
+        "en": "In the following video we show you the great value of having an APP in the sales ecosystem of your Infoproducts."
+    },
+    "courses_subtitle-1":{
+        "es": "Construcción Área Membership",
+        "en": "Membership Area Construction"
+    },
+    "courses_subtitle-2":{
+        "es": "¿Qué es un área de tipo Membership?",
+        "en": "What is a Membership type area?"
+    },
+    "courses_text-3":{
+        "es": "Es un tipo de página web que alberga contenidos que sólo serán visibles para los clientes que les has dado un acceso específico, por ejemplo, una subscripción de pago a un curso online que está formado por distintos vídeos, como es el caso de nuestro ejemplo.",
+        "en": "It is a type of web page that hosts content that will only be visible to customers to whom you have given specific access, for example, a paid subscription to an online course that is made up of different videos, as is the case of our example."
+    },
+    "courses_text-4":{
+        "es": "Hemos creado un Funnel de ventas para una instructora de Yoga, Catherine Willgood. Éste se compone de cuatro pasos.",
+        "en": "We have created a sales Funnel for a Yoga instructor, Catherine Willgood. It consists of four steps."
+    },
+    "courses_text-5":{
+        "es": "1- En el primer paso del Funnel se ofrece la posibilidad de comprar un curso de Introducción al yoga. Se trata de una serie de vídeos que sólo serán accesibles a través de la compra de la membresía.",
+        "en": "1- In the first step of the Funnel, the possibility of buying an Introduction to yoga course is offered It is a series of videos that will only be accessible through the purchase of the membership."
+    },
+    "courses_text-6":{
+        "es": "2- Cuando se añade el Curso de yoga al carrito, en la página de resumen de compra, aparece la opción de añadir también el ebook de alimentación saludable, con sólo un click.",
+        "en": "2- When the Yoga Course is added to the cart, on the purchase summary page, the option to also add the healthy eating ebook appears, with just one click."
+    },
+    "courses_text-7":{
+        "es": "3- En el tercer paso del Funnel, cuando se pulsa el botón de comprar en la página de 'resumen de compra', se redirige al comprador a una página en la que se le informa que su pedido está a punto de procesarse, pero antes, se le ofrece la oportunidad de añadir el Curso Avanzado de yoga, a un precio muy especial. Esto se trata de un Up-selling, es decir, una estrategia de ventas que pretende incentivar a los clientes a adquirir una versión más sofisticada o moderna del producto que originariamente pretendian comprar.",
+        "en": "3- In the third step of the Funnel, when the buy button is pressed on the 'purchase summary' page, the buyer is redirected to a page where he is informed that his order is about to be processed, but before, he is offered the opportunity to add the Advanced Yoga Course, at a very special price. This is an Up-selling, that is, a sales strategy that aims to encourage customers to acquire a more sophisticated or modern version of the product they originally intended to buy."
+    },
+    "courses_text-8":{
+        "es": "44- El cuarto y último paso del funnel lo constituye la página de gracias, dónde además de agradecer la transacción realizada, se ofrece la descarga de la app, informando de todas las ventajas y beneficios que se pueden obtener.",
+        "en": "4- The fourth and final step of the funnel is the thank you page, where in addition to thanking for the transaction made, the download of the app is offered, informing of all the advantages and benefits that can be obtained."
+    },
+    "courses_text-9":{
+        "es": "De esta forma, los pasos del Funnel, quedan configurados de la siguiente manera en el constructor:",
+        "en": "In this way, the steps of the Funnel are configured as follows in the constructor:"
+    },
+    "courses_text-10":{
+        "es": "Las páginas que conformarán el Membership las construiremos a partir de éste cuarto paso. Por lo tanto, añadiremos un nuevo paso que lo constituirá la página de presentación del Curso de introducción al yoga. Te lo mostramos todo en el siguiente video:",
+        "en": "The pages that will make up the Membership will be built from this fourth step. Therefore, we will add a new step that will constitute the presentation page of the Introduction to yoga course. We show you everything in the following video:"
+    },
+    "courses_subtitle-3":{
+        "es": "Construcción de la APP",
+        "en": "Construction of the APP"
+    },
+    "courses_subtitle-4":{
+        "es": "Primeros Pasos",
+        "en": "First Steps"
+    },
+    "courses_text-11":{
+        "es": "Una vez en la pantalla de inicio de Scoreapps, en el menú lateral izquierdo encontrarás el icono con forma de 'a' del constructor de apps. Ahí podrás crear una nueva aplicación y darle nombre.",
+        "en": "Once on the Scoreapps home screen, in the left side menu you will find the 'a' shaped icon of the app builder. There you can create a new application and give it a name."
+    },
+    "courses_text-12":{
+        "es": "Una vez estés en la pantalla de administración de Apps, haz clic en 'Nueva App':",
+        "en": "Once you are on the App administration screen, click on 'New App':"
+    },
+    "courses_text-13":{
+        "es": "Una vez hayas creado y puesto nombre a tu app, te aparecerá una pantalla en la que podrás elegir entre varias plantillas.",
+        "en": "Once you have created and named your app, you will see a screen where you can choose from several templates."
+    },
+    "courses_text-14":{
+        "es": "Son diseños predefinidos para que no partas de cero pero en realidad, después podrás modificar absolutamente todo. De hecho, podrás cambiar la plantilla que escojas ahora. Y si no te encaja ninguna, haz clic en 'Blank Template' para empezar de cero a diseñar tu App.",
+        "en": "They are predefined designs so you don't start from scratch but in reality, later you can modify absolutely everything. In fact, you can change the template you choose now. And if you don't fit any, click on 'Blank Template' to start from scratch to design your App."
+    },
+    "courses_text-15":{
+        "es": "Para este ejemplo escogeremos una plantilla en blanco",
+        "en": "For this example we will choose a blank template"
+    },
+    "courses_text-16":{
+        "es": "El proceso de creación de Aplicaciones con Scoreapps es muy sencillo. Sólo tienes que ir siguiendo los pasos del constructor.",
+        "en": "The process of creating Applications with Scoreapps is very simple. You just have to follow the steps of the builder."
+    },
+    "courses_text-17":{
+        "es": "Estos pasos están representados en la barra de progreso que tendrás siempre a tu disposición en la parte superior del constructor y que te permitirá fácilmente navegar entre las distintas páginas, con sólo clicar encima del icono.",
+        "en": "These steps are represented in the progress bar that you will always have at your disposal at the top of the builder and that will allow you to easily navigate between the different pages, with just a click on the icon."
+    },
+    "courses_subtitle-5":{
+        "es": "Primer paso. Diseño de la App",
+        "en": "First step. App design"
+    },
+    "courses_text-18":{
+        "es": "En la pestaña Diseño, encontrarás todas las opciones relacionadas con la información del menú y de la pantalla inicial de tu App.",
+        "en": "In the Design tab, you will find all the options related to the information in the menu and the home screen of your App."
+    },
+    "courses_text-19":{
+        "es": "La sección Opciones de Pantalla de Inicio muestra las opciones disponibles según el estilo de navegación (Layout) escogido. Debes tener en cuenta que cada estilo de navegación o Layout dispone de sus propios ajustes de configuración.",
+        "en": "The Home Screen Options section shows the options available according to the chosen navigation style (Layout). You must take into account that each navigation style or Layout has its own configuration settings."
+    },
+    "courses_text-20":{
+        "es": "Menú de elección del Layout",
+        "en": "Layout selection menu"
+    },
+    "courses_text-21":{
+        "es": "Para este aplicación, hemos escogido el layout 95. Este diseño de layout muestra el contenido de la primera función que hemos establecido en el menú, con la posibilidad de establecer una imagen de cabecera. Para esta disposición, resulta especialmente atractivo mostrar el logotipo de la compañía. Un botón tipo hamburguesa desplegará lateralmente un menú dónde se mostrarán el resto de funciones.",
+        "en": "For this application, we have chosen layout 95. This layout design shows the content of the first function that we have established in the menu, with the possibility of establishing a header image. For this arrangement, it is especially attractive to show the company logo. A hamburger type button will display a menu where the rest of the functions will be shown laterally."
+    },
+    "courses_text-22":{
+        "es": "Como puedes observar, la pantalla inicial de nuestra aplicación muestra directamente la presentación de Catherine en una página personalizada. Cómo configurar esta función lo veremos más adelante.",
+        "en": "As you can see, the initial screen of our application directly shows Catherine's presentation on a custom page. How to configure this function we will see later."
+    },
+    "courses_text-23":{
+        "es": "Estos son los parámetros de configuración que podrás ver en el constructor para este layout en concreto.",
+        "en": "These are the configuration parameters that you can see in the builder for this particular layout."
+    },
+    "courses_list-1":{
+        "es": "Visibility of logo: puedes establecer si quieres que se vea o no tu logotipo.",
+        "en": "Visibility of logo: you can set whether you want your logo to be visible or not."
+    },
+    "courses_list-2":{
+        "es": "Ancho sidebar: puedes establecer el tamaño del menú desplegable. Puedes configurarlo en base a un porcentaje respecto la pantalla o un ancho fijo de píxeles.",
+        "en": "Sidebar width: you can set the size of the drop-down menu. You can configure it based on a percentage of the screen or a fixed width in pixels."
+    },
+    "courses_list-3":{
+        "es": "Logo URL: en este espacio deberás pegar el link que se generará en la herramienta para subir imágenes. Ésta se encuentra en el menú lateral izquierdo de tu pantalla. Para entrar deberás hacer clic en el siguiente icono.",
+        "en": "Logo URL: in this space you must paste the link that will be generated in the tool to upload images. It is located in the left side menu of your screen. To enter you must click on the following icon."
+    },
+    "courses_text-24":{
+        "es": "Te aparecerá la siguiente pantalla. En ella, sólo deberás arrastrar la imagen que deseas subir y automáticamente se generará el link.",
+        "en": "The following screen will appear. In it, you just have to drag the image you want to upload and the link will be generated automatically."
+    },
+    "courses_text-25":{
+        "es": "El tamaño de imagen no debe superar los 500KB. Cuánto menos pesen tus imágenes, más rápida será la carga de las imágenes y mejor será la experiencia de usuario al navegar por tu app.",
+        "en": "The image size should not exceed 500KB. The less your images weigh, the faster the images will load and the better the user experience will be when browsing your app."
+    },
+    "courses_text-26":{
+        "es": "La sección que vas a ver a continuación, te ayuda a elegir una imagen para la pantalla de inicio que se vea bien en todos los dispositivos y ratios de pantalla. Usa la herramienta overlay (sombreado) para comprobar si la información importante de tu diseño queda dentro de las zonas seguras recomendadas en función de la orientación de pantalla para la que está diseñada tu App.",
+        "en": "The section you will see next, helps you choose an image for the home screen that looks good on all devices and screen ratios. Use the overlay tool to check if the important information of your design fits within the recommended safe zones depending on the screen orientation for which your App is designed."
+    },
+    "courses_text-27":{
+        "es": "Asegúrate que los elementos que consideres importantes, queden dentro de la zona sin sombrear.",
+        "en": "Make sure that the elements you consider important are within the unshaded area."
+    },
+    "courses_text-28":{
+        "es": "Para saber cómo diseñar bien las imágenes puedes descargar la plantilla con las medidas, disponible tanto en formato .png como en .psd.",
+        "en": "To know how to design the images well you can download the template with the measurements, available in both .png and .psd format."
+    },
+    "courses_text-29":{
+        "es": "Veamos ahora un pequeño vídeo de 5 minutos para aprender a diseñar la Pantalla de Inicio de la Aplicación:",
+        "en": "Let's now watch a short 5-minute video to learn how to design the Application's Home Screen:"
+    },
+    "courses_text-30":{
+        "es": "Escoge el idioma en función de tu país y la moneda de tu aplicación. Se utilizará para diferentes aspectos, como la zona horaria y el símbolo de la moneda.",
+        "en": "Choose the language according to your country and the currency of your application. It will be used for different aspects, such as the time zone and the currency symbol."
+    },
+    "courses_text-31":{
+        "es": "Para cambiar la fuente de tu app puedes seleccionar una de las que aparecen en el menú del constructor, o importar una desde Google Fonts. Para hacerlo es tan sencillo como escribir el nombre de la fuente.",
+        "en": "To change the font of your app you can select one of the ones that appear in the builder menu, or import one from Google Fonts. To do this is as simple as writing the name of the font."
+    },
+    "courses_subtitle-6":{
+        "es": "Segundo paso. Colores",
+        "en": "Second step. Colors"
+    },
+    "courses_text-32":{
+        "es": "Elige los colores principales de la aplicación.",
+        "en": "Choose the main colors of the application."
+    },
+    "courses_list-2-1":{
+        "es": "General: aplica al fondo (si no hay una imagen específica) y al texto general.",
+        "en": "General: applies to the background (if there is no specific image) and to the general text."
+    },
+    "courses_list-2-2":{
+        "es": "Inicio: aplica al menú de navegación y a sus elementos.",
+        "en": "Home: applies to the navigation menu and its elements."
+    },
+    "courses_list-2-3":{
+        "es": "Cabecera: aplica a la cabecera de navegación de la app.",
+        "en": "Header: applies to the navigation header of the app."
+    },
+    "courses_list-2-4":{
+        "es": "Tarjeta: aplica a los elementos mostrados en formato tarjeta.",
+        "en": "Card: applies to the elements shown in card format."
+    },
+    "courses_list-2-5":{
+        "es": "Lista: aplica a los elementos mostrados en formato lista.",
+        "en": "List: applies to the elements shown in list format."
+    },
+    "courses_text-33":{
+        "es": "Además, si dispones de conocimientos de programación Web, en la parte inferior del panel encontrarás un espacio para poder introducir código CSS y así, personalizar al 100% los elementos de tu App.",
+        "en": "In addition, if you have knowledge of Web programming, at the bottom of the panel you will find a space to enter CSS code and thus, customize 100% the elements of your App."
+    },
+    "courses_subtitle-7":{
+        "es": "Tercer paso. Funciones",
+        "en": "Third step. Functions"
+    },
+    "courses_text-34":{
+        "es": "Una vez diseñada la pantalla inicial y escogidos los colores principales de la Aplicación, vamos con la parte funcional.",
+        "en": "Once the home screen has been designed and the main colors of the Application have been chosen, let's go with the functional part."
+    },
+    "courses_text-35":{
+        "es": "Las plantillas incorporan de forma predeterminada algunas funciones que consideramos interesantes para cada sector. Puedes verlas en el carrusel de funciones. Pero si quieres eliminar alguna, sólo tendrás que darle a la “X”. "
+    },
+    "courses_text-36":{
+        "es": "Para que veas lo sencillo que es incorporar nuevas funciones a tu App, te mostramos este gif donde podrás ver cómo realizamos el proceso.",
+        "en": "To show you how easy it is to incorporate new functions into your App, we show you this gif where you can see how we do the process."
+    },
+    "courses_subtitle-8":{
+        "es": "'The Coach' y 'The Course' (Página Personalizada)",
+        "en": "'The Coach' and 'The Course' (Custom Page)"
+    },
+    "courses_text-37":{
+        "es": "Para esta app hemos configurado una página de presentación de la instructora y del curso de yoga que ofrece.",
+        "en": "For this app we have configured a presentation page of the instructor and the yoga course she offers."
+    },
+    "courses_text-38":{
+        "es": "Esta funcionalidad te ofrece múltiples opciones para crear una página informativa. Puedes escribir un artículo con una imagen, puedes publicar una galería de fotos, puedes publicar un vídeo directamente en esta página y puedes agregar botones de llamada o un enlace a cualquier sitio web externo.",
+        "en": "This functionality offers you multiple options to create an informative page. You can write an article with an image, you can publish a photo gallery, you can publish a video directly on this page and you can add call buttons or a link to any external website."
+    },
+    "courses_subtitle-9":{
+        "es": "'Yoga trainning' (Enlace)",
+        "en": "'Yoga trainning' (Link)"
+    },
+    "courses_text-39":{
+        "es": "En esta sección hemos embebido el acceso al curso de Introducción al Yoga que hemos creado al principio del video. Como la página creada es de tipo responsive, en las plataformas móviles tiene una perfecta visualización. De esta forma, los usuarios podrán seguir el curso desde cualquier lugar e incrementar así, las tasas de éxito y de finalización al curso.",
+        "en": "In this section we have embedded access to the Introduction to Yoga course that we created at the beginning of the video. As the created page is responsive, on mobile platforms it has a perfect visualization. In this way, users can follow the course from anywhere and thus increase the success and completion rates of the course."
+    },
+    "courses_text-40":{
+        "es": "Para opder realizar esta acción hemos utilizado la función 'enlace'. Es muy sencilla de utilizar, te lo mostramos en el siguiente video.",
+        "en": "To be able to perform this action we have used the 'link' function. It is very easy to use, we show you in the following video."
+    },
+    "courses_text-41":{
+        "es": "Recuerda que el link que se tiene que embeber es el de la página de Inicio de Sesión o Acceso a miembros.",
+        "en": "Remember that the link to be embedded is the Login or Member Access page."
+    },
+    "courses_subtitle-10":{
+        "es": "'Weekly Masterclass' (Página Personalizada)",
+        "en": "'Weekly Masterclass' (Custom Page)"
+    },
+    "courses_text-42":{
+        "es": "En esta sección, Catherine Willgood ofrece contenido de tipo semanal sólo para los usuarios de su app.",
+        "en": "In this section, Catherine Willgood offers weekly content only for users of her app."
+    },
+    "courses_text-43":{
+        "es": "La función que hemos utilizado es la de 'Página Personalizada', la misma que hemos utilizado al principio en la sección 'The Coach' y 'The Course'."
+    },
+    "courses_subtitle-11":{
+        "es": "'Social Wall' (Muro Social)",
+        "en": "'Social Wall'"
+    },
+    "courses_text-44":{
+        "es": "El objetivo de esta sección es generar comunidad y engagement. Desde esta sección sus usuarios podrán postear comentarios, compartir experiencias con otros usuarios o abordar cualquier consulta con el mundo del yoga.",
+        "en": "The objective of this section is to generate community and engagement. From this section its users can post comments, share experiences with other users or address any questions with the world of yoga."
+    },
+    "courses_subtitle-12":{
+        "es": "'Upcoming events' (Calendario eventos)",
+        "en": "'Upcoming events'"
+    },
+    "courses_text-45":{
+        "es": "Desde esta sección, Catherine Willgood mantiene informados a sus usuarios de todos sus eventos o webinars.",
+        "en": "From this section, Catherine Willgood keeps her users informed of all her events or webinars."
+    },
+    "courses_text-46":{
+        "es": "Para construirla hemos utilizado la función  'Calendario de eventos'.",
+        "en": "To build it we have used the 'Events Calendar' function."
+    },
+    "courses_text-47":{
+        "es": "En este video puedes ver paso a paso cómo configurar esta función.",
+        "en": "In this video you can see step by step how to configure this function."
+    },
+    "courses_subtitle-13":{
+        "es": "'Yoga Playlist' (Audio & Music)",
+        "en": "'Yoga Playlist' (Audio & Music)"
+    },
+    "courses_text-48":{
+        "es": "La app también cuenta con una playlist de música de yoga. De esta forma los usuarios de Catherine pueden disfrutar de música exclusivamente seleccionada por ella.",
+        "en": "The app also has a yoga music playlist. In this way, Catherine's users can enjoy music exclusively selected by her."
+    },
+    "courses_text-49":{
+        "es": "Para poder configurar esta función, hemos seleccionado 'Audio & Music'.",
+        "en": "To be able to configure this function, we have selected 'Audio & Music'."
+    },
+    "courses_text-50":{
+        "es": "Hemos creado cuatro playlists: 'Yoga playlist', 'Meditation playlist', 'Sounds of Nature' y 'Tibetian Bells'.",
+        "en": "We have created four playlists: 'Yoga playlist', 'Meditation playlist', 'Sounds of Nature' and 'Tibetian Bells'."
+    },
+    "courses_text-51":{
+        "es": "Para conocer mejor cómo configurar esta función, puedes ver el siguiente video paso a paso:",
+        "en": "To better understand how to configure this function, you can watch the following step-by-step video:"
+    },
+    "courses_subtitle-14":{
+        "es": "'SHOP' (Tienda / Delivery)",
+        "en": "'SHOP' (Store / Delivery)"
+    },
+    "courses_text-52":{
+        "es": "Desde esta sección Catherine Willgood vende productos con su branding. Los usuarios de la app podrán comprar de forma rápida y sencilla todos los articulos que puedan necesitar para sus ejercicios de yoga.",
+        "en": "From this section Catherine Willgood sells products with her branding. App users can quickly and easily buy all the items they may need for their yoga exercises."
+    },
+    "courses_text-53":{
+        "es": "Esta función te permite crear una o varias tiendas, poner a la venta todos tus productos por categorías, mostrando los precios, las tallas, opciones de productos, etc. y personalizar las opciones de venta, entrega o envío. Asimismo, podrás configurar varias opciones de pago y descuentos.",
+        "en": "This function allows you to create one or more stores, put all your products up for sale by categories, showing prices, sizes, product options, etc. and customize sales, delivery or shipping options. Likewise, you can configure various payment and discount options."
+    },
+    "courses_text-54":{
+        "es": "En nuestra app, primero hemos configurado la tienda. En este caso, se trata sólo de una tienda online y no dispone de una dirección concreta. Si se diera el caso contario, esta tienda estaría geolocalizada y su ubicación se mostraría en el mapa (su funcionamiento requiere añadir una clave API de Google Maps).",
+        "en": "In our app, we have first configured the store. In this case, it is only an online store and does not have a specific address. If the opposite were the case, this store would be geolocated and its location would be shown on the map (its operation requires adding a Google Maps API key)."
+    },
+    "courses_text-55":{
+        "es": "En la sección de 'Categorías', hemos establecido las siguientes:",
+        "en": "In the 'Categories' section, we have established the following:"
+    },
+    "courses_text-56":{
+        "es": "Y por último, te mostramos cómo se ve en la pantalla del constructor, todos los productos una vez añadidos.",
+        "en": "And finally, we show you how all the products look on the builder screen once added."
+    },
+    "courses_text-57":{
+        "es": "Para aprender paso a paso cómo configurar todas opciones de la función 'tienda/delivery', te lo mostramos en el siguiente vídeo.",
+        "en": "To learn step by step how to configure all options of the 'store/delivery' function, we show you in the following video."
+    },
+    "courses_subtitle-15":{
+        "es": "'Newsletter' (Temas)",
+        "en": "'Newsletter' (Topics)"
+    },
+    "courses_text-58":{
+        "es": "Esta sección permite a los usuarios de Catherine Willgood subscribirse a su newsletter para mantenerse informados de todo lo que les interesa.",
+        "en": "This section allows Catherine Willgood's users to subscribe to her newsletter to stay informed about everything that interests them."
+    },
+    "courses_text-59":{
+        "es": "La función que hemos utilizado es 'Temas'.",
+        "en": "The function we have used is 'Topics'."
+    },
+    "courses_text-60":{
+        "es": "Hemos creado una descripción, en este caso, acompañada de una fotografía.",
+        "en": "We have created a description, in this case, accompanied by a photograph."
+    },
+    "courses_text-61":{
+        "es": "Y luego hemos establecido los distintos temas de interés a los que se pueden subscribir los usuarios.",
+        "en": "And then we have established the different topics of interest to which users can subscribe."
+    },
+    "courses_text-62":{
+        "es": "Para aprender paso a paso cómo configurar todas opciones de la función 'temas', te lo mostramos en el siguiente vídeo.",
+        "en": "To learn step by step how to configure all options of the 'topics' function, we show you in the following video."
+    },
+    "courses_subtitle-16":{
+        "es": "'Yogui Food' (Carpetas)",
+        "en": "'Yogui Food' (Folders)"
+    },
+    "courses_text-63":{
+        "es": "Hemos creado también una secció dedicada a la alimentación yogui con recetas y consejos alimenticios exclusivos para usuarios de la app.",
+        "en": "We have also created a section dedicated to yogi food with recipes and exclusive food tips for app users."
+    },
+    "courses_text-64":{
+        "es": "Hemos utilizado una función 'Carpetas'. Esta función tiene como objetivo contener y organizar dentro de ella otras funciones. Es decir, que a la función carpeta que hemos llamado 'Yogui Food' va a contener otras funciones, en este caso, páginas personalizadas, que recibirán el título de cada una de las recetas.",
+        "en": "We have used a 'Folders' function. This function aims to contain and organize other functions within it. That is, the folder function that we have called 'Yogui Food' will contain other functions, in this case, custom pages, which will receive the title of each of the recipes."
+    },
+    "courses_text-65":{
+        "es": "Aquí te mostramos un video sobre la función Carpetas.",
+        "en": "Here we show you a video about the Folders function."
+    },
+    "courses_subtitle-17":{
+        "es": "'Contact us' (Form V2)",
+        "en": "'Contact us' (Form V2)"
+    },
+    "courses_text-66":{
+        "es": "La aplicación cuanta con un formulario de contacto para que Catherine Willgood pueda resolver cualquier tipo de duda o consulta de los usuarios de su comunidad.",
+        "en": "The application has a contact form so that Catherine Willgood can resolve any questions or queries from the users of her community."
+    },
+    "courses_text-67":{
+        "es": "Para crear la sección de Suggerencias, hemos utilizado la función de Formulario.",
+        "en": "To create the Suggestions section, we have used the Form function."
+    },
+    "courses_text-68":{
+        "es": "Para obtener un formulario como el de la imagen, hemos seguido la siguiente secuencia de campos.",
+        "en": "To get a form like the one in the image, we have followed the following sequence of fields."
+    },
+    "courses_text-69":{
+        "es": "Si quieres aprender cómo utilizar esta función paso a paso, visualiza el siguiente video.",
+        "en": "If you want to learn how to use this function step by step, watch the following video."
+    },
+    "courses_text-70":{
+        "es": "Haz clic en este enlace y podrás ver un artículo paso a paso de la función",
+        "en": "Click on this link and you can see a step-by-step article of the function"
+    },
+    "courses_link-1":{
+        "es": "'Formulario'",
+        "en": "'Form'"
+    },
+    "courses_subtitle-18":{
+        "es": "'Share' (Share app)",
+        "en": "'Share' (Share app)"
+    },
+    "courses_text-71":{
+        "es": "La app también cuenta con una sección, a través de la cual, los usuarios pueden compartir la aplicación de forma rápida y sencilla con familiares, amigos, etc. generano así, una mayor viralización de la app.",
+        "en": "The app also has a section, through which, users can quickly and easily share the application with family, friends, etc. generating a greater viralization of the app."
+    },
+    "courses_text-72":{
+        "es": "La función 'Share app' permite a tus usuarios compartir la App con sólo dar a un botón. Puedes configurar el mensaje y el texto del botón, para una experiencia más personalizada.",
+        "en": "The 'Share app' function allows your users to share the App with just one button. You can configure the message and the button text, for a more personalized experience."
+    },
+    "courses_text-73":{
+        "es": "Si quieres aprender cómo utilizar esta función, puedes visualizar el siguiente video.",
+        "en": "If you want to learn how to use this function, you can watch the following video."
+    },
+    "courses_subtitle-19":{
+        "es": "'Instagram' (Enlace)",
+        "en": "'Instagram' (Link)"
+    },
+    "courses_text-74":{
+        "es": "Esta sección es muy sencilla. Para integrar tu página de Instagram en la app, hemos utilizado la función enlace. Sólo tendrás que copiar el enlace de tu página de Instagram en el campo de nuestro constructor y tu página quedará conectada.",
+        "en": "This section is very simple. To integrate your Instagram page into the app, we have used the link function. You just have to copy the link to your Instagram page in the field of our builder and your page will be connected."
+    },
+    "courses_subtitle-20":{
+        "es": "Mensajes Push",
+        "en": "Push Messages"
+    },
+    "courses_text-75":{
+        "es": "Los mensajes o notificaciones Push son el sistema de marketing más eficiente que existe en la actualidad. Mientras que de cada 10 emails enviados 8 caen en las bandejas de SPAM, con los Mensajes Push ocurre lo contrario... el 99% son leídos.",
+        "en": "Push messages or notifications are the most efficient marketing system that exists today. While out of every 10 emails sent 8 fall into SPAM trays, with Push Messages the opposite happens... 99% are read."
+    },
+    "courses_text-76":{
+        "es": "Para enviar un mensaje Push, sólo tienes que ir a la sección de 'Mensajes Push' y hacer clic en 'Nuevo Mensaje'..",
+        "en": "To send a Push message, you just have to go to the 'Push Messages' section and click on 'New Message'.."
+    },
+    "courses_list-3-1":{
+        "es": "Debes incluir en la Aplicación la función 'Notificaciones Push'",
+        "en": "Select the type of message you want to send: Push or In-App."
+    },
+    "courses_list-3-2":{
+        "es": "Para poder hacer uso de las Notificaciones Push, es necesario que la Aplicación en cuestión se encuentre publicada para las versiones nativas Android y/o iOS.",
+        "en": "To be able to use Push Notifications, it is necessary that the Application in question is published for the native Android and/or iOS versions."
+    },
+    "courses_text-77":{
+        "es": "Una vez que la aplicación haya sido publicada en App Store y/o Google Play, podrás enviar notificaciones directamente desde la propia función 'Notificaciones Push'."
+    },
+    "courses_subtitle-21":{
+        "es": "Paso 4. Icono y ajustes de la Aplicación",
+        "en": "Step 4. Application icon and settings"
+    },
+    "courses_text-78":{
+        "es": "Desde aquí puedes elegir el icono que se mostrará en la pantalla del dispositivo del usuario, así como el diseño del botón 'volver'.",
+        "en": "From here you can choose the icon that will be displayed on the user's device screen, as well as the design of the 'back' button."
+    },
+    "courses_text-79":{
+        "es": "Si quieres enviar notificaciones push, aquí es donde puedes personalizar algunos aspectos, como el icono o el color de fondo.",
+        "en": "If you want to send push notifications, here is where you can customize some aspects, such as the icon or the background color."
+    },
+    "courses_text-80":{
+        "es": "Esta herramienta te ayudará a elegir una imagen de inicio que será compatible con todos los tamaños de pantalla de los diferentes dispositivos. Ésta se verá cuando se inicie la aplicación mientras se está cargando.",
+        "en": "This tool will help you choose a start image that will be compatible with all screen sizes of different devices. This will be seen when the application is started while it is loading."
+    },
+    "courses_subtitle-22":{
+        "es": "Paso 5. Avanzado",
+        "en": "Step 5. Advanced"
+    },
+    "courses_text-81":{
+        "es": "Si lo deseas, puedes monetizar tu aplicación agregando anuncios publicitarios o anuncios intersticiales que se mostrarán a los usuarios de tu aplicación. Para ello deberás configurar el sistema de publicidad Admob.",
+        "en": "If you wish, you can monetize your application by adding advertising banners or interstitial ads that will be shown to users of your application. To do this you will need to configure the Admob advertising system."
+    },
+    "courses_subtitle-23":{
+        "es": "Publicación de tu App",
+        "en": "Publishing your App"
+    },
+    "courses_text-82":{
+        "es": "En función de Plan (Starter, Business, Growth o Reseller) dispondrás de distintos tipos de Publicación:",
+        "en": "Depending on the Plan (Starter, Business, Growth or Reseller) you will have different types of Publication:"
+    },
+    "courses_list-4-1":{
+        "es": "Versión Nativa Android.",
+        "en": "Native Android version."
+    },
+    "courses_list-4-2":{
+        "es": "Versión Nativa iOS.",
+        "en": "Native iOS version."
+    },
+    "courses_list-4-3":{
+        "es": "Web app HTML5.",
+        "en": "HTML5 Web app."
+    },
+    "courses_list-4-4":{
+        "es": "Modo PWA (Progressive Web App).",
+        "en": "PWA mode (Progressive Web App)."
+    },
+    "courses_text-83":{
+        "es": "Para publicar la versión nativa de tu App en Appstore o en Google Play, necesitas un plan Business, Growth o Reseller, mientras que la versión Web App y PWA puedes publicarlas con un plan Starter o incluso durante el Trial gratuito de 14 días.",
+        "en": "To publish the native version of your App in the Appstore or Google Play, you need a Business, Growth or Reseller plan, while the Web App and PWA version can be published with a Starter plan or even during the free 14-day Trial."
     }
 
 
 
+
+
+
+    
+
+    
 
 }

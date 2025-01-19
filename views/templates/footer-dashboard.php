@@ -1,4 +1,4 @@
-<footer class="footer">
+<footer class="footer--dashboard">
     <div class="footer__container">
         <div class="footer__left">
             <div class="footer__logo">

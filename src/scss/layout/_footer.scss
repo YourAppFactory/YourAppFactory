@@ -10,6 +10,12 @@
     @include m.tablet{
         padding: v.$separate;
     }
+    &--dashboard{
+        @extend .footer;
+        @include m.tablet{
+            padding:1.5rem;
+        }
+    }
     & a{
         color: v.$white;
         &:hover{
