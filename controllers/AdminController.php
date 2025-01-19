@@ -221,8 +221,8 @@ class AdminController {
                 $imageName = md5(uniqid(rand(),true)).'.'.$ext;
                 $imageMobileName = md5(uniqid(rand(),true)).'.'.$ext;
 
-                $path = $_SERVER['DOCUMENT_ROOT'] . '/build/img/' . $imageName;
-                $pathMobile = $_SERVER['DOCUMENT_ROOT'] . '/build/img/' . $imageMobileName;
+                $path = $_SERVER['DOCUMENT_ROOT'] . '/public/build/img/' . $imageName;
+                $pathMobile = $_SERVER['DOCUMENT_ROOT'] . '/public/build/img/' . $imageMobileName;
 
                 move_uploaded_file($_FILES['promo']['tmp_name'], $path);
                 move_uploaded_file($_FILES['promo_mobile']['tmp_name'], $pathMobile);
@@ -232,8 +232,8 @@ class AdminController {
 
                 //delete the old images
                 $oldImage = Promo::find('1');
-                unlink($_SERVER['DOCUMENT_ROOT'] . '/build/img/' . $oldImage->promo);
-                unlink($_SERVER['DOCUMENT_ROOT'] . '/build/img/' . $oldImage->promo_mobile);
+                unlink($_SERVER['DOCUMENT_ROOT'] . '/public/build/img/' . $oldImage->promo);
+                unlink($_SERVER['DOCUMENT_ROOT'] . '/public/build/img/' . $oldImage->promo_mobile);
 
                 $result = $promo->save();
                 if($result){
