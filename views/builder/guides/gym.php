@@ -275,7 +275,7 @@
                 <li>{%gym_list-4-10-3%}</li>
                 <li>{%gym_list-4-10-4%}</li>
                 <li>{%gym_list-4-10-5%}</li>
-                <p>{%gym_list-4-10-6%}</p>
+                <p class="m-t-0 m-b-0 text-pink">{%gym_list-4-10-6%}</p>
                 <li>{%gym_list-4-10-7%}</li>
             </ol>
         </li>
@@ -284,5 +284,107 @@
     <p>{%gym_text-67%}</p>
 
     <img src="/build/img/gym/38.png" alt="{%gym_main_title%}" class="img-medium margin-auto">
+
+    <h3>{%gym_main_subtitle-18%}</h3>
+    <p>{%gym_text-68%}</p>
     
+    <img src="/build/img/gym/39.png" alt="{%gym_main_title%}" class="img-medium margin-auto">
+
+    <h3>{%gym_main_subtitle-19%}</h3>
+
+    <p>{%gym_text-69%}</p>
+    <p>{%gym_text-70%}</p>
+
+    <img src="/build/img/gym/40.png" alt="{%gym_main_title%}" class="img-medium margin-auto">
+
+    <p>{%gym_text-71%}</p>
+
+    <!--ACA VA EL VIDEO 11-->
+    <iframe class="margin-auto img-medium" width="560" height="315" src="https://www.youtube.com/embed/7J0OYf8z9Zo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <h3>{%gym_main_subtitle-20%}</h3>
+
+    <p>{%gym_text-72%}</p>
+
+    <img src="/build/img/gym/41.png" alt="{%gym_main_title%}" class="img-medium margin-auto">
+
+    <h3>{%gym_main_subtitle-21%}</h3>
+
+    <p>{%gym_text-73%}</p>
+    <p>{%gym_text-74%}</p>
+
+    <ul>
+        <li>{%gym_list-5-1%}</li>
+        <li>{%gym_list-5-2%}</li>
+    </ul>
+
+    <img src="/build/img/gym/42.png" alt="{%gym_main_title%}" class="img-medium margin-auto">
+
+    <p>{%gym_text-75%}</p>
+
+    <ul>
+        <li>{%gym_list-6-1%}</li>
+        <li>{%gym_list-6-2%}</li>
+    </ul>
+
+    <p>{%gym_text-76%}</p>
+    <p>{%gym_text-77%}</p>
+
+    <img src="/build/img/gym/43.png" alt="{%gym_main_title%}" class="img-medium margin-auto">
+
+    <h3>{%gym_main_subtitle-22%}</h3>
+
+    <p>{%gym_text-78%}</p>
+    <p>{%gym_text-79%}</p>
+
+    <img src="/build/img/gym/44.png" alt="{%gym_main_title%}" class="img-medium margin-auto">
+
+    <ol>
+        <li>{%gym_list-7-1%}</li>
+        <li>{%gym_list-7-2%}</li>
+    </ol>
+
+    <p>{%gym_text-80%}</p>
+
+    <h2>{%gym_main_subtitle-23%}</h2>
+
+    <img src="/build/img/gym/45.png" alt="{%gym_main_title%}" class="img-medium margin-auto">
+
+    <p>{%gym_text-81%}</p>
+
+    <img src="/build/img/gym/46.png" alt="{%gym_main_title%}" class="img-medium margin-auto">
+
+    <p>{%gym_text-82%}</p>
+
+    <img src="/build/img/gym/47.png" alt="{%gym_main_title%}" class="img-medium margin-auto">
+
+    <p>{%gym_text-83%}</p>
+
+    <img src="/build/img/gym/48.png" alt="{%gym_main_title%}" class="img-medium margin-auto">
+
+    <h2>{%gym_main_subtitle-24%}</h2>
+
+    <img src="/build/img/gym/49.png" alt="{%gym_main_title%}" class="img-medium margin-auto">
+
+    <p>{%gym_text-84%}</p>
+
+    <img src="/build/img/gym/50.png" alt="{%gym_main_title%}" class="img-medium margin-auto">
+
+    <h2>{%gym_main_subtitle-25%}</h2>
+
+    <p>{%gym_text-85%}</p>
+
+    <ol>
+        <li>{%gym_list-8-1%}</li>
+        <li>{%gym_list-8-2%}</li>
+        <li>{%gym_list-8-3%}</li>
+        <li>{%gym_list-8-4%}</li>
+    </ol>
+
+    <img src="/build/img/gym/51.png" alt="{%gym_main_title%}" class="img-medium margin-auto">
+
+    <p>{%gym_text-86%}</p>
+
+
+
 </div>

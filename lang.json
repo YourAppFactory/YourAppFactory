@@ -1524,7 +1524,7 @@
         "es": "En proveedores hemos configurado los datos de los profesionales que prestan sus servicios en el gimnasio dando clases colectivas.",
         "en": "In providers we have configured the data of the professionals who provide their services in the gym by giving group classes."
     },
-    "gym-text-61":{
+    "gym_text-61":{
         "es": "Tenemos que tener en cuenta que cada servicio se da a ciertas horas puntuales, es decir, que la clase de Yoga se imparte el lunes a las 9:00, por ejemplo. Otra forma de enfocarlo es que la clase de yoga no está disponible todo el día, sólo el lunes a las 9:00, el martes a las 10:00, etc. por lo tanto, no podemos establecer que Megan, la profesora de Yoga, está disponible todo el lunes (aunque quizás Megan trabaje en otros momentos del día en la sala de musculación o en la recepción).",
         "en": "We have to take into account that each service is given at certain specific times, that is, that the Yoga class is given on Monday at 9:00, for example. Another way to approach it is that the yoga class is not available all day, only on Monday at 9:00, Tuesday at 10:00, etc. therefore, we cannot establish that Megan, the Yoga teacher, is available all day Monday (although perhaps Megan works at other times of the day in the weight room or at the reception)."
     },
@@ -1623,12 +1623,155 @@
     "gym_text-67":{
         "es": "- Añadir Reservas: También puedes añadir reservas directamente desde la plataforma, para ello simplemente tienes que hacer clic en el botón azul 'Añadir reserva' y completar los datos necesarios.",
         "en": "- Add Reservations: You can also add reservations directly from the platform, for this you just have to click on the blue 'Add reservation' button and complete the necessary data."
+    },
+    "gym_main_subtitle-18":{
+        "es": "Calendario",
+        "en": "Calendar"
+    },
+    "gym_text-68":{
+        "es": "Desde aquí puedes ver las reservas que se han realizado desde la aplicación de forma individual y y de todas las ubicaciones de tu negocio. También puedes gestionar la reservas directamente desde aquí ya que puedes Ver, Aceptar, Rechazar, Marcar como Completado, Cancelar y Eliminar la reserva.",
+        "en": "From here you can see the reservations that have been made from the application individually and from all the locations of your business. You can also manage reservations directly from here since you can View, Accept, Reject, Mark as Completed, Cancel and Delete the reservation."
+    },
+    "gym_main_subtitle-19":{
+        "es": "'Fit Plan' (Carpetas)",
+        "en": "'Fit Plan' (Folders)"
+    },
+    "gym_text-69":{
+        "es": "Hemos creado una sección exclusiva para los socios del gimnasio dónde podrán encontrar distintas tablas y rutinas de ejercicios. Esta sección estará controlada por la función 'Candado Pro', que explicaremos un poco más adelante.",
+        "en": "We have created an exclusive section for gym members where they can find different tables and exercise routines. This section will be controlled by the 'Pro Lock' function, which we will explain a little later."
+    },
+    "gym_text-70":{
+        "es": "Para crear este contenido hemos utilizado una función 'Carpetas'. Esta función tiene como objetivo contener y organizar dentro de ella otras funciones. Es decir, que a la función carpeta que hemos llamado 'Fit Plan' va a contener otras funciones, en este caso, una página personalizada, dónde se añadirán las tablas de ejercicios.",
+        "en": "To create this content we have used a 'Folders' function. This function aims to contain and organize other functions within it. That is, the folder function that we have called 'Fit Plan' will contain other functions, in this case, a custom page, where the exercise tables will be added."
+    },
+    "gym_text-71":{
+        "es": "Aquí te mostramos un video sobre la función Carpetas.",
+        "en": "Here we show you a video about the Folders function."
+    },
+    "gym_main_subtitle-20":{
+        "es": "'Gym en casa' (Página Personalizada)",
+        "en": "'Home Gym' (Custom Page)"
+    },
+    "gym_text-72":{
+        "es": "En esta página, que también es de acceso exclusivo para los socios del gimnasio, se muestran videos con clases guiadas para hacer en casa. Esta configurada a través de la función 'Página Personalizada' y está compuesta por textos y videos embebidos.",
+        "en": "On this page, which is also exclusively for gym members, videos with guided classes to do at home are shown. It is configured through the 'Custom Page' function and is composed of texts and embedded videos."
+    },
+    "gym_main_subtitle-21":{
+        "es": "'Share' (Candado Pro)",
+        "en": "'Share' (Pro Lock)"
+    },
+    "gym_text-73":{
+        "es": "Una vez creadas las páginas que queremos 'proteger' o restringir su acceso sólo a los socios del club, añadiremos la función 'Candado Pro'",
+        "en": "Once the pages we want to 'protect' or restrict access only to club members have been created, we will add the 'Pro Lock' function."
+    },
+    "gym_text-74":{
+        "es": "Seleccionaremos:",
+        "en": "We will select:"
+    },
+    "gym_list-5-1":{
+        "es": "Desbloqueo mediante: Cuenta",
+        "en": "Unlock by: Account"
+    },
+    "gym_list-5-2":{
+        "es": "Elige las funciones a bloquear: 'Fit Plan' y 'Gym en casa'",
+        "en": "Choose the functions to block: 'Fit Plan' and 'Home Gym'"
+    },
+    "gym_text-75":{
+        "es": "Una vez hayamos seleccionado estas opciones, pasaremos a asignar el acceso a cada usuario a su correspondiente página:",
+        "en": "Once we have selected these options, we will proceed to assign access to each user to their corresponding page:"
+    },
+    "gym_list-6-1":{
+        "es": "Selecciona a un cliente o socio del desplegable (aparecerán por su dirección de correo electrónico).",
+        "en": "Select a customer or partner from the drop-down list (they will appear by their email address)."
+    },
+    "gym_list-6-2":{
+        "es": "Selecciona el Rol al cual le das acceso, es decir, aquellas funciones a las que puede acceder. En este caso 'Fit Plan' y 'Gym en casa'",
+        "en": "Select the Role to which you give access, that is, those functions to which you can access. In this case 'Fit Plan' and 'Home Gym'"
+    },
+    "gym_text-76":{
+        "es": "En Fecha de expiración puedes seleccionar si quieres que esta acción expire. Si lo dejas en blanco no caducará.",
+        "en": "In Expiration Date you can select if you want this action to expire. If you leave it blank it will not expire."
+    },
+    "gym_text-77":{
+        "es": "Por último, como no queremos'Candado Pro' aparezca en el menú, desactivaremos esta opción.",
+        "en": "Finally, as we do not want 'Pro Lock' to appear in the menu, we will deactivate this option."
+    },
+    "gym_main_subtitle-22":{
+        "es": "Mensajes Push",
+        "en": "Push Messages"
+    },
+    "gym_text-78":{
+        "es": "Los mensajes o notificaciones Push son el sistema de marketing más eficiente que existe en la actualidad. Mientras que de cada 10 emails enviados 8 caen en las bandejas de SPAM, con los Mensajes Push ocurre lo contrario... el 99% son leídos.",
+        "en": "Push messages or notifications are the most efficient marketing system that exists today. While out of every 10 emails sent 8 fall into SPAM trays, with Push Messages the opposite happens... 99% are read."
+    },
+    "gym_text-79":{
+        "es": "Añadir esta potente herramienta a tu App es muy sencillo:",
+        "en": "Adding this powerful tool to your App is very simple:"
+    },
+    "gym_list-7-1":{
+        "es": "Debes incluir en la Aplicación la función 'Notificaciones Push'",
+        "en": "You must include the 'Push Notifications' function in the Application"
+    },
+    "gym_list-7-2":{
+        "es": "Para poder hacer uso de las Notificaciones Push, es necesario que la Aplicación en cuestión se encuentre publicada para las versiones nativas Android y/o iOS.",
+        "en": "To be able to use Push Notifications, it is necessary that the Application in question is published for the native Android and/or iOS versions."
+    },
+    "gym_text-80":{
+        "es": "Una vez que la aplicación haya sido publicada en App Store y/o Google Play, podrás enviar notificaciones directamente desde la propia función 'Notificaciones Push'.",
+        "en": "Once the application has been published in the App Store and/or Google Play, you can send notifications directly from the 'Push Notifications' function."
+    },
+    "gym_main_subtitle-23":{
+        "es": "Paso 4. Icono y ajustes de la Aplicación",
+        "en": "Step 4. Application icon and settings"
+    },
+    "gym_text-81":{
+        "es": "Desde aquí puedes elegir el icono que se mostrará en la pantalla del dispositivo del usuario, así como el diseño del botón 'volver'.",
+        "en": "From here you can choose the icon that will be displayed on the user's device screen, as well as the design of the 'back' button."
+    },
+    "gym_text-82":{
+        "es": "Si quieres enviar notificaciones push, aquí es donde puedes personalizar algunos aspectos, como el icono o el color de fondo.",
+        "en": "If you want to send push notifications, this is where you can customize some aspects, such as the icon or the background color."
+    },
+    "gym_text-83":{
+        "es": "Esta herramienta te ayudará a elegir una imagen de inicio que será compatible con todos los tamaños de pantalla de los diferentes dispositivos. Ésta se verá cuando se inicie la aplicación mientras se está cargando.",
+        "en": "This tool will help you choose a start image that will be compatible with all screen sizes of different devices. This will be seen when the application is started while it is loading."
+    },
+    "gym_main_subtitle-24":{
+        "es": "Paso 5. Avanzado",
+        "en": "Step 5. Advanced"
+    },
+    "gym_text-84":{
+        "es": "Si lo deseas, puedes monetizar tu aplicación agregando anuncios publicitarios o anuncios intersticiales que se mostrarán a los usuarios de tu aplicación. Para ello deberás configurar el sistema de publicidad Admob.",
+        "en": "If you wish, you can monetize your application by adding advertising banners or interstitial ads that will be shown to users of your application. To do this you must configure the Admob advertising system."
+    },
+    "gym_main_subtitle-25":{
+        "es": "Publicación de tu App",
+        "en": "Publishing your App"
+    },
+    "gym_text-85":{
+        "es": "En función de Plan (Starter, Business, Growth o Reseller) dispondrás de distintos tipos de Publicación:",
+        "en": "Depending on the Plan (Starter, Business, Growth or Reseller) you will have different types of Publication:"
+    },
+    "gym_list-8-1":{
+        "es": "Versión Nativa Android.",
+        "en": "Native Android version."
+    },
+    "gym_list-8-2":{
+        "es": "Versión Nativa iOS.",
+        "en": "Native iOS version."
+    },
+    "gym_list-8-3":{
+        "es": "Web app HTML5",
+        "en": "HTML5 Web app"
+    },
+    "gym_list-8-4":{
+        "es": "Modo PWA (Progressive Web App).",
+        "en": "PWA mode (Progressive Web App)."
+    },
+    "gym_text-86":{
+        "es": "Para publicar la versión nativa de tu App en Appstore o en Google Play, necesitas un plan Business, Growth o Reseller, mientras que la versión Web App y PWA puedes publicarlas con un plan Starter o incluso durante el Trial gratuito de 14 días.",
+        "en": "To publish the native version of your App in the Appstore or Google Play, you need a Business, Growth or Reseller plan, while the Web App and PWA version can be published with a Starter plan or even during the free 14-day Trial."
     }
-
-
-
-
-
 
 
 

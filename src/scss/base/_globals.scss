@@ -33,7 +33,7 @@ p, ul li, ol li {
     }
 }
 
-ol li:nth-last-of-type(){
+ol li:not(:last-child), ul li:not(:last-child){
     margin-bottom: 0.3rem;
 }
 
