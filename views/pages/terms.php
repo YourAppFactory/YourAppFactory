@@ -5,7 +5,7 @@
     <p>{%terms_text-2%}</p>
 
     <h2 class="text-blue-dark text-24">{%terms_subtitle-1%}</h2>
-    <p><span class="bold">{%company_name-affordable%}</span>{%terms_text-3%}<a class="bold text-blue" href="/about" target="_blank">{%nav_link--about%}.</a></p>
+    <p><span class="bold">{%company_name-affordable%}</span>{%terms_text-3%}<a class="link" href="/about" target="_blank">{%nav_link--about%}.</a></p>
 
     <h2 class="text-blue-dark text-24">{%terms_subtitle-2%}</h2>
     <p>{%terms_text-4%}</p>
@@ -34,7 +34,7 @@
     </ul>
 
     <h2 class="text-blue-dark text-24">{%terms_subtitle-7%}</h2>
-    <p>{%terms_text-11%}<a href="https://www.fcc.gov/" class="text-blue bold" target="_blank">{%terms_link-1%}</a>{%terms_text-12%}<a href="https://www.fcc.gov/consumers/guides/childrens-internet-protection-act" class="text-blue bold" target="_blank">{%terms_link-2%}</a></p>
+    <p>{%terms_text-11%}<a href="https://www.fcc.gov/" class="link" target="_blank">{%terms_link-1%}</a>{%terms_text-12%}<a href="https://www.fcc.gov/consumers/guides/childrens-internet-protection-act" class="link" target="_blank">{%terms_link-2%}</a></p>
 
     <h2 class="text-blue-dark text-24">{%terms_subtitle-8%}</h2>
     <p>{%terms_text-13%}</p>
@@ -48,7 +48,7 @@
     <p>{%terms_text-17%}</p>
 
     <h2 class="text-blue-dark text-24">{%terms_subtitle-11%}</h2>
-    <p>{%terms_text-18%}<a href="https://www.pcisecuritystandards.org/standards/" class="bold text-blue" target="_blank">{%terms_link-3%}</a>{%terms_text-19%}</p>
+    <p>{%terms_text-18%}<a href="https://www.pcisecuritystandards.org/standards/" class="link" target="_blank">{%terms_link-3%}</a>{%terms_text-19%}</p>
 
     <h2 class="text-blue-dark text-24">{%terms_subtitle-12%}</h2>
     <p>{%terms_text-20%}</p>

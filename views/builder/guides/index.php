@@ -15,16 +15,16 @@
         <a href="/builder/apps/guides/courses" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item-4%}</h2>
         </a>
-        <a href="/builder/apps/guides" class="builder__block__card">
+        <a href="/builder/apps/guides/anykind" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item-5%}</h2>
         </a>
-        <a href="/builder/apps/guides" class="builder__block__card">
+        <a href="/builder/apps/guides/store" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item-6%}</h2>
         </a>
-        <a href="/builder/apps/guides" class="builder__block__card">
+        <a href="/builder/apps/guides/restaurants" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item-7%}</h2>
         </a>
-        <a href="/builder/apps/guides" class="builder__block__card">
+        <a href="/builder/apps/guides/service" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item-8%}</h2>
         </a>
         <a href="/builder/apps/guides" class="builder__block__card">

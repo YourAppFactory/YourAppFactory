@@ -76,4 +76,36 @@ class BuilderController {
             'title' => $title
         ]);
     }
+
+    public static function guideAnyKind(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-1";
+        $router->render('/builder/guides/anykind',[
+            'title' => $title
+        ]);
+    }
+
+    public static function guideStore(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-1";
+        $router->render('/builder/guides/store',[
+            'title' => $title
+        ]);
+    }
+
+    public static function guideRestaurants(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-1";
+        $router->render('/builder/guides/restaurants',[
+            'title' => $title
+        ]);
+    }
+
+    public static function guideService(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-1";
+        $router->render('/builder/guides/service',[
+            'title' => $title
+        ]);
+    }
 }

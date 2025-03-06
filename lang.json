@@ -1214,8 +1214,8 @@
         "en": "First Steps"
     },
     "gym_text-6":{
-        "es": "Una vez en la pantalla de inicio de Scoreapps, en el menú lateral izquierdo encontrarás el icono con forma de 'a' del constructor de apps. Ahí podrás crear una nueva aplicación y darle nombre.",
-        "en": "Once on the Scoreapps home screen, in the left side menu you will find the 'a' shaped icon of the app builder. There you can create a new application and give it a name."
+        "es": "Una vez en la pantalla de inicio de YourAppFactory, en el menú lateral izquierdo encontrarás el icono con forma de 'a' del constructor de apps. Ahí podrás crear una nueva aplicación y darle nombre.",
+        "en": "Once on the YourAppFactory home screen, in the left side menu you will find the 'a' shaped icon of the app builder. There you can create a new application and give it a name."
     },
     "gym_text-7":{
         "es": "Una vez estés en la pantalla de administración de Apps, haz clic en 'Nueva App':",
@@ -1234,8 +1234,8 @@
         "en": "For this example we will choose a blank template"
     },
     "gym_text-11":{
-        "es": "El proceso de creación de Aplicaciones con Scoreapps es muy sencillo. Sólo tienes que ir siguiendo los pasos del constructor.",
-        "en": "The process of creating Apps with Scoreapps is very simple. You just have to follow the steps of the builder."
+        "es": "El proceso de creación de Aplicaciones con YourAppFactory es muy sencillo. Sólo tienes que ir siguiendo los pasos del constructor.",
+        "en": "The process of creating Apps with YourAppFactory is very simple. You just have to follow the steps of the builder."
     },
     "gym_text-12":{
         "es": "Estos pasos están representados en la barra de progreso que tendrás siempre a tu disposición en la parte superior del constructor y que te permitirá fácilmente navegar entre las distintas páginas, con sólo clicar encima del icono.",
@@ -1897,8 +1897,8 @@
         "en": "First Steps"
     },
     "courses_text-11":{
-        "es": "Una vez en la pantalla de inicio de Scoreapps, en el menú lateral izquierdo encontrarás el icono con forma de 'a' del constructor de apps. Ahí podrás crear una nueva aplicación y darle nombre.",
-        "en": "Once on the Scoreapps home screen, in the left side menu you will find the 'a' shaped icon of the app builder. There you can create a new application and give it a name."
+        "es": "Una vez en la pantalla de inicio de YourAppFactory, en el menú lateral izquierdo encontrarás el icono con forma de 'a' del constructor de apps. Ahí podrás crear una nueva aplicación y darle nombre.",
+        "en": "Once on the YourAppFactory home screen, in the left side menu you will find the 'a' shaped icon of the app builder. There you can create a new application and give it a name."
     },
     "courses_text-12":{
         "es": "Una vez estés en la pantalla de administración de Apps, haz clic en 'Nueva App':",
@@ -1917,8 +1917,8 @@
         "en": "For this example we will choose a blank template"
     },
     "courses_text-16":{
-        "es": "El proceso de creación de Aplicaciones con Scoreapps es muy sencillo. Sólo tienes que ir siguiendo los pasos del constructor.",
-        "en": "The process of creating Applications with Scoreapps is very simple. You just have to follow the steps of the builder."
+        "es": "El proceso de creación de Aplicaciones con YourAppFactory es muy sencillo. Sólo tienes que ir siguiendo los pasos del constructor.",
+        "en": "The process of creating Applications with YourAppFactory is very simple. You just have to follow the steps of the builder."
     },
     "courses_text-17":{
         "es": "Estos pasos están representados en la barra de progreso que tendrás siempre a tu disposición en la parte superior del constructor y que te permitirá fácilmente navegar entre las distintas páginas, con sólo clicar encima del icono.",
@@ -2080,7 +2080,8 @@
         "en": "In this section, Catherine Willgood offers weekly content only for users of her app."
     },
     "courses_text-43":{
-        "es": "La función que hemos utilizado es la de 'Página Personalizada', la misma que hemos utilizado al principio en la sección 'The Coach' y 'The Course'."
+        "es": "La función que hemos utilizado es la de 'Página Personalizada', la misma que hemos utilizado al principio en la sección 'The Coach' y 'The Course'.",
+        "en": "The function we have used is the 'Custom Page', the same one we have used at the beginning in the 'The Coach' and 'The Course' section."
     },
     "courses_subtitle-11":{
         "es": "'Social Wall' (Muro Social)",
@@ -2320,15 +2321,1089 @@
     "courses_text-83":{
         "es": "Para publicar la versión nativa de tu App en Appstore o en Google Play, necesitas un plan Business, Growth o Reseller, mientras que la versión Web App y PWA puedes publicarlas con un plan Starter o incluso durante el Trial gratuito de 14 días.",
         "en": "To publish the native version of your App in the Appstore or Google Play, you need a Business, Growth or Reseller plan, while the Web App and PWA version can be published with a Starter plan or even during the free 14-day Trial."
+    },
+    "anykind_main_title":{
+        "en": "How to create ANY KIND of app?",
+        "es": "¿Cómo crear CUALQUIER TIPO de app?"
+    },
+    "anykind_text-1":{
+        "en": "With YourAppFactory you can build almost any kind of App, without having to program a single line of code.",
+        "es": "Con YourAppFactory puedes construir casi cualquier tipo de App, sin tener que programar ni una sola línea de código."
+    },
+    "anykind_text-2":{
+        "en": "But to make things even easier for you, here are a series of Step-by-Step Guides to help you build the most common kinds of apps:",
+        "es": "Pero para ponértelo aún más fácil, aquí tienes una serie de Guías Paso a Paso para ayudarte a construir los tipos de apps más comunes:"
+    },
+    "anykind_list-1":{
+        "en": "App for an online stores",
+        "es": "App para tiendas online"
+    },
+    "anykind_list-2":{
+        "en": "App for a Restaurant/Food Delivery",
+        "es": "App para un Restaurante/Comida a domicilio"
+    },
+    "anykind_list-3":{
+        "en": "Directory/Turism App",
+        "es": "App de Directorio/Turismo"
+    },
+    "anykind_list-4":{
+        "en": "Events/Radio Apps",
+        "es": "App de Eventos/Radio"
+    },
+    "anykind_list-5":{
+        "en": "App for service businesses (Clinics, Beauty Salons etc)",
+        "es": "App para negocios de servicios (Clínicas, Salones de Belleza etc)"
+    },
+    "anykind_list-6":{
+        "en": "Clock-in Apps",
+        "es": "App de Fichaje"
+    },
+    "anykind_text-3":{
+        "en": "But if you still don´t find the correct guide, don´t worry.",
+        "es": "Pero si aún no encuentras la guía correcta, no te preocupes."
+    },
+    "anykind_text-4":{
+        "en": "If you follow this simple step-by-step article, you will see the basic structure of any App. All up and running in less than half an hour. You can even preview the app on your smartphone if you want to. And the best thing is that you can build your own, without having to hire any programmers, designers or engineers."
+    },
+    "anykind_text-5":{
+        "en": "So, let´s get started!",
+        "es": "Así que, ¡empecemos!"
+    },
+    "anykind_subtitle-1":{
+        "en": "First Steps",
+        "es": "Primeros Pasos"
+    },
+    "anykind_text-6":{
+        "en": "Regardless of the type of App you decide to build, the following steps are all common.",
+        "es": "Independientemente del tipo de App que decidas construir, los siguientes pasos son comunes a todos."
+    },
+    "anykind_text-7":{
+        "en": "Once inside, from the main dashboard you will find a series of icons on the left hand side menu.",
+        "es": "Una vez dentro, desde el panel principal encontrarás una serie de iconos en el menú lateral izquierdo."
+    },
+    "anykind_text-8":{
+        "en": "Just click on  'Apps'.",
+        "es": "Simplemente haz clic en 'Apps'."
+    },
+    "anykind_text-9":{
+        "en": "Then click on 'Create App' and give it a name.",
+        "es": "Luego haz clic en 'Crear App' y ponle un nombre."
+    },
+    "anykind_text-10":{
+        "en": "Then you'll get to a screen where you choose the templates.",
+        "es": "Luego llegarás a una pantalla donde elegir las plantillas."
+    },
+    "anykind_text-11":{
+        "en": "The library contains predesigned templates so that you don´t have to start from zero, even though, later on you could change everything.",
+        "es": "La librería contiene plantillas prediseñadas para que no tengas que empezar desde cero, aunque más tarde podrás cambiarlo todo."
+    },
+    "anykind_text-12":{
+        "en": "In fact, you could change the template you choose now. And if you don't find one that fits, just click on  'Blank Template' to start designing your App from scratch.",
+        "es": "De hecho, podrás cambiar la plantilla que elijas ahora. Y si no encuentras ninguna que se ajuste, simplemente haz clic en 'Plantilla en blanco' para empezar a diseñar tu App desde cero."
+    },
+    "anykind_text-13":{
+        "en": "The process of creating Apps with YourAppFactory is very simple. You just have to follow the different steps that the builder offers you.",
+        "es": "El proceso de creación de Apps con YourAppFactory es muy sencillo. Sólo tienes que seguir los diferentes pasos que te ofrece el constructor."
+    },
+    "anykind_text-14":{
+        "en": "These steps are represented in the progress bar you´ll find at the top of the builder and easily allow you to go through all the different pages.",
+        "es": "Estos pasos están representados en la barra de progreso que encontrarás en la parte superior del constructor y te permiten ir fácilmente por todas las diferentes páginas."
+    },
+    "anykind_subtitle-2":{
+        "en": "First step. Designing the App",
+        "es": "Primer paso. Diseñar la App"
+    },
+    "anykind_text-15":{
+        "en": "From here you can chose another kind of template or edit the style of the layout  (see below).",
+        "es": "Desde aquí puedes elegir otro tipo de plantilla o editar el estilo del layout (ver abajo)."
+    },
+    "anykind_text-16":{
+        "en": "Layout Election Window",
+        "es": "Ventana de Elección de Layout"
+    },
+    "anykind_text-17":{
+        "en": "The Home Screen Options section shows the options available depending on the kind of layout you have chosen.",
+        "es": "La sección de Opciones de Pantalla de Inicio muestra las opciones disponibles dependiendo del tipo de layout que hayas elegido."
+    },
+    "anykind_text-18":{
+        "en": "Adding a slider or animated image carousel to your App is very simple and can be done in less than 10 seconds. Just check the box called 'Display the homepage slider' and then press save.",
+        "es": "Añadir un slider o carrusel de imágenes animadas a tu App es muy sencillo y se puede hacer en menos de 10 segundos. Sólo tienes que marcar la casilla llamada 'Mostrar el slider de la página de inicio' y luego pulsar guardar."
+    },
+    "anykind_text-19":{
+        "en": "Please note that not all browsing styles (Layouts) support the use of Sliders."
+    },
+    "anykind_text-20":{
+        "en": "If you scroll down a little you will find a new section called 'Homepage preview':",
+        "es": "Si bajas un poco encontrarás una nueva sección llamada 'Vista previa de la página de inicio':"
+    },
+    "anykind_list-7":{
+        "en": "Indicate whether you want the images to move in loop.",
+        "es": "Indica si quieres que las imágenes se muevan en bucle."
+    },
+    "anykind_list-8":{
+        "en": "Specify the duration of your Slider.",
+        "es": "Especifica la duración de tu Slider."
+    },
+    "anykind_list-9":{
+        "en": "Adjust the opacity of the images.",
+        "es": "Ajusta la opacidad de las imágenes."
+    },
+    "anykind_list-10":{
+        "en": "Choose the height of the images.",
+        "es": "Elige la altura de las imágenes."
+    },
+    "anykind_text-21":{
+        "en": "If you want the images of the Slideroccupy the whole screenmake sure you mark the100% 100% 100%in the Height selectorof Imagenes. We recommend that you have a size of 1432x2732 pages.",
+        "es": "Si quieres que las imágenes del Sliderocupen toda la pantallaasegúrate de marcar el100% 100% 100%en el selector de Alturade Imagenes. Te recomendamos que tengas un tamaño de1 432x2732 páginas."
+    },
+    "anykind_text-22":{
+        "en": "Finally click 'Add pictures' and upload them or add them from the gallery.",
+        "es": "Por último haz clic en 'Añadir imágenes'y súbelas o añádelas desde la galería."
+    },
+    "anykind_text-23":{
+        "en": "The images should not exceed 3,000 pixels and it is recommended that they do not weigh more than 500kb.",
+        "es": "Las imágenes no deben superar los 3.000 píxeles y se recomienda que no pesen más de 500kb."
+    },
+    "anykind_text-24":{
+        "en": "The section below, helps you choose a fully optimized image that fits the different screen ratios so that it can be perfectly displayed on any mobile device.",
+        "es": "La sección de abajo, te ayuda a elegir una imagen totalmente optimizada que se ajuste a las diferentes proporciones de pantalla para que pueda mostrarse perfectamente en cualquier dispositivo móvil."
+    },
+    "anykind_text-25":{
+        "en": "Use the overlay tool to check important information to know if your design fits the indicated sizing areas of the screen design.",
+        "es": "Utiliza la herramienta de superposición para comprobar información importante para saber si tu diseño se ajusta a las áreas de tamaño indicadas del diseño de la pantalla."
+    },
+    "anykind_text-26":{
+        "en": "To find out how to design the images correctly you can download the template with the measurements, both in .png and .psd format.",
+        "es": "Para saber cómo diseñar las imágenes correctamente puedes descargar la plantilla con las medidas, tanto en formato .png como en .psd."
+    },
+    "anykind_text-27":{
+        "en": "In this 5-minute video I show you how to fully design the Home Screen of your App:",
+        "es": "En este video de 5 minutos te muestro cómo diseñar completamente la pantalla de inicio de tu App:"
+    },
+    "anykind_text-28":{
+        "en": "Below this section, you´ll be able to choose the language of country where you are operating and also the currency of your app.",
+        "es": "Debajo de esta sección, podrás elegir el idioma del país donde estás operando y también la moneda de tu app."
+    },
+    "anykind_text-29":{
+        "en": "To change the text fonts of your App you can chose one form the app builder's menu, or import a new font from Google Fonts.",
+        "es": "Para cambiar las fuentes de texto de tu App puedes elegir una del menú del constructor de apps, o importar una nueva fuente de Google Fonts."
+    },
+    "anykind_text-30":{
+        "en": "To do so, it is as simple as writing the font name.",
+        "es": "Para hacerlo, es tan sencillo como escribir el nombre de la fuente."
+    },
+    "anykind_subtitle-3":{
+        "en": "Do you want to preview the App on your mobile device?",
+        "es": "¿Quieres previsualizar la App en tu dispositivo móvil?"
+    },
+    "anykind_text-31":{
+        "en": "Viewing the prototype on your own smartphone is very simple. Just click on the 'Promote' icon on the left side menu:",
+        "es": "Visualizar el prototipo en tu propio smartphone es muy sencillo. Sólo tienes que hacer clic en el icono 'Promocionar' del menú lateral izquierdo:"
+    },
+    "anykind_text-32":{
+        "en": "Then scan the QR code with your smartphone and then click on the top of your smartphone.",
+        "es": "Luego escanea el código QR con tu smartphone y luego haz clic en la parte superior de tu smartphone."
+    },
+    "anykind_text-33":{
+        "en": "Now, let's edit the colors of your App before we move on to set up the different features.",
+        "es": "Ahora, vamos a editar los colores de tu App antes de pasar a configurar las diferentes funciones."
+    },
+    "anykind_subtitle-4":{
+        "en": "Second step. Colors",
+        "es": "Segundo paso. Colores"
+    },
+    "anykind_text-34":{
+        "en": "Choose the main colors of the app.",
+        "es": "Elige los colores principales de la app."
+    },
+    "anykind_list-11":{
+        "en": "General: applies to the substance (if there is no specific image) and the general text.",
+        "es": "General: aplica a la sustancia (si no hay imagen específica) y al texto general."
+    },
+    "anykind_list-12":{
+        "en": "Start: applies to the navigation menu and its elements.",
+        "es":"Inicio: aplica al menú de navegación y sus elementos."
+    },
+    "anykind_list-13":{
+        "en": "Header: applies to the navigation header of the app.",
+        "es": "Cabecera: aplica a la cabecera de navegación de la app."
+    },
+    "anykind_list-14":{
+        "en": "Card: applies to items displayed in card format.",
+        "es": "Tarjeta: aplica a los elementos mostrados en formato de tarjeta."
+    },
+    "anykind_list-15":{
+        "en": "List: applies to items displayed in list format.",
+        "es": "Lista: aplica a los elementos mostrados en formato de lista."
+    },
+    "anykind_text-35":{
+        "en": "In addition, if you have previous experience in web programming, at the bottom of the dashboard you´ll find a space to be able to add CSS code and customize the app even more.",
+        "es": "Además, si tienes experiencia previa en programación web, en la parte inferior del panel de control encontrarás un espacio para poder añadir código CSS y personalizar aún más la app."
+    },
+    "anykind_subtitle-5":{
+        "en": "Third step. Features",
+        "es": "Tercer paso. Funciones"
+    },
+    "anykind_text-36":{
+        "en": "We´ve gone a long way so far :)",
+        "es": "Hemos recorrido un largo camino hasta ahora :)"
+    },
+    "anykind_text-37":{
+        "en": "Once the initial screen is designed and we´ve chosen the main colors of the App, it´s time to add all the different features.",
+        "es": "Una vez que la pantalla inicial está diseñada y hemos elegido los colores principales de la App, es hora de añadir todas las diferentes funciones."
+    },
+    "anykind_text-38":{
+        "en": "Your App will soon be completed.",
+        "es": "Tu App pronto estará terminada."
+    },
+    "anykind_text-39":{
+        "en": "If you started your App from a template, you would see that they already have some features added by default.",
+        "es": "Si comenzaste tu App desde una plantilla, verás que ya tienen algunas funciones añadidas por defecto."
+    },
+    "anykind_text-40":{
+        "en": "These are features that we consider are interesting for each industry. They appear as a kind of carousel and if  you want to delete any of them, all you have to do is click on the X.",
+        "es": "Estas son funciones que consideramos interesantes para cada industria. Aparecen como una especie de carrusel y si quieres eliminar alguna de ellas, todo lo que tienes que hacer es hacer clic en la X."
+    },
+    "anykind_text-41":{
+        "en": "Now, it's time to think about what we want the App to do...",
+        "es": "Ahora, es hora de pensar en lo que queremos que haga la App..."
+    },
+    "anykind_text-42":{
+        "en": "User registration, sell products, manage bookings and reservations, loyalty systems, display content...",
+        "es": "Registro de usuarios, venta de productos, gestión de reservas y reservas, sistemas de fidelización, visualización de contenido..."
+    },
+    "anykind_text-43":{
+        "en": "We have many features to choose and add to your app.",
+        "es": "Tenemos muchas funciones para elegir y añadir a tu app."
+    },
+    "store_main_title":{
+        "en": "Create an App for a store",
+        "es": "Crear una App para una tienda"
+    },
+    "store_text-1":{
+        "en": "Ecommerce from mobile devices skyrocketed since the beginning of 2020 due to the Covid Pandemic19 and continues to grow at rates of 45% annually.",
+        "es": "El comercio electrónico desde dispositivos móviles se disparó desde principios de 2020 debido a la Pandemia Covid19 y sigue creciendo a tasas del 45% anual."
+    },
+    "store_text-2":{
+        "en": "Today, having a Store App is a must for any Ecommerce or Retail business:",
+        "es": "Hoy en día, tener una App de Tienda es imprescindible para cualquier negocio de Ecommerce o Retail:"
+    },
+    "store_list-1":{
+        "en": "35% of users make purchases from their cell phones.",
+        "es": "El 35% de los usuarios realizan compras desde sus teléfonos móviles."
+    },
+    "store_list-2":{
+        "en": "In 2021, 72.9% of all ecommerce sales globally were made from mobile devices.",
+        "es": "En 2021, el 72,9% de todas las ventas de comercio electrónico a nivel mundial se realizaron desde dispositivos móviles."
+    },
+    "store_list-3":{
+        "en": "More importantly, Mobile Apps have a 157% higher conversion rate than mobile or responsive Websites.",
+        "es": "Más importante aún, las Apps Móviles tienen un 157% más de tasa de conversión que las Webs móviles o responsive."
+    },
+    "store_text-3":{
+        "en": "In this step-by-step guide we are going to create in a very simple way an App with features as advanced as those of the big Retail companies:",
+        "es": "En esta guía paso a paso vamos a crear de una forma muy sencilla una App con funciones tan avanzadas como las de las grandes empresas de Retail:"
+    },
+    "store_list-4":{
+        "en": "Shop with cart and order history",
+        "es": "Tienda con carrito y historial de pedidos"
+    },
+    "store_list-5":{
+        "en": "Registration of users",
+        "es": "Registro de usuarios"
+    },
+    "store_list-6":{
+        "en": "News section",
+        "es": "Sección de noticias"
+    },
+    "store_list-7":{
+        "en": "Push messages for offers and promotions",
+        "es": "Mensajes Push para ofertas y promociones"
+    },
+    "store_list-8":{
+        "en": "Loyalty system with discount codes",
+        "es": "Sistema de fidelización con códigos de descuento"
+    },
+    "store_list-9":{
+        "en": "And a function to share the App and promote business viralization",
+        "es": "Y una función para compartir la App y promover la viralización del negocio"
+    },
+    "store_text-4":{
+        "en": "If you follow this article step by step, even if the store you want to create is very different from our example, you will master the YourAppFactory builder and you will know how to customize your App and include many other features to boost the profitability of your business. Let's get started.",
+        "es": "Si sigues este artículo paso a paso, aunque la tienda que quieras crear sea muy diferente a nuestro ejemplo, dominarás el constructor de YourAppFactory y sabrás cómo personalizar tu App e incluir muchas otras funciones para impulsar la rentabilidad de tu negocio. ¡Empecemos!"
+    },
+    "store_text-5":{
+        "en": "If you wish, you can preview the App we have based this guide on by scanning the QR code with your phone.",
+        "es": "Si lo deseas, puedes previsualizar la App en la que nos hemos basado en esta guía escaneando el código QR con tu teléfono."
+    },
+    "store_subtitle-1":{
+        "en": "First Steps",
+        "es": "Primeros Pasos"
+    },
+    "store_text-6":{
+        "en": "Once inside the dashboard, on the left hand side menu you will find the 'a' icon for the app builder.",
+        "es": "Una vez dentro del panel de control, en el menú lateral izquierdo encontrarás el icono 'a' para el constructor de apps."
+    },
+    "store_text-7":{
+        "en": "Here you can create a new app and name it.",
+        "es": "Aquí puedes crear una nueva app y ponerle nombre."
+    },
+    "store_text-8":{
+        "en": "Once you are on the Apps Management screen, click on 'Create App':",
+        "es": "Una vez en la pantalla de Gestión de Apps, haz clic en 'Crear App':"
+    },
+    "store_text-9":{
+        "en": "Once you have created and named your app, you will see a screen where you can choose from several templates.",
+        "es": "Una vez que has creado y nombrado tu app, verás una pantalla donde puedes elegir entre varias plantillas."
+    },
+    "store_text-10":{
+        "en": "These are predefined designs so that you don't start from scratch, but in reality, you will be able to modify absolutely everything afterwards. In fact, you will be able to change the template you choose now. And if you do not fit any of them, click on 'Blank Template' to start from scratch to design your App.",
+        "es": "Estos son diseños predefinidos para que no empieces desde cero, pero en realidad, podrás modificar absolutamente todo después. De hecho, podrás cambiar la plantilla que elijas ahora. Y si no encaja ninguna de ellas, haz clic en 'Plantilla en blanco' para empezar desde cero a diseñar tu App."
+    },
+    "store_text-11":{
+        "en": "For this example we will choose a blank template",
+        "es": "Para este ejemplo elegiremos una plantilla en blanco"
+    },
+    "store_text-12":{
+        "en": "The process of creating YourAppFactory applications is very simple. Just follow the steps in the builder.",
+        "es": "El proceso de creación de aplicaciones YourAppFactory es muy sencillo. Sólo tienes que seguir los pasos del constructor."
+    },
+    "store_text-13":{
+        "en": "These steps are represented in the progress bar that you will always have at your disposal at the top of the builder and that will allow you to easily navigate between the different pages, just by clicking on the icon.",
+        "es": "Estos pasos están representados en la barra de progreso que siempre tendrás a tu disposición en la parte superior del constructor y que te permitirá navegar fácilmente entre las diferentes páginas, simplemente haciendo clic en el icono."
+    },
+    "store_subtitle-2":{
+        "en": "First step. Designing the App",
+        "es": "Primer paso. Diseñar la App"
+    },
+    "store_text-14":{
+        "en": "In the design tab, you will find all the options related to the information of the menu and the initial screen of your App.",
+        "es": "En la pestaña de diseño, encontrarás todas las opciones relacionadas con la información del menú y la pantalla inicial de tu App."
+    },
+    "store_text-15":{
+        "en": "Layout election menu",
+        "es": "Menú de elección de layout"
+    },
+    "store_text-16":{
+        "en": "The Home Screen Options section displays the options you have available according to the chosen Layout style.",
+        "es": "La sección de Opciones de Pantalla de Inicio muestra las opciones que tienes disponibles según el estilo de Layout elegido."
+    },
+    "store_text-17":{
+        "en": "Adding a slider or animated image carousel to your App is very simple and can be set up in less than 10 seconds.",
+        "es": "Añadir un slider o carrusel de imágenes animadas a tu App es muy sencillo y se puede configurar en menos de 10 segundos."
+    },
+    "store_text-18":{
+        "en": "Please note that not all navigation styles (Layouts) support the use of Sliders.",
+        "es": "Ten en cuenta que no todos los estilos de navegación (Layouts) admiten el uso de Sliders."
+    },
+    "store_text-19":{
+        "en": "If you do some scrolling you will find a new section called 'Home Slider Options':",
+        "es": "Si haces un poco de scroll encontrarás una nueva sección llamada 'Opciones de Slider de Inicio':"
+    },
+    "store_list-10":{
+        "en": "Indicate if you want the images to loop.",
+        "es": "Indica si quieres que las imágenes se muevan en bucle."
+    },
+    "store_list-11":{
+        "en": "Specify the duration of your Slider.",
+        "es": "Especifica la duración de tu Slider."
+    },
+    "store_list-12":{
+        "en": "Adjust the opacity of the images.",
+        "es": "Ajusta la opacidad de las imágenes."
+    },
+    "store_list-13":{
+        "en": "Choose the height of the images.",
+        "es": "Elige la altura de las imágenes."
+    },
+    "store_text-20":{
+        "en": "If you want the images of the Slider to fill the entire screen, be sure to check 100% in the Image Height selector. We recommend that they have a size of 1432x2732 pixels.",
+        "es": "Si quieres que las imágenes del Slider ocupen toda la pantalla, asegúrate de marcar 100% en el selector de Altura de Imagen. Te recomendamos que tengan un tamaño de 1432x2732 píxeles."
+    },
+    "store_text-21":{
+        "en": "Finally click on 'ADD IMAGES'.",
+        "es": "Por último haz clic en 'AÑADIR IMÁGENES'."
+    },
+    "store_text-22":{
+        "en": "Images should not exceed 3000 pixels and it is recommended that they weigh no more than 500kb (the more optimized they are, the faster your app will be).",
+        "es": "Las imágenes no deben superar los 3000 píxeles y se recomienda que no pesen más de 500kb (cuanto más optimizadas estén, más rápida será tu app)."
+    },
+    "store_text-23":{
+        "en": "The section below helps you choose an image that looks good on all devices and screen ratios. Use the overlay tool to check if the important information in your design falls within the recommended safe zones depending on the screen orientation your App is designed for.",
+        "es": "La sección de abajo te ayuda a elegir una imagen que se vea bien en todos los dispositivos y proporciones de pantalla. Utiliza la herramienta de superposición para comprobar si la información importante de tu diseño cae dentro de las zonas seguras recomendadas dependiendo de la orientación de pantalla para la que está diseñada tu App."
+    },
+    "store_text-24":{
+        "en": "To learn how to design the images properly you can download the template with the measurements, available in both .png and .psd format.",
+        "es": "Para saber cómo diseñar las imágenes correctamente puedes descargar la plantilla con las medidas, tanto en formato .png como en .psd."
+    },
+    "store_text-25":{
+        "en": "Now let's watch a 5 minute video to learn how to design the App Home Screen:",
+        "es": "Ahora veamos un video de 5 minutos para aprender a diseñar la pantalla de inicio de la App:"
+    },
+    "store_text-26":{
+        "en": "Choose the language and the currency of your app.",
+        "es": "Elige el idioma y la moneda de tu app."
+    },
+    "store_text-27":{
+        "en": "This will be used for different aspects such as time zone and currency symbol.",
+        "es": "Esto se utilizará para diferentes aspectos como la zona horaria y el símbolo de la moneda."
+    },
+    "store_text-28":{
+        "en": "To change the font of your app you can select one of those that appear in the builder menu, or import one from Google Fonts. To do this it is as simple as typing the font name.",
+        "es": "Para cambiar las fuentes de texto de tu App puedes elegir una del menú del constructor de apps, o importar una nueva fuente de Google Fonts. Para hacerlo, es tan sencillo como escribir el nombre de la fuente."
+    },
+    "store_subtitle-3":{
+        "en": "Second step. Colors",
+        "es": "Segundo paso. Colores"
+    },
+    "store_text-29":{
+        "en": "Choose the main colors of the app.",
+        "es": "Elige los colores principales de la app."
+    },
+    "store_list-14":{
+        "en": "General: applies to the substance (if there is no specific image) and the general text.",
+        "es": "General: aplica a la sustancia (si no hay imagen específica) y al texto general."
+    },
+    "store_list-15":{
+        "en": "Home: applies to the navigation menu and its elements.",
+        "es": "Inicio: aplica al menú de navegación y sus elementos."
+    },
+    "store_list-16":{
+        "en": "Header: applies to the navigation header of the app.",
+        "es": "Cabecera: aplica a la cabecera de navegación de la app."
+    },
+    "store_list-17":{
+        "en": "Card: applies to items displayed in card format.",
+        "es": "Tarjeta: aplica a los elementos mostrados en formato de tarjeta."
+    },
+    "store_list-18":{
+        "en": "List: applies to items displayed in list format.",
+        "es": "Lista: aplica a los elementos mostrados en formato de lista."
+    },
+    "store_text-30":{
+        "en": "In addition, if you already have web programming knowledge, at the bottom of the dashboard you can add CSS code and customize your app even more if you wish.",
+        "es": "Además, si ya tienes conocimientos de programación web, en la parte inferior del panel de control puedes añadir código CSS y personalizar aún más tu app si lo deseas."
+    },
+    "store_subtitle-4":{
+        "en": "Third step. Features",
+        "es": "Tercer paso. Funciones"
+    },
+    "store_text-31":{
+        "en": "Once the home screen has been designed and the main colors of the App have been chosen, let's move on to the features step.",
+        "es": "Una vez que la pantalla de inicio ha sido diseñada y se han elegido los colores principales de la App, pasemos al paso de las funciones."
+    },
+    "store_text-32":{
+        "en": "The templates incorporate by default some functions that we consider interesting for each sector. You can see them in the features carousel. But if you want to remove any of them, just click on the 'X'.",
+        "es": "Las plantillas incorporan por defecto algunas funciones que consideramos interesantes para cada sector. Puedes verlas en el carrusel de funciones. Pero si quieres eliminar alguna de ellas, simplemente haz clic en la 'X'."
+    },
+    "store_text-33":{
+        "en": "But let's show you how easy it is to add new features to your App, let's remove and re-add the Custom Page feature that we have named NEW IN (to show what's new in the store).",
+        "es": "Pero vamos a mostrarte lo fácil que es añadir nuevas funciones a tu App, vamos a quitar y volver a añadir la función de Página Personalizada que hemos llamado NOVEDADES (para mostrar lo nuevo en la tienda)."
+    },
+    "store_subtitle-5":{
+        "en": "Custom page",
+        "es": "Página personalizada"
+    },
+    "store_text-34":{
+        "en": "For this particular App example, we wanted to create a section that would allow us to present to the clients some news about the store, talk about new trends, etc. using images, texts, videos, etc. For this reason, we have included the Custom Page feature and called it 'New ins'.",
+        "es": "Para este ejemplo de App en particular, queríamos crear una sección que nos permitiera presentar a los clientes algunas novedades sobre la tienda, hablar sobre nuevas tendencias, etc. utilizando imágenes, textos, videos, etc. Por esta razón, hemos incluido la función de Página Personalizada y la hemos llamado 'Novedades'."
+    },
+    "store_text-35":{
+        "en": "This feature offers you multiple options to create an informative page.",
+        "es": "Esta función te ofrece múltiples opciones para crear una página informativa."
+    },
+    "store_text-36":{
+        "en": "You can write an article with an image, you can publish a photo gallery, you can publish a video directly on this page and you can add CTA buttons or links to any external websites.",
+        "es": "Puedes escribir un artículo con una imagen, puedes publicar una galería de fotos, puedes publicar un video directamente en esta página y puedes añadir botones CTA o enlaces a cualquier sitio web externo."
+    },
+    "store_text-37":{
+        "en": "Here´s the video that shows you how to configure the 'Custom page' feature.",
+        "es": "Aquí tienes un video que te muestra cómo configurar la función de 'Página personalizada'."
+    },
+    "store_link-1":{
+        "en": "Click on this link and access a step-by-step article about the custom page.",
+        "es": "Haz clic en este enlace y accede a un artículo paso a paso sobre la página personalizada."
+    },
+    "store_subtitle-6":{
+        "en": "Discount (Promos)",
+        "es": "Descuentos (Promos)"
+    },
+    "store_text-38":{
+        "en": "This feature will allow your clients to keep up to date with your store's promotions.",
+        "es": "Esta función permitirá a tus clientes estar al día de las promociones de tu tienda."
+    },
+    "store_text-39":{
+        "en": "You will be able to display all your offers in a single section and keep them updated to increase customer loyalty. But you should know that this function is not connected to the Shop function that we will configure next.",
+        "es": "Podrás mostrar todas tus ofertas en una sola sección y mantenerlas actualizadas para aumentar la fidelidad de los clientes. Pero debes saber que esta función no está conectada con la función de Tienda que configuraremos a continuación."
+    },
+    "store_text-40":{
+        "en": "It is an informative section to offer Discounts that are later redeemed in a physical store.",
+        "es": "Es una sección informativa para ofrecer Descuentos que luego se canjean en una tienda física."
+    },
+    "store_text-41":{
+        "en": "If you want to generate discounts for your online store, you will have to do it in the Shop/Delivery feature that we will show you next.",
+        "es": "Si quieres generar descuentos para tu tienda online, tendrás que hacerlo en la función de Tienda/Entrega que te mostraremos a continuación."
+    },
+    "store_text-42":{
+        "en": "Here´s the video that shows you how to configure the 'Discount' feature.",
+        "es": "Aquí tienes un video que te muestra cómo configurar la función de 'Descuentos'."
+    },
+    "store_link-2":{
+        "en": "Click on this link and access a step-by-step article about the discount feature.",
+        "es": "Haz clic en este enlace y accede a un artículo paso a paso sobre la función de descuentos."
+    },
+    "store_text-43":{
+        "en": "If you set the offer as 'use only once', a button like the one in the image with the text 'Use this coupon' will appear. Once clicked, the offer will no longer appear on the screen. For the offer to become effective, you must enter the discount code, which you have configured in the 'store' feature.",
+        "es": "Si configuras la oferta como 'usar solo una vez', aparecerá un botón como el de la imagen con el texto 'Usar este cupón'. Una vez hecho clic, la oferta ya no aparecerá en la pantalla. Para que la oferta sea efectiva, deberás introducir el código de descuento, que has configurado en la función de 'tienda'."
+    },
+    "store_subtitle-7":{
+        "en": "Shop/Delivery (Shop)",
+        "es": "Tienda/Entrega (Shop)"
+    },
+    "store_text-44":{
+        "en": "This feature allows you to create one or more stores, put all your products on sale by categories, displaying prices, sizes, etc. and customize the sale, delivery or shipping options. You can also configure various payment options and discounts.",
+        "es": "Esta función te permite crear una o más tiendas, poner a la venta todos tus productos por categorías, mostrando precios, tallas, etc. y personalizar las opciones de venta, entrega o envío. También podrás configurar diversas opciones de pago y descuentos."
+    },
+    "store_text-45":{
+        "en": "This is how you configure the discount we have shown you in the previous feature in the store.",
+        "es": "Así es como configuras el descuento que te hemos mostrado en la función anterior en la tienda."
+    },
+    "store_text-46":{
+        "en": "Here´s the video that shows you how to configure the 'Shop/Delivery' feature.",
+        "es": "Aquí tienes un video que te muestra cómo configurar la función de 'Tienda/Entrega'."
+    },
+    "store_link-3":{
+        "en": "Click on this link and access a step-by-step article about the shop feature.",
+        "es": "Haz clic en este enlace y accede a un artículo paso a paso sobre la función de tienda."
+    },
+    "store_subtitle-8":{
+        "en": "Share (share app)",
+        "es": "Compartir (compartir app)"
+    },
+    "store_text-47":{
+        "en": "This feature will allow your customers to share the app in just one click.",
+        "es": "Esta función permitirá a tus clientes compartir la app en un solo clic."
+    },
+    "store_text-48":{
+        "en": "We are talking about a key feature when it comes to making your business viral.",
+        "es": "Estamos hablando de una función clave a la hora de hacer viral tu negocio."
+    },
+    "store_subtitle-9":{
+        "en": "Jobs (Jobs)",
+        "es": "Empleos (Jobs)"
+    },
+    "store_text-49":{
+        "en": "This feature allows you to publish offers and receive job applications.",
+        "es": "Esta función te permite publicar ofertas y recibir solicitudes de empleo."
+    },
+    "store_text-50":{
+        "en": "Learn how to configure this feature by watching the following video.",
+        "es": "Aprende a configurar esta función viendo el siguiente video."
+    },
+    "store_link-4":{
+        "en": "Click on this link and access a step-by-step article about the jobs feature.",
+        "es": "Haz clic en este enlace y accede a un artículo paso a paso sobre la función de empleos."
+    },
+    "store_subtitle-10":{
+        "en": "Social Media Links (RRSS)",
+        "es": "Enlaces a Redes Sociales (RRSS)"
+    },
+    "store_text-51":{
+        "en": "This feature will allow you to create a direct access to all your social media profiles through the app. This allows you to carry out cross-channel strategies, i.e... to bring followers from one network to another.",
+        "es": "Esta función te permitirá crear un acceso directo a todos tus perfiles de redes sociales a través de la app. Esto te permite llevar a cabo estrategias cross-channel, es decir... llevar seguidores de una red a otra."
+    },
+    "store_text-52":{
+        "en": "Your customers will only have to click a button.",
+        "es": "Tus clientes solo tendrán que hacer clic en un botón."
+    },
+    "store_text-53":{
+        "en": "In our example we have set up Instagram and Facebook.",
+        "es": "En nuestro ejemplo hemos configurado Instagram y Facebook."
+    },
+    "store_text-54":{
+        "en": "Learn how to configure this feature by watching the following video.",
+        "es": "Aprende a configurar esta función viendo el siguiente video."
+    },
+    "store_link-5":{
+        "en": "Click on this link and you could see an article explaining step by step",
+        "es": "Haz clic en este enlace y podrás ver un artículo que explica paso a paso"
+    },
+    "store_subtitle-11":{
+        "en": "Push Messages",
+        "es": "Mensajes Push"
+    },
+    "store_text-55":{
+        "en": "Push messages represent the most efficient marketing system today.",
+        "es": "Los mensajes Push representan el sistema de marketing más eficiente hoy en día."
+    },
+    "store_text-56":{
+        "en": "They have a 99% opening rate.",
+        "es": "Tienen una tasa de apertura del 99%."
+    },
+    "store_text-57":{
+        "en": "And adding this powerful tool to your App is very simple:",
+        "es": "Y añadir esta potente herramienta a tu App es muy sencillo:"
+    },
+    "store_text-58":{
+        "en": "All you have to do is publish the app in a native Android or iOS version.",
+        "es": "Todo lo que tienes que hacer es publicar la app en una versión nativa de Android o iOS."
+    },
+    "store_text-59":{
+        "en": "Then, once the app is published on the App Store and/or Google Play, you can send messages to you users directly form this feature.",
+        "es": "Luego, una vez que la app esté publicada en la App Store y/o Google Play, podrás enviar mensajes a tus usuarios directamente desde esta función."
+    },
+    "store_link-6":{
+        "en": "Click on this link and access a step-by-step article about Push Messages",
+        "es": "Haz clic en este enlace y accede a un artículo paso a paso sobre los Mensajes Push"
+    },
+    "store_subtitle-12":{
+        "en": "More features",
+        "es": "Más funciones"
+    },
+    "store_text-60":{
+        "en": "In this guide we have included a series of features that we consider useful for a Shop, but there are many more that could also provide value to your users:",
+        "es": "En esta guía hemos incluido una serie de funciones que consideramos útiles para una Tienda, pero hay muchas más que también podrían aportar valor a tus usuarios:"
+    },
+    "store_link-7":{
+        "en": "Social wall",
+        "es": "Muro social"
+    },
+    "store_link-8":{
+        "en": "Reviews",
+        "es": "Reseñas"
+    },
+    "store_link-9":{
+        "en": "Forms",
+        "es": "Formularios"
+    },
+    "store_subtitle-13":{
+        "en": "Step 4. App icon and settings",
+        "es": "Paso 4. Icono de la App y ajustes"
+    },
+    "store_text-61":{
+        "en": "From here you can choose the icon to be displayed on the user's device screen, as well as the design of the 'back' button.",
+        "es": "Desde aquí puedes elegir el icono que se mostrará en la pantalla del dispositivo del usuario, así como el diseño del botón 'atrás'."
+    },
+    "store_text-62":{
+        "en": "If you want to send push messages, this is where you can customize the icon or background color.",
+        "es": "Si quieres enviar mensajes push, aquí es donde puedes personalizar el icono o el color de fondo."
+    },
+    "store_text-63":{
+        "en": "This tool will help you choose a home screen image that´s compatible with all screen sizes of different devices.",
+        "es": "Esta herramienta te ayudará a elegir una imagen de pantalla de inicio que sea compatible con todos los tamaños de pantalla de los diferentes dispositivos."
+    },
+    "store_text-64":{
+        "en": "This image will be displayed when the app is loading.",
+        "es": "Esta imagen se mostrará cuando la app se esté cargando."
+    },
+    "store_subtitle-14":{
+        "en": "Step 5. Advanced",
+        "es": "Paso 5. Avanzado"
+    },
+    "store_text-65":{
+        "en": "If you wish, you can monetize your app by adding an ads banner that will be shown to the users of your app.",
+        "es": "Si lo deseas, puedes monetizar tu app añadiendo un banner de anuncios que se mostrará a los usuarios de tu app."
+    },
+    "store_text-66":{
+        "en": "To do this you need to configure the Admob advertising system.",
+        "es": "Para hacerlo necesitas configurar el sistema de publicidad Admob."
+    },
+    "store_subtitle-15":{
+        "en": "Step 6. Publishing your App",
+        "es": "Paso 6. Publicar tu App"
+    },
+    "store_text-67":{
+        "en": "Depending on the Plan you choose (Starter, Business, Growth or Reseller) you will have different types of Publishing options:",
+        "es": "Dependiendo del Plan que elijas (Starter, Business, Growth o Reseller) tendrás diferentes tipos de opciones de Publicación:"
+    },
+    "store_list-19":{
+        "en": "Native Android version.",
+        "es": "Versión nativa de Android."
+    },
+    "store_list-20":{
+        "en": "Native iOS version.",
+        "es": "Versión nativa de iOS."
+    },
+    "store_list-21":{
+        "en": "Web app HTML5.",
+        "es": "App web HTML5."
+    },
+    "store_list-22":{
+        "en": "PWA mode(Progressive Web App).",
+        "es": "Modo PWA (Progressive Web App)."
+    },
+    "store_text-68":{
+        "en": "To publish the native version of your App on Appstore or Google Play, you need a Business, Growth or Reseller plan, while the Web App and PWA version can be published with a Starter plan or even during the free 14-day Trial.",
+        "es": "Para publicar la versión nativa de tu App en Appstore o Google Play, necesitas un plan Business, Growth o Reseller, mientras que la versión Web App y PWA se pueden publicar con un plan Starter o incluso durante la prueba gratuita de 14 días."
+    },
+    "store_image_alt":{
+        "en": "App for a store",
+        "es": "App para una tienda"
+    },
+    "restaurant_image_alt":{
+        "en": "App for a restaurant",
+        "es": "App para un restaurante"
+    },
+    "restaurants_main_title":{
+        "es": "Cómo Crear una App para Restaurantes (con o sin Delivery)",
+        "en": "How to build an app for Restaurants (with or without Delivery)"
+    },
+    "restaurants_subtitle-1":{
+        "es": "Primeros Pasos",
+        "en": "First Steps"
+    },
+    "restaurants_text-1":{
+        "es": "Una vez en la pantalla de inicio de YourAppFactory, en el menú lateral izquierdo encontrarás el icono con forma de 'a' del constructor de apps. Ahí podrás crear una nueva aplicación y darle nombre.",
+        "en": "Once inside the dashboard, on the left hand side menu you will find the 'a' icon for the app builder."
+    },
+    "restaurants_text-2":{
+        "es": "Una vez estés en la pantalla de administración de Apps, haz clic en 'Nueva App':",
+        "en": "Once you are on the Apps Management screen, click on 'Create App':"
+    },
+    "restaurants_text-3":{
+        "es": "Una vez hayas creado y puesto nombre a tu app, te aparecerá una pantalla en la que podrás elegir entre varias plantillas.",
+        "en": "Once you have created and named your app, you will see a screen where you can choose from several templates."
+    },
+    "restaurants_text-4":{
+        "es": "Son diseños predefinidos para que no partas de cero pero en realidad, después podrás modificar absolutamente todo. De hecho, podrás cambiar la plantilla que escojas ahora. Y si no te encaja ninguna, haz clic en 'Blank Template' para empezar de cero a diseñar tu App.",
+        "en": "These are predefined designs so that you don't start from scratch, but in reality, you will be able to modify absolutely everything afterwards. In fact, you will be able to change the template you choose now. And if you do not fit any of them, click on 'Blank Template' to start from scratch to design your App."
+    },
+    "restaurants_text-5":{
+        "es": "Para este ejemplo escogeremos una plantilla en blanco",
+        "en": "For this example we will choose a blank template"
+    },
+    "restaurants_text-6":{
+        "es": "El proceso de creación de Aplicaciones con YourAppFactory es muy sencillo. Sólo tienes que ir siguiendo los pasos del constructor.",
+        "en": "The process of creating YourAppFactory applications is very simple. Just follow the steps in the builder."
+    },
+    "restaurants_text-7":{
+        "es": "Estos pasos están representados en la barra de progreso que tendrás siempre a tu disposición en la parte superior del constructor y que te permitirá fácilmente navegar entre las distintas páginas, con sólo clicar encima del icono.",
+        "en": "These steps are represented in the progress bar that you will always have at your disposal at the top of the builder and that will allow you to easily navigate between the different pages, just by clicking on the icon."
+    },
+    "restaurants_subtitle-2":{
+        "es": "Primer paso. Diseño de la App",
+        "en": "First step. Designing the App"
+    },
+    "restaurants_text-8":{
+        "es": "En la pestaña Diseño, encontrarás todas las opciones relacionadas con la información del menú y la pantalla inicial de tu App.",
+        "en": "In the design tab, you will find all the options related to the information of the menu and the initial screen of your App."
+    },
+    "restaurants_text-9":{
+        "es": "La sección de Opciones de Pantalla de Inicio muestra las opciones que tienes disponibles según el estilo de Layout elegido.",
+        "en": "The Home Screen Options section displays the options you have available according to the chosen Layout style."
+    },
+    "restaurants_text-10":{
+        "es": "Menú de elección del Layout",
+        "en": "Layout election menu"
+    },
+    "restaurants_text-11":{
+        "es": "Para este aplicación, hemos escogido el layout 95. Este diseño de layout muestra el contenido de la primera función que hemos establecido en el menú, con la posibilidad de establecer una imagen de cabecera. Para esta disposición, resulta especialmente atractivo mostrar el logotipo de la compañía. Un botón tipo hamburguesa desplegará lateralmente un menú dónde se mostrarán el resto de funciones.",
+        "en": "For this example we will choose a blank template"
+    },
+    "restaurants_text-12":{
+        "es": "Como puedes observar, la pantalla inicial de nuestra aplicación muestra directamente las categorías que hemos establecido en la función tienda/delivery. Cómo configurar esta función lo veremos más adelante.",
+        "en": "As you can see, the home screen of our application directly shows the presentation of the gym on a personalized page. How to configure this function we will see later."
+    },
+    "restaurants_text-13":{
+        "es": "Estos son los parámetros de configuración que podrás ver en el constructor para este layout en concreto.",
+        "en": "These are the configuration parameters that you can see in the builder for this particular layout."
+    },
+    "restaurants_list-1":{
+        "es": "Visibilidad del logo: puedes establecer si quieres que se vea o no tu logotipo.",
+        "en": "Visibility of logo: you can set whether you want your logo to be visible or not."
+    },
+    "restaurants_list-2":{
+        "es": "Ancho sidebar: puedes establecer el tamaño del menú desplegable. Puedes configurarlo en base a un porcentaje respecto la pantalla o un ancho fijo de píxeles.",
+        "en": "Ancho sidebar: you can set the size of the drop-down menu. You can configure it based on a percentage of the screen or a fixed width in pixels."
+    },
+    "restaurants_list-3":{
+        "es": "Logo URL: en este espacio deberás pegar el link que se generará en la herramienta para subir imágenes. Ésta se encuentra en el menú lateral izquierdo de tu pantalla. Para entrar deberás hacer clic en el siguiente icono.",
+        "en": "Logo URL: in this space you must paste the link that will be generated in the image upload tool. This is located in the left side menu of your screen. To enter you must click on the following icon."
+    },
+    "restaurants_text-14":{
+        "es": "Te aparecerá la siguiente pantalla. En ella, sólo deberás arrastrar la imagen que deseas subir y automáticamente se generará el link.",
+        "en": "You will see the following screen. In it, you just have to drag the image you want to upload and the link will be generated automatically."
+    },
+    "restaurants_text-15":{
+        "es": "El tamaño de imagen no debe superar los 500KB. Cuánto menos pesen tus imágenes, más rápida será la carga de las imágenes y mejor será la experiencia de usuario al navegar por tu app.",
+        "en": "The size of the image should not exceed 500KB. The less your images weigh, the faster the images will load and the better the user experience will be when browsing your app."
+    },
+    "restaurants_text-16":{
+        "es": "La sección que vas a ver a continuación, te ayuda a elegir una imagen para la pantalla de inicio que se vea bien en todos los dispositivos y ratios de pantalla. Usa la herramienta overlay (sombreado) para comprobar si la información importante de tu diseño queda dentro de las zonas seguras recomendadas en función de la orientación de pantalla para la que está diseñada tu App.",
+        "en": "The section that you will see next, helps you choose an image for the home screen that looks good on all devices and screen ratios. Use the overlay tool to check if the important information of your design falls within the recommended safe zones depending on the screen orientation for which your App is designed."
+    },
+    "restaurants_text-17":{
+        "es": "Asegúrate que los elementos que consideres importantes, queden dentro del sombreado.",
+        "en": "Make sure that the elements you consider important fall within the shading."
+    },
+    "restaurants_text-18":{
+        "es": "Para saber cómo diseñar bien las imágenes puedes descargar la plantilla con las medidas, disponible tanto en formato .png como en .psd.",
+        "en": "To know how to design the images well you can download the template with the measurements, available in both .png and .psd format."
+    },
+    "restaurants_text-19":{
+        "es": "Veamos ahora un pequeño vídeo de 5 minutos para aprender a diseñar la Pantalla de Inicio de la Aplicación:",
+        "en": "Now let's watch a 5 minute video to learn how to design the App Home Screen:"
+    },
+    "restaurants_text-20":{
+        "es": "Escoge el idioma en función de tu país y la moneda de tu aplicación. Se utilizará para diferentes aspectos, como la zona horaria y el símbolo de la moneda.",
+        "en": "Choose the language and the currency of your app."
+    },
+    "restaurants_text-21":{
+        "es": "Para cambiar la fuente de tu app puedes seleccionar una de las que aparecen en el menú del constructor, o importar una desde Google Fonts. Para hacerlo es tan sencillo como escribir el nombre de la fuente.",
+        "en": "To change the font of your app you can select one of those that appear in the builder menu, or import one from Google Fonts. To do this it is as simple as typing the font name."
+    },
+    "restaurants_subtitle-3":{
+        "es": "Segundo paso. Colores",
+        "en": "Second step. Colors"
+    },
+    "restaurants_text-22":{
+        "es": "Elige los colores principales de la aplicación.",
+        "en": "Choose the main colors of the app."
+    },
+    "restaurants_list-4":{
+        "es": "General: aplica al fondo (si no hay una imagen específica) y al texto general.",
+        "en": "General: applies to the substance (if there is no specific image) and the general text."
+    },
+    "restaurants_list-5":{
+        "es": "Inicio: aplica al menú de navegación y a sus elementos.",
+        "en": "Home: applies to the navigation menu and its elements."
+    },
+    "restaurants_list-6":{
+        "es": "Cabecera: aplica a la cabecera de navegación de la app.",
+        "en": "Header: applies to the navigation header of the app."
+    },
+    "restaurants_list-7":{
+        "es": "Tarjeta: aplica a los elementos mostrados en formato tarjeta.",
+        "en": "Card: applies to items displayed in card format."
+    },
+    "restaurants_list-8":{
+        "es": "Lista: aplica a los elementos mostrados en formato lista.",
+        "en": "List: applies to items displayed in list format."
+    },
+    "restaurants_text-23":{
+        "es": "Además, si dispones de conocimientos de programación Web, en la parte inferior del panel encontrarás un espacio para poder introducir código CSS y así, personalizar al 100% los elementos de tu App.",
+        "en": "In addition, if you already have web programming knowledge, at the bottom of the dashboard you can add CSS code and customize your app even more if you wish."
+    },
+    "restaurants_subtitle-4":{
+        "es": "Tercer paso. Funciones",
+        "en": "Third step. Features"
+    },
+    "restaurants_text-24":{
+        "es": "Una vez diseñada la pantalla inicial y escogidos los colores principales de la Aplicación, vamos con la parte funcional.",
+        "en": "Once the home screen has been designed and the main colors of the App have been chosen, let's move on to the features step."
+    },
+    "restaurants_text-25":{
+        "es": "Las plantillas incorporan de forma predeterminada algunas funciones que consideramos interesantes para cada sector. Puedes verlas en el carrusel de funciones. Pero si quieres eliminar alguna, sólo tendrás que darle a la 'X'.",
+        "en": "The templates incorporate by default some functions that we consider interesting for each sector. You can see them in the features carousel. But if you want to remove any of them, just click on the 'X'."
+    },
+    "restaurants_text-26":{
+        "es": "Para que veas lo sencillo que es incorporar nuevas funciones a tu App, te mostramos este gif donde podrás ver cómo realizamos el proceso.",
+        "en": "But let's show you how easy it is to add new features to your App, let's remove and re-add the Custom Page feature that we have named NEW IN (to show what's new in the store)."
+    },
+    "restaurants_subtitle-5":{
+        "es": "'Haz tu pedido' (Tienda/Delivery)",
+        "en": "'Make your order' (Shop/Delivery)"
+    },
+    "restaurants_text-27":{
+        "es": "Esta función te permite crear una o varias tiendas, poner a la venta todos tus productos por categorías, mostrando los precios, las tallas, opciones de productos, etc. y personalizar las opciones de venta, entrega o envío. Asimismo, podrás configurar varias opciones de pago y descuentos.",
+        "en": "This feature allows you to create one or more stores, put all your products on sale by categories, displaying prices, sizes, etc. and customize the sale, delivery or shipping options. You can also configure various payment options and discounts."
+    },
+    "restaurants_text-28":{
+        "es": "En nuestra app, esta es la pantalla de configuración para los negocios en el constructor. Hemos establecido dos restaurantes, uno en Madrid, y el otro en Zaragoza. Estos restaurantes están geolocalizados, y su ubicación se mostrará en el mapa (su funcionamiento requiere añadir una clave API de Google Maps).",
+        "en": "In our app, this is the configuration screen for businesses in the builder. We have set up two restaurants, one in Madrid, and the other in Zaragoza. These restaurants are geolocated, and their location will be shown on the map (its operation requires adding a Google Maps API key)."
+    },
+    "restaurants_link-1":{
+        "es": "Clica en este enlace para ver cómo obtener una clave API de Google Maps",
+        "en": "Click on this link to see how to get a Google Maps API key"
+    },
+    "restaurants_text-29":{
+        "es": "En la sección de 'Categorías', hemos establecido las siguientes:",
+        "en": "In the 'Categories' section, we have established the following:"
+    },
+    "restaurants_text-30":{
+        "es": "Y por último, te mostramos cómo se ve en la pantalla del constructor, todos los productos una vez añadidos.",
+        "en": "And finally, we show you how all the products look on the builder screen once added."
+    },
+    "restaurants_text-31":{
+        "es": "Para aprender paso a paso cómo configurar todas opciones de la función 'tienda/delivery', te lo mostramos en el siguiente vídeo.",
+        "en": "To learn step by step how to configure all the options of the 'shop/delivery' function, we show you in the following video."
+    },
+    "restaurants_link-2":{
+        "es": "Clica en este enlace y podrás ver un artículo paso a paso explicando la función “Tienda/Delivery”.",
+        "en": "Click on this link and you could see an article explaining step by step the 'Shop/Delivery' function."
+    },
+    "restaurants_subtitle-6":{
+        "es": "Locales (Lugares)",
+        "en": "Locales (Places)"
+    },
+    "restaurants_text-32":{
+        "es": "La función Lugares permite mostrar distintos puntos de interés que se mostrarán geolocalizados en un mapa y también se mostrarán en modo lista. Además si el usuario pincha sobre uno de los puntos de interés podrá encontrar información detallada de ese lugar, imágenes, videos, textos y por supuesto la ruta y las instrucciones para llegar a esta ubicación.",
+        "en": "The Places function allows you to display different points of interest that will be geolocated on a map and will also be displayed in list mode. In addition, if the user clicks on one of the points of interest, they will be able to find detailed information about that place, images, videos, texts and of course the route and instructions to get to this location."
+    },
+    "restaurants_text-33":{
+        "es": "Para que 'Lugares' funcione correctamente deberás configurar una clave API de Google Maps desde la sección 'Clave API' del menú lateral izquierdo del constructor",
+        "en": "To make 'Places' work correctly, you must configure a Google Maps API key from the 'API Key' section of the left side menu of the builder"
+    },
+    "restaurants_text-34":{
+        "es": "A continuación, puedes ver las opciones de configuración que hemos establecido en el constructor para la función Lugares de nuestra app.",
+        "en": "Below, you can see the configuration options that we have established in the builder for the Places function of our app."
+    },
+    "restaurants_text-35":{
+        "es": "En el siguiente video puedes ver un paso a paso de la función 'Lugares'.",
+        "en": "In the following video you can see a step by step of the 'Places' function."
+    },
+    "restaurants_link-3":{
+        "es": "Clica en este enlace y podrás ver un artículo paso a paso explicando la función “Lugares”.",
+        "en": "Click on this link and you could see an article explaining step by step the 'Places' function."
+    },
+    "restaurants_subtitle-7":{
+        "es": "'HAM! FRESHPOINTS' (Tarjeta de Fidelidad)",
+        "en": "'HAM! FRESHPOINTS' (Loyalty Card)"
+    },
+    "restaurants_text-36":{
+        "es": "Con la funcionalidad de tarjeta de fidelización, podrás crear una tarjeta perforada o sellada de fidelización. Significa que habrá una recompensa después de varias compras.",
+        "en": "With the loyalty card functionality, you can create a perforated or sealed loyalty card. It means that there will be a reward after several purchases."
+    },
+    "restaurants_text-37":{
+        "es": "Para validar un punto de fidelidad, el propietario del negocio deberá ingresar una contraseña de cuatro dígitos. Al igual que con la tarjeta de sello de fidelización, el cliente tiene que mostrar su tarjeta al comerciante para sellarla. Con esta Funcionalidad, el cliente debe mostrar su teléfono y el comerciante debe ingresar su contraseña de cuatro dígitos para validar un punto. Con la función Reservas Pro, este proceso se puede automatizar (próximamente).",
+        "en": "To validate a loyalty point, the business owner must enter a four-digit password. As with the loyalty stamp card, the customer must show their card to the merchant to stamp it. With this functionality, the customer must show their phone and the merchant must enter their four-digit password to validate a point. With the Pro Reservations feature, this process can be automated (coming soon)."
+    },
+    "restaurants_text-38":{
+        "es": "En nuestra App hemos configurado la siguiente tarjeta de fidelidad con estos datos:",
+        "en": "In our App we have configured the following loyalty card with this data:"
+    },
+    "restaurants_text-39":{
+        "es": "También puedes añadir tus propias imágenes para ilustrar los puntos de la tarjeta con los botones “Punto inactivo” y “Punto activo”.",
+        "en": "You can also add your own images to illustrate the points of the card with the 'Inactive Point' and 'Active Point' buttons."
+    },
+    "restaurants_text-40":{
+        "es": "En nuestra app, hemos escogido las siguientes imágenes:",
+        "en": "In our app, we have chosen the following images:"
+    },
+    "restaurants_text-41":{
+        "es": "Punto inactivo",
+        "en": "Inactive Point"
+    },
+    "restaurants_text-42":{
+        "es": "Punto activo",
+        "en": "Active Point"
+    },
+    "restaurants_text-43":{
+        "es": "Es posible crear una contraseña y un código QR para cada empleado.",
+        "en": "It is possible to create a password and a QR code for each employee."
+    },
+    "restaurants_text-44":{
+        "es": "Para crear una contraseña, solo tienes que hacer clic en el botón “Mis códigos”:",
+        "en": "To create a password, you just have to click on the 'My codes' button:"
+    },
+    "restaurants_text-45":{
+        "es": "Al hacer clic en el logotipo de QR, puedes descargar un QR que se puede usar en lugar de la contraseña.",
+        "en": "By clicking on the QR logo, you can download a QR that can be used instead of the password."
+    },
+    "restaurants_text-46":{
+        "es": "En este video puedes ver cómo configuramos la función Tarjeta de Fidelidad.",
+        "en": "In this video you can see how we configure the Loyalty Card function."
+    },
+    "restaurants_link-4":{
+        "es": "Haz clic en este enlace y podrás ver un artículo paso a paso de la función “Fidelización”",
+        "en": "Click on this link and you could see an article explaining step by step the 'Loyalty' function"
+    },
+    "restaurants_subtitle-8":{
+        "es": "'Sugerencias' (Form V2)",
+        "en": "'Suggestions' (Form V2)"
+    },
+    "restaurants_text-47":{
+        "es": "Para crear la sección de Sugerencias, hemos utilizado la función de Formulario.",
+        "en": "To create the Suggestions section, we have used the Form function."
+    },
+    "restaurants_text-48":{
+        "es": "Para obtener un formulario como el de la imagen, hemos seguido la siguiente secuencia de campos.",
+        "en": "To get a form like the one in the image, we have followed the following sequence of fields."
+    },
+    "restaurants_text-49":{
+        "es": "Si quieres aprender cómo utilizar esta función, visualiza el siguiente video.",
+        "en": "If you want to learn how to use this function, watch the following video."
+    },
+    "restaurants_link-5":{
+        "es": "Haz clic en este enlace y podrás ver un artículo paso a paso de la función “Formulario”",
+        "en": "Click on this link and you could see an article explaining step by step the 'Form' function"
+    },
+    "restaurants_subtitle-9":{
+        "es": "'Instagram' (Enlace)",
+        "en": "'Instagram' (Link)"
+    },
+    "restaurants_text-50":{
+        "es": "Esta sección es muy sencilla. Para integrar tu página de Instagram en la app, hemos utilizado la función enlace. Sólo tendrás que copiar el enlace de tu página de Instagram en el campo de nuestro constructor y tu página quedará conectada.",
+        "en": "This section is very simple. To integrate your Instagram page into the app, we have used the link function. You just have to copy the link of your Instagram page in the field of our builder and your page will be connected."
+    },
+    "restaurants_subtitle-10":{
+        "es": "Compartir (compartir app)",
+        "en": "Share (share app)"
+    },
+    "restaurants_text-51":{
+        "es": "Esta función permite a tus usuarios compartir la App con sólo dar a un botón. Puedes configurar el mensaje y el texto del botón, para una experiencia más personalizada.",
+        "en": "This feature will allow your customers to share the app in just one click. You can configure the message and the text of the button, for a more personalized experience."
+    },
+    "restaurants_text-52":{
+        "es": "Si quieres aprender cómo utilizar esta función, puedes visualizar el siguiente video.",
+        "en": "If you want to learn how to use this function, you can watch the following video."
+    },
+    "restaurants_subtitle-11":{
+        "es": "Mensajes Push",
+        "en": "Push Messages"
+    },
+    "restaurants_text-53":{
+        "es": "Los mensajes o notificaciones Push son el sistema de marketing más eficiente que existe en la actualidad. Mientras que de cada 10 emails enviados 8 caen en las bandejas de SPAM, con los Mensajes Push ocurre lo contrario... el 99% son leídos.",
+        "en": "Push messages represent the most efficient marketing system today. While of every 10 emails sent 8 fall into the SPAM trays, with Push Messages the opposite happens... 99% are read."
+    },
+    "restaurants_text-54":{
+        "es": "Añadir esta potente herramienta a tu App es muy sencillo:",
+        "en": "Adding this powerful tool to your App is very simple:"
+    },
+    "restaurants_text-55":{
+        "es": "1- Debes incluir en la Aplicación la función 'Notificaciones Push'",
+        "en": "1- You must include the 'Push Notifications' function in the App"
+    },
+    "restaurants_text-56":{
+        "es": "2- Para poder hacer uso de las Notificaciones Push, es necesario que la Aplicación en cuestión se encuentre publicada para las versiones nativas Android y/o iOS.",
+        "en": "2- To be able to use Push Notifications, it is necessary that the Application in question is published for the native Android and/or iOS versions."
+    },
+    "restaurants_text-57":{
+        "es": "Una vez que la aplicación haya sido publicada en App Store y/o Google Play, podrás enviar notificaciones directamente desde la propia función 'Notificaciones Push'.",
+        "en": "Once the application has been published in the App Store and/or Google Play, you can send notifications directly from the 'Push Notifications' function."
+    },
+    "restaurants_link-6":{
+        "es": "Haz clic en este enlace y podrás ver un artículo paso a paso de la función 'Mensajes Push'",
+        "en": "Click on this link and you could see an article explaining step by step the 'Push Messages' function"
+    },
+    "restaurants_subtitle-12":{
+        "es": "Paso 4. Icono y ajustes de la Aplicación",
+        "en": "Step 4. App icon and settings"
+    },
+    "restaurants_text-58":{
+        "es": "Desde aquí puedes elegir el icono que se mostrará en la pantalla del dispositivo del usuario, así como el diseño del botón 'volver'.",
+        "en": "From here you can choose the icon to be displayed on the user's device screen, as well as the design of the 'back' button."
+    },
+    "restaurants_text-59":{
+        "es": "Si quieres enviar mensajes push, este es el lugar donde puedes personalizar el icono o el color de fondo.",
+        "en": "If you want to send push messages, this is where you can customize the icon or background color."
+    },
+    "restaurants_text-60":{
+        "es": "Esta herramienta te ayudará a elegir una imagen de inicio que será compatible con todos los tamaños de pantalla de los diferentes dispositivos. Ésta se verá cuando se inicie la aplicación mientras se está cargando.",
+        "en": "This tool will help you choose a home screen image that´s compatible with all screen sizes of different devices. This image will be displayed when the app is loading."
+    },
+    "restaurants_subtitle-13":{
+        "es": "Paso 5. Avanzado",
+        "en": "Step 5. Advanced"
+    },
+    "restaurants_text-61":{
+        "es": "Si lo deseas, puedes monetizar tu app añadiendo un banner de anuncios que se mostrará a los usuarios de tu app.",
+        "en": "If you wish, you can monetize your app by adding an ads banner that will be shown to the users of your app."
+    },
+    "service_main_title":{
+        "es": "Cómo Crear una App para Negocios de Servicios (Clínicas, Gyms...)",
+        "en": "How to build an app for Service Businesses (Clinics, Gyms...)"
     }
 
-
-
-
-
-
-    
-
-    
 
 }

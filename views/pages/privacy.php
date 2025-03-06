@@ -4,7 +4,7 @@
     <p>{%privacy_text-1%}</p>
 
     <h2 class="text-blue-dark text-24">{%privacy_subtitle-1%}</h2>
-    <p>{%privacy_text-2%}<a href="https://consumerfed.org/wp-content/uploads/2022/04/CCPA-Privacy-Rights_2022_SP.pdf" class="bold text-blue" target="_blank">{%privacy_link-1%}</a>{%privacy_text-3%}<a href="https://commission.europa.eu/law/law-topic/data-protection/data-protection-eu_es" class="bold text-blue" target="_blank">{%privacy_link-2%}</a></p>
+    <p>{%privacy_text-2%}<a href="https://consumerfed.org/wp-content/uploads/2022/04/CCPA-Privacy-Rights_2022_SP.pdf" class="link" target="_blank">{%privacy_link-1%}</a>{%privacy_text-3%}<a href="https://commission.europa.eu/law/law-topic/data-protection/data-protection-eu_es" class="link" target="_blank">{%privacy_link-2%}</a></p>
 
     <h2 class="text-blue-dark text-24">{%privacy_subtitle-2%}</h2>
     <p>{%privacy_text-4%}</p>
@@ -33,7 +33,7 @@
 
     <h2 class="text-blue-dark text-24">{%privacy_subtitle-6%}</h2>
     <p>{%privacy_text-9%}</p>
-    <p>{%privacy_text-10%}<a href="https://www.pcisecuritystandards.org/" class="bold text-blue" target="_blank">{%privacy_link-3%}</a></p>
+    <p>{%privacy_text-10%}<a href="https://www.pcisecuritystandards.org/" class="link" target="_blank">{%privacy_link-3%}</a></p>
 
     <h2 class="text-blue-dark text-24">{%privacy_subtitle-7%}</h2>
     <p>{%privacy_text-11%}</p>
