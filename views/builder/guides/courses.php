@@ -249,7 +249,7 @@
     <!--ACA VA EL VIDEO 13-->
     <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/1JYBZwv3Q9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-    <p>{%courses_text-70%} <a class="link" href="/builder/apps/fuctions/forms"> {%courses_link-1%}</a></p>
+    <p>{%courses_text-70%} <a class="link" href="/builder/apps/features/forms"> {%courses_link-1%}</a></p>
 
     <h3 class="m-t-5">{%courses_subtitle-18%}</h3>
 

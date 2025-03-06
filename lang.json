@@ -3400,10 +3400,742 @@
         "es": "Si lo deseas, puedes monetizar tu app añadiendo un banner de anuncios que se mostrará a los usuarios de tu app.",
         "en": "If you wish, you can monetize your app by adding an ads banner that will be shown to the users of your app."
     },
+    "service_image_alt":{
+        "es": "App para un negocio de servicios",
+        "en": "App for a service business"
+    },
     "service_main_title":{
         "es": "Cómo Crear una App para Negocios de Servicios (Clínicas, Gyms...)",
         "en": "How to build an app for Service Businesses (Clinics, Gyms...)"
+    },
+    "service_text-1":{
+        "es": "El uso de dispositivos móviles para la contratación y reserva de servicios se disparó desde comienzos de 2020 debido a la Pandemia del Covid19 y sigue creciendo a tasas del 45% anual.",
+        "en": "The use of mobile devices for the hiring and booking of services skyrocketed since the beginning of 2020 due to the Covid19 Pandemic and continues to grow at an annual rate of 45%."
+    },
+    "service_text-2":{
+        "es": "Hoy en día, contar con una App Móvil resulta imprescindible para cualquier negocio de servicios:",
+        "en": "Today, having a Mobile App is essential for any service business:"
+    },
+    "service_list-1":{
+        "es": "El 35% de los usuarios realizan las reservas desde sus teléfonos móviles por lo que se dispara la fidelización.",
+        "en": "35% of users make reservations from their mobile phones, so loyalty skyrockets."
+    },
+    "service_list-2":{
+        "es": "El ratio de lectura de los Mensajes Push es del 99% mientras que el ratio de apertura actual del email marketing es del 20%. Es decir, de cada 10 emails enviados por las clínicas, 8 caen en Spam. La solución son las Aplicaciones Móviles.",
+        "en": "The Push Messages reading rate is 99% while the current email marketing opening rate is 20%. That is, of every 10 emails sent by clinics, 8 fall into Spam. The solution is Mobile Apps."
+    },
+    "service_list-3":{
+        "es": "En 2021 el 72,9% del total de las transacciones electrónicas a nivel global se realizaron desde dispositivos móviles.",
+        "en": "In 2021, 72.9% of the total global electronic transactions were made from mobile devices."
+    },
+    "service_list-4":{
+        "es": "Y lo que es más importante, las Aplicaciones Móviles tienen una tasa de conversión 157% mayor que las Páginas Web móviles o responsivas.",
+        "en": "And most importantly, Mobile Apps have a 157% higher conversion rate than mobile or responsive Web Pages."
+    },
+    "service_text-3":{
+        "es": "En esta guía paso a paso vamos a crear una App para una Clínica aunque puedes utilizar esta guía para crear Apps para cualquier otro tipo de negocio de servicios (gimnasios, peluquerías, despachos profesionales etc):",
+        "en": "In this step-by-step guide we are going to create an App for a Clinic although you can use this guide to create Apps for any other type of service business (gyms, hairdressers, professional offices etc):"
+    },
+    "service_list-5":{
+        "es": "Información de la clinica",
+        "en": "Clinic information"
+    },
+    "service_list-6":{
+        "es": "Tratamientos y servicios",
+        "en": "Treatments and services"
+    },
+    "service_list-7":{
+        "es": "Sistema de reservas",
+        "en": "Booking system"
+    },
+    "service_list-8":{
+        "es": "Mensajes Push",
+        "en": "Push Messages"
+    },
+    "service_subtitle-1":{
+        "es": "Primeros Pasos",
+        "en": "First Steps"
+    },
+    "service_text-4":{
+        "es": "Una vez en la pantalla de inicio de YourAppFactory, en el menú lateral izquierdo encontrarás el icono con forma de 'a' del constructor de apps. Ahí podrás crear una nueva aplicación y darle nombre.",
+        "en": "Once inside the dashboard, on the left hand side menu you will find the 'a' icon for the app builder."
+    },
+    "service_text-5":{
+        "es": "Una vez estés en la pantalla de administración de Apps, haz clic en 'Nueva App':",
+        "en": "Once you are on the Apps Management screen, click on 'Create App':"
+    },
+    "service_text-6":{
+        "es": "Una vez hayas creado y puesto nombre a tu app, te aparecerá una pantalla en la que podrás elegir entre varias plantillas.",
+        "en": "Once you have created and named your app, you will see a screen where you can choose from several templates."
+    },
+    "service_text-7":{
+        "es": "Son diseños predefinidos para que no partas de cero pero en realidad, después podrás modificar absolutamente todo. De hecho, podrás cambiar la plantilla que escojas ahora. Y si no te encaja ninguna, haz clic en 'Blank Template' para empezar de cero a diseñar tu App.",
+        "en": "These are predefined designs so that you don't start from scratch, but in reality, you will be able to modify absolutely everything afterwards. In fact, you will be able to change the template you choose now. And if you do not fit any of them, click on 'Blank Template' to start from scratch to design your App."
+    },
+    "service_text-8":{
+        "es": "Para este ejemplo escogeremos una plantilla en blanco",
+        "en": "For this example we will choose a blank template"
+    },
+    "service_text-9":{
+        "es": "El proceso de creación de Aplicaciones con YourAppFactory es muy sencillo. Sólo tienes que ir siguiendo los pasos del constructor.",
+        "en": "The process of creating YourAppFactory applications is very simple. Just follow the steps in the builder."
+    },
+    "service_text-10":{
+        "es": "Estos pasos están representados en la barra de progreso que tendrás siempre a tu disposición en la parte superior del constructor y que te permitirá fácilmente navegar entre las distintas páginas, con sólo clicar encima del icono.",
+        "en": "These steps are represented in the progress bar that you will always have at your disposal at the top of the builder and that will allow you to easily navigate between the different pages, just by clicking on the icon."
+    },
+    "service_subtitle-2":{
+        "es": "Primer paso. Diseño de la App",
+        "en": "First step. App design"
+    },
+    "service_text-11":{
+        "es": "En la pestaña Diseño, encontrarás todas las opciones relacionadas con la información del menú y de la pantalla inicial de tu App.",
+        "en": "In the Design tab, you will find all the options related to the menu information and the home screen of your App."
+    },
+    "service_text-12":{
+        "es": "Menú de elección del Layout",
+        "en": "Layout selection menu"
+    },
+    "service_text-13":{
+        "es": "La sección Opciones de Pantalla de Inicio muestra las opciones disponibles según el estilo de navegación (Layout) escogido. Debes tener en cuenta que cada estilo de navegación o Layout dispone de sus propios ajustes de configuración.",
+        "en": "The Home Screen Options section shows the available options according to the chosen navigation style (Layout). You should keep in mind that each navigation style or Layout has its own configuration settings."
+    },
+    "service_text-14":{
+        "es": "Algunos Layouts cuentan con la posibilidad de añadir un slider o carrusel animado de imágenes en la portada de tu App, añadirlo es muy sencillo y puede configurarse en menos de 10 segundos.",
+        "en": "Some Layouts have the possibility of adding a slider or animated carousel of images on the cover of your App, adding it is very simple and can be configured in less than 10 seconds."
+    },
+    "service_text-15":{
+        "es": "Ten en cuenta que no todos los estilos de navegación (Layouts) admiten el uso de Sliders.",
+        "en": "Keep in mind that not all navigation styles (Layouts) support the use of Sliders."
+    },
+    "service_text-16":{
+        "es": "Si haces un poco de scroll encontrarás una nueva sección llamada 'Opciones del Slider de Inicio':",
+        "en": "If you scroll down a bit you will find a new section called 'Home Slider Options':"
+    },
+    "service_list-9":{
+        "es": "Indica si deseas que las imágenes se muevan en bucle.",
+        "en": "Indicate if you want the images to move in a loop."
+    },
+    "service_list-10":{
+        "es": "Especifica la duración de tu Slider.",
+        "en": "Specify the duration of your Slider."
+    },
+    "service_list-11":{
+        "es": "Ajusta la opacidad de las imágenes.",
+        "en": "Adjust the opacity of the images."
+    },
+    "service_list-12":{
+        "es": "Escoge la altura de las imágenes.",
+        "en": "Choose the height of the images."
+    },
+    "service_text-17":{
+        "es": "Si deseas que las imágenes del Slider ocupen toda la pantalla, asegúrate de marcar el 100% en el selector de Altura de las Imágenes. Te recomendamos que éstas imágenes tengan un tamaño de 1432X2732 píxeles.",
+        "en": "If you want the images of the Slider to occupy the entire screen, make sure to mark 100% in the Image Height selector. We recommend that these images have a size of 1432X2732 pixels."
+    },
+    "service_text-18":{
+        "es": "Por último haz clic en 'AÑADIR IMÁGENES'",
+        "en": "Finally click on 'ADD IMAGES'"
+    },
+    "service_text-19":{
+        "es": "Las imágenes no deben superar los 3000 píxeles y se recomienda que no pesen más de 500kb (cuanto más optimizadas estén las imágenes más rápida será tu app).",
+        "en": "The images should not exceed 3000 pixels and it is recommended that they do not weigh more than 500kb (the more optimized the images are, the faster your app will be)."
+    },
+    "service_text-20":{
+        "es": "Al activar esta pestaña, podrás colorear el fondo de la página de inicio. El color lo podrás escoger en la pestañan de 'Diseño' que veremos un poco más adelante. En nuestro ejemplo, como el slider ocupa toda la pantalla (altura 100%), no la activamos.",
+        "en": "By activating this tab, you can color the background of the home page. You can choose the color in the 'Design' tab that we will see a little later. In our example, as the slider occupies the entire screen (height 100%), we do not activate it."
+    },
+    "service_text-21":{
+        "es": "La sección que vas a ver a continuación, te ayuda a elegir una imagen para la pantalla de inicio que se vea bien en todos los dispositivos y ratios de pantalla. Usa la herramienta overlay (sombreado) para comprobar si la información importante de tu diseño queda dentro de las zonas seguras recomendadas en función de la orientación de pantalla para la que está diseñada tu App.",
+        "en": "The section you will see next helps you choose an image for the home screen that looks good on all devices and screen ratios. Use the overlay tool to check if the important information of your design falls within the recommended safe areas based on the screen orientation for which your App is designed."
+    },
+    "service_text-22":{
+        "es": "Asegúrate que los elementos que consideres importantes, queden dentro del sombreado. En nuestro ejemplo, y gracias a esta herramienta, confirmamos que el logotipo de la clínica y la fotografía del doctor quedan dentro del overlay, por lo tanto, serán visibles en todos los dispositivos y en distintos ratios de pantalla.",
+        "en": "Make sure that the elements you consider important are within the shading. In our example, and thanks to this tool, we confirm that the clinic logo and the doctor's photograph are within the overlay, therefore, they will be visible on all devices and in different screen ratios."
+    },
+    "service_text-23":{
+        "es": "Para saber cómo diseñar bien las imágenes puedes descargar la plantilla con las medidas, disponible tanto en formato .png como en .psd.",
+        "en": "To learn how to design images well you can download the template with the measurements, available in both .png and .psd formats."
+    },
+    "service_text-24":{
+        "es": "Veamos ahora un pequeño vídeo de 5 minutos para aprender a diseñar la Pantalla de Inicio de la Aplicación:",
+        "en": "Now let's watch a short 5-minute video to learn how to design the App's Home Screen:"
+    },
+    "service_text-25":{
+        "es": "Escoge el idioma en función de tu país y la moneda de tu aplicación. Se utilizará para diferentes aspectos, como la zona horaria y el símbolo de la moneda.",
+        "en": "Choose the language according to your country and the currency of your application. It will be used for different aspects, such as the time zone and the currency symbol."
+    },
+    "service_text-26":{
+        "es": "Para cambiar la fuente de tu app puedes seleccionar una de las que aparecen en el menú del constructor, o importar una desde Google Fonts. Para hacerlo es tan sencillo como escribir el nombre de la fuente.",
+        "en": "To change the font of your app you can select one of those that appear in the builder menu, or import one from Google Fonts. To do this, it is as simple as writing the name of the font."
+    },
+    "service_subtitle-3":{
+        "es": "Segundo paso. Colores",
+        "en": "Second step. Colors"
+    },
+    "service_text-27":{
+        "es": "Elige los colores principales de la aplicación.",
+        "en": "Choose the main colors of the app."
+    },
+    "service_list-13":{
+        "es": "General: aplica al fondo (si no hay una imagen específica) y al texto general.",
+        "en": "General: applies to the substance (if there is no specific image) and the general text."
+    },
+    "service_list-14":{
+        "es": "Inicio: aplica al menú de navegación y a sus elementos.",
+        "en": "Home: applies to the navigation menu and its elements."
+    },
+    "service_list-15":{
+        "es": "Cabecera: aplica a la cabecera de navegación de la app.",
+        "en": "Header: applies to the navigation header of the app."
+    },
+    "service_list-16":{
+        "es": "Tarjeta: aplica a los elementos mostrados en formato tarjeta.",
+        "en": "Card: applies to items displayed in card format."
+    },
+    "service_list-17":{
+        "es": "Lista: aplica a los elementos mostrados en formato lista.",
+        "en": "List: applies to items displayed in list format."
+    },
+    "service_text-28":{
+        "es": "Además, si dispones de conocimientos de programación Web, en la parte inferior del panel encontrarás un espacio para poder introducir código CSS y así, personalizar al 100% los elementos de tu App.",
+        "en": "In addition, if you already have web programming knowledge, at the bottom of the dashboard you can add CSS code and customize your app even more if you wish."
+    },
+    "service_subtitle-4":{
+        "es": "Tercer paso. Funciones",
+        "en": "Third step. Features"
+    },
+    "service_text-29":{
+        "es": "Una vez diseñada la pantalla inicial y escogidos los colores principales de la Aplicación, vamos con la parte funcional.",
+        "en": "Once the home screen has been designed and the main colors of the App have been chosen, let's move on to the features step."
+    },
+    "service_text-30":{
+        "es": "Las plantillas incorporan de forma predeterminada algunas funciones que consideramos interesantes para cada sector. Puedes verlas en el carrusel de funciones. Pero si quieres eliminar alguna, sólo tendrás que darle a la 'X'.",
+        "en": "The templates incorporate by default some functions that we consider interesting for each sector. You can see them in the features carousel. But if you want to remove any of them, just click on the 'X'."
+    },
+    "service_text-31":{
+        "es": "Para que veas lo sencillo que es incorporar nuevas funciones a tu App, te mostramos este gif donde podrás ver cómo realizamos el proceso.",
+        "en": "But let's show you how easy it is to add new features to your App, let's remove and re-add the Custom Page feature that we have named NEW IN (to show what's new in the store)."
+    },
+    "service_text-32":{
+        "es": "En nuestro ejemplo, como hemos partido de una plantilla en blanco, hemos añadido todas las funciones que consideramos interesantes para nuestros sector. Te las mostramos a continuación.",
+        "en": "In our example, as we have started from a blank template, we have added all the functions that we consider interesting for our sector. We show them to you below."
+    },
+    "service_subtitle-5":{
+        "es": "(ABB) Página Personalizada",
+        "en": "(ABB) Custom Page"
+    },
+    "service_text-33":{
+        "es": "Para esta App, queríamos empezar creando una sección que nos permita presentar los valores de la empresa y su misión. Además hemos añadido un video promocional y al final de la página, un botón que permite llamar directamente a la empresa, para facilitar el contacto. Para incluir esto, hemos configurado una Página Personalizada y la hemos llamado ABB, como el nombre de la empresa.",
+        "en": "For this App, we wanted to start by creating a section that allows us to present the company's values and mission. We have also added a promotional video and at the end of the page, a button that allows you to call the company directly, to facilitate contact. To include this, we have configured a Custom Page and we have called it ABB, as the name of the company."
+    },
+    "service_text-34":{
+        "es": "Esta funcionalidad te ofrece múltiples opciones para crear una pagina informativa. Puedes escribir un artículo con una imagen, puedes publicar una galería de fotos, puedes publicar un video directamente en esta página y puedes agregar botones de llamada o un enlace a cualquier sitio web externo.",
+        "en": "This functionality offers you multiple options to create an informative page. You can write an article with an image, you can publish a photo gallery, you can publish a video directly on this page and you can add call buttons or a link to any external website."
+    },
+    "service_link-1":{
+        "es": "Haz clic en este enlace y podrás ver un artículo paso a paso de la función “Página Personalizada”",
+        "en": "Click on this link and you could see an article explaining step by step the 'Custom Page' function"
+    },
+    "service_subtitle-6":{
+        "es": "Tratamientos (Carpetas y Catálogo)",
+        "en": "Treatments (Folders and Catalog)"
+    },
+    "service_text-35":{
+        "es": "En esta sección de la App queremos mostrar los distintos tratamientos que se realizan en la clínica. Para construir esta sección utilizaremos 2 funciones (Carpetas y Catálogo)",
+        "en": "In this section of the App we want to show the different treatments that are carried out in the clinic. To build this section we will use 2 functions (Folders and Catalog)"
+    },
+    "service_text-36":{
+        "es": "Lo primero que haremos será añadir la función “Carpetas”. Esta función tiene como objetivo contener y organizar dentro de ella otras funciones. Luego le pondremos el nombre 'Tratamientos' y escogeremos el icono que queramos haciendo clic sobre el icono.",
+        "en": "The first thing we will do is add the 'Folders' function. This function aims to contain and organize other functions within it. Then we will name it 'Treatments' and choose the icon we want by clicking on the icon."
+    },
+    "service_text-37":{
+        "es": "Aquí te mostramos un video sobre la función Carpetas.",
+        "en": "Here is a video about the Folders function."
+    },
+    "service_text-38":{
+        "es": "A continuación añadiremos la función 'Catálogo', le pondremos el nombre 'Faciales' y al igual que hicimos con la función anterior escogeremos el icono deseado haciendo clic sobre el icono.",
+        "en": "Next, we will add the 'Catalog' function, name it 'Facials' and as we did with the previous function, choose the desired icon by clicking on the icon."
+    },
+    "service_text-39":{
+        "es": "Ahora, volveremos a añadir la función 'Catálogo', y esta vez le pondremos en nombre 'Corporales' y escogeremos el icono deseado. El resultado sería el siguiente:",
+        "en": "Now, we will add the 'Catalog' function again, and this time we will name it 'Body' and choose the desired icon. The result would be the following:"
+    },
+    "service_text-40":{
+        "es": "La función Catálogo muestra una lista de productos dentro de la App. Permite añadir una descripción del producto (personalizando el formato), establecer un precio para el producto, añadir una imagen de éste e incluso habilitar distintos formatos de productos. Esto resulta interesante cuando necesites especificar distintas variaciones de un producto (variantes de color, las tallas disponibles, etc.) ya que podrás especificar un precio en particular por cada opción, si así lo deseas.",
+        "en": "The Catalog function shows a list of products within the App. It allows you to add a product description (customizing the format), set a price for the product, add an image of it and even enable different product formats. This is interesting when you need to specify different variations of a product (color variants, available sizes, etc.) since you can specify a particular price for each option, if you wish."
+    },
+    "service_text-41":{
+        "es": "Este catálogo no está conectado con la Función de Tienda. Está pensado para negocios físicos.",
+        "en": "This catalog is not connected to the Store Function. It is intended for physical businesses."
+    },
+    "service_text-42":{
+        "es": "Si aún te quedan dudas de cómo hemos hecho este proceso, te lo explico en este vídeo:",
+        "en": "If you still have doubts about how we have done this process, I explain it to you in this video:"
+    },
+    "service_text-43":{
+        "es": "Y ahora, te mostraré un video sobre el funcionamiento de la función Catálogo.",
+        "en": "And now, I will show you a video about the operation of the Catalog function."
+    },
+    "service_subtitle-7":{
+        "es": "Indiba® Élite (Página Personalizada)",
+        "en": "Indiba® Élite (Custom Page)"
+    },
+    "service_text-44":{
+        "es": "En esta sección se pone en valor el uso de una herramienta puntera en el sector. Para su promoción, hemos creado una Página Personalizada y hemos añadido fotografías, textos explicativos y botones de llamada rápidos.",
+        "en": "In this section we highlight the use of a cutting-edge tool in the sector. For its promotion, we have created a Custom Page and added photographs, explanatory texts and quick call buttons."
+    },
+    "service_text-45":{
+        "es": "Puedes aprender más sobre el uso de la función 'Página Personalizada' visualizando este video.",
+        "en": "You can learn more about the use of the 'Custom Page' function by watching this video."
+    },
+    "service_link-2":{
+        "es": "Haz clic en este enlace y podrás ver un artículo paso a paso de la función “Página personalizada”",
+        "en": "Click on this link and you could see an article explaining step by step the 'Custom Page' function"
+    },
+    "service_subtitle-8":{
+        "es": "Imágenes",
+        "en": "Images"
+    },
+    "service_text-46":{
+        "es": "En esta sección se muestra una galería de imágenes, para ello, hemos añadido la función 'Imágenes'. Tan sólo tendrás que poner nombre a la galería, añadir tus fotografías y en un par de minutos tendrás tu galería de imágenes con varias opciones de diseño.",
+        "en": "In this section a gallery of images is shown, for this, we have added the 'Images' function. You just have to name the gallery, add your photographs and in a couple of minutes you will have your image gallery with several design options."
+    },
+    "service_text-47":{
+        "es": "En este video puedes ver lo sencillo que resulta configurar esta función.",
+        "en": "In this video you can see how easy it is to configure this function."
+    },
+    "service_subtitle-9":{
+        "es": "Reserva tu Cita (Reservas Pro)",
+        "en": "Book your Appointment (Pro Reservations)"
+    },
+    "service_text-48":{
+        "es": "Para una clínica, es fundamental disponer de un sistema de reserva de citas completo, eficaz y efectivo. Tus clientes van a poder reservar su cita desde su teléfono con sólo un cliq. La función Reservas Pro, no sólo va a permitir ésto, si no que enviará a tus clientes recordatorios de su cita, permitirá el previo pago de éstas, automatizará el sistema de puntos de fidelidad (función vinculada a 'Tarjeta de Fidelidad'), y mucho más.",
+        "en": "For a clinic, it is essential to have a complete, efficient and effective appointment booking system. Your customers will be able to book their appointment from their phone with just one click. The Pro Reservations function will not only allow this, but will also send appointment reminders to your customers, allow for pre-payment of appointments, automate the loyalty points system (function linked to 'Loyalty Card'), and much more."
+    },
+    "service_text-49":{
+        "es": "Cuando el usuario paga a través de diferentes modos de pago, las pasarelas de pago cobran al dueño del negocio por cada transacción, y si el consumidor canceló la reserva, en ese caso, los dueños de los negocios tienen que asumir todas las pérdidas. Para proteger estas pérdidas, Reservas Pro cuenta con una opción de 'Cancelación' a través de la cual, se pueden aplicar cargos por la cancelación de la reserva.",
+        "en": "When the user pays through different payment methods, the payment gateways charge the business owner for each transaction, and if the consumer canceled the reservation, in that case, the business owners have to assume all the losses. To protect these losses, Pro Reservations has a 'Cancellation' option through which cancellation charges can be applied."
+    },
+    "service_text-50":{
+        "es": "Como administrador, podrás definir de forma sencilla los horarios de cierre y apertura de tus clínicas o centros y establecer horarios específicos para cada uno de tus proveedores de servicios.",
+        "en": "As an administrator, you can easily define the opening and closing hours of your clinics or centers and establish specific schedules for each of your service providers."
+    },
+    "service_text-51":{
+        "es": "Para una experiencia de usuario más completa, ésta función también permite mostrar la distancia a la que se encuentran las distintas sucursales de su negocio en relación a la ubicación del usuario (Para ello es necesario ingresar correctamente una clave API de Google Maps desde el apartado del menú 'Claves API' > Configuración de Google Maps).",
+        "en": "For a more complete user experience, this function also allows you to show the distance to the different branches of your business in relation to the user's location (For this it is necessary to correctly enter a Google Maps API key from the 'API Keys' menu > Google Maps Settings)."
+    },
+    "service_text-52":{
+        "es": "Veámos paso por paso cómo hemos configurado esta función para nuestra clínica.",
+        "en": "Let's see step by step how we have configured this function for our clinic."
+    },
+    "service_text-53":{
+        "es": "Pestaña de Ajustes",
+        "en": "Settings Tab"
+    },
+    "service_text-54":{
+        "es": "Visualiza este vídeo para ver cómo hemos configurado esta pestaña.",
+        "en": "Watch this video to see how we have configured this tab."
+    },
+    "service_text-55":{
+        "es": "Pestaña de Pago",
+        "en": "Payment Tab"
+    },
+    "service_text-56":{
+        "es": "Para configurar las distintas opciones de pago, deberás seleccionar y rellenar los datos de las distintas plataformas. Por ejemplo, para el pago con tarjeta, deberás rellenar los datos de Stripe. Éstos los podrás encontrar en su página web.",
+        "en": "To configure the different payment options, you must select and fill in the data of the different platforms. For example, for card payment, you must fill in the data of Stripe. You can find them on their website."
+    },
+    "service_text-57":{
+        "es": "Si no sabes cómo obtener tus claves de Stripe, te dejamos el enlace a un artículo de su página web Aquí.",
+        "en": "If you don't know how to get your Stripe keys, we leave you the link to an article on their website Here."
+    },
+    "service_text-58":{
+        "es": "Pestaña Carrusel",
+        "en": "Carousel Tab"
+    },
+    "service_text-59":{
+        "es": "Si lo deseas puedes añadir un carrusel de imágenes en la parte superior de la pantalla principal de la función Reservas Pro. Para ello debes haber marcado la casilla de verificación 'Mostrar Carrusel' en la pestaña 'Ajustes'.",
+        "en": "If you wish you can add a carousel of images at the top of the main screen of the Pro Reservations function. To do this you must have checked the 'Show Carousel' checkbox in the 'Settings' tab."
+    },
+    "service_text-60":{
+        "es": "Para añadir más imágenes al carrusel solo tienes que repetir de nuevo este proceso.",
+        "en": "To add more images to the carousel you just have to repeat this process again."
+    },
+    "service_text-61":{
+        "es": "Recuerda que las imágenes deberán tener un tamaño de 512 x 320 píxeles.",
+        "en": "Remember that the images should have a size of 512 x 320 pixels."
+    },
+    "service_text-62":{
+        "es": "Integraciones",
+        "en": "Integrations"
+    },
+    "service_text-63":{
+        "es": "Desde aquí puedes obtener la URL web y el código de inserción para usar la función de reservas donde quieras.",
+        "en": "From here you can get the web URL and the insertion code to use the booking function wherever you want."
+    },
+    "service_text-64":{
+        "es": "Etiquetas",
+        "en": "Tags"
+    },
+    "service_text-65":{
+        "es": "Desde aquí podrás modificar el texto de las distintas etiquetas del sistema, como por ejemplo sustituir el texto 'Proveedores' por 'Profesionales'",
+        "en": "From here you can modify the text of the different system tags, such as replacing the text 'Providers' with 'Professionals'"
+    },
+    "service_text-66":{
+        "es": "Panel",
+        "en": "Panel"
+    },
+    "service_text-67":{
+        "es": "Desde aquí puedes administrar los requisitos completos del sistema de reservas como crear y administrar las ubicaciones, los servicios o clases, los proveedores, gestionar las reservas, acceder al calendario y a Informes para analizar la recaudación de fondos a través de las reservas.",
+        "en": "From here you can manage the complete requirements of the reservation system such as creating and managing locations, services or classes, providers, managing reservations, accessing the calendar and Reports to analyze fundraising through reservations."
+    },
+    "service_text-68":{
+        "es": "Nada mas acceder a esta sección encontrarás una gráfica que de forma predeterminada muestra información de la estimación de ingresos de la semana actual de lunes a domingo en orden creciente como se muestra en la imagen de arriba. Obtendrás información sobre el total de reservas confirmadas, ingresos de la semana hasta la fecha, ingresos proyectados (lo que significa el valor previsto de los ingresos, que puede cambiar de acuerdo con el número final de reservas) y el ingreso total estimado.",
+        "en": "As soon as you access this section you will find a graph that by default shows information on the estimated income of the current week from Monday to Sunday in ascending order as shown in the image above. You will get information on the total confirmed reservations, income for the week to date, projected income (which means the expected value of income, which may change according to the final number of reservations) and the total estimated income."
+    },
+    "service_text-69":{
+        "es": "Ubicaciones, Categorías, Servicios y Proveedores",
+        "en": "Locations, Categories, Services and Providers"
+    },
+    "service_text-70":{
+        "es": "Te mostramos cómo configurar estas opciones del panel en nuestra app.",
+        "en": "We show you how to configure these panel options in our app."
+    },
+    "service_text-71":{
+        "es": "Reservas de Servicios",
+        "en": "Service Reservations"
+    },
+    "service_text-72":{
+        "es": "En la sección Reservas de Servicios, puedes administrar todas las reservas pudiendo filtrar por Próximas / Hoy / Todas o agregar nuevas reservas.",
+        "en": "In the Service Reservations section, you can manage all reservations by filtering by Upcoming / Today / All or adding new reservations."
+    },
+    "service_text-73":{
+        "es": "1- Selecciona Ubicación: Desde aquí puedes aplicar un filtro por ubicación seleccionando la ubicación en el menú desplegable.",
+        "en": "1- Select Location: From here you can apply a filter by location by selecting the location in the drop-down menu."
+    },
+    "service_text-74":{
+        "es": "2- Selecciona Proveedor: Desde aquí puedes aplicar un filtro por proveedores seleccionando el proveedor del menú desplegable.",
+        "en": "2- Select Provider: From here you can apply a filter by providers by selecting the provider from the drop-down menu."
+    },
+    "service_text-75":{
+        "es": "3- Selecciona Estado: Desde aquí puede aplicar un filtro según el estado de la reserva como: Aceptado, Pendiente, completado, Rechazado, etc. seleccionando el estado en el menú desplegable.",
+        "en": "3- Select Status: From here you can apply a filter according to the status of the reservation such as: Accepted, Pending, Completed, Rejected, etc. by selecting the status in the drop-down menu."
+    },
+    "service_text-76":{
+        "es": "4- ID: Desde la columna ID puede obtener el número de identificación único de la reserva.",
+        "en": "4- ID: From the ID column you can get the unique identification number of the reservation."
+    },
+    "service_text-77":{
+        "es": "5- Cliente / Ubicación / Servicio: Desde esta columna puedes obtener los detalles sobre el nombre del cliente, la ubicación de la reserva y el servicio reservado por el cliente.",
+        "en": "5- Client / Location / Service: From this column you can get details about the client's name, the location of the reservation and the service reserved by the client."
+    },
+    "service_text-78":{
+        "es": "6- Fecha: Desde esta columna puedes ver la fecha de la reserva.",
+        "en": "6- Date: From this column you can see the date of the reservation."
+    },
+    "service_text-79":{
+        "es": "7- Slot: Desde esta columna puedes ver el detalle de duración del slot de la reserva.",
+        "en": "7- Slot: From this column you can see the detail of the duration of the reservation slot."
+    },
+    "service_text-80":{
+        "es": "8- Importe: Desde esta columna puede ver el importe a cobrar por esa reserva en particular.",
+        "en": "8- Amount: From this column you can see the amount to be charged for that particular reservation."
+    },
+    "service_text-81":{
+        "es": "9- Estado: Desde esta columna puedes ver el estado actual de la reserva.",
+        "en": "9- Status: From this column you can see the current status of the reservation."
+    },
+    "service_text-82":{
+        "es": "10- Acción: Al hacer clic sobre el icono de los tres puntos, puedes administrar la reserva por completo:",
+        "en": "10- Action: By clicking on the three dots icon, you can manage the reservation completely:"
+    },
+    "service_text-83":{
+        "es": "a) Vista: Desde aquí puedes ver los detalles completos de la reserva, es decir: Reserva, Pago, Cliente y servicio.",
+        "en": "a) View: From here you can see the complete details of the reservation, that is: Reservation, Payment, Client and service."
+    },
+    "service_text-84":{
+        "es": "b) Aceptar: Al hacer clic en 'Aceptar' aceptarás la reserva y se preparará para la entrega.",
+        "en": "b) Accept: By clicking on 'Accept' you will accept the reservation and it will be prepared for delivery."
+    },
+    "service_text-85":{
+        "es": "c) Rechazar: Al hacer clic en 'Rechazar' rechazarás la solicitud de la reserva por parte del cliente.",
+        "en": "c) Reject: By clicking on 'Reject' you will reject the reservation request from the client."
+    },
+    "service_text-86":{
+        "es": "d) Marcar como completado: Al hacer clic en 'Marcar como completado' se actualizará el estado de la reserva como completado.",
+        "en": "d) Mark as completed: By clicking on 'Mark as completed' the status of the reservation will be updated as completed."
+    },
+    "service_text-87":{
+        "es": "e) Cancelar: Al hacer clic en 'Cancelar' se cancelará la reserva.",
+        "en": "e) Cancel: By clicking on 'Cancel' the reservation will be canceled."
+    },
+    "service_text-88":{
+        "es": "Nota: El usuario tiene también podrá cancelar la reserva por su parte desde la aplicación.",
+        "en": "Note: The user can also cancel the reservation on his own from the application."
+    },
+    "service_text-89":{
+        "es": "f) Eliminar: Al hacer clic en 'Eliminar' se eliminará la reserva de la plataforma.",
+        "en": "f) Delete: By clicking on 'Delete' the reservation will be deleted from the platform."
+    },
+    "service_text-90":{
+        "es": "11- Añadir Reservas: También puedes añadir reservas directamente desde la plataforma, para ello simplemente tienes que hacer clic en el botón azul 'Añadir reserva' y completar los datos necesarios.",
+        "en": "11- Add Reservations: You can also add reservations directly from the platform, for this you just have to click on the blue 'Add reservation' button and complete the necessary data."
+    },
+    "service_text-91":{
+        "es": "Calendario",
+        "en": "Calendar"
+    },
+    "service_text-92":{
+        "es": "Desde aquí puedes ver las reservas que se han realizado desde la aplicación de forma individual y y de todas las ubicaciones de tu negocio. También puedes gestionar la reservas directamente desde aquí ya que puedes Ver, Aceptar, Rechazar, Marcar como Completado, Cancelar y Eliminar las reservas.",
+        "en": "From here you can see the reservations that have been made from the application individually and from all the locations of your business. You can also manage reservations directly from here as you can View, Accept, Reject, Mark as Completed, Cancel and Delete reservations."
+    },
+    "service_link-3":{
+        "es": "Haz clic en este enlace y podrás ver un artículo paso a paso de la función 'Reservas Pro'",
+        "en": "Click on this link and you could see an article explaining step by step the 'Pro Reservations' function"
+    },
+    "service_subtitle-10":{
+        "es": "Clínica ABB (Página Personalizada)",
+        "en": "ABB Clinic (Custom Page)"
+    },
+    "service_text-93":{
+        "es": "Este espacio esta diseñado para aportar información sobre la clínica, como la ubicación, fotografías, etc. Para ello, hemos añadido una 'Página Personalizada'.",
+        "en": "This space is designed to provide information about the clinic, such as location, photographs, etc. To do this, we have added a 'Custom Page'."
+    },
+    "service_text-94":{
+        "es": "En este video puedes visualizar cómo configurar esta función.",
+        "en": "In this video you can see how to configure this function."
+    },
+    "service_link-4":{
+        "es": "Haz clic en este enlace y podrás ver un artículo paso a paso de la función “Página personalizada”",
+        "en": "Click on this link and you could see an article explaining step by step the 'Custom Page' function"
+    },
+    "service_subtitle-11":{
+        "es": "Tarjeta de Fidelización",
+        "en": "Loyalty Card"
+    },
+    "service_text-95":{
+        "es": "Con la funcionalidad de tarjeta de fidelización, podrás crear una tarjeta perforada o sellada de fidelización. Significa que habrá una recompensa después de varias compras.",
+        "en": "With the loyalty card functionality, you can create a perforated or sealed loyalty card. It means that there will be a reward after several purchases."
+    },
+    "service_text-96":{
+        "es": "Para validar un punto de fidelidad, el propietario del negocio deberá ingresar una contraseña de cuatro dígitos. Al igual que con la tarjeta de sello de fidelización, el cliente tiene que mostrar su tarjeta al comerciante para sellarla. Con esta Funcionalidad, el cliente debe mostrar su teléfono y el comerciante debe ingresar su contraseña de cuatro dígitos para validar un punto. Con la función Reservas Pro, este proceso se puede automatizar (próximamente).",
+        "en": "To validate a loyalty point, the business owner must enter a four-digit password. As with the loyalty stamp card, the customer must show their card to the merchant to stamp it. With this functionality, the customer must show their phone and the merchant must enter their four-digit password to validate a point. With the Pro Reservations function, this process can be automated (coming soon)."
+    },
+    "service_text-97":{
+        "es": "En nuestra App hemos configurado la siguiente tarjeta de fidelidad con estos datos:",
+        "en": "In our App, we have configured the following loyalty card with this data:"
+    },
+    "service_text-98":{
+        "es": "También puedes añadir tus propias imágenes para ilustrar los puntos de la tarjeta con los botones “Punto inactivo” y “Punto activo”.",
+        "en": "You can also add your own images to illustrate the points of the card with the 'Inactive Point' and 'Active Point' buttons."
+    },
+    "service_text-99":{
+        "es": "En nuestra app, hemos escogido las siguientes imágenes:",
+        "en": "In our app, we have chosen the following images:"
+    },
+    "service_text-100":{
+        "es": "Punto Inactivo",
+        "en": "Inactive Point"
+    },
+    "service_text-101":{
+        "es": "Punto Activo",
+        "en": "Active Point"
+    },
+    "service_text-102":{
+        "es": "Es posible crear una contraseña y un código QR para cada empleado.",
+        "en": "It is possible to create a password and a QR code for each employee."
+    },
+    "service_text-103":{
+        "es": "Para crear una contraseña, solo tienes que hacer clic en el botón “Mis códigos”:",
+        "en": "To create a password, you just have to click on the 'My codes' button:"
+    },
+    "service_text-104":{
+        "es": "Para nuestra App, hemos establecido un único código que hemos llamado ABB.",
+        "en": "For our App, we have set a single code that we have called ABB."
+    },
+    "service_text-105":{
+        "es": "Al hacer clic en el logotipo de QR, puedes descargar un QR que se puede usar en lugar de la contraseña.",
+        "en": "By clicking on the QR logo, you can download a QR that can be used instead of the password."
+    },
+    "service_text-106":{
+        "es": "En este video puedes ver cómo configuramos la función Tarjeta de Fidelidad.",
+        "en": "In this video you can see how we configure the Loyalty Card function."
+    },
+    "service_link-5":{
+        "es": "Haz clic en este enlace y podrás ver un artículo paso a paso de la función “Fidelización”",
+        "en": "Click on this link and you could see an article explaining step by step the 'Loyalty' function"
+    },
+    "service_subtitle-12":{
+        "es": "Contacto (Form V2)",
+        "en": "Contact (Form V2)"
+    },
+    "service_text-107":{
+        "es": "Para crear la sección de Contacto, hemos utilizado la función de Formulario.",
+        "en": "To create the Contact section, we have used the Form function."
+    },
+    "service_text-108":{
+        "es": "Para obtener un formulario como el de la imagen, hemos seguido la siguiente secuencia de campos.",
+        "en": "To get a form like the one in the image, we have followed the following sequence of fields."
+    },
+    "service_text-109":{
+        "es": "Si quieres aprender cómo utilizar esta función, visualiza el siguiente video.",
+        "en": "If you want to learn how to use this function, watch the following video."
+    },
+    "service_link-6":{
+        "es": "Haz clic en este enlace y podrás ver un artículo paso a paso de la función “Formulario”",
+        "en": "Click on this link and you could see an article explaining step by step the 'Form' function"
+    },
+    "service_subtitle-13":{
+        "es": "Llámanos (Página Personalizada)",
+        "en": "Call us (Custom Page)"
+    },
+    "service_text-110":{
+        "es": "Esta sección es muy sencilla. Es un botón rápido de llamada, con sólo clicar en él, el teléfono de tu cliente marcará directamente al número que hayas establecido. Para crear esta sección hemos utilizado una Página Personalizada, que constará de una imágen de cabecera y un botón de llamada.",
+        "en": "This section is very simple. It is a quick call button, with just one click, your client's phone will dial directly to the number you have set. To create this section we have used a Custom Page, which will consist of a header image and a call button."
+    },
+    "service_subtitle-14":{
+        "es": "Comparte (Share App)",
+        "en": "Share App"
+    },
+    "service_text-111":{
+        "es": "Esta función permite a tus usuarios compartir la App con sólo dar a un botón. Puedes configurar el mensaje y el texto del botón, para una experiencia más personalizada.",
+        "en": "This function allows your users to share the App with just one button. You can configure the message and the text of the button, for a more personalized experience."
+    },
+    "service_text-112":{
+        "es": "Si quieres aprender cómo utilizar esta función, puedes visualizar el siguiente video.",
+        "en": "If you want to learn how to use this function, you can watch the following video."
+    },
+    "service_subtitle-15":{
+        "es": "Área privada (Página personalizada + Candado Pro)",
+        "en": "Private Area (Custom Page + Pro Lock)"
+    },
+    "service_text-113":{
+        "es": "El objetivo principal de esta sección es dotar a la clínica de un espacio protegido para poder compartir información y documentos con sus clientes, de forma fácil, segura y confidencial.",
+        "en": "The main objective of this section is to provide the clinic with a protected space to share information and documents with its clients, in an easy, safe and confidential way."
+    },
+    "service_text-114":{
+        "es": "Para una mejor organización, en esta App hemos seguido esta metodología:",
+        "en": "For better organization, in this App we have followed this methodology:"
+    },
+    "service_text-115":{
+        "es": "Comprueba el número de ID de tus usuarios. Lo utilizaremos como número de referencia para identificar cada sección de cada usuario. En nuestro ejemplo la construiremos a partir de tres usuarios ficticios, que hemos llamado 'Ejemplo 1', 'Ejemplo 2' y 'Ejemplo 3'. Sus direcciones de correo electrónico también serán importantes.",
+        "en": "Check the ID number of your users. We will use it as a reference number to identify each section of each user. In our example we will build it from three fictitious users, which we have called 'Example 1', 'Example 2' and 'Example 3'. Their email addresses will also be important."
+    },
+    "service_text-116":{
+        "es": "Para empezar a construir cada sección personalizada, vamos a utilizar una 'Página Personalizada' por cada usuario.",
+        "en": "To start building each custom section, we will use a 'Custom Page' for each user."
+    },
+    "service_text-117":{
+        "es": "Para identificar esta página utilizaremos la fórmula ID + NOMBRE USUARIO:",
+        "en": "To identify this page we will use the formula ID + USERNAME:"
+    },
+    "service_text-118":{
+        "es": "En la página personalizada vamos a poner una imagen de cabecera, un texto y adjuntaremos un informe médico del paciente, que podrá descargar a través de ese botón.",
+        "en": "On the custom page we will put a header image, a text and we will attach a medical report of the patient, which can be downloaded through that button."
+    },
+    "service_text-119":{
+        "es": "Haremos exactamente el mismo proceso con el resto de usuarios.",
+        "en": "We will do exactly the same process with the rest of the users."
+    },
+    "service_text-120":{
+        "es": "Una vez tengamos TODAS las 'Páginas Personalizadas' creadas, es decir, una por cada usuario con acceso a su portal. Añadiremos la función 'Candado Pro'.",
+        "en": "Once we have ALL the 'Custom Pages' created, that is, one for each user with access to their portal. We will add the 'Pro Lock' function."
+    },
+    "service_text-121":{
+        "es": "Lo llamaremos 'Mis informes'.",
+        "en": "We will call it 'My reports'."
+    },
+    "service_text-122":{
+        "es": "Seleccionaremos:",
+        "en": "We will select:"
+    },
+    "service_text-123":{
+        "es": "- Desbloqueo mediante: Cuenta",
+        "en": "- Unlock by: Account"
+    },
+    "service_text-124":{
+        "es": "- Elige las funciones a bloquear: Todas las páginas que hemos creado por usuario, recuerda que pusimos ID + NOMBRE, para identificarlas de forma rápida y sin confusiones.",
+        "en": "- Choose the functions to block: All the pages we have created per user, remember that we put ID + NAME, to identify them quickly and without confusion."
+    },
+    "service_text-125":{
+        "es": "Una vez hayamos seleccionado estas opciones, pasaremos a asignar el acceso a cada usuario a su correspondiente página:",
+        "en": "Once we have selected these options, we will proceed to assign access to each user to their corresponding page:"
+    },
+    "service_text-126":{
+        "es": "- Selecciona a un cliente del desplegable (aparecerán por su dirección de correo electrónico).",
+        "en": "- Select a client from the drop-down list (they will appear by their email address)."
+    },
+    "service_text-127":{
+        "es": "- En la pestaña para seleccionar el Rol, seleccionaremos la página que hemos creado para ese usuario.",
+        "en": "- In the tab to select the Role, we will select the page we have created for that user."
+    },
+    "service_text-128":{
+        "es": "En Fecha de expiración puedes seleccionar si quieres que esta acción expire. Si lo dejas en blanco no caducará.",
+        "en": "In Expiration Date you can select if you want this action to expire. If you leave it blank it will not expire."
+    },
+    "service_text-129":{
+        "es": "Cuando termines el proceso, te quedará un listado de todos los correos electrónicos de tus usuarios con la asignación de su correspondiente 'página personalizada'.",
+        "en": "When you finish the process, you will have a list of all the email addresses of your users with the assignment of their corresponding 'custom page'."
+    },
+    "service_text-130":{
+        "es": "En el menú principal de la app se verá así:",
+        "en": "In the main menu of the app it will look like this:"
+    },
+    "service_text-131":{
+        "es": "Cuando los usuarios pulsen sobre 'Mis informes' accederán a una página de Inicio de sesión. Deberán introducir el correo electrónico y la contraseña con el que se registraron.",
+        "en": "When users click on 'My reports' they will access a login page. They must enter the email and password with which they registered."
+    },
+    "service_subtitle-16":{
+        "es": "Mensajes Push",
+        "en": "Push Messages"
+    },
+    "service_text-132":{
+        "es": "Los mensajes o notificaciones Push son el sistema de marketing más eficiente que existe en la actualidad. Mientras que de cada 10 emails enviados 8 caen en las bandejas de SPAM, con los Mensajes Push ocurre lo contrario... el 99% son leídos.",
+        "en": "Push messages or notifications are the most efficient marketing system that exists today. While 8 out of 10 emails sent fall into SPAM folders, with Push Messages the opposite happens... 99% are read."
+    },
+    "service_text-133":{
+        "es": "Añadir esta potente herramienta a tu App es muy sencillo:",
+        "en": "Adding this powerful tool to your App is very simple:"
+    },
+    "service_text-134":{
+        "es": "1- Debes incluir en la Aplicación la función 'Notificaciones Push'.",
+        "en": "1- You must include the 'Push Notifications' function in the Application."
+    },
+    "service_text-135":{
+        "es": "2- Para poder hacer uso de las Notificaciones Push, es necesario que la Aplicación en cuestión se encuentre publicada para las versiones nativas Android y/o iOS.",
+        "en": "2- To be able to use Push Notifications, it is necessary that the Application in question is published for the native Android and/or iOS versions."
+    },
+    "service_text-136":{
+        "es": "Una vez que la aplicación haya sido publicada en App Store y/o Google Play, podrás enviar notificaciones directamente desde la propia función 'Notificaciones Push'.",
+        "en": "Once the application has been published in the App Store and/or Google Play, you can send notifications directly from the 'Push Notifications' function."
+    },
+    "service_link-7":{
+        "es": "Clica en este enlace y podrás ver un artículo, paso a paso, de la función 'Notificaciones Push'",
+        "en": "Click on this link and you could see an article explaining step by step the 'Push Notifications' function"
+    },
+    "service_subtitle-17":{
+        "es": "Paso 4. Icono y ajustes de la Aplicación",
+        "en": "Step 4. Application Icon and Settings"
+    },
+    "service_text-137":{
+        "es": "Desde aquí puedes elegir el icono que se mostrará en la pantalla del dispositivo del usuario, así como el diseño del botón “volver”.",
+        "en": "From here you can choose the icon that will be displayed on the user's device screen, as well as the design of the 'back' button."
+    },
+    "service_text-138":{
+        "es": "Si quieres enviar notificaciones push, aquí es donde puedes personalizar algunos aspectos, como el icono o el color de fondo.",
+        "en": "If you want to send push notifications, here is where you can customize some aspects, such as the icon or the background color."
+    },
+    "service_text-139":{
+        "es": "Esta herramienta te ayudará a elegir una imagen de inicio que será compatible con todos los tamaños de pantalla de los diferentes dispositivos. Ésta se verá cuando se inicie la aplicación mientras se está cargando.",
+        "en": "This tool will help you choose a start image that will be compatible with all screen sizes of different devices. This will be seen when the application starts while it is loading."
+    },
+    "service_subtitle-18":{
+        "es": "Paso 5. Avanzado",
+        "en": "Step 5. Advanced"
+    },
+    "service_text-140":{
+        "es": "Si lo deseas, puedes monetizar tu aplicación agregando anuncios publicitarios o anuncios intersticiales que se mostrarán a los usuarios de tu aplicación. Para ello deberás configurar el sistema de publicidad Admob.",
+        "en": "If you wish, you can monetize your application by adding advertising banners or interstitial ads that will be displayed to the users of your application. To do this you must configure the Admob advertising system."
     }
 
-
+    
 }

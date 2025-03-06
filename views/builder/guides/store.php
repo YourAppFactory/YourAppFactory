@@ -222,7 +222,7 @@
     <p>{%store_text-58%}</p>
     <p>{%store_text-59%}</p>
 
-    <a href="/builder/apps/features/push" class="link" target="_blank">{%store_link-6%}</a>
+    <a href="/builder/apps/features/push-notifications" class="link" target="_blank">{%store_link-6%}</a>
 
     <h3 class="m-t-5">{%store_subtitle-12%}</h3>
 

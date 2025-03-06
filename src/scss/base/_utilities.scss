@@ -146,12 +146,28 @@
     padding-bottom: 1rem;
 }
 
+.p-t-3{
+    padding-top: 3rem;
+}
+
+.p-b-3{
+    padding-bottom: 3rem;
+}
+
+.p-l-3{
+    padding-left: 3rem;
+}
+
 .p-t-5{
     padding-top: 5rem;
 }
 
 .p-b-5{
     padding-bottom: 5rem;
+}
+
+.p-l-5{
+    padding-left: 5rem;
 }
 
 .p-t-5--only-mobile{
@@ -526,7 +542,10 @@
 
 .img-icon{
     max-width: 12rem;
-    //height: 2rem;
+}
+
+.img-icon-2{
+    max-width: 25rem;
 }
 
 .img-vert{
