@@ -78,7 +78,7 @@
     <p>{%gym_text-22%}</p>
 
     <!--ACA VA EL VIDEO 1-->
-    <iframe class="margin-auto img-medium" width="560" height="315" src="https://www.youtube.com/embed/7J0OYf8z9Zo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="margin-auto img-medium" width="560" height="315" src="https://www.youtube.com/embed/775cMJ9BxvI?si=KtwJqZyC3V_PaxO5" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <p>{%gym_text-23%}</p>
 
@@ -104,7 +104,7 @@
     </ul>
 
     <!--ACA VA EL VIDEO 2-->
-    <iframe class="margin-auto img-medium" width="560" height="315" src="https://www.youtube.com/embed/7J0OYf8z9Zo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="margin-auto img-medium" width="560" height="315" src="https://www.youtube.com/embed/9-nXng0vkAA?si=1eXkTkqmzcZDc2fq" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <p>{%gym_text-26%}</p>
 
@@ -122,7 +122,7 @@
     <p>{%gym_text-29%}</p>
 
     <!--ACA VA EL VIDEO 3-->
-    <iframe class="margin-auto img-medium" width="560" height="315" src="https://www.youtube.com/embed/7J0OYf8z9Zo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="margin-auto img-medium" width="560" height="315" src="https://www.youtube.com/embed/I7sUmEajvwY?si=tVZgEYIx7lBQHqwO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <h2>{%gym_main_subtitle-5%}</h2>
 
@@ -130,12 +130,12 @@
     <p>{%gym_text-31%}</p>
 
     <!--ACA VA EL VIDEO 4-->
-    <iframe class="margin-auto img-medium" width="560" height="315" src="https://www.youtube.com/embed/7J0OYf8z9Zo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="margin-auto img-medium" width="560" height="315" src="https://www.youtube.com/embed/uKYvS2uVIt8?si=FHAr0-JG8Tjr0XOK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <img loading="lazy" src="/build/img/gym/19.png" alt="{%gym_main_title%}" class="img-medium margin-auto">
 
     <!--ACA VA EL VIDEO 5-->
-    <iframe class="margin-auto img-medium" width="560" height="315" src="https://www.youtube.com/embed/7J0OYf8z9Zo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="margin-auto img-medium" width="560" height="315" src="https://www.youtube.com/embed/yYoeVwhWeZw?si=1_c6IK7dgyqjrNCe" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
 
     <h2>{%gym_main_subtitle-6%}</h2>
@@ -149,7 +149,7 @@
     <p>{%gym_text-35%}</p>
 
     <!--ACA VA EL VIDEO 6-->
-    <iframe class="margin-auto img-medium" width="560" height="315" src="https://www.youtube.com/embed/7J0OYf8z9Zo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="margin-auto img-medium" width="560" height="315" src="https://www.youtube.com/embed/clCUn8C1l9c?si=e-ISKhG8jJxtCS4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <h2>{%gym_main_subtitle-9%}</h2>
     <p>{%gym_text-36%}</p>
@@ -168,12 +168,12 @@
     <p>{%gym_text-41%}</p>
 
     <!--ACA VA EL VIDEO 7-->
-    <iframe class="margin-auto img-medium" width="560" height="315" src="https://www.youtube.com/embed/7J0OYf8z9Zo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="margin-auto img-medium" width="560" height="315" src="https://www.youtube.com/embed/j3269s6P8gA?si=LuSIV8b086GaWLs6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <p>{%gym_text-42%}</p>
 
     <!--ACA VA EL VIDEO 8-->
-    <iframe class="margin-auto img-medium" width="560" height="315" src="https://www.youtube.com/embed/7J0OYf8z9Zo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="margin-auto img-medium" width="560" height="315" src="https://www.youtube.com/embed/4g5Uq4GhRRI?si=FKZKpANcmZ_Z1Hso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <h3 class="m-t-5">{%gym_main_subtitle-11%}</h3>
 
@@ -193,7 +193,7 @@
     <p>{%gym_text-46%}</p>
 
     <!--ACA VA EL VIDEO 9-->
-    <iframe class="margin-auto img-medium" width="560" height="315" src="https://www.youtube.com/embed/7J0OYf8z9Zo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="margin-auto img-medium" width="560" height="315" src="https://www.youtube.com/embed/A_5niEeFaEY?si=fvgIeL_GinH5qeqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <p>{%gym_text-47%}</p>
     <p>{%gym_text-48%}</p>
@@ -222,7 +222,7 @@
     <p>{%gym_text-55%}</p>
 
     <!--ACA VA EL VIDEO 10-->
-    <iframe class="margin-auto img-medium" width="560" height="315" src="https://www.youtube.com/embed/7J0OYf8z9Zo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="margin-auto img-medium" width="560" height="315" src="https://www.youtube.com/embed/OxozcV0JgL8?si=gSmE8BhmYixAQnbq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <p>{%gym_text-56%}</p>
     <p>{%gym_text-57%}</p>
@@ -301,7 +301,7 @@
     <p>{%gym_text-71%}</p>
 
     <!--ACA VA EL VIDEO 11-->
-    <iframe class="margin-auto img-medium" width="560" height="315" src="https://www.youtube.com/embed/7J0OYf8z9Zo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="margin-auto img-medium" width="560" height="315" src="https://www.youtube.com/embed/Kh3loezlPzI?si=ZPmE4Jwk1EhBDWRB" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <h3 class="m-t-5">{%gym_main_subtitle-20%}</h3>
 
