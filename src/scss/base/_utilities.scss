@@ -529,14 +529,17 @@
 
 .img-medium, .video-medium{
     display: block;
-    max-width: 25rem;
+    max-width: 27rem;
     width: 100%;
     border-radius: 1rem;
+    @include m.phone{
+        max-width: 35rem;
+    }
     @include m.tablet{
-        max-width: 50rem;
+        max-width: 60rem;
     }
     @include m.desktop{
-        max-width: 65rem;
+        max-width: 75rem;
     }
 }
 
@@ -549,7 +552,13 @@
 }
 
 .img-vert{
-    max-width: 35rem;
+    max-width: 25rem;
+    @include m.tablet{
+        max-width: 30rem;
+    }
+    @include m.desktop{
+        max-width: 35rem;
+    }
 }
 
 .top-page{

@@ -1,5 +1,5 @@
 <div class="container">
-    <a href="/builder/apps/guides" class="btn-back m-b-5">{%go-back%}</a>
+    <a href="/builder/apps/guides" class="btn-back m-b-3">{%go-back%}</a>
 
     <h1 class="center w-100">{%courses_main_title-1%}</h1>
 

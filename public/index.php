@@ -75,11 +75,14 @@ $router->get('/builder/apps/guides', [BuilderController::class, 'guides']);
 $router->get('/builder/apps/guides/appindex', [BuilderController::class, 'guidesAppIndex']);
 $router->get('/builder/apps/guides/marketplace', [BuilderController::class, 'guidesMarketplace']);
 $router->get('/builder/apps/guides/gym', [BuilderController::class, 'guidesGym']);
-$router->get('/builder/apps/guides/courses', [BuilderController::class, 'guideCourses']);
-$router->get('/builder/apps/guides/anykind', [BuilderController::class, 'guideAnyKind']);
-$router->get('/builder/apps/guides/store', [BuilderController::class, 'guideStore']);
-$router->get('/builder/apps/guides/restaurants', [BuilderController::class, 'guideRestaurants']);
-$router->get('/builder/apps/guides/service', [BuilderController::class, 'guideService']);
+$router->get('/builder/apps/guides/courses', [BuilderController::class, 'guidesCourses']);
+$router->get('/builder/apps/guides/anykind', [BuilderController::class, 'guidesAnyKind']);
+$router->get('/builder/apps/guides/store', [BuilderController::class, 'guidesStore']);
+$router->get('/builder/apps/guides/restaurants', [BuilderController::class, 'guidesRestaurants']);
+$router->get('/builder/apps/guides/service', [BuilderController::class, 'guidesService']);
+$router->get('/builder/apps/guides/events', [BuilderController::class, 'guidesEvents']);
+$router->get('/builder/apps/guides/directory', [BuilderController::class, 'guidesDirectory']);
+$router->get('/builder/apps/guides/attendance', [BuilderController::class, 'guidesAttendance']);
 
 //commercial
 $router->get('/commercial/dashboard', [CommercialController::class, 'dashboard']);

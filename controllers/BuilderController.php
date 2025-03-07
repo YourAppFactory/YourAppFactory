@@ -69,7 +69,7 @@ class BuilderController {
         ]);
     }
 
-    public static function guideCourses(Router $router){
+    public static function guidesCourses(Router $router){
         isBuilder();
         $title = "builder_creation_section_title-1";
         $router->render('/builder/guides/courses',[
@@ -77,7 +77,7 @@ class BuilderController {
         ]);
     }
 
-    public static function guideAnyKind(Router $router){
+    public static function guidesAnyKind(Router $router){
         isBuilder();
         $title = "builder_creation_section_title-1";
         $router->render('/builder/guides/anykind',[
@@ -85,7 +85,7 @@ class BuilderController {
         ]);
     }
 
-    public static function guideStore(Router $router){
+    public static function guidesStore(Router $router){
         isBuilder();
         $title = "builder_creation_section_title-1";
         $router->render('/builder/guides/store',[
@@ -93,7 +93,7 @@ class BuilderController {
         ]);
     }
 
-    public static function guideRestaurants(Router $router){
+    public static function guidesRestaurants(Router $router){
         isBuilder();
         $title = "builder_creation_section_title-1";
         $router->render('/builder/guides/restaurants',[
@@ -101,10 +101,34 @@ class BuilderController {
         ]);
     }
 
-    public static function guideService(Router $router){
+    public static function guidesService(Router $router){
         isBuilder();
         $title = "builder_creation_section_title-1";
         $router->render('/builder/guides/service',[
+            'title' => $title
+        ]);
+    }
+
+    public static function guidesEvents(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-1";
+        $router->render('/builder/guides/events',[
+            'title' => $title
+        ]);
+    }
+
+    public static function guidesDirectory(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-1";
+        $router->render('/builder/guides/directory',[
+            'title' => $title
+        ]);
+    }
+
+    public static function guidesAttendance(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-1";
+        $router->render('/builder/guides/attendance',[
             'title' => $title
         ]);
     }

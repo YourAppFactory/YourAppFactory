@@ -4123,6 +4123,738 @@
     "service_text-140":{
         "es": "Si lo deseas, puedes monetizar tu aplicación agregando anuncios publicitarios o anuncios intersticiales que se mostrarán a los usuarios de tu aplicación. Para ello deberás configurar el sistema de publicidad Admob.",
         "en": "If you wish, you can monetize your application by adding advertising banners or interstitial ads that will be displayed to the users of your application. To do this you must configure the Admob advertising system."
+    },
+    "events_image_alt":{
+        "es": "Imagen de App de Eventos",
+        "en": "Events App Image"
+    },
+    "events_main_title":{
+        "es": "Cómo Crear una App de Eventos",
+        "en": "How to Create an Events App"
+    },
+    "events_text-1":{
+        "es": "La adopción de las Aplicaciones Móviles se ha disparado durante la última década en todo el mundo. Habrá alrededor de 4.000 millones de usuarios de teléfonos móviles en todo el mundo para 2023, y se espera que se vendan 1.800 millones de teléfonos solo durante ese año.",
+        "en": "The adoption of Mobile Applications has skyrocketed over the past decade worldwide. There will be around 4 billion mobile phone users worldwide by 2023, and it is expected that 1.8 billion phones will be sold in that year alone."
+    },
+    "events_text-2":{
+        "es": "Los usuarios pasamos entre 4 y 5 horas al día consultando nuestros smartphones y en consecuencia, la demanda de las empresas por desarrollar sus propias aplicaciones se ha disparado.",
+        "en": "Users spend between 4 and 5 hours a day consulting our smartphones and consequently, the demand of companies to develop their own applications has skyrocketed."
+    },
+    "events_text-3":{
+        "es": "En el caso de las Apps de eventos, son muchas las áreas en las que la Aplicación puede aportar valor tanto a las empresas como a los clientes:",
+        "en": "In the case of event Apps, there are many areas in which the Application can add value to both companies and customers:"
+    },
+    "events_list-1":{
+        "es": "Agenda con la información de los distintos eventos",
+        "en": "Agenda with information on the different events"
+    },
+    "events_list-2":{
+        "es": "Acceso a los contenidos por grupos de usuarios",
+        "en": "Access to content by user groups"
+    },
+    "events_list-3":{
+        "es": "Chat",
+        "en": "Chat"
+    },
+    "events_list-4":{
+        "es": "Venta de entradas",
+        "en": "Ticket sales"
+    },
+    "events_list-5":{
+        "es": "Confirmación de la asistencia por parte de los clientes",
+        "en": "Confirmation of attendance by customers"
+    },
+    "events_list-6":{
+        "es": "Participación e interactividad durante los eventos",
+        "en": "Participation and interactivity during events"
+    },
+    "events_list-7":{
+        "es": "Viralización de los eventos",
+        "en": "Viralization of events"
+    },
+    "events_text-4":{
+        "es": "Si sigues los pasos de esta guía, en menos de una hora contarás con tu propia App de Eventos y lo que es más importante, habrás aprendido a utilizar el Constructor de YourAppFactory por lo que sabrás personalizar tu Aplicación y añadirle otras muchas funciones que puedan resultarte interesantes.",
+        "en": "If you follow the steps in this guide, in less than an hour you will have your own Events App and what is more important, you will have learned to use the YourAppFactory Builder so you will know how to customize your Application and add many other functions that may be interesting to you."
+    },
+    "events_text-5":{
+        "es": "Comencemos.",
+        "en": "Let's start."
+    },
+    "events_text-6":{
+        "es": "Si lo deseas, puedes escanear a continuación el código QR de la App que vamos a crear como ejemplo:",
+        "en": "If you wish, you can scan the QR code of the App we are going to create as an example below:"
+    },
+    "events_subtitle-1":{
+        "es": "Primeros Pasos.",
+        "en": "First Steps."
+    },
+    "events_text-7":{
+        "es": "Una vez en la pantalla de inicio de YourAppFactory, en el menú lateral izquierdo encontrarás el icono del constructor de apps. Ahí podrás crear una nueva aplicación y darle nombre.",
+        "en": "Once on the YourAppFactory home screen, in the left side menu you will find the app builder icon. There you can create a new application and give it a name."
+    },
+    "events_text-8":{
+        "es": "Una vez hayas creado y puesto nombre a tu app, te aparecerá una pantalla en la que podrás elegir entre varias plantillas. Son diseños predefinidos que te ayudarán con el proceso. Aunque partas de una plantilla, podrás personalizar tanto el diseño como las funciones más adelante.",
+        "en": "Once you have created and named your app, you will see a screen where you can choose from several templates. They are predefined designs that will help you with the process. Although you start from a template, you can customize both the design and the functions later."
+    },
+    "events_text-9":{
+        "es": "Para este ejemplo hemos escogido una plantilla en blanco.",
+        "en": "For this example we have chosen a blank template."
+    },
+    "events_text-10":{
+        "es": "El proceso de creación de Aplicaciones con YourAppFactory es muy sencillo. Sólo tienes que ir siguiendo los pasos del constructor.",
+        "en": "The process of creating Applications with YourAppFactory is very simple. You just have to follow the steps of the builder."
+    },
+    "events_text-11":{
+        "es": "Estos pasos están representados en la barra de progreso que tendrás siempre a tu disposición en la parte superior del constructor y que te permitirá fácilmente navegar entre las distintas páginas, con sólo clicar encima del icono.",
+        "en": "These steps are represented in the progress bar that you will always have at your disposal at the top of the builder and that will allow you to easily navigate between the different pages, with just one click on the icon."
+    },
+    "events_subtitle-2":{
+        "es": "Primer paso. Diseño de la App",
+        "en": "First step. App Design"
+    },
+    "events_text-12":{
+        "es": "En la pestaña de diseño, encontrarás todas las opciones relacionadas con la información del menú y de la pantalla inicial de tu App.",
+        "en": "In the design tab, you will find all the options related to the menu information and the initial screen of your App."
+    },
+    "events_text-13":{
+        "es": "En nuestra demo de directorio hemos utilizado el “Layout 9”. Este diseño de navegación permite tener un menú tipo hamburguesa en la cabecera superior, en el que clicando en él, se despliega un menú lateral desde la izquierda, mostrando el resto de funciones que componen la aplicación. Este layout muestra la primera función instalada como página de inicio al abrir la aplicación. En este ejemplo, hemos establecido una página personalizada, con una imagen como cabecera, un vídeo promocional del festival, un texto descriptivo, una galería de imágenes, una imagen del cartel del festival, y un enlace para descargarlo. Todo esto disponible sólo con abrir la aplicación.",
+        "en": "In our directory demo we have used 'Layout 9'. This navigation design allows you to have a hamburger menu at the top header, where by clicking on it, a side menu is displayed from the left, showing the rest of the functions that make up the application. This layout shows the first installed function as the home page when opening the application. In this example, we have set up a custom page, with an image as a header, a promotional video of the festival, a descriptive text, a gallery of images, an image of the festival poster, and a link to download it. All this available just by opening the application."
+    },
+    "events_text-14":{
+        "es": "Más adelante, cuando hablemos de las funciones, te explicaremos más detalladamente como hemos configurado la página personalizada.",
+        "en": "Later, when we talk about the functions, we will explain in more detail how we have configured the custom page."
+    },
+    "events_text-15":{
+        "es": "En el video que puedes ver a continuación te muestro cómo configurar algunas opciones de diseño del layout 9.",
+        "en": "In the video that you can see below, I show you how to configure some design options of layout 9."
+    },
+    "events_text-16":{
+        "es": "La sección que vas a ver a continuación, te ayuda a elegir una imagen que se vea bien en todos los dispositivos y ratios de pantalla. Usa la herramienta overlay (sombreado) para comprobar si la información importante de tu diseño queda dentro de las zonas seguras recomendadas en función de la orientación de pantalla para la que está diseñada tu App.",
+        "en": "The section you are going to see below helps you choose an image that looks good on all devices and screen ratios. Use the overlay tool to check if the important information of your design falls within the recommended safe zones depending on the screen orientation for which your App is designed."
+    },
+    "events_text-17":{
+        "es": "Para saber cómo diseñar bien las imágenes puedes descargar la plantilla con las medidas, disponible tanto en formato .png como en .psd.",
+        "en": "To know how to design images well you can download the template with the measurements, available in both .png and .psd format."
+    },
+    "events_link-1":{
+        "es": "Para ver cómo hacerlo correctamente, haz click aquí.",
+        "en": "To see how to do it correctly, click here."
+    },
+    "events_text-18":{
+        "es": "Escoge el idioma en función de tu país y la moneda de tu aplicación. Se utilizará para diferentes aspectos, como la zona horaria y el símbolo de la moneda.",
+        "en": "Choose the language according to your country and the currency of your application. It will be used for different aspects, such as the time zone and the currency symbol."
+    },
+    "events_text-19":{
+        "es": "Para cambiar la fuente de tu app puedes seleccionar una de las que aparecen en el menú del constructor, o importar una desde Google Fonts. Para hacerlo es tan sencillo como escribir el nombre de la fuente.",
+        "en": "To change the font of your app you can select one of those that appear in the builder menu, or import one from Google Fonts. To do this is as simple as writing the name of the font."
+    },
+    "events_text-20":{
+        "es": "Ahora veamos un vídeo de 5 minutos para aprender a diseñar la Pantalla de Inicio de la Aplicación:",
+        "en": "Now let's see a 5-minute video to learn how to design the Application Home Screen:"
+    },
+    "events_subtitle-3":{
+        "es": "Segundo paso. Colores",
+        "en": "Second step. Colors"
+    },
+    "events_text-21":{
+        "es": "Elige los colores principales de la aplicación.",
+        "en": "Choose the main colors of the application."
+    },
+    "events_list-8":{
+        "es": "General: aplica al fondo (si no hay una imagen específica) y al texto general.",
+        "en": "General: applies to the background (if there is no specific image) and to the general text."
+    },
+    "events_list-9":{
+        "es": "Inicio: aplica al menú de navegación y a sus elementos.",
+        "en": "Home: applies to the navigation menu and its elements."
+    },
+    "events_list-10":{
+        "es": "Cabecera: aplica a la cabecera de navegación de la app.",
+        "en": "Header: applies to the navigation header of the app."
+    },
+    "events_list-11":{
+        "es": "Tarjeta: aplica a los elementos mostrados en formato tarjeta.",
+        "en": "Card: applies to the elements displayed in card format."
+    },
+    "events_list-12":{
+        "es": "Lista: aplica a los elementos mostrados en formato lista.",
+        "en": "List: applies to the elements displayed in list format."
+    },
+    "events_text-22":{
+        "es": "Además, si tuvieses conocimientos de programación Web, en la parte inferior del panel encontrarás un espacio para poder introducir código CSS y así, personalizar al 100% los elementos de tu App.",
+        "en": "In addition, if you have knowledge of Web programming, at the bottom of the panel you will find a space to enter CSS code and thus, customize 100% of the elements of your App."
+    },
+    "events_subtitle-4":{
+        "es": "Tercer paso. Funciones",
+        "en": "Third step. Functions"
+    },
+    "events_text-23":{
+        "es": "Una vez diseñada la pantalla inicial y escogidos los colores principales de la Aplicación, vamos con la parte funcional.",
+        "en": "Once the initial screen has been designed and the main colors of the Application have been chosen, we go to the functional part."
+    },
+    "events_text-24":{
+        "es": "Las plantillas incorporan de forma predeterminada algunas funciones que consideramos interesantes para cada sector. Puedes verlas en el carrusel de funciones. Pero si quieres eliminar alguna, sólo tendrás que darle a la “X”.",
+        "en": "The templates incorporate by default some functions that we consider interesting for each sector. You can see them in the function carousel. But if you want to delete any, you just have to click on the “X”."
+    },
+    "events_text-25":{
+        "es": "Para que veas lo sencillo que es incorporar nuevas funciones a tu App, vamos a eliminar y a volver a añadir la función Página personalizada a la que hemos llamado EL FESTIVAL.",
+        "en": "To show you how easy it is to add new functions to your App, we are going to remove and re-add the Custom Page function that we have called THE FESTIVAL."
+    },
+    "events_subtitle-5":{
+        "es": "Carpetas / Página Personalizada",
+        "en": "Folders / Custom Page"
+    },
+    "events_text-26":{
+        "es": "Para esta App, queríamos crear una sección que nos permita presentar el Festival a los clientes, mostrar un vídeo de presentación, el cartel, etc. a través de imágenes, texto, video etc. Para esto, hemos incluído la función de Página Personalizada y la hemos llamado El Festival.",
+        "en": "For this App, we wanted to create a section that allows us to present the Festival to customers, show a presentation video, the poster, etc. through images, text, video etc. For this, we have included the Custom Page function and we have called it The Festival."
+    },
+    "events_text-27":{
+        "es": "Esta funcionalidad te ofrece múltiples opciones para crear una pagina informativa.",
+        "en": "This functionality offers you multiple options to create an informative page."
+    },
+    "events_text-28":{
+        "es": " Puedes escribir un artículo con una imagen, puedes publicar una galería de fotos, puedes publicar un video directamente en esta página y puedes agregar botones de llamada o un enlace a cualquier sitio web externo.",
+        "en": "You can write an article with an image, you can publish a photo gallery, you can publish a video directly on this page and you can add call buttons or a link to any external website."
+    },
+    "events_link-2":{
+        "es": "Clica en este enlace y podrás ver un artículo paso a paso de la función “Página Personalizada”",
+        "en": "Click on this link and you could see an article explaining step by step the 'Custom Page' function"
+    },
+    "events_subtitle-6":{
+        "es": "Catálogo",
+        "en": "Catalog"
+    },
+    "events_text-29":{
+        "es": "Para una app de eventos es importante poder presentar los acontecimientos a tus clientes de forma ordenada, organizada y detallada. Por eso, hemos creado la función “Cartelera”, para poder mostrar, en este caso en forma de listado, todas las películas participantes en el evento. Cuando haces click en cualquiera de ellas, se abre una página con acceso a información más detallada (fotografía, descripción, director, año, etc.)",
+        "en": "For an events app it is important to be able to present the events to your customers in an orderly, organized and detailed way. That is why we have created the 'Billboard' function, to be able to show, in this case in the form of a list, all the films participating in the event. When you click on any of them, a page opens with access to more detailed information (photograph, description, director, year, etc.)"
+    },
+    "events_text-30":{
+        "es": "Esta función resulta de especial utilidad para presentar cualquier producto. Como su nombre indica, crea un catálogo de productos en el que podrás mantener informados a tus clientes a cerca de los productos que ofreces, con todo tipo de detalles y de muy fácil acceso. Lo único que deberás tener en cuenta, es que esta función está pensada para ofrecer un muestrario, si lo que deseas es que tus clientes puedan comprar los productos, la función que deberás utilizar es la función 'tienda/delivery'.",
+        "en": "This function is especially useful for presenting any product. As its name indicates, it creates a product catalog in which you can keep your customers informed about the products you offer, with all kinds of details and very easy access. The only thing you should keep in mind is that this function is designed to offer a sample, if you want your customers to be able to buy the products, the function you should use is the 'store/delivery' function."
+    },
+    "events_subtitle-7":{
+        "es": "Calendario Eventos",
+        "en": "Events Calendar"
+    },
+    "events_text-31":{
+        "es": "¡En una app de eventos no puede faltar un calendario para mantener a tus usuarios bien informados! Muestra tus eventos desde tu página de Facebook o Google Calendar.",
+        "en": "In an events app you can't miss a calendar to keep your users well informed! Show your events from your Facebook page or Google Calendar."
+    },
+    "events_text-32":{
+        "es": "También puedes crear tus propios eventos personalizados. En nuestro ejemplo lo hemos llamado “Agenda” e informa de las diferentes actividades y las proyecciones de los cortometrajes (hora, sala, sinopsis, etc.) del festival.",
+        "en": "You can also create your own custom events. In our example we have called it 'Agenda' and it informs about the different activities and the projections of the short films (time, room, synopsis, etc.) of the festival."
+    },
+    "events_link-3":{
+        "es": "Clica en este enlace y podrás ver un artículo paso a paso sobre la función “Calendario Eventos”",
+        "en": "Click on this link and you could see an article explaining step by step the 'Events Calendar' function"
+    },
+    "events_subtitle-8":{
+        "es": "Tienda/Delivery (Entradas)",
+        "en": "Store/Delivery (Tickets)"
+    },
+    "events_text-33":{
+        "es": "Esta función te permite crear una o varias tiendas, poner a la venta todos tus productos por categorías, mostrando los precios, las tallas, etc. y personalizar las opciones de venta, entrega o envío. Asimismo, podrás configurar varias opciones de pago y descuentos.",
+        "en": "This function allows you to create one or more stores, put all your products up for sale by categories, showing prices, sizes, etc. and customize sales, delivery or shipping options. You can also configure various payment and discount options."
+    },
+    "events_text-34":{
+        "es": "En nuestra demo de ejemplo, hemos creado una pequeña tienda para vender los tres tipos de entradas para el acceso al Festival.",
+        "en": "In our example demo, we have created a small store to sell the three types of tickets for access to the Festival."
+    },
+    "events_link-4":{
+        "es": "Clica en este enlace y podrás ver un artículo, explicado paso a paso, de la función “Tienda/Delivery”",
+        "en": "Click on this link and you could see an article explaining step by step the 'Store/Delivery' function"
+    },
+    "events_subtitle-9":{
+        "es": "Contacto",
+        "en": "Contact"
+    },
+    "events_text-35":{
+        "es": "El objetivo de esta función es recopilar toda tu información de contacto. Permite llamadas con un solo clic, geolocalización, enlaces a páginas sociales y mucho más.",
+        "en": "The objective of this function is to collect all your contact information. It allows one-click calls, geolocation, links to social pages and much more."
+    },
+    "events_subtitle-10":{
+        "es": "Compartir (Share App)",
+        "en": "Share App"
+    },
+    "events_text-36":{
+        "es": "Esta función permitirá a tus clientes compartir la aplicación con sólo pulsar un botón. Se trata de una función clave a la hora de generar viralidad para el negocio.",
+        "en": "This function allows your customers to share the application with just one button. It is a key function when it comes to generating virality for the business."
+    },
+    "events_text-37":{
+        "es": "En este ejemplo, en vez de añadir una imagen de cabecera, hemos jugado con el diseño de la imagen de fondo.",
+        "en": "In this example, instead of adding a header image, we have played with the design of the background image."
+    },
+    "events_subtitle-11":{
+        "es": "Mensajes Push",
+        "en": "Push Messages"
+    },
+    "events_text-38":{
+        "es": "Los mensajes o notificaciones Push son el sistema de marketing más eficiente que existe en la actualidad. Mientras que de cada 10 emails enviados 8 caen en las bandejas de SPAM, con los Mensajes Push ocurre lo contrario... el 99% son leídos.",
+        "en": "Push messages or notifications are the most efficient marketing system that exists today. While 8 out of 10 emails sent fall into SPAM folders, with Push Messages the opposite happens... 99% are read."
+    },
+    "events_text-39":{
+        "es": "Añadir esta potente herramienta a tu App es muy sencillo:",
+        "en": "Adding this powerful tool to your App is very simple:"
+    },
+    "events_text-40":{
+        "es": "1- Debes incluir en la Aplicación la función 'Notificaciones Push'.",
+        "en": "1- You must include the 'Push Notifications' function in the Application."
+    },
+    "events_text-41":{
+        "es": "2- Para poder hacer uso de las Notificaciones Push, es necesario que la Aplicación en cuestión se encuentre publicada para las versiones nativas Android y/o iOS.",
+        "en": "2- To be able to use Push Notifications, it is necessary that the Application in question is published for the native Android and/or iOS versions."
+    },
+    "events_text-42":{
+        "es": "Una vez que la aplicación haya sido publicada en App Store y/o Google Play, podrás enviar notificaciones directamente desde la propia función 'Notificaciones Push'.",
+        "en": "Once the application has been published in the App Store and/or Google Play, you can send notifications directly from the 'Push Notifications' function."
+    },
+    "events_link-5":{
+        "es": "Clica en este enlace y podrás ver un artículo, paso a paso, de la función 'Notificaciones Push'",
+        "en": "Click on this link and you could see an article explaining step by step the 'Push Notifications' function"
+    },
+    "events_subtitle-12":{
+        "es": "Otras funciones sugeridas",
+        "en": "Other suggested functions"
+    },
+    "events_text-43":{
+        "es": "En esta guía hemos incluído algunas funciones que consideramos útiles para una App de Eventos, pero hay muchas más que también podrían aportar valor a tus usuarios:",
+        "en": "In this guide we have included some functions that we consider useful for an Events App, but there are many more that could also add value to your users:"
+    },
+    "events_link-6":{
+        "es": "Muro Social",
+        "en": "Social Wall"
+    },
+    "events_link-7":{
+        "es": "Formulario",
+        "en": "Form"
+    },
+    "events_link-8":{
+        "es": "Otras funciones",
+        "en": "Other functions"
+    },
+    "events_subtitle-13":{
+        "es": "Paso 4. Icono y ajustes de la Aplicación",
+        "en": "Step 4. Application Icon and Settings"
+    },
+    "events_text-44":{
+        "es": "Desde aquí puedes elegir el icono que se mostrará en la pantalla del dispositivo del usuario, así como el diseño del botón “volver”.",
+        "en": "From here you can choose the icon that will be displayed on the user's device screen, as well as the design of the 'back' button."
+    },
+    "events_text-45":{
+        "es": "Si quieres enviar notificaciones push, aquí es donde puedes personalizar algunos aspectos, como el icono o el color de fondo.",
+        "en": "If you want to send push notifications, here is where you can customize some aspects, such as the icon or the background color."
+    },
+    "events_text-46":{
+        "es": "Esta herramienta te ayudará a elegir una imagen de inicio que será compatible con todos los tamaños de pantalla de los diferentes dispositivos. Ésta se verá cuando se inicie la aplicación mientras se está cargando.",
+        "en": "This tool will help you choose a start image that will be compatible with all screen sizes of different devices. This will be seen when the application starts while it is loading."
+    },
+    "events_subtitle-14":{
+        "es": "Paso 5. Avanzado",
+        "en": "Step 5. Advanced"
+    },
+    "events_text-47":{
+        "es": "Si lo deseas, puedes monetizar tu aplicación agregando anuncios publicitarios o anuncios intersticiales que se mostrarán a los usuarios de tu aplicación. Para ello deberás configurar el sistema de publicidad Admob.",
+        "en": "If you wish, you can monetize your application by adding advertising banners or interstitial ads that will be displayed to the users of your application. To do this you must configure the Admob advertising system."
+    },
+    "directory_image_alt":{
+        "es": "Imagen de App de Directorio",
+        "en": "Directory App Image"
+    },
+    "directory_main_title":{
+        "es": "Cómo Crear una App de Directorio",
+        "en": "How to Create a Directory App"
+    },
+    "directory_text-1":{
+        "es": "¿Tienes una idea para una App de tipo Directorio y te gustaría verla publicada en el Appstore y en Google Play?",
+        "en": "Do you have an idea for a Directory-type App and would you like to see it published on the Appstore and Google Play?"
+    },
+    "directory_text-2":{
+        "es": "Con YourAppFactory puedes crear tu Aplicación sin necesidad de ningún conocimiento técnico ni de programación y además ahorrar miles de euros en desarrollo e infraestructura.",
+        "en": "With YourAppFactory you can create your Application without the need for any technical or programming knowledge and also save thousands of euros in development and infrastructure."
+    },
+    "directory_text-3":{
+        "es": "Crea todo tipo de directorios:",
+        "en": "Create all kinds of directories:"
+    },
+    "directory_list-1":{
+        "es": "Directorios de negocios para consumidores",
+        "en": "Business directories for consumers"
+    },
+    "directory_list-2":{
+        "es": "Directorios de empresas para empresas",
+        "en": "Directories of companies for companies"
+    },
+    "directory_list-3":{
+        "es": "Directorios de profesionales o freelancers",
+        "en": "Directories of professionals or freelancers"
+    },
+    "directory_text-4":{
+        "es": "Y ofrece a esos negocios que incluyas en tu Aplicación la última tecnología y las funciones más avanzadas para captar nuevos clientes y fidelizar a los que ya tengan.",
+        "en": "And offer those businesses that you include in your Application the latest technology and the most advanced functions to attract new customers and retain those they already have."
+    },
+    "directory_subtitle-1":{
+        "es": "Primeros Pasos",
+        "en": "First Steps"
+    },
+    "directory_text-5":{
+        "es": "Una vez en la pantalla de inicio de YourAppFactory, en el menú lateral izquierdo encontrarás el icono del constructor de apps. Ahí podrás crear una nueva aplicación y darle nombre.",
+        "en": "Once on the YourAppFactory home screen, in the left side menu you will find the app builder icon. There you can create a new application and give it a name."
+    },
+    "directory_text-6":{
+        "es": "Una vez estés en la pantalla de administración de Apps, haz clic en 'Nueva App':",
+        "en": "Once you are on the Apps management screen, click on 'New App':"
+    },
+    "directory_text-7":{
+        "es": "Una vez hayas creado y puesto nombre a tu app, te aparecerá una pantalla en la que podrás elegir entre varias plantillas.",
+        "en": "Once you have created and named your app, you will see a screen where you can choose from several templates."
+    },
+    "directory_text-8":{
+        "es": "Son diseños predefinidos para que no partas de cero pero en realidad, después podrás modificar absolutamente todo. De hecho, podrás cambiar la plantilla que escojas ahora. Y si no te encaja ninguna, haz clic en 'Blank Template' para empezar de cero a diseñar tu App.",
+        "en": "They are predefined designs so you don't start from scratch but in reality, later you can modify absolutely everything. In fact, you can change the template you choose now. And if you don't like any, click on 'Blank Template' to start from scratch to design your App."
+    },
+    "directory_text-9":{
+        "es": "Para este ejemplo hemos escogido una plantilla en blanco.",
+        "en": "For this example we have chosen a blank template."
+    },
+    "directory_text-10":{
+        "es": "El proceso de creación de Aplicaciones con YourAppFactory es muy sencillo. Sólo tienes que ir siguiendo los pasos del constructor.",
+        "en": "The process of creating Applications with YourAppFactory is very simple. You just have to follow the steps of the builder."
+    },
+    "directory_text-11":{
+        "es": "Estos pasos están representados en la barra de progreso que tendrás siempre a tu disposición en la parte superior del constructor y que te permitirá fácilmente navegar entre las distintas páginas, con sólo clicar encima del icono.",
+        "en": "These steps are represented in the progress bar that you will always have at your disposal at the top of the builder and that will allow you to easily navigate between the different pages, with just one click on the icon."
+    },
+    "directory_subtitle-2":{
+        "es": "Primer paso. Diseño de la App",
+        "en": "First step. App Design"
+    },
+    "directory_text-12":{
+        "es": "En la pestaña de diseño, encontrarás todas las opciones relacionadas con la información del menú y de la pantalla inicial de tu App.",
+        "en": "In the design tab, you will find all the options related to the menu information and the initial screen of your App."
+    },
+    "directory_text-13":{
+        "es": "En nuestra demo de directorio hemos utilizado el “Layout 90”. Este diseño de navegación permite tener un slider clicable en la página de inicio, y en la cabecera superior, un menú tipo hamburguesa que se despliega desde la izquierda, mostrando el resto de funciones que componen la aplicación.",
+        "en": "In our directory demo we have used 'Layout 90'. This navigation design allows you to have a clickable slider on the home page, and at the top header, a hamburger menu that unfolds from the left, showing the rest of the functions that make up the application."
+    },
+    "directory_text-14":{
+        "es": "Este Layout muestra tres sliders clicables en la página de inicio. Cada una de estas imágenes enlazará en orden con las 3 primeras funciones que configures en tu App, por lo tanto, cuando hagas clic en el primer slider, la aplicación te llevará a la primera función que configures en el menú.",
+        "en": "This Layout shows three clickable sliders on the home page. Each of these images will link in order with the first 3 functions you configure in your App, so when you click on the first slider, the application will take you to the first function you configure in the menu."
+    },
+    "directory_text-15":{
+        "es": "En el video que puedes ver a continuación muestro cómo configurar las imágenes para el slider (o carrusel de imágenes) de la página de inicio.",
+        "en": "In the video that you can see below, I show you how to configure the images for the slider (or image carousel) of the home page."
+    },
+    "directory_text-16":{
+        "es": "Para poder visualizar las imágenes de los sliders en el previsualizador deberán estar incorporadas algunas funciones en la aplicación.",
+        "en": "To be able to view the images of the sliders in the previewer, some functions must be incorporated into the application."
+    },
+    "directory_text-17":{
+        "es": "La sección que vas a ver a continuación, te ayuda a elegir una imagen que se vea bien en todos los dispositivos y ratios de pantalla. Usa la herramienta overlay (sombreado) para comprobar si la información importante de tu diseño queda dentro de las zonas seguras recomendadas en función de la orientación de pantalla para la que está diseñada tu App.",
+        "en": "The section you are going to see below helps you choose an image that looks good on all devices and screen ratios. Use the overlay tool to check if the important information of your design falls within the recommended safe zones depending on the screen orientation for which your App is designed."
+    },
+    "directory_text-18":{
+        "es": "Para saber cómo diseñar bien las imágenes puedes descargar la plantilla con las medidas, disponible tanto en formato .png como en .psd.",
+        "en": "To know how to design images well you can download the template with the measurements, available in both .png and .psd format."
+    },
+    "directory_text-19":{
+        "es": "Veamos ahora un pequeño vídeo de 5 minutos para aprender a diseñar la Pantalla de Inicio de la Aplicación:",
+        "en": "Now let's see a 5-minute video to learn how to design the Application Home Screen:"
+    },
+    "directory_text-20":{
+        "es": "Escoge el idioma en función de tu país y la moneda de tu aplicación. Se utilizará para diferentes aspectos, como la zona horaria y el símbolo de la moneda.",
+        "en": "Choose the language according to your country and the currency of your application. It will be used for different aspects, such as the time zone and the currency symbol."
+    },
+    "directory_text-21":{
+        "es": "Para cambiar la fuente de tu app puedes seleccionar una de las que aparecen en el menú del constructor, o importar una desde Google Fonts. Para hacerlo es tan sencillo como escribir el nombre de la fuente.",
+        "en": "To change the font of your app you can select one of those that appear in the builder menu, or import one from Google Fonts. To do this is as simple as writing the name of the font."
+    },
+    "directory_subtitle-3":{
+        "es": "Segundo paso. Colores",
+        "en": "Second step. Colors"
+    },
+    "directory_text-22":{
+        "es": "Elige los colores principales de la aplicación.",
+        "en": "Choose the main colors of the application."
+    },
+    "directory_list-4":{
+        "es": "General: aplica al fondo (si no hay una imagen específica) y al texto general.",
+        "en": "General: applies to the background (if there is no specific image) and to the general text."
+    },
+    "directory_list-5":{
+        "es": "Inicio: aplica al menú de navegación y a sus elementos.",
+        "en": "Home: applies to the navigation menu and its elements."
+    },
+    "directory_list-6":{
+        "es": "Cabecera: aplica a la cabecera de navegación de la app.",
+        "en": "Header: applies to the navigation header of the app."
+    },
+    "directory_list-7":{
+        "es": "Tarjeta: aplica a los elementos mostrados en formato tarjeta.",
+        "en": "Card: applies to the elements displayed in card format."
+    },
+    "directory_list-8":{
+        "es": "Lista: aplica a los elementos mostrados en formato lista.",
+        "en": "List: applies to the elements displayed in list format."
+    },
+    "directory_text-23":{
+        "es": "Además, si tuvieses conocimientos de programación Web, en la parte inferior del panel encontrarás un espacio para poder introducir código CSS y así, personalizar al 100% los elementos de tu App.",
+        "en": "In addition, if you have knowledge of Web programming, at the bottom of the panel you will find a space to enter CSS code and thus, customize 100% of the elements of your App."
+    },
+    "directory_subtitle-4":{
+        "es": "Tercer paso. Funciones",
+        "en": "Third step. Functions"
+    },
+    "directory_text-24":{
+        "es": "Una vez diseñada la pantalla inicial y escogidos los colores principales de la Aplicación, vamos con la parte funcional.",
+        "en": "Once the initial screen has been designed and the main colors of the Application have been chosen, we go to the functional part."
+    },
+    "directory_text-25":{
+        "es": "Para esta aplicación hemos diseñado los siguientes apartados: Lugares, Hoteles, Restaurantes, 'Discover Dubai' (que será una página promocional de la ciudad), Muro Social, Mi cuenta, Compartir la App, Temas de subscripción y Mensajes Push.",
+        "en": "For this application we have designed the following sections: Places, Hotels, Restaurants, 'Discover Dubai' (which will be a promotional page of the city), Social Wall, My account, Share the App, Subscription Themes and Push Messages."
+    },
+    "directory_text-26":{
+        "es": "Si escoges una plantilla de inicio,  éstas incorporan de forma predeterminada algunas funciones que consideramos interesantes para cada sector. Puedes verlas en el carrusel de funciones. Para este diseño hemos partido de una plantilla en blanco, por lo que las funciones las hemos ido añadiendo manualmente. No obstante, si en algún momento quieres eliminar alguna función, sólo tendrás que darle a la “X”.",
+        "en": "If you choose a start template, they incorporate by default some functions that we consider interesting for each sector. You can see them in the function carousel. For this design we have started from a blank template, so we have been adding the functions manually. However, if at any time you want to delete a function, you just have to click on the “X”."
+    },
+    "directory_text-27":{
+        "es": "Para que veas lo sencillo que es incorporar nuevas funciones a tu App, vamos a eliminar y a volver a añadir la función de Carpetas a la que hemos llamado PLACES (para mostrar el directorio de lugares de interés).",
+        "en": "To show you how easy it is to add new functions to your App, we are going to remove and re-add the Folders function that we have called PLACES (to show the directory of places of interest)."
+    },
+    "directory_text-28":{
+        "es": "Veamos a continuación las distintas secciones de nuestra App de Ejemplo:",
+        "en": "Let's see the different sections of our Example App below:"
+    },
+    "directory_subtitle-5":{
+        "es": "Places",
+        "en": "Places"
+    },
+    "directory_text-29":{
+        "es": "En esta sección de la App queremos mostrar lugares de interés Para construir esta sección utilizaremos 2 funciones (Carpetas y Lugares)",
+        "en": "In this section of the App we want to show places of interest To build this section we will use 2 functions (Folders and Places)"
+    },
+    "directory_text-30":{
+        "es": "Lo primero que haremos será añadir la función “Carpetas”. Esta función tiene como objetivo contener y organizar dentro de ella otras funciones. Luego le pondremos el nombre 'Places' y escogeremos el icono que queramos haciendo clic sobre el icono.",
+        "en": "The first thing we will do is add the 'Folders' function. This function aims to contain and organize other functions within it. Then we will put the name 'Places' and choose the icon we want by clicking on the icon."
+    },
+    "directory_text-31":{
+        "es": "A continuación añadiremos la función 'Lugares', le pondremos el nombre 'Discover places' y al igual que hicimos con la función anterior escogeremos el icono que queramos haciendo clic sobre el icono.",
+        "en": "Next we will add the 'Places' function, we will put the name 'Discover places' and as we did with the previous function we will choose the icon we want by clicking on the icon."
+    },
+    "directory_text-32":{
+        "es": "La función Lugares permite mostrar distintos puntos de interés que se mostrarán geolocalizados en un mapa y también se mostrarán en modo lista. Además si el usuario pincha sobre uno de los puntos de interés podrá encontrar información detallada de ese lugar, imágenes, videos, textos y por supuesto la ruta y las instrucciones para llegar a esta ubicación.",
+        "en": "The Places function allows you to show different points of interest that will be geolocated on a map and will also be shown in list mode. In addition, if the user clicks on one of the points of interest, they will be able to find detailed information about that place, images, videos, texts and of course the route and instructions to get to this location."
+    },
+    "directory_text-33":{
+        "es": "Para que 'Lugares' funcione correctamente deberás configurar una clave API de Google Maps desde la sección 'Claves API' del menú lateral izquierdo del constructor.",
+        "en": "To make 'Places' work correctly you must configure a Google Maps API key from the 'API Keys' section of the left side menu of the builder."
+    },
+    "directory_text-34":{
+        "es": "Una vez hayamos configurado la función Lugares nos iremos a la carpeta que creamos con el nombre de 'Places' y meteremos dentro la función 'Lugares'",
+        "en": "Once we have configured the Places function we will go to the folder we created with the name 'Places' and we will put the 'Places' function inside"
+    },
+    "directory_subtitle-6":{
+        "es": "Hoteles",
+        "en": "Hotels"
+    },
+    "directory_text-35":{
+        "es": "Esta función tiene el mismo objetivo que la anterior. En este caso mostraremos los distintos hoteles que se encuentran en la ciudad La fórmula es la misma: una función de 'Carpetas' que contiene una función de 'Lugares'.",
+        "en": "This function has the same objective as the previous one. In this case we will show the different hotels that are in the city The formula is the same: a 'Folders' function that contains a 'Places' function."
+    },
+    "directory_subtitle-7":{
+        "es": "Restaurantes",
+        "en": "Restaurants"
+    },
+    "directory_text-36":{
+        "es": "Por último, mediante esta misma fórmula (Carpeta + Lugares), realizamos una sección para mostrar los restaurantes más recomendados, los que están más de moda, etc.",
+        "en": "Finally, using this same formula (Folder + Places), we create a section to show the most recommended restaurants, the most fashionable ones, etc."
+    },
+    "directory_subtitle-8":{
+        "es": "Discover Dubai",
+        "en": "Discover Dubai"
+    },
+    "directory_text-37":{
+        "es": "En esta sección de la App mostraremos novedades, vídeos promocionales, hablaremos de tendencias del lugar... a través de imágenes, texto, video etc. Para esta sección añadiremos una función de 'Página Personalizada' y la llamaremos 'Discover Dubai'. Al igual que con el resto de funciones haremos clic sobre el icono de la función para escoger el icono que más nos guste de la librería.",
+        "en": "In this section of the App we will show news, promotional videos, talk about trends in the place... through images, text, video etc. For this section we will add a 'Custom Page' function and call it 'Discover Dubai'. As with the rest of the functions we will click on the function icon to choose the icon we like best from the library."
+    },
+    "directory_text-38":{
+        "es": "Esta funcionalidad te ofrece múltiples opciones para crear una pagina informativa. Puedes escribir un artículo con una imagen, puedes publicar una galería de fotos, puedes publicar un video directamente en esta página y puedes agregar botones de llamada o un enlace a cualquier sitio web externo.",
+        "en": "This functionality offers you multiple options to create an informative page. You can write an article with an image, you can publish a photo gallery, you can publish a video directly on this page and you can add call buttons or a link to any external website."
+    },
+    "directory_subtitle-9":{
+        "es": "Muro Social (Social Wall)",
+        "en": "Social Wall"
+    },
+    "directory_text-39":{
+        "es": "¡Anima a tu comunidad con una red social dentro de tu App! Los usuarios podrán enviar publicaciones y fotos, geolocalizar las fotos de otros usuarios y comentar sus publicaciones.",
+        "en": "Encourage your community with a social network within your App! Users can send posts and photos, geolocate other users' photos and comment on their posts."
+    },
+    "directory_link-1":{
+        "es": "Clica en este enlace y podrás ver un artículo paso a paso de la función 'Muro Social'",
+        "en": "Click on this link and you could see an article explaining step by step the 'Social Wall' function"
+    },
+    "directory_subtitle-10":{
+        "es": "Compartir (Share app)",
+        "en": "Share app"
+    },
+    "directory_text-40":{
+        "es": "Esta función permitirá a tus clientes compartir la aplicación con sólo pulsar un botón. Se trata de una función clave a la hora de generar viralidad para el negocio.",
+        "en": "This function allows your customers to share the application with just one button. It is a key function when it comes to generating virality for the business."
+    },
+    "directory_link-2":{
+        "es": "Clica en este enlace y podrás ver un artículo paso a paso de la función 'Muro Social'",
+        "en": "Click on this link and you could see an article explaining step by step the 'Social Wall' function"
+    },
+    "directory_subtitle-11":{
+        "es": "Temas",
+        "en": "Topics"
+    },
+    "directory_text-41":{
+        "es": "Crea listas de suscripción a temas para ofrecer contenidos de interés en función de los intereses de los usuarios. Podrás segmentar tu base de usuarios para luego enviar notificaciones y mensajes específicos según los intereses de tus usuarios.",
+        "en": "Create subscription lists to offer content of interest based on the interests of users. You can segment your user base and then send specific notifications and messages according to the interests of your users."
+    },
+    "directory_link-3":{
+        "es": "Clica en este enlace y podrás ver un artículo paso a paso de la función 'Temas'",
+        "en": "Click on this link and you could see an article explaining step by step the 'Topics' function"
+    },
+    "directory_subtitle-12":{
+        "es": "Mensajes Push",
+        "en": "Push Messages"
+    },
+    "directory_text-42":{
+        "es": "Los mensajes o notificaciones Push son el sistema de marketing más eficiente que existe en la actualidad. Mientras que de cada 10 emails enviados 8 caen en las bandejas de SPAM, con los Mensajes Push ocurre lo contrario... el 99% son leídos.",
+        "en": "Push messages or notifications are the most efficient marketing system that exists today. While 8 out of 10 emails sent fall into SPAM folders, with Push Messages the opposite happens... 99% are read."
+    },
+    "directory_text-43":{
+        "es": "Añadir esta potente herramienta a tu App es muy sencillo:",
+        "en": "Adding this powerful tool to your App is very simple:"
+    },
+    "directory_text-44":{
+        "es": "1- Debes incluir en la Aplicación la función 'Notificaciones Push'.",
+        "en": "1- You must include the 'Push Notifications' function in the Application."
+    },
+    "directory_text-45":{
+        "es": "2- Para poder hacer uso de las Notificaciones Push, es necesario que la Aplicación en cuestión se encuentre publicada para las versiones nativas Android y/o iOS.",
+        "en": "2- To be able to use Push Notifications, it is necessary that the Application in question is published for the native Android and/or iOS versions."
+    },
+    "directory_text-46":{
+        "es": "Una vez que la aplicación haya sido publicada en App Store y/o Google Play, podrás enviar notificaciones directamente desde la propia función 'Notificaciones Push'.",
+        "en": "Once the application has been published in the App Store and/or Google Play, you can send notifications directly from the 'Push Notifications' function."
+    },
+    "directory_subtitle-13":{
+        "es": "Paso 4. Icono y ajustes de la Aplicación",
+        "en": "Step 4. Application Icon and Settings"
+    },
+    "directory_text-47":{
+        "es": "Desde aquí puedes elegir el icono que se mostrará en la pantalla del dispositivo del usuario, así como el diseño del botón “volver”.",
+        "en": "From here you can choose the icon that will be displayed on the user's device screen, as well as the design of the 'back' button."
+    },
+    "directory_text-48":{
+        "es": "Si quieres enviar notificaciones push, aquí es donde puedes personalizar algunos aspectos, como el icono o el color de fondo.",
+        "en": "If you want to send push notifications, here is where you can customize some aspects, such as the icon or the background color."
+    },
+    "directory_text-49":{
+        "es": "Esta herramienta te ayudará a elegir una imagen de inicio que será compatible con todos los tamaños de pantalla de los diferentes dispositivos. Ésta se verá cuando se inicie la aplicación mientras se está cargando.",
+        "en": "This tool will help you choose a start image that will be compatible with all screen sizes of different devices. This will be seen when the application starts while it is loading."
+    },
+    "directory_subtitle-14":{
+        "es": "Paso 5. Avanzado",
+        "en": "Step 5. Advanced"
+    },
+    "directory_text-50":{
+        "es": "Si lo deseas, puedes monetizar tu aplicación agregando anuncios publicitarios o anuncios intersticiales que se mostrarán a los usuarios de tu aplicación. Para ello deberás configurar el sistema de publicidad Admob.",
+        "en": "If you wish, you can monetize your application by adding advertising banners or interstitial ads that will be displayed to the users of your application. To do this you must configure the Admob advertising system."
+    },
+    "attendance_image_alt":{
+        "es": "Imagen de App de Asistencia",
+        "en": "Attendance App Image"
+    },
+    "attendance_main_title":{
+        "es": "Cómo crear una Aplicación para Fichar",
+        "en": "How to create an Attendance App"
+    },
+    "attendance_subtitle-1":{
+        "es": "¡Hacer una aplicación así es perfectamente posible!",
+        "en": "Making an app like this is perfectly possible!"
+    },
+    "attendance_subtitle-2":{
+        "es": "¿Qué funciones hay que añadir en la App?",
+        "en": "What functions should be added to the App?"
+    },
+    "attendance_list-1":{
+        "es": "Registro",
+        "en": "Register"
+    },
+    "attendance_list-2":{
+        "es": "Formulario Pro",
+        "en": "Pro Form"
+    },
+    "attendance_list-3":{
+        "es": "IMPORTANTE! Será necesario añadir la API de Google Maps para que la App pueda geolocalizar al Usuario / Trabajador en el momento de fichar.",
+        "en": "IMPORTANT! It will be necessary to add the Google Maps API so that the App can geolocate the User / Worker at the time of signing."
+    },
+    "attendance_subtitle-3":{
+        "es": "Registro",
+        "en": "Register"
+    },
+    "attendance_text-1":{
+        "es": "Esta función deberá configurarse de la siguiente manera:",
+        "en": "This function should be configured as follows:"
+    },
+    "attendance_subtitle-4":{
+        "es": "Formulario Pro",
+        "en": "Pro Form"
+    },
+    "attendance_text-2":{
+        "es": "Podrás añadir los campos que se desees pero será imprescindible añadir el campo 'Geolocalización' para recoger la ubicación del Usuario / Trabajador en el momento de fichar.",
+        "en": "You can add the fields you want but it will be essential to add the 'Geolocation' field to collect the location of the User / Worker at the time of signing."
+    },
+    "attendance_subtitle-5":{
+        "es": "¿Cómo funcionaría?",
+        "en": "How would it work?"
+    },
+    "attendance_subtitle-6":{
+        "es": "Administrador",
+        "en": "Administrator"
+    },
+    "attendance_text-3":{
+        "es": "El administrador de la App añadirá desde el apartado 'Usuarios' del constructor todos los correos electrónicos corporativos de sus trabajadores otorgándoles una contraseña random.",
+        "en": "The administrator of the App will add from the 'Users' section of the builder all the corporate emails of their workers giving them a random password."
+    },
+    "attendance_text-4":{
+        "es": "El sistema otorgará un identificador único a cada usuario (trabajador) dado de alta en el sistema, de esta forma el administrador de la App, podrá identificar cada fichaje del trabajador.",
+        "en": "The system will assign a unique identifier to each user (worker) registered in the system, in this way the administrator of the App, will be able to identify each signing of the worker."
+    },
+    "attendance_text-5":{
+        "es": "Al registrar a un Usuario / Trabajador se deberá marcar la casilla 'Este usuario puede acceder a las páginas bloqueadas por la función 'Candado'",
+        "en": "When registering a User / Worker, the box 'This user can access the pages blocked by the 'Lock' function' must be checked"
+    },
+    "attendance_subtitle-7":{
+        "es": "Usuarios / Trabajadores",
+        "en": "Users / Workers"
+    },
+    "attendance_text-6":{
+        "es": "Cuando los Usuarios / Trabajadores accedan a la App por primera vez, se encontrarán con una pantalla de Registro / Inicio de sesión (Función Registro)",
+        "en": "When Users / Workers access the App for the first time, they will find a Registration / Login screen (Registration Function)"
+    },
+    "attendance_text-7":{
+        "es": "Para acceder (solo la primera vez) deberán seguir estos pasos:",
+        "en": "To access (only the first time) they must follow these steps:"
+    },
+    "attendance_list-4":{
+        "es": "Seleccionar la opción INICIAR SESIÓN",
+        "en": "Select the option LOGIN"
+    },
+    "attendance_list-5":{
+        "es": "Pulsar la opción ¿Olvidaste tu contraseña?",
+        "en": "Click on the option Forgot your password?"
+    },
+    "attendance_list-6":{
+        "es": "Introducir su correo corporativo y pulsar el botón 'Enviar'. A continuación recibirán un correo con una nueva contraseña con la que podrán iniciar sesión en la aplicación y acceder a todas las secciones de la misma incluida la sección para registrar la entrada.",
+        "en": "Enter your corporate email and click the 'Send' button. Then they will receive an email with a new password with which they can log in to the application and access all the sections of it including the section to register the entry."
+    },
+    "attendance_text-8":{
+        "es": "Una vez inicien sesión accederán a todas las secciones configuradas en la App incluida la sección para fichar (Función Formulario Pro).",
+        "en": "Once they log in, they will access all the sections configured in the App including the section to sign (Pro Form Function)."
     }
 
     

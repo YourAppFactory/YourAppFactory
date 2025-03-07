@@ -1,5 +1,5 @@
 <div class="container">
-    <a href="/builder/apps/guides" class="btn-back m-b-5">{%go-back%}</a>
+    <a href="/builder/apps/guides" class="btn-back m-b-3">{%go-back%}</a>
     <h1 class="center w-100">{%gym_main_title%}</h1>
 
     <img loading="lazy" src="/build/img/gym/1.jpg" alt="{%gym_main_title%}" class="img-medium margin-auto">
