@@ -1757,8 +1757,8 @@
         "en": "Publishing your App"
     },
     "gym_text-85":{
-        "es": "En función de Plan (Starter, Business, Growth o Reseller) dispondrás de distintos tipos de Publicación:",
-        "en": "Depending on the Plan (Starter, Business, Growth or Reseller) you will have different types of Publication:"
+        "es": "Dispondrás de distintos tipos de Publicación:",
+        "en": "You will have different types of Publication:"
     },
     "gym_list-8-1":{
         "es": "Versión Nativa Android.",
@@ -1775,10 +1775,6 @@
     "gym_list-8-4":{
         "es": "Modo PWA (Progressive Web App).",
         "en": "PWA mode (Progressive Web App)."
-    },
-    "gym_text-86":{
-        "es": "Para publicar la versión nativa de tu App en Appstore o en Google Play, necesitas un plan Business, Growth o Reseller, mientras que la versión Web App y PWA puedes publicarlas con un plan Starter o incluso durante el Trial gratuito de 14 días.",
-        "en": "To publish the native version of your App in the Appstore or Google Play, you need a Business, Growth or Reseller plan, while the Web App and PWA version can be published with a Starter plan or even during the free 14-day Trial."
     },
     "go-back":{
         "es": "Volver",
@@ -2299,8 +2295,8 @@
         "en": "Publishing your App"
     },
     "courses_text-82":{
-        "es": "En función de Plan (Starter, Business, Growth o Reseller) dispondrás de distintos tipos de Publicación:",
-        "en": "Depending on the Plan (Starter, Business, Growth or Reseller) you will have different types of Publication:"
+        "es": "Dispondrás de distintos tipos de Publicación:",
+        "en": "You will have different types of Publication:"
     },
     "courses_list-4-1":{
         "es": "Versión Nativa Android.",
@@ -2317,10 +2313,6 @@
     "courses_list-4-4":{
         "es": "Modo PWA (Progressive Web App).",
         "en": "PWA mode (Progressive Web App)."
-    },
-    "courses_text-83":{
-        "es": "Para publicar la versión nativa de tu App en Appstore o en Google Play, necesitas un plan Business, Growth o Reseller, mientras que la versión Web App y PWA puedes publicarlas con un plan Starter o incluso durante el Trial gratuito de 14 días.",
-        "en": "To publish the native version of your App in the Appstore or Google Play, you need a Business, Growth or Reseller plan, while the Web App and PWA version can be published with a Starter plan or even during the free 14-day Trial."
     },
     "anykind_main_title":{
         "en": "How to create ANY KIND of app?",
@@ -3013,8 +3005,8 @@
         "es": "Paso 6. Publicar tu App"
     },
     "store_text-67":{
-        "en": "Depending on the Plan you choose (Starter, Business, Growth or Reseller) you will have different types of Publishing options:",
-        "es": "Dependiendo del Plan que elijas (Starter, Business, Growth o Reseller) tendrás diferentes tipos de opciones de Publicación:"
+        "en": "You will have different types of Publishing options:",
+        "es": "Tendrás diferentes tipos de opciones de Publicación:"
     },
     "store_list-19":{
         "en": "Native Android version.",
@@ -3031,10 +3023,6 @@
     "store_list-22":{
         "en": "PWA mode(Progressive Web App).",
         "es": "Modo PWA (Progressive Web App)."
-    },
-    "store_text-68":{
-        "en": "To publish the native version of your App on Appstore or Google Play, you need a Business, Growth or Reseller plan, while the Web App and PWA version can be published with a Starter plan or even during the free 14-day Trial.",
-        "es": "Para publicar la versión nativa de tu App en Appstore o Google Play, necesitas un plan Business, Growth o Reseller, mientras que la versión Web App y PWA se pueden publicar con un plan Starter o incluso durante la prueba gratuita de 14 días."
     },
     "store_image_alt":{
         "en": "App for a store",

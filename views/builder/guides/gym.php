@@ -229,7 +229,7 @@
 
     <img loading="lazy" src="/build/img/gym/28.png" alt="{%gym_main_title%}" class="img-medium margin-auto">
     <img loading="lazy" src="/build/img/gym/29.png" alt="{%gym_main_title%}" class="img-medium margin-auto">
-    <img loading="lazy" src="/build/img/gym/30.png" alt="{%gym_main_title%}" class="img-medium margin-auto">
+    <img loading="lazy" src="/build/img/gym/30.jpg" alt="{%gym_main_title%}" class="img-vert margin-auto">
     <img loading="lazy" src="/build/img/gym/31.png" alt="{%gym_main_title%}" class="img-medium margin-auto">
 
     <p>{%gym_text-58%}</p>
@@ -383,9 +383,5 @@
     </ol>
 
     <img loading="lazy" src="/build/img/gym/51.png" alt="{%gym_main_title%}" class="img-medium margin-auto">
-
-    <p>{%gym_text-86%}</p>
-
-
 
 </div>

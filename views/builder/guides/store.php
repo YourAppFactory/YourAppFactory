@@ -272,6 +272,4 @@
     </ul>
 
     <img loading="lazy" src="/build/img/store/39.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
-
-    <p>{%store_text-68%}</p>
 </div>

@@ -310,17 +310,4 @@
 
     <img loading="lazy" src="/build/img/courses/52.png" alt="{%courses_main_title-1%}" class="img-medium margin-auto">
 
-    <p>{%courses_text-83%}</p>
-
-
-
-
-
-
-
-
-
-
-
-
 </div>
