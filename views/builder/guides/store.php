@@ -1,5 +1,5 @@
 <div class="container">
-    <a href="/builder/apps/guides" class="btn-back m-b-5">{%go-back%}</a>
+    <a href="/builder/apps/guides" class="btn-back m-b-3">{%go-back%}</a>
 
     <h1 class="center w-100">{%store_main_title%}</h1>
 
@@ -209,7 +209,7 @@
 
     <iframe class="video-medium margin-auto m-b-3" width="560" height="315" src="https://www.youtube.com/embed/1JYBZwv3Q9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-    <a href="/builder/apps/features/rrss" class="link" target="_blank">{%store_link-5%}</a>
+    <a href="/builder/apps/features/links" class="link" target="_blank">{%store_link-5%}</a>
 
     <h3 class="m-t-5">{%store_subtitle-11%}</h3>
 

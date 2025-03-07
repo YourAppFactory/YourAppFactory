@@ -27,13 +27,13 @@
         <a href="/builder/apps/guides/service" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item-8%}</h2>
         </a>
-        <a href="/builder/apps/guides" class="builder__block__card">
+        <a href="/builder/apps/guides/events" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item-9%}</h2>
         </a>
-        <a href="/builder/apps/guides" class="builder__block__card">
+        <a href="/builder/apps/guides/directory" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item-10%}</h2>
         </a>
-        <a href="/builder/apps/guides" class="builder__block__card">
+        <a href="/builder/apps/guides/attendance" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item-11%}</h2>
         </a>
     </section>
