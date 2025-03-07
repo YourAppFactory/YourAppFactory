@@ -1069,49 +1069,226 @@
         "en": "Publishing Apps",
         "es": "Publicación de Apps"
     },
-    "builder_creation_section_item-1":{
+    "builder_creation_section_item_guides-1":{
         "es": "Diseñar la pantalla de inicio de una app",
         "en": "Design the home screen of an app"
     },
-    "builder_creation_section_item-2":{
+    "builder_creation_section_item_guides-2":{
         "es": "Crear una app de marketplace",
         "en": "Create a marketplace app"
     },
-    "builder_creation_section_item-3":{
+    "builder_creation_section_item_guides-3":{
         "en": "Create an App for gyms or fitness trainers",
         "es": "Crea una App para gimnasios o entrenadores de fitness"
     },
-    "builder_creation_section_item-4":{
+    "builder_creation_section_item_guides-4":{
         "en": "Create an App for Courses",
         "es": "Crea una App para Cursos"
     },
-    "builder_creation_section_item-5":{
+    "builder_creation_section_item_guides-5":{
         "en": "How to create ANY KIND of App",
         "es": "Cómo crear CUALQUIER TIPO de App"
     },
-    "builder_creation_section_item-6":{
+    "builder_creation_section_item_guides-6":{
         "en": "Create an App for a store",
         "es": "Crea una App para una tienda"
     },
-    "builder_creation_section_item-7":{
+    "builder_creation_section_item_guides-7":{
         "en": "How to build an App for a Restaurant",
         "es": "Cómo construir una App para un Restaurante"
     },
-    "builder_creation_section_item-8":{
+    "builder_creation_section_item_guides-8":{
         "en": "Create an App for a Service based business (Clinics, Gyms ...)",
         "es": "Crea una App para un negocio basado en servicios (Clínicas, Gimnasios...)"
     },
-    "builder_creation_section_item-9":{
+    "builder_creation_section_item_guides-9":{
         "en": "How to build an App for Events",
         "es": "Cómo construir una App para Eventos"
     },
-    "builder_creation_section_item-10":{
+    "builder_creation_section_item_guides-10":{
         "en": "How to build a Directory App",
         "es": "Cómo construir una App de Directorio"
     },
-    "builder_creation_section_item-11":{
+    "builder_creation_section_item_guides-11":{
         "en": "How to create an App for Attendance",
         "es": "Cómo crear una App para Asistencia"
+    },
+    "builder_creation_section_item_features-1":{
+        "en": "Colores"
+    },
+    "builder_creation_section_item_features-2":{
+        "en": "Imágenes"
+    },
+    "builder_creation_section_item_features-3":{
+        "en": "Gym"
+    },
+    "builder_creation_section_item_features-4":{
+        "en": "Archivos"
+    },
+    "builder_creation_section_item_features-5":{
+        "en": "Suscripciones"
+    },
+    "builder_creation_section_item_features-6":{
+        "en": "Comunidad"
+    },
+    "builder_creation_section_item_features-7":{
+        "en": "Registro Pro"
+    },
+    "builder_creation_section_item_features-8":{
+        "en": "Registro"
+    },
+    "builder_creation_section_item_features-9":{
+        "en": "Fidelidad Progresiva"
+    },
+    "builder_creation_section_item_features-10":{
+        "en": "Formularios Pro"
+    },
+    "builder_creation_section_item_features-11":{
+        "en": "Carpetas"
+    },
+    "builder_creation_section_item_features-12":{
+        "en": "Push V2"
+    },
+    "builder_creation_section_item_features-13":{
+        "en": "Cómo crear grupos de usuarios combinando la función Perfil y Registro Pro"
+    },
+    "builder_creation_section_item_features-14":{
+        "en": "Formulario de Seguridad de los datos de Google Play"
+    },
+    "builder_creation_section_item_features-15":{
+        "en": "Cómo añadir imágenes al constructor de apps"
+    },
+    "builder_creation_section_item_features-16":{
+        "en": "Cómo editar la Política de Privacidad de tu app"
+    },
+    "builder_creation_section_item_features-17":{
+        "en": "¿cómo puedo incluir un sitio wev dentro de mi aplicación?"
+    },
+    "builder_creation_section_item_features-18":{
+        "en": "¿Cómo integrar anunicos en tu aplicación con AdMob?"
+    },
+    "builder_creation_section_item_features-19":{
+        "en": "Añadir enlaces de llamar, SMS, email, WhatsApp e insertar HTML"
+    },
+    "builder_creation_section_item_features-20":{
+        "en": "¿Cómo crear una llave API Google para YouTube?"
+    },
+    "builder_creation_section_item_features-21":{
+        "en": "Api de Google Maps"
+    },
+    "builder_creation_section_item_features-22":{
+        "en": "Mi Cuenta"
+    },
+    "builder_creation_section_item_features-23":{
+        "en": "Clasificados"
+    },
+    "builder_creation_section_item_features-24":{
+        "en": "Lugares"
+    },
+    "builder_creation_section_item_features-25":{
+        "en": "Tiempo"
+    },
+    "builder_creation_section_item_features-26":{
+        "en": "Reviews"
+    },
+    "builder_creation_section_item_features-27":{
+        "en": "Ofertas de Trabajo"
+    },
+    "builder_creation_section_item_features-28":{
+        "en": "Descuento"
+    },
+    "builder_creation_section_item_features-29":{
+        "en": "Tienda / Delivery"
+    },
+    "builder_creation_section_item_features-30":{
+        "en": "Página personalizada"
+    },
+    "builder_creation_section_item_features-31":{
+        "en": "Webhooks"
+    },
+    "builder_creation_section_item_features-32":{
+        "en": "Marketplace"
+    },
+    "builder_creation_section_item_features-33":{
+        "en": "Reservas pro"
+    },
+    "builder_creation_section_item_features-34":{
+        "en": "Wordpress"
+    },
+    "builder_creation_section_item_features-35":{
+        "en": "Tarjeta de fidelidad"
+    },
+    "builder_creation_section_item_features-36":{
+        "en": "Videos"
+    },
+    "builder_creation_section_item_features-37":{
+        "en": "Shopify"
+    },
+    "builder_creation_section_item_features-38":{
+        "en": "Audio y Música"
+    },
+    "builder_creation_section_item_features-39":{
+        "en": "Escáner QR"
+    },
+    "builder_creation_section_item_features-40":{
+        "en": "PDF"
+    },
+    "builder_creation_section_item_features-41":{
+        "en": "Catálogo"
+    },
+    "builder_creation_section_item_features-42":{
+        "en": "Encuestas"
+    },
+    "builder_creation_section_item_features-43":{
+        "en": "Calendario"
+    },
+    "builder_creation_section_item_features-44":{
+        "en": "Quiz"
+    },
+    "builder_creation_section_item_features-45":{
+        "en": "¿Cómo integrar un Chatbot de IA en tu app?"
+    },
+    "builder_creation_section_item_features-46":{
+        "en": "Enlaces"
+    },
+    "builder_creation_section_item_features-47":{
+        "en": "Formulario"
+    },
+    "builder_creation_section_item_features-48":{
+        "en": "Magento"
+    },
+    "builder_creation_section_item_features-49":{
+        "en": "Temas"
+    },
+    "builder_creation_section_item_features-50":{
+        "en": "Muro Social"
+    },
+    "builder_creation_section_item_features-51":{
+        "en": "Feed RSS"
+    },
+    "builder_creation_section_item_features-52":{
+        "en": "Radio"
+    },
+    "builder_creation_section_item_features-53":{
+        "en": "Propinas"
+    },
+    "builder_creation_section_item_features-54":{
+        "en": "Política de privacidad"
+    },
+    "builder_creation_section_item_features-55":{
+        "en": "Prestashop"
+    },
+    "builder_creation_section_item_features-56":{
+        "en": "Código"
+    },
+    "builder_creation_section_item_features-57":{
+        "en": "Contacto"
+    },
+    "builder_creation_section_item_features-58":{
+        "en": "Reservas"
+    },
+    "builder_creation_section_item_features-59":{
+        "en": "Juego Social"
     },
     "promo_contact_btn":{
         "en": "I want it!",
@@ -4855,6 +5032,18 @@
     "attendance_text-8":{
         "es": "Una vez inicien sesión accederán a todas las secciones configuradas en la App incluida la sección para fichar (Función Formulario Pro).",
         "en": "Once they log in, they will access all the sections configured in the App including the section to sign (Pro Form Function)."
+    },
+    "colors_image_alt":{
+        "es": "Imagen de colores de app",
+        "en": "App colors image"
+    },
+    "colors_main_title":{
+        "es": "Colores",
+        "en": "Colors"
+    },
+    "colors_text-1":{
+        "es": "A continuación te explicamos cómo funciona el paso 'Colores' del Constructor de Apps:",
+        "en": "Next, we explain how the 'Colors' step of the App Builder works:"
     }
 
     

@@ -84,6 +84,9 @@ $router->get('/builder/apps/guides/events', [BuilderController::class, 'guidesEv
 $router->get('/builder/apps/guides/directory', [BuilderController::class, 'guidesDirectory']);
 $router->get('/builder/apps/guides/attendance', [BuilderController::class, 'guidesAttendance']);
 
+//app features
+$router->get('/builder/apps/features/colors', [BuilderController::class, 'featuresColors']);
+
 //commercial
 $router->get('/commercial/dashboard', [CommercialController::class, 'dashboard']);
 

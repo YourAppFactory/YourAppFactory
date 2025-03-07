@@ -132,4 +132,12 @@ class BuilderController {
             'title' => $title
         ]);
     }
+
+    public static function featuresColors(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/colors',[
+            'title' => $title
+        ]);
+    }
 }

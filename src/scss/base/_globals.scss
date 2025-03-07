@@ -40,6 +40,7 @@ ol li:not(:last-child), ul li:not(:last-child){
 .container {
     width: 90%;
     margin: 2.5rem auto;
+    min-height: 62vh;
     @include m.tablet{
         margin: 5rem auto;
     }
