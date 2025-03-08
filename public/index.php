@@ -86,6 +86,15 @@ $router->get('/builder/apps/guides/attendance', [BuilderController::class, 'guid
 
 //app features
 $router->get('/builder/apps/features/colors', [BuilderController::class, 'featuresColors']);
+$router->get('/builder/apps/features/images', [BuilderController::class, 'featuresImages']);
+$router->get('/builder/apps/features/gym', [BuilderController::class, 'featuresGym']);
+$router->get('/builder/apps/features/files', [BuilderController::class, 'featuresFiles']);
+$router->get('/builder/apps/features/subscriptions', [BuilderController::class, 'featuresSubscriptions']);
+$router->get('/builder/apps/features/community', [BuilderController::class, 'featuresCommunity']);
+$router->get('/builder/apps/features/pro-register', [BuilderController::class, 'featuresProRegister']);
+$router->get('/builder/apps/features/register', [BuilderController::class, 'featuresRegister']);
+$router->get('/builder/apps/features/progressive-loyalty', [BuilderController::class, 'featuresProgressiveLoyalty']);
+$router->get('/builder/apps/features/pro-forms', [BuilderController::class, 'featuresProForms']);
 
 //commercial
 $router->get('/commercial/dashboard', [CommercialController::class, 'dashboard']);

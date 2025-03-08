@@ -140,4 +140,76 @@ class BuilderController {
             'title' => $title
         ]);
     }
+
+    public static function featuresImages(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/images',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresGym(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/gym',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresFiles(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/files',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresSubscriptions(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/subscriptions',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresCommunity(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/community',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresProRegister(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/pro-register',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresRegister(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/register',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresProgressiveLoyalty(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/progressive-loyalty',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresProForms(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/pro-forms',[
+            'title' => $title
+        ]);
+    }
 }

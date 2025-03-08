@@ -6,31 +6,31 @@
         <a href="/builder/apps/features/colors" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item_features-1%}</h2>
         </a>
-        <a href="/builder/apps/features" class="builder__block__card">
+        <a href="/builder/apps/features/images" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item_features-2%}</h2>
         </a>
-        <a href="/builder/apps/features" class="builder__block__card">
+        <a href="/builder/apps/features/gym" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item_features-3%}</h2>
         </a>
-        <a href="/builder/apps/features" class="builder__block__card">
+        <a href="/builder/apps/features/files" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item_features-4%}</h2>
         </a>
-        <a href="/builder/apps/features" class="builder__block__card">
+        <a href="/builder/apps/features/subscriptions" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item_features-5%}</h2>
         </a>
-        <a href="/builder/apps/features" class="builder__block__card">
+        <a href="/builder/apps/features/community" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item_features-6%}</h2>
         </a>
-        <a href="/builder/apps/features" class="builder__block__card">
+        <a href="/builder/apps/features/pro-register" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item_features-7%}</h2>
         </a>
-        <a href="/builder/apps/features" class="builder__block__card">
+        <a href="/builder/apps/features/register" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item_features-8%}</h2>
         </a>
-        <a href="/builder/apps/features" class="builder__block__card">
+        <a href="/builder/apps/features/progressive-loyalty" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item_features-9%}</h2>
         </a>
-        <a href="/builder/apps/features" class="builder__block__card">
+        <a href="/builder/apps/features/pro-forms" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item_features-10%}</h2>
         </a>
         <a href="/builder/apps/features" class="builder__block__card">

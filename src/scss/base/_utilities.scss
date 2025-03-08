@@ -529,12 +529,9 @@
 
 .img-medium, .video-medium{
     display: block;
-    max-width: 27rem;
+    max-width: 90%;
     width: 100%;
     border-radius: 1rem;
-    @include m.phone{
-        max-width: 35rem;
-    }
     @include m.tablet{
         max-width: 60rem;
     }
@@ -582,6 +579,21 @@
         }
         100%{
             transform: translateY(-0.5rem);
+        }
+    }
+}
+
+.no-list-style{
+    list-style: none;
+    & li:not(:last-child){
+        margin-bottom: 1.5rem;
+        &::after{
+            content: "";
+            display: block;
+            width: 100%;
+            height: 0.2rem;
+            background-color: v.$gray-light;
+            margin-top: 1.5rem;
         }
     }
 }
