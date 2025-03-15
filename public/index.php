@@ -95,6 +95,9 @@ $router->get('/builder/apps/features/pro-register', [BuilderController::class, '
 $router->get('/builder/apps/features/register', [BuilderController::class, 'featuresRegister']);
 $router->get('/builder/apps/features/progressive-loyalty', [BuilderController::class, 'featuresProgressiveLoyalty']);
 $router->get('/builder/apps/features/pro-forms', [BuilderController::class, 'featuresProForms']);
+$router->get('/builder/apps/features/folders', [BuilderController::class, 'featuresFolders']);
+$router->get('/builder/apps/features/push-notifications', [BuilderController::class, 'featuresNotifications']);
+$router->get('/builder/apps/features/profile-and-pro-register', [BuilderController::class, 'featuresProfileAndProRegister']);
 
 //commercial
 $router->get('/commercial/dashboard', [CommercialController::class, 'dashboard']);

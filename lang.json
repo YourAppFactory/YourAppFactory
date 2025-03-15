@@ -1114,181 +1114,240 @@
         "es": "Cómo crear una App para Asistencia"
     },
     "builder_creation_section_item_features-1":{
-        "en": "Colores"
+        "es": "Colores",
+        "en": "Colors"
     },
     "builder_creation_section_item_features-2":{
-        "en": "Imágenes"
+        "es": "Imágenes",
+        "en": "Images"
     },
     "builder_creation_section_item_features-3":{
+        "es": "Gym",
         "en": "Gym"
     },
     "builder_creation_section_item_features-4":{
-        "en": "Archivos"
+        "es": "Archivos",
+        "en": "Files"
     },
     "builder_creation_section_item_features-5":{
-        "en": "Suscripciones"
+        "es": "Suscripciones",
+        "en": "Subscriptions"
     },
     "builder_creation_section_item_features-6":{
-        "en": "Comunidad"
+        "es": "Comunidad",
+        "en": "Community"
     },
     "builder_creation_section_item_features-7":{
-        "en": "Registro Pro"
+        "es": "Registro Pro",
+        "en": "Pro Registration"
     },
     "builder_creation_section_item_features-8":{
-        "en": "Registro"
+        "es": "Registro",
+        "en": "Registration"
     },
     "builder_creation_section_item_features-9":{
-        "en": "Fidelidad Progresiva"
+        "es": "Fidelidad Progresiva",
+        "en": "Progressive Loyalty"
     },
     "builder_creation_section_item_features-10":{
-        "en": "Formularios Pro"
+        "es": "Formularios Pro",
+        "en": "Pro Forms"
     },
     "builder_creation_section_item_features-11":{
-        "en": "Carpetas"
+        "es": "Carpetas",
+        "en": "Folders"
     },
     "builder_creation_section_item_features-12":{
+        "es": "Push V2",
         "en": "Push V2"
     },
     "builder_creation_section_item_features-13":{
-        "en": "Cómo crear grupos de usuarios combinando la función Perfil y Registro Pro"
+        "es": "Cómo crear grupos de usuarios combinando la función Perfil y Registro Pro",
+        "en": "How to create user groups by combining the Profile and Pro Registration functions"
     },
     "builder_creation_section_item_features-14":{
-        "en": "Formulario de Seguridad de los datos de Google Play"
+        "es": "Formulario de Seguridad de los datos de Google Play",
+        "en": "Google Play Data Security Form"
     },
     "builder_creation_section_item_features-15":{
-        "en": "Cómo añadir imágenes al constructor de apps"
+        "es": "Cómo añadir imágenes al constructor de apps",
+        "en": "How to add images to the app builder"
     },
     "builder_creation_section_item_features-16":{
-        "en": "Cómo editar la Política de Privacidad de tu app"
+        "es": "Cómo editar la Política de Privacidad de tu app",
+        "en": "How to edit the Privacy Policy of your app"
     },
     "builder_creation_section_item_features-17":{
-        "en": "¿cómo puedo incluir un sitio wev dentro de mi aplicación?"
+        "es": "¿cómo puedo incluir un sitio wev dentro de mi aplicación?",
+        "en": "How can I include a website within my application?"
     },
     "builder_creation_section_item_features-18":{
-        "en": "¿Cómo integrar anunicos en tu aplicación con AdMob?"
+        "es": "¿Cómo integrar anunicos en tu aplicación con AdMob?",
+        "en": "How to integrate ads into your app with AdMob?"
     },
     "builder_creation_section_item_features-19":{
-        "en": "Añadir enlaces de llamar, SMS, email, WhatsApp e insertar HTML"
+        "es": "Añadir enlaces de llamar, SMS, email, WhatsApp e insertar HTML",
+        "en": "Add call, SMS, email, WhatsApp links and insert HTML"
     },
     "builder_creation_section_item_features-20":{
-        "en": "¿Cómo crear una llave API Google para YouTube?"
+        "es": "¿Cómo crear una llave API Google para YouTube?",
+        "en": "How to create a Google API key for YouTube?"
     },
     "builder_creation_section_item_features-21":{
-        "en": "Api de Google Maps"
+        "es": "Api de Google Maps",
+        "en": "Google Maps API"
     },
     "builder_creation_section_item_features-22":{
-        "en": "Mi Cuenta"
+        "es": "Mi Cuenta",
+        "en": "My Account"
     },
     "builder_creation_section_item_features-23":{
-        "en": "Clasificados"
+        "es": "Clasificados",
+        "en": "Classifieds"
     },
     "builder_creation_section_item_features-24":{
-        "en": "Lugares"
+        "es": "Lugares",
+        "en": "Places"
     },
     "builder_creation_section_item_features-25":{
-        "en": "Tiempo"
+        "es": "Tiempo",
+        "en": "Weather"
     },
     "builder_creation_section_item_features-26":{
+        "es": "Reviews",
         "en": "Reviews"
     },
     "builder_creation_section_item_features-27":{
-        "en": "Ofertas de Trabajo"
+        "es": "Ofertas de Trabajo",
+        "en": "Job Offers"
     },
     "builder_creation_section_item_features-28":{
-        "en": "Descuento"
+        "es": "Descuento",
+        "en": "Discount"
     },
     "builder_creation_section_item_features-29":{
-        "en": "Tienda / Delivery"
+        "es": "Tienda / Delivery",
+        "en": "Store / Delivery"
     },
     "builder_creation_section_item_features-30":{
-        "en": "Página personalizada"
+        "es": "Página personalizada",
+        "en": "Custom Page"
     },
     "builder_creation_section_item_features-31":{
+        "es": "Webhooks",
         "en": "Webhooks"
     },
     "builder_creation_section_item_features-32":{
+        "es": "Marketplace",
         "en": "Marketplace"
     },
     "builder_creation_section_item_features-33":{
-        "en": "Reservas pro"
+        "es": "Reservas pro",
+        "en": "Pro Reservations"
     },
     "builder_creation_section_item_features-34":{
+        "es": "Wordpress",
         "en": "Wordpress"
     },
     "builder_creation_section_item_features-35":{
-        "en": "Tarjeta de fidelidad"
+        "es": "Tarjeta de fidelidad",
+        "en": "Loyalty Card"
     },
     "builder_creation_section_item_features-36":{
+        "es": "Videos",
         "en": "Videos"
     },
     "builder_creation_section_item_features-37":{
+        "es": "Shopify",
         "en": "Shopify"
     },
     "builder_creation_section_item_features-38":{
-        "en": "Audio y Música"
+        "es": "Audio y Música",
+        "en": "Audio and Music"
     },
     "builder_creation_section_item_features-39":{
-        "en": "Escáner QR"
+        "es": "Escáner QR",
+        "en": "QR Scanner"
     },
     "builder_creation_section_item_features-40":{
+        "es": "PDF",
         "en": "PDF"
     },
     "builder_creation_section_item_features-41":{
-        "en": "Catálogo"
+        "es": "Catálogo",
+        "en": "Catalog"
     },
     "builder_creation_section_item_features-42":{
-        "en": "Encuestas"
+        "es": "Encuestas",
+        "en": "Surveys"
     },
     "builder_creation_section_item_features-43":{
-        "en": "Calendario"
+        "es": "Calendario",
+        "en": "Calendar"
     },
     "builder_creation_section_item_features-44":{
+        "es": "Quiz",
         "en": "Quiz"
     },
     "builder_creation_section_item_features-45":{
-        "en": "¿Cómo integrar un Chatbot de IA en tu app?"
+        "es": "¿Cómo integrar un Chatbot de IA en tu app?",
+        "en": "How to integrate an AI Chatbot into your app?"
     },
     "builder_creation_section_item_features-46":{
-        "en": "Enlaces"
+        "es": "Enlaces",
+        "en": "Links"
     },
     "builder_creation_section_item_features-47":{
-        "en": "Formulario"
+        "es": "Formulario",
+        "en": "Form"
     },
     "builder_creation_section_item_features-48":{
+        "es": "Magento",
         "en": "Magento"
     },
     "builder_creation_section_item_features-49":{
-        "en": "Temas"
+        "es": "Temas",
+        "en": "Themes"
     },
     "builder_creation_section_item_features-50":{
-        "en": "Muro Social"
+        "es": "Muro Social",
+        "en": "Social Wall"
     },
     "builder_creation_section_item_features-51":{
-        "en": "Feed RSS"
+        "es": "Feed RSS",
+        "en": "RSS Feed"
     },
     "builder_creation_section_item_features-52":{
+        "es": "Radio",
         "en": "Radio"
     },
     "builder_creation_section_item_features-53":{
-        "en": "Propinas"
+        "es": "Propinas",
+        "en": "Tips"
     },
     "builder_creation_section_item_features-54":{
-        "en": "Política de privacidad"
+        "es": "Política de privacidad",
+        "en": "Privacy Policy"
     },
     "builder_creation_section_item_features-55":{
+        "es": "Prestashop",
         "en": "Prestashop"
     },
     "builder_creation_section_item_features-56":{
-        "en": "Código"
+        "es": "Código",
+        "en": "Code"
     },
     "builder_creation_section_item_features-57":{
-        "en": "Contacto"
+        "es": "Contacto",
+        "en": "Contact"
     },
     "builder_creation_section_item_features-58":{
-        "en": "Reservas"
+        "es": "Reservas",
+        "en": "Reservations"
     },
     "builder_creation_section_item_features-59":{
-        "en": "Juego Social"
+        "es": "Juego Social",
+        "en": "Social Game"
     },
     "promo_contact_btn":{
         "en": "I want it!",
@@ -6696,11 +6755,310 @@
     "pro-forms_text-58":{
         "es": "Al hacer click en Guardar, se registrarían los datos y firma de ese usuario, y si seleccionamos Enviar, automáticamente se le enviaría por email la mencionada confirmación + el archivo en PDF del documento / formulario que ha firmado digitalmente.",
         "en": "By clicking on Save, the data and signature of that user would be recorded, and if we select Send, the aforementioned confirmation + the PDF file of the document / form that has been digitally signed would be automatically sent by email."
+    },
+    "folders_image_alt":{
+        "es": "Imagen de la función de carpetas",
+        "en": "Image of the folders function"
+    },
+    "folders_main_title":{
+        "es": "Carpetas",
+        "en": "Folders"
+    },
+    "folders_text-1":{
+        "es": "La funcionalidad de Carpetas permite agrupar y organizar funcionalidades dentro de tu aplicación.",
+        "en": "The Folders functionality allows you to group and organize functionalities within your application."
+    },
+    "folders_subtitle-1":{
+        "es": "Cómo añadir esta función",
+        "en": "How to add this function"
+    },
+    "folders_text-2":{
+        "es": "Para añadir esta función a tu aplicación ve al paso \"FUNCIONES\" y haz clic en el icono \"Carpeta\":",
+        "en": "To add this function to your application go to the \"FUNCTIONS\" step and click on the \"Folder\" icon:"
+    },
+    "folders_subtitle-2":{
+        "es": "Configuración:",
+        "en": "Settings:"
+    },
+    "folders_text-3":{
+        "es": "Al añadir la función, se mostrará una ventana como esta con las siguientes opciones:",
+        "en": "When adding the function, a window like this will be displayed with the following options:"
+    },
+    "folders_list-1":{
+        "es": "Ponle un nombre y un subtitulo (Opcional) a tu carpeta.",
+        "en": "Give your folder a name and a subtitle (Optional)."
+    },
+    "folders_list-2":{
+        "es": "Sobrescribir Diseño: Es una configuración útil para las subcarpetas.",
+        "en": "Overwrite Design: It is a useful setting for subfolders."
+    },
+    "folders_list-3":{
+        "es": "Puedes configurar un diseño general en la pestaña \"diseño\", para todas las subcarpetas, pero si deseas utilizar un diseño específico para una subcarpeta, puedes configurarlo con esta configuración.",
+        "en": "You can configure a general design in the \"design\" tab, for all subfolders, but if you want to use a specific design for a subfolder, you can configure it with this setting."
+    },
+    "folders_list-4":{
+        "es": "Crear una subcarpeta: Para crear un Subcarpeta pulsa el icono ",
+        "en": "Create a subfolder: To create a Subfolder click the icon "
+    },
+    "folders_list-5":{
+        "es": "Cambiar Nombre o Subtitulo: Si desea cambiar el nombre, el subtítulo o la imagen de portada/miniatura, solo tiene que hacer clic en el icono del lápiz:",
+        "en": "Change Name or Subtitle: If you want to change the name, subtitle or cover/thumbnail image, just click on the pencil icon:"
+    },
+    "folders_list-6":{
+        "es": "Orden de carpetas o funcionalidades: Para reorganizar las carpetas simplemente arrástrelas y suéltelas, puede anidar hasta 12 niveles.",
+        "en": "Order of folders or functionalities: To rearrange the folders simply drag and drop them, you can nest up to 12 levels."
+    },
+    "folders_subtitle-3":{
+        "es": "Añadir funcionalidades a tus carpetas:",
+        "en": "Add functionalities to your folders:"
+    },
+    "folders_text-4":{
+        "es": "Nota: Solo podrás añadir funcionalidades previamente creadas.",
+        "en": "Note: You can only add previously created functionalities."
+    },
+    "folders_text-5":{
+        "es": "Agregar una funcionalidad a una de tus carpetas es muy fácil:",
+        "en": "Adding a functionality to one of your folders is very easy:"
+    },
+    "folders_text-6":{
+        "es": "1. Seleccione la carpeta en la que desea agregar una función.",
+        "en": "Select the folder you want to add a function to."
+    },
+    "folders_text-7":{
+        "es": "2. Haz clic en la funcionalidad que deseas agregar a esta carpeta",
+        "en": "Click on the functionality you want to add to this folder"
+    },
+    "folders_subtitle-4":{
+        "es": "Cómo editar las funcionalidades añadidas:",
+        "en": "How to edit the added functionalities:"
+    },
+    "folders_text-8":{
+        "es": "Verás que, una vez que hayas agregado una función a una carpeta, esta función ya no aparecerá en el control deslizante de funciones principal.",
+        "en": "You will see that once you have added a function to a folder, this function will no longer appear in the main function slider."
+    },
+    "folders_text-9":{
+        "es": "Para administrar las funciones que ha agregado en algunas carpetas, debe abrir la Funcionalidad de Carpetas. A continuación, selecciona la carpeta o la subcarpeta en la que se encuentra la función que deseas modificar.",
+        "en": "To manage the functions you have added in some folders, you must open the Folders Function. Then select the folder or subfolder where the function you want to modify is located."
+    },
+    "folders_text-10":{
+        "es": "Para volver a la página de inicio de su aplicación, haga clic en este icono ",
+        "en": "To return to the home page of your application, click on this icon "
+    },
+    "folders_subtitle-5":{
+        "es": "Cómo Eliminar las funcionalidades añadidas:",
+        "en": "How to Delete the Added Functionalities:"
+    },
+    "folders_text-11":{
+        "es": "Una vez que hayas movido una función a una carpeta, aún tienes la posibilidad de eliminarla. Para hacer esto, haga clic en la Papelera:",
+        "en": "Once you have moved a function to a folder, you still have the possibility to delete it. To do this, click on the Trash:"
+    },
+    "folders_subtitle-6":{
+        "es": "Personaliza tu carpeta:",
+        "en": "Customize your folder:"
+    },
+    "folders_text-12":{
+        "es": "Puedes personalizar la apariencia de las carpeta y sus subcarpetas con la pestaña de diseño:",
+        "en": "You can customize the appearance of the folder and its subfolders with the design tab:"
+    },
+    "folders_subtitle-7":{
+        "es": "Ajustes de tu carpeta:",
+        "en": "Settings of your folder:"
+    },
+    "folders_text-13":{
+        "es": "En la pestaña \"Ajustes\", puede agregar una barra de búsqueda y el diseño de \"tarjeta\" teniendo algo así:",
+        "en": "In the \"Settings\" tab, you can add a search bar and the \"card\" design having something like this:"
+    },
+    "notifications_image_alt":{
+        "es": "Imagen de la función de notificaciones",
+        "en": "Image of the notifications function"
+    },
+    "notifications_main_title":{
+        "es": "Notificaciones",
+        "en": "Notifications"
+    },
+    "notifications_subtitle-1":{
+        "es": "¿Qué se necesita para el envío de Notificaciones Push?",
+        "en": "What is needed for sending Push Notifications?"
+    },
+    "notifications_text-1":{
+        "es": "Para poder hacer uso de las Notificaciones Push, es necesario que la Aplicación en cuestión se encuentre publicada para las versiones nativas Android y/o iOS.",
+        "en": "To be able to use Push Notifications, it is necessary that the Application in question is published for the native Android and/or iOS versions."
+    },
+    "notifications_text-2":{
+        "es": "Una vez que la aplicación haya sido publicada en App Store y/o Google Play, para poder hacer uso de las Notificaciones Push deberás realizar la configuración de One Signal.",
+        "en": "Once the application has been published in the App Store and/or Google Play, in order to use Push Notifications you must configure One Signal."
+    },
+    "notifications_subtitle-2":{
+        "es": "Cómo añadir esta función",
+        "en": "How to add this function"
+    },
+    "notifications_text-3":{
+        "es": "Para añadir esta función a tu aplicación ve al paso \"FUNCIONES\" y haz clic en el icono \"Notificaciones Push\":",
+        "en": "To add this function to your application go to the \"FUNCTIONS\" step and click on the \"Push Notifications\" icon:"
+    },
+    "notifications_text-4":{
+        "es": "Debes incluir en la Aplicación la función \"Push V2\"",
+        "en": "You must include the \"Push V2\" function in the Application"
+    },
+    "notifications_text-5":{
+        "es": "Una vez añadida la función debes colocarle un nombre y un icono a esta nueva sección de la aplicación.",
+        "en": "Once the function has been added, you must give a name and an icon to this new section of the application."
+    },
+    "notifications_text-6":{
+        "es": "Para cambiar el icono posiciona el cursor sobre el icono y se mostrará el icono de un lápiz. Haz clic en el icono del lápiz para escoger un icono de la galería o subir tu propio icono personalizado.",
+        "en": "To change the icon, position the cursor over the icon and the pencil icon will be displayed. Click on the pencil icon to choose an icon from the gallery or upload your own custom icon."
+    },
+    "notifications_subtitle-3":{
+        "es": "Crear una Notificación Push",
+        "en": "Create a Push Notification"
+    },
+    "notifications_text-7":{
+        "es": "Para enviar una notificación Push deberás acceder a la función \"Notificaciones Push\"  y seleccionar la pestaña \"Mensajes\"",
+        "en": "To send a Push Notification you must access the \"Push Notifications\" function and select the \"Messages\" tab"
+    },
+    "notifications_text-8":{
+        "es": "A continuación encontrarás los distintos ajustes para configurar la Notificación Push:",
+        "en": "Below you will find the different settings to configure the Push Notification:"
+    },
+    "notifications_subtitle-4":{
+        "es": "MENSAJE",
+        "en": "MESSAGE"
+    },
+    "notifications_text-9":{
+        "es": "Título: Aquí deberás colocar el título que quieres que se muestre en la Notificación Push cuando sea enviada",
+        "en": "Title: Here you must place the title you want to be displayed in the Push Notification when it is sent"
+    },
+    "notifications_text-10":{
+        "es": "Mensaje: Aquí deberás colocar el mensaje que quieras enviar a los usuarios de tu App.",
+        "en": "Message: Here you must place the message you want to send to the users of your App."
+    },
+    "notifications_text-11":{
+        "es": "Debes tener en cuenta que el máximo de caracteres permitidos es de 255, incluidos los espacios",
+        "en": "You must take into account that the maximum number of characters allowed is 255, including spaces"
+    },
+    "notifications_subtitle-5":{
+        "es": "MENSAJE INDIVIDUAL",
+        "en": "INDIVIDUAL MESSAGE"
+    },
+    "notifications_text-12":{
+        "es": "¿Individual?: marca esta casilla solo si deseas realizar el envío de un mensaje push individual, es esta forma podrás escoger a qué usuario o usuarios deseas realizar el envío de ese mensaje.",
+        "en": "Individual?: check this box only if you want to send an individual push message, this way you can choose which user or users you want to send the message to."
+    },
+    "notifications_text-13":{
+        "es": "Para poder realizar el envío de un mensaje push a un usuario concreto es necesario que el usuario haya aceptado el \"Acuerdo Comercial\" que se muestra en el proceso de registro si has configurado esta opción de la función \"Mi Cuenta\"",
+        "en": "In order to send a push message to a specific user, it is necessary for the user to have accepted the \"Commercial Agreement\" that is shown in the registration process if you have configured this option in the \"My Account\" function"
+    },
+    "notifications_subtitle-6":{
+        "es": "PROGRAMAR ENVÍO",
+        "en": "SCHEDULE SENDING"
+    },
+    "notifications_text-14":{
+        "es": "¿Programar envío?: Marca esta casilla para configurar que el mensaje push se envíe de forma automática en el día y hora específicos que configures.",
+        "en": "Schedule sending?: Check this box to configure the push message to be sent automatically on the specific day and time you set."
+    },
+    "notifications_text-15":{
+        "es": "Debes tener en cuenta a la hora de enviar la notificación que se configura en la zona horaria de España",
+        "en": "You must take into account when sending the notification that it is configured in the time zone of Spain"
+    },
+    "notifications_text-16":{
+        "es": "Una vez hayas seleccionado la opción de envío pulsa el botón \"Enviar Mensaje\" para finalizar.",
+        "en": "Once you have selected the sending option, click the \"Send Message\" button to finish."
+    },
+    "profile-proregister_image_alt":{
+        "es": "Imagen de la función de registro de usuario PRO",
+        "en": "Image of the PRO user registration function"
+    },
+    "profile-proregister_main_title":{
+        "es": "Cómo crear grupos de usuarios combinando la función Perfil y Registro Pro",
+        "en": "How to create user groups by combining the Profile and Pro Register functions"
+    },
+    "profile-proregister_text-1":{
+        "es": "Crea perfiles de usuarios usando las funciones de Registro Pro y Perfil conjuntamente y asigna un rol específico a cada usuario. Con la función Registro Pro podrás proteger contenidos y permitir accesos a una o varias páginas a un determinado tipo de usuario, una función que te permite restringir accesos a ciertos contenidos basándote en los roles asignados a los usuarios.",
+        "en": "Create user profiles using the Pro Register and Profile functions together and assign a specific role to each user. With the Pro Register function you can protect content and allow access to one or more pages to a certain type of user, a function that allows you to restrict access to certain content based on the roles assigned to users."
+    },
+    "profile-proregister_subtitle-1":{
+        "es": "Creación de Roles",
+        "en": "Creation of Roles"
+    },
+    "profile-proregister_text-2":{
+        "es": "Sí por ejemplo la app es de un colegio como en este caso habría tres tipos de usuarios bien diferenciados: alumnos, profesores, y padres.",
+        "en": "If for example the app is from a school as in this case there would be three well-differentiated types of users: students, teachers, and parents."
+    },
+    "profile-proregister_text-3":{
+        "es": "En este caso crearíamos un rol para cada uno de estos grupos mediante una carpeta, es decir, cada uno debería tener una carpeta permitiéndoles de este modo acceder a contenidos que sí pueden ver y también podemos restringir les acceso a otros que no queremos que vean.",
+        "en": "In this case we would create a role for each of these groups through a folder, that is, each one should have a folder allowing them to access content that they can see and we can also restrict access to others that we do not want them to see."
+    },
+    "profile-proregister_text-4":{
+        "es": "Así cuando el usuario accede a la aplicación será redireccionado al rol carpeta que haya sido asignado previamente y precisamente para diferenciar ese tipo de contenido que quieres restringir para unos y otros, se crean esas carpetas.",
+        "en": "So when the user accesses the application, they will be redirected to the folder role that has been previously assigned and precisely to differentiate that type of content that you want to restrict for some and others, those folders are created."
+    },
+    "profile-proregister_text-5":{
+        "es": "Previamente ya hemos creado aquí algunas: alumnos, profesores y padres y su contenido exclusivo para cada uno de esos grupos.",
+        "en": "Previously we have already created some here: students, teachers and parents and their exclusive content for each of these groups."
+    },
+    "profile-proregister_text-6":{
+        "es": "Si no sabes crear carpetas es muy sencillo echa un ojo al video de la función Carpetas de llevar apenas unos minutos y después regresa a este artículo.",
+        "en": "If you don't know how to create folders, it's very simple, take a look at the video of the Folders function, it only takes a few minutes and then come back to this article."
+    },
+    "profile-proregister_subtitle-2":{
+        "es": "Creación de Perfiles",
+        "en": "Creation of Profiles"
+    },
+    "profile-proregister_text-7":{
+        "es": "Otra cosa que entra en juego y Qué es muy importante para poder sincronizar todo lo que estamos hablando es la función perfil la función Perfil.",
+        "en": "Another thing that comes into play and What is very important to be able to synchronize everything we are talking about is the profile function the Profile function."
+    },
+    "profile-proregister_text-8":{
+        "es": "La función 'Perfil' no es compatible con las versiones PWA",
+        "en": "The 'Profile' function is not compatible with PWA versions"
+    },
+    "profile-proregister_text-9":{
+        "es": "Esta te permite recoger información muy valiosa para ir dándole forma a esos perfiles e ir definiendo los con muchísimos datos que te puedan ayudar a luego posteriormente asignarles esos roles de los cuales hemos estado hablando anteriormente Y darles acceso o restringírselo a un tipo de contenido concreto.",
+        "en": "This allows you to collect very valuable information to shape those profiles and define them with a lot of data that can help you later assign those roles we have been talking about before and give them access or restrict them to a specific type of content."
+    },
+    "profile-proregister_text-10":{
+        "es": "Y para ello lo primero que debes hacer es proporcionar aquí en este espacio una dirección de correo a la cual se van a enviar todos los datos que se vean recogiendo en esos formularios",
+        "en": "And for this, the first thing you must do is provide an email address here to which all the data collected in those forms will be sent"
+    },
+    "profile-proregister_text-11":{
+        "es": "Después sería crear el propio formulario, para ello hay que usar el botón de  'Añadir una sección' y luego solo es ponerle un titulo y añadir cuantos campos desees.",
+        "en": "Then you would create the form itself, for this you have to use the 'Add a section' button and then just give it a title and add as many fields as you want."
+    },
+    "profile-proregister_text-12":{
+        "es": "Luego de que hayamos añadido los campos que necesitamos de nuestro perfil,  por último vamos Añadir un campo más, uno muy importante, el de tipo de usuario. Usando el botón de añadir un campo, seleccionamos esta ves la opción de 'User Roles'",
+        "en": "After we have added the fields we need from our profile, finally we are going to add one more field, a very important one, the user type. Using the add field button, we select this time the 'User Roles' option"
+    },
+    "profile-proregister_text-13":{
+        "es": "En este campo es donde los mismos usuarios se van a definir como uno de esos grupos como padres como alumnos o como profesores.",
+        "en": "In this field is where the users themselves will be defined as one of those groups like parents like students or like teachers."
+    },
+    "profile-proregister_text-14":{
+        "es": "Luego en la pestaña de 'Administrar Perfiles'  vas a poder administrar los diferentes perfiles de las personas que se van registrando dentro de la aplicación, pero esto obviamente no solo es para nuevos usuarios, También los que ya sean usuarios anteriores también tendrán que actualizar su perfil la próxima vez que inicien se sesión.",
+        "en": "Then in the 'Manage Profiles' tab you will be able to manage the different profiles of the people who are registering within the application, but this obviously is not only for new users, Also those who are already previous users will also have to update their profile the next time they log in."
+    },
+    "profile-proregister_subtitle-3":{
+        "es": "Manejo de Perfiles Y Roles",
+        "en": "Management of Profiles and Roles"
+    },
+    "profile-proregister_text-15":{
+        "es": "En la función de Registro Pro es donde podemos administrar que contenido puede ver cada usuario basado en el perfil que tenga. Desde esta función puedo decidir si quiero que se pueda desbloquear la aplicación mediante código QR, si quiero que se bloquee completamente O sí quiero bloquear solo funciones específicas.",
+        "en": "In the Pro Register function is where we can manage what content each user can see based on the profile they have. From this function I can decide if I want the application to be unlocked via QR code, if I want it to be completely blocked or if I want to block only specific functions."
+    },
+    "profile-proregister_text-16":{
+        "es": "Desde Registro Pro seleccionamos las carpetas las cuales tienen el contenido de cada perfil y las elegimos para que sean bloqueadas y solo permitan el acceso a usuarios que ya tengan el perfil asignado.",
+        "en": "From Pro Register we select the folders that have the content of each profile and choose them to be blocked and only allow access to users who already have the assigned profile."
+    },
+    "profile-proregister_text-17":{
+        "es": "Una vez tengas usuarios registrados, estos aparecerán bajo la sección 'Usuarios con Acceso' Aquí podrás asignarle el rol especifico a cada usuario basado en la elección que hicieron en el campo de User Roles, Solo tendrás que ubicar al usuario y en el apartado de 'Selecciona Rol' Le asignas su carpeta y perfil correspondiente y guardas estos cambios:",
+        "en": "Once you have registered users, they will appear under the 'Users with Access' section Here you can assign the specific role to each user based on the choice they made in the User Roles field, you just have to locate the user and in the 'Select Role' section you assign their corresponding folder and profile and save these changes:"
+    },
+    "profile-proregister_text-18":{
+        "es": "Y listo! Siguiendo estos pasos, ya tendrás un esquema de grupos basado en carpetas y un sistema de registro donde cada usuario escogerá a que grupo pertenece.",
+        "en": "And that's it! Following these steps, you will already have a scheme of groups based on folders and a registration system where each user will choose which group they belong to."
+    },
+    "profile-proregister_text-19":{
+        "es": "Puedes encontrar está y más información en el siguiente video donde se realiza este esquema de grupos paso a paso.",
+        "en": "You can find this and more information in the following video where this group scheme is carried out step by step."
     }
-
-
-
-
-   
-
+    
 }

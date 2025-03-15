@@ -212,4 +212,28 @@ class BuilderController {
             'title' => $title
         ]);
     }
+
+    public static function featuresFolders(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/folders',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresNotifications(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/push-notifications',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresProfileAndProRegister(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/profile-and-pro-register',[
+            'title' => $title
+        ]);
+    }
 }

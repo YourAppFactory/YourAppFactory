@@ -33,13 +33,13 @@
         <a href="/builder/apps/features/pro-forms" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item_features-10%}</h2>
         </a>
-        <a href="/builder/apps/features" class="builder__block__card">
+        <a href="/builder/apps/features/folders" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item_features-11%}</h2>
         </a>
-        <a href="/builder/apps/features" class="builder__block__card">
+        <a href="/builder/apps/features/push-notifications" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item_features-12%}</h2>
         </a>
-        <a href="/builder/apps/features" class="builder__block__card">
+        <a href="/builder/apps/features/profile-and-pro-register" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item_features-13%}</h2>
         </a>
         <a href="/builder/apps/features" class="builder__block__card">
