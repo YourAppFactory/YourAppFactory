@@ -236,4 +236,36 @@ class BuilderController {
             'title' => $title
         ]);
     }
+
+    public static function featuresGooglePlayData(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/google-play-data',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresAddImages(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/add-images',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresEditPrivacyPolicy(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/edit-privacy-policy',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresAddWebsites(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/add-websites',[
+            'title' => $title
+        ]);
+    }
 }

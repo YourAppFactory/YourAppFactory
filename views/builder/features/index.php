@@ -42,16 +42,16 @@
         <a href="/builder/apps/features/profile-and-pro-register" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item_features-13%}</h2>
         </a>
-        <a href="/builder/apps/features" class="builder__block__card">
+        <a href="/builder/apps/features/google-play-data" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item_features-14%}</h2>
         </a>
-        <a href="/builder/apps/features" class="builder__block__card">
+        <a href="/builder/apps/features/add-images" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item_features-15%}</h2>
         </a>
-        <a href="/builder/apps/features" class="builder__block__card">
+        <a href="/builder/apps/features/edit-privacy-policy" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item_features-16%}</h2>
         </a>
-        <a href="/builder/apps/features" class="builder__block__card">
+        <a href="/builder/apps/features/add-websites" class="builder__block__card">
             <h2 class="builder__block__title">{%builder_creation_section_item_features-17%}</h2>
         </a>
         <a href="/builder/apps/features" class="builder__block__card">

@@ -413,6 +413,8 @@
     @include m.tablet{
         display: flex;
         gap: 3rem;
+        width: fit-content;
+        margin: auto;
     }
 }
 
@@ -420,6 +422,8 @@
     @include m.tablet{
         display: flex;
         gap: 5rem;
+        width: fit-content;
+        margin: auto;
     }
 }
 
@@ -487,6 +491,10 @@
 
 .w-100{
     width: 100%;
+}
+
+.w-fit{
+    width: fit-content;
 }
 
 .deleteModal{

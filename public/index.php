@@ -98,6 +98,10 @@ $router->get('/builder/apps/features/pro-forms', [BuilderController::class, 'fea
 $router->get('/builder/apps/features/folders', [BuilderController::class, 'featuresFolders']);
 $router->get('/builder/apps/features/push-notifications', [BuilderController::class, 'featuresNotifications']);
 $router->get('/builder/apps/features/profile-and-pro-register', [BuilderController::class, 'featuresProfileAndProRegister']);
+$router->get('/builder/apps/features/google-play-data', [BuilderController::class, 'featuresGooglePlayData']);
+$router->get('/builder/apps/features/add-images', [BuilderController::class, 'featuresAddImages']);
+$router->get('/builder/apps/features/edit-privacy-policy', [BuilderController::class, 'featuresEditPrivacyPolicy']);
+$router->get('/builder/apps/features/add-websites', [BuilderController::class, 'featuresAddWebsites']);
 
 //commercial
 $router->get('/commercial/dashboard', [CommercialController::class, 'dashboard']);

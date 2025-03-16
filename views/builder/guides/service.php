@@ -3,7 +3,7 @@
 
     <h1 class="center w-100">{%service_main_title%}</h1>
 
-    <img loading="lazy" src="/build/img/service/1.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/1.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-1%}</p>
     <p>{%service_text-2%}</p>
@@ -24,39 +24,39 @@
         <li>{%service_list-8%}</li>
     <ul>
 
-    <img loading="lazy" src="/build/img/service/2.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/2.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <h2 class="m-t-5">{%service_subtitle-1%}</h2>
     <p>{%service_text-4%}</p>
 
-    <img loading="lazy" src="/build/img/service/3.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/3.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-5%}</p>
 
-    <img loading="lazy" src="/build/img/service/4.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/4.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-6%}</p>
     <p>{%service_text-7%}</p>
 
-    <img loading="lazy" src="/build/img/service/5.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/5.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
     <p class="w-100 center">{%service_text-8%}</p>
 
     <p>{%service_text-9%}</p>
     <p>{%service_text-10%}</p>
 
-    <img loading="lazy" src="/build/img/service/6.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/6.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <h2 class="m-t-5">{%service_subtitle-2%}</h2>
 
     <p>{%service_text-11%}</p>
 
-    <img loading="lazy" src="/build/img/service/7.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
-    <img loading="lazy" src="/build/img/service/8.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/7.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/8.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
     <p class="w-100 center">{%service_text-12%}</p>
 
     <p>{%service_text-13%}</p>
 
-    <img loading="lazy" src="/build/img/service/9.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/9.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-14%}</p>
     <p class="text-pink">{%service_text-15%}</p>
@@ -74,12 +74,12 @@
     <p class="text-pink">{%service_text-19%}</p>
     <p>{%service_text-20%}</p>
 
-    <img loading="lazy" src="/build/img/service/10.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
-    <img loading="lazy" src="/build/img/service/11.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/10.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/11.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-21%}</p>
 
-    <img loading="lazy" src="/build/img/service/12.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/12.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-22%}</p>
     <p class="text-pink">{%service_text-23%}</p>
@@ -90,16 +90,16 @@
 
     <p>{%service_text-25%}</p>
 
-    <img loading="lazy" src="/build/img/service/13.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/13.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-26%}</p>
 
-    <img loading="lazy" src="/build/img/service/14.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
-    <img loading="lazy" src="/build/img/service/15.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/14.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/15.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <h2 class="m-t-5">{%service_subtitle-3%}</h2>
 
-    <img loading="lazy" src="/build/img/service/16.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/16.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-27%}</p>
 
@@ -111,36 +111,36 @@
         <li>{%service_list-17%}</li>
     </ul>
 
-    <img loading="lazy" src="/build/img/service/17.gif" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/17.gif" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-28%}</p>
 
     <h2 class="m-t-5">{%service_subtitle-4%}</h2>
 
-    <img loading="lazy" src="/build/img/service/18.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1 m-t-1">
+    <img loading="lazy" src="/build/img/guides/service/18.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1 m-t-1">
 
     <p>{%service_text-29%}</p>
     <p>{%service_text-30%}</p>
 
-    <img loading="lazy" src="/build/img/service/19.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/19.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-31%}</p>
 
-    <img loading="lazy" src="/build/img/service/20.gif" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/20.gif" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-32%}</p>
 
-    <img loading="lazy" src="/build/img/service/21.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/21.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <h3 class="m-t-5">{%service_subtitle-5%}</h3>
 
-    <img loading="lazy" src="/build/img/service/22.png" alt="{%service_image_alt%}" class="img-icon margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/22.png" alt="{%service_image_alt%}" class="img-icon margin-auto m-b-1">
 
     <p>{%service_text-33%}</p>
     <p>{%service_text-34%}</p>
 
-    <img loading="lazy" src="/build/img/service/23.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
-    <img loading="lazy" src="/build/img/service/24.jpg" alt="{%service_image_alt%}" class="img-vert margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/23.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/24.jpg" alt="{%service_image_alt%}" class="img-vert margin-auto m-b-1">
 
     <iframe class="video-medium margin-auto m-b-3" width="560" height="315" src="https://www.youtube.com/embed/1JYBZwv3Q9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -148,13 +148,13 @@
 
     <h3 class="m-t-5">{%service_subtitle-6%}</h3>
 
-    <img loading="lazy" src="/build/img/service/25.png" alt="{%service_image_alt%}" class="img-icon margin-auto m-b-1">
-    <img loading="lazy" src="/build/img/service/26.png" alt="{%service_image_alt%}" class="img-icon-2 margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/25.png" alt="{%service_image_alt%}" class="img-icon margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/26.png" alt="{%service_image_alt%}" class="img-icon-2 margin-auto m-b-1">
 
     <p>{%service_text-35%}</p>
     <p>{%service_text-36%}</p>
 
-    <img loading="lazy" src="/build/img/service/27.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/27.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-37%}</p>
 
@@ -163,8 +163,8 @@
     <p>{%service_text-38%}</p>
     <p>{%service_text-39%}</p>
 
-    <img loading="lazy" src="/build/img/service/28.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
-    <img loading="lazy" src="/build/img/service/29.jpg" alt="{%service_image_alt%}" class="img-vert margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/28.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/29.jpg" alt="{%service_image_alt%}" class="img-vert margin-auto m-b-1">
 
     <p>{%service_text-40%}</p>
     <p class="text-pink">{%service_text-41%}</p>
@@ -178,12 +178,12 @@
     
     <h3 class="m-t-5">{%service_subtitle-7%}</h3>
 
-    <img loading="lazy" src="/build/img/service/30.png" alt="{%service_image_alt%}" class="img-icon margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/30.png" alt="{%service_image_alt%}" class="img-icon margin-auto m-b-1">
 
     <p>{%service_text-44%}</p>
 
-    <img loading="lazy" src="/build/img/service/31.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
-    <img loading="lazy" src="/build/img/service/32.jpg" alt="{%service_image_alt%}" class="img-vert margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/31.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/32.jpg" alt="{%service_image_alt%}" class="img-vert margin-auto m-b-1">
 
     <p>{%service_text-45%}</p>
 
@@ -205,13 +205,13 @@
     <p>{%service_text-50%}</p>
     <p>{%service_text-51%}</p>
 
-    <img loading="lazy" src="/build/img/service/33.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/33.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-52%}</p>
 
     <h4 class="text-blue bold">{%service_text-53%}</h4>
 
-    <img loading="lazy" src="/build/img/service/34.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/34.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-54%}</p>
 
@@ -219,33 +219,33 @@
 
     <h4 class="text-blue bold">{%service_text-55%}</h4>
 
-    <img loading="lazy" src="/build/img/service/35.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/35.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-56%}</p>
     <p class="text-pink">{%service_text-57%}</p>
 
-    <img loading="lazy" src="/build/img/service/36.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/36.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <h4 class="text-blue bold">{%service_text-58%}</h4>
 
-    <img loading="lazy" src="/build/img/service/37.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/37.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-59%}</p>
 
-    <img loading="lazy" src="/build/img/service/38.gif" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/38.gif" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-60%}</p>
     <p class="text-pink">{%service_text-61%}</p>
 
     <h4 class="text-blue bold">{%service_text-62%}</h4>
 
-    <img loading="lazy" src="/build/img/service/39.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/39.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
     
     <p>{%service_text-63%}</p>
 
     <h4 class="text-blue bold">{%service_text-64%}</h4>
 
-    <img loading="lazy" src="/build/img/service/40.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/40.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-65%}</p>
 
@@ -254,7 +254,7 @@
     <p>{%service_text-67%}</p>
     <p>{%service_text-68%}</p>
 
-    <img loading="lazy" src="/build/img/service/41.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/41.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <h4 class="text-blue bold">{%service_text-69%}</h4>
 
@@ -266,7 +266,7 @@
 
     <p>{%service_text-72%}</p>
 
-    <img loading="lazy" src="/build/img/service/42.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1"/>
+    <img loading="lazy" src="/build/img/guides/service/42.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1"/>
 
     <p>{%service_text-73%}</p>
     <p>{%service_text-74%}</p>
@@ -287,13 +287,13 @@
     <p class="p-l-5">{%service_text-89%}</p>
     <p>{%service_text-90%}</p>
 
-    <img loading="lazy" src="/build/img/service/43.jpeg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/43.jpeg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <h4 class="text-blue bold">{%service_text-91%}</h4>
 
     <p>{%service_text-92%}</p>
 
-    <img loading="lazy" src="/build/img/service/44.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/44.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <a href="/builder/apps/features/pro-reservations" class="link" target="_blank">{%service_link-3%}</a>
 
@@ -301,7 +301,7 @@
 
     <p>{%service_text-93%}</p>
 
-    <img loading="lazy" src="/build/img/service/45.gif" alt="{%service_image_alt%}" class="img-vert margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/45.gif" alt="{%service_image_alt%}" class="img-vert margin-auto m-b-1">
 
     <p>{%service_text-94%}</p>
 
@@ -315,25 +315,25 @@
     <p>{%service_text-96%}</p>
     <p>{%service_text-97%}</p>
 
-    <img loading="lazy" src="/build/img/service/46.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
-    <img loading="lazy" src="/build/img/service/47.png" alt="{%service_image_alt%}" class="img-vert margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/46.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/47.png" alt="{%service_image_alt%}" class="img-vert margin-auto m-b-1">
 
     <p>{%service_text-98%}</p>
 
-    <img loading="lazy" src="/build/img/service/48.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/48.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-99%}</p>
 
-    <img loading="lazy" src="/build/img/service/49.png" alt="{%service_image_alt%}" class="img-icon margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/49.png" alt="{%service_image_alt%}" class="img-icon margin-auto m-b-1">
     <p class="w-100 center">{%service_text-100%}</p>
 
-    <img loading="lazy" src="/build/img/service/50.png" alt="{%service_image_alt%}" class="img-icon margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/50.png" alt="{%service_image_alt%}" class="img-icon margin-auto m-b-1">
     <p class="w-100 center">{%service_text-101%}</p>
 
     <p>{%service_text-102%}</p>
     <p>{%service_text-103%}</p>
 
-    <img loading="lazy" src="/build/img/service/51.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/51.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-104%}</p>
     <p>{%service_text-105%}</p>
@@ -348,7 +348,7 @@
     <p>{%service_text-107%}</p>
     <p>{%service_text-108%}</p>
 
-    <img loading="lazy" src="/build/img/service/52.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/52.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-109%}</p>
 
@@ -360,13 +360,13 @@
 
     <p>{%service_text-110%}</p>
 
-    <img loading="lazy" src="/build/img/service/53.jpg" alt="{%service_image_alt%}" class="img-vert margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/53.jpg" alt="{%service_image_alt%}" class="img-vert margin-auto m-b-1">
 
     <h3 class="m-t-5">{%service_subtitle-14%}</h3>
 
     <p>{%service_text-111%}</p>
 
-    <img loading="lazy" src="/build/img/service/54.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/54.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-112%}</p>
 
@@ -378,46 +378,46 @@
     <p>{%service_text-114%}</p>
     <p>{%service_text-115%}</p>
 
-    <img loading="lazy" src="/build/img/service/55.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/55.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-116%}</p>
     <p>{%service_text-117%}</p>
 
-    <img loading="lazy" src="/build/img/service/56.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/56.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-118%}</p>
 
-    <img loading="lazy" src="/build/img/service/57.gif" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/57.gif" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p class="bold">{%service_text-119%}</p>
     <p>{%service_text-120%}</p>
 
-    <img loading="lazy" src="/build/img/service/58.png" alt="{%service_image_alt%}" class="img-icon margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/58.png" alt="{%service_image_alt%}" class="img-icon margin-auto m-b-1">
 
     <p>{%service_text-121%}</p>
 
-    <img loading="lazy" src="/build/img/service/59.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/59.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-122%}</p>
     <p>{%service_text-123%}</p>
     <p>{%service_text-124%}</p>
 
-    <img loading="lazy" src="/build/img/service/60.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/60.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-125%}</p>
     <p>{%service_text-126%}</p>
     <p>{%service_text-127%}</p>
 
-    <img loading="lazy" src="/build/img/service/61.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/61.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-128%}</p>
     <p>{%service_text-129%}</p>
 
-    <img loading="lazy" src="/build/img/service/62.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/62.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-130%}</p>
 
-    <img loading="lazy" src="/build/img/service/63.jpg" alt="{%service_image_alt%}" class="img-vert margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/63.jpg" alt="{%service_image_alt%}" class="img-vert margin-auto m-b-1">
 
     <p>{%service_text-131%}</p>
 
@@ -427,7 +427,7 @@
     <p>{%service_text-133%}</p>
     <p>{%service_text-134%}</p>
     
-    <img loading="lazy" src="/build/img/service/64.png" alt="{%service_image_alt%}" class="img-icon margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/64.png" alt="{%service_image_alt%}" class="img-icon margin-auto m-b-1">
 
     <p>{%service_text-135%}</p>
     <p>{%service_text-136%}</p>
@@ -436,25 +436,25 @@
 
     <h2 class="m-t-5">{%service_subtitle-17%}</h2>
 
-    <img loading="lazy" src="/build/img/service/65.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/65.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-137%}</p>
 
-    <img loading="lazy" src="/build/img/service/66.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/66.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-138%}</p>
 
-    <img loading="lazy" src="/build/img/service/67.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/67.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-139%}</p>
 
-    <img loading="lazy" src="/build/img/service/68.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/68.jpg" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <h2 class="m-t-5">{%service_subtitle-18%}</h2>
 
-    <img loading="lazy" src="/build/img/service/69.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/69.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%service_text-140%}</p>
 
-    <img loading="lazy" src="/build/img/service/70.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/service/70.png" alt="{%service_image_alt%}" class="img-medium margin-auto m-b-1">
 </div>

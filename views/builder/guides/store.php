@@ -3,7 +3,7 @@
 
     <h1 class="center w-100">{%store_main_title%}</h1>
 
-    <img loading="lazy" src="/build/img/store/1.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/1.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%store_text-1%}</p>
     <p>{%store_text-2%}</p>
@@ -27,40 +27,40 @@
     <p>{%store_text-4%}</p>
     <p>{%store_text-5%}</p>
 
-    <img loading="lazy" src="/build/img/store/2.jpg" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/2.jpg" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <h2 class="m-t-5">{%store_subtitle-1%}</h2>
 
     <p>{%store_text-6%}</p>
     <p>{%store_text-7%}</p>
 
-    <img loading="lazy" src="/build/img/store/3.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/3.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%store_text-8%}</p>
 
-    <img loading="lazy" src="/build/img/store/4.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/4.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%store_text-9%}</p>
     <p>{%store_text-10%}</p>
 
-    <img loading="lazy" src="/build/img/store/5.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/5.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
     <p class="w-100 center">{%store_text-11%}</p>
 
     <p>{%store_text-12%}</p>
     <p>{%store_text-13%}</p>
 
-    <img loading="lazy" src="/build/img/store/6.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/6.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <h2 class="m-t-5">{%store_subtitle-2%}</h2>
     <p>{%store_text-14%}</p>
 
-    <img loading="lazy" src="/build/img/store/7.png" alt="{%store_image_alt%}" class="img-medium margin-auto">
-    <img loading="lazy" src="/build/img/store/8.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-t-3">
+    <img loading="lazy" src="/build/img/guides/store/7.png" alt="{%store_image_alt%}" class="img-medium margin-auto">
+    <img loading="lazy" src="/build/img/guides/store/8.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-t-3">
     <p class="center w-100">{%store_text-15%}</p>
 
     <p>{%store_text-16%}</p>
 
-    <img loading="lazy" src="/build/img/store/9.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/9.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%store_text-17%}</p>
     <p class="text-pink">{%store_text-18%}</p>
@@ -78,7 +78,7 @@
     <p class="text-pink">{%store_text-22%}</p>
     <p>{%store_text-23%}</p>
 
-    <img loading="lazy" src="/build/img/store/10.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/10.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p class="text-pink">{%store_text-24%}</p>
     <p>{%store_text-25%}</p>
@@ -89,16 +89,16 @@
     <p>{%store_text-26%}</p>
     <p>{%store_text-27%}</p>
 
-    <img loading="lazy" src="/build/img/store/11.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/11.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%store_text-28%}</p>
 
-    <img loading="lazy" src="/build/img/store/12.png" alt="{%store_image_alt%}" class="img-medium margin-auto">
-    <img loading="lazy" src="/build/img/store/13.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-t-3">
+    <img loading="lazy" src="/build/img/guides/store/12.png" alt="{%store_image_alt%}" class="img-medium margin-auto">
+    <img loading="lazy" src="/build/img/guides/store/13.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-t-3">
 
     <h2 class="m-t-5">{%store_subtitle-3%}</h2>
 
-    <img loading="lazy" src="/build/img/store/14.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/14.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%store_text-29%}</p>
 
@@ -110,21 +110,21 @@
         <li>{%store_list-18%}</li>
     </ul>
 
-    <img loading="lazy" src="/build/img/store/15.gif" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/15.gif" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%store_text-30%}</p>
 
-    <img loading="lazy" src="/build/img/store/16.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/16.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <h2 class="m-t-5">{%store_subtitle-4%}</h2>
 
-    <img loading="lazy" src="/build/img/store/17.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/17.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%store_text-31%}</p>
     <p>{%store_text-32%}</p>
     <p>{%store_text-33%}</p>
 
-    <img loading="lazy" src="/build/img/store/18.gif" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/18.gif" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <h3 class="m-t-5">{%store_subtitle-5%}</h3>
 
@@ -135,8 +135,8 @@
 
     <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/1JYBZwv3Q9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-    <img loading="lazy" src="/build/img/store/19.gif" alt="{%store_image_alt%}" class="img-vert margin-auto m-t-3">
-    <img loading="lazy" src="/build/img/store/20.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-t-3 m-b-3">
+    <img loading="lazy" src="/build/img/guides/store/19.gif" alt="{%store_image_alt%}" class="img-vert margin-auto m-t-3">
+    <img loading="lazy" src="/build/img/guides/store/20.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-t-3 m-b-3">
 
     <a href="/builder/apps/features/custom-page" class="link" target="_blank">{%store_link-1%}</a>
 
@@ -147,8 +147,8 @@
     <p>{%store_text-40%}</p>
     <p>{%store_text-41%}</p>
 
-    <img loading="lazy" src="/build/img/store/21.png" alt="{%store_image_alt%}" class="img-vert margin-auto m-b-1">
-    <img loading="lazy" src="/build/img/store/22.gif" alt="{%store_image_alt%}" class="img-medium margin-auto m-t-3">
+    <img loading="lazy" src="/build/img/guides/store/21.png" alt="{%store_image_alt%}" class="img-vert margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/22.gif" alt="{%store_image_alt%}" class="img-medium margin-auto m-t-3">
 
     <p>{%store_text-42%}</p>
 
@@ -162,12 +162,12 @@
 
     <p>{%store_text-44%}</p>
 
-    <img loading="lazy" src="/build/img/store/23.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
-    <img loading="lazy" src="/build/img/store/24.gif" alt="{%store_image_alt%}" class="img-vert margin-auto m-t-3">
+    <img loading="lazy" src="/build/img/guides/store/23.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/24.gif" alt="{%store_image_alt%}" class="img-vert margin-auto m-t-3">
 
     <p>{%store_text-45%}</p>
 
-    <img loading="lazy" src="/build/img/store/25.gif" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/25.gif" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%store_text-46%}</p>
 
@@ -180,15 +180,15 @@
     <p>{%store_text-47%}</p>
     <p>{%store_text-48%}</p>
 
-    <img loading="lazy" src="/build/img/store/26.gif" alt="{%store_image_alt%}" class="img-vert margin-auto m-b-1">
-    <img loading="lazy" src="/build/img/store/27.png" alt="{%store_image_alt%}" class="img-vert margin-auto m-t-3">
+    <img loading="lazy" src="/build/img/guides/store/26.gif" alt="{%store_image_alt%}" class="img-vert margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/27.png" alt="{%store_image_alt%}" class="img-vert margin-auto m-t-3">
 
     <h3 class="m-t-5">{%store_subtitle-9%}</h3>
 
     <p>{%store_text-49%}</p>
 
-    <img loading="lazy" src="/build/img/store/28.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
-    <img loading="lazy" src="/build/img/store/29.png" alt="{%store_image_alt%}" class="img-vert margin-auto m-t-3">
+    <img loading="lazy" src="/build/img/guides/store/28.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/29.png" alt="{%store_image_alt%}" class="img-vert margin-auto m-t-3">
 
     <p>{%store_text-50%}</p>
 
@@ -201,9 +201,9 @@
     <p>{%store_text-51%}</p>
     <p>{%store_text-52%}</p>
 
-    <img loading="lazy" src="/build/img/store/30.png" alt="{%store_image_alt%}" class="img-vert margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/30.png" alt="{%store_image_alt%}" class="img-vert margin-auto m-b-1">
     <p class="center w-100">{%store_text-53%}</p>
-    <img loading="lazy" src="/build/img/store/31.png" alt="{%store_image_alt%}" class="img-vert margin-auto m-t-3">
+    <img loading="lazy" src="/build/img/guides/store/31.png" alt="{%store_image_alt%}" class="img-vert margin-auto m-t-3">
 
     <p>{%store_text-54%}</p>
 
@@ -217,7 +217,7 @@
     <p>{%store_text-56%}</p>
     <p>{%store_text-57%}</p>
 
-    <img loading="lazy" src="/build/img/store/32.png" alt="{%store_image_alt%}" class="img-icon margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/32.png" alt="{%store_image_alt%}" class="img-icon margin-auto m-b-1">
 
     <p>{%store_text-58%}</p>
     <p>{%store_text-59%}</p>
@@ -236,29 +236,29 @@
 
     <h2 class="m-t-5">{%store_subtitle-13%}</h2>
 
-    <img loading="lazy" src="/build/img/store/33.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/33.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%store_text-61%}</p>
 
-    <img loading="lazy" src="/build/img/store/34.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/34.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%store_text-62%}</p>
 
-    <img loading="lazy" src="/build/img/store/35.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/35.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%store_text-63%}</p>
     <p>{%store_text-64%}</p>
 
-    <img loading="lazy" src="/build/img/store/36.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/36.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <h2 class="m-t-5">{%store_subtitle-14%}</h2>
 
-    <img loading="lazy" src="/build/img/store/37.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/37.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%store_text-65%}</p>
     <p>{%store_text-66%}</p>
 
-    <img loading="lazy" src="/build/img/store/38.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/38.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <h2 class="m-t-5">{%store_subtitle-15%}</h2>
 
@@ -271,5 +271,5 @@
         <li>{%store_list-22%}</li>
     </ul>
 
-    <img loading="lazy" src="/build/img/store/39.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/store/39.png" alt="{%store_image_alt%}" class="img-medium margin-auto m-b-1">
 </div>

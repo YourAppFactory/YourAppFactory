@@ -21,41 +21,41 @@
     <p>{%events_text-5%}</p>
     <p>{%events_text-6%}</p>
 
-    <img loading="lazy" src="/build/img/events/1.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/1.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <h2 class="m-t-5">{%events_subtitle-1%}</h2>
 
     <p>{%events_text-7%}</p>
 
-    <img loading="lazy" src="/build/img/events/2.gif" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/2.gif" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%events_text-8%}</p>
 
-    <img loading="lazy" src="/build/img/events/3.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/3.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
     <p class="w-100 center">{%events_text-9%}</p>
 
     <p>{%events_text-10%}</p>
     <p>{%events_text-11%}</p>
 
-    <img loading="lazy" src="/build/img/events/4.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/4.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <h2 class="m-t-5">{%events_subtitle-2%}</h2>
     <p>{%events_text-12%}</p>
 
-    <img loading="lazy" src="/build/img/events/5.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/5.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%events_text-13%}</p>
     <p>{%events_text-14%}</p>
 
-    <img loading="lazy" src="/build/img/events/6.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/6.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%events_text-15%}</p>
-    <img loading="lazy" src="/build/img/events/7.gif" alt="{%events_image_alt%}" class="img-vert margin-auto m-b-1">
-    <img loading="lazy" src="/build/img/events/8.gif" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/7.gif" alt="{%events_image_alt%}" class="img-vert margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/8.gif" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%events_text-16%}</p>
 
-    <img loading="lazy" src="/build/img/events/9.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/9.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p class="text-pink">{%events_text-17%}</p>
 
@@ -63,12 +63,12 @@
 
     <p>{%events_text-18%}</p>
 
-    <img loading="lazy" src="/build/img/events/10.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/10.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%events_text-19%}</p>
 
-    <img loading="lazy" src="/build/img/events/11.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
-    <img loading="lazy" src="/build/img/events/12.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/11.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/12.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%events_text-20%}</p>
 
@@ -76,7 +76,7 @@
 
     <h2 class="m-t-5">{%events_subtitle-3%}</h2>
 
-    <img loading="lazy" src="/build/img/events/13.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/13.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%events_text-21%}</p>
 
@@ -88,31 +88,31 @@
         <li>{%events_list-12%}</li>
     </ul>
 
-    <img loading="lazy" src="/build/img/events/14.gif" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/14.gif" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%events_text-22%}</p>
 
-    <img loading="lazy" src="/build/img/events/15.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/15.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <h2 class="m-t-5">{%events_subtitle-4%}</h2>
 
-    <img loading="lazy" src="/build/img/events/16.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/16.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%events_text-23%}</p>
     <p>{%events_text-24%}</p>
 
-    <img loading="lazy" src="/build/img/events/17.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/17.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%events_text-25%}</p>
 
-    <img loading="lazy" src="/build/img/events/18.gif" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/18.gif" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <h3 class="m-t-5">{%events_subtitle-5%}</h3>
     <p>{%events_text-26%}</p>
     <p>{%events_text-27%}</p>
     <p class="bold">{%events_text-28%}</p>
 
-    <img loading="lazy" src="/build/img/events/19.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/19.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <iframe class="video-medium margin-auto m-b-3" width="560" height="315" src="https://www.youtube.com/embed/1JYBZwv3Q9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -122,7 +122,7 @@
     <p>{%events_text-29%}</p>
     <p>{%events_text-30%}</p>
 
-    <img loading="lazy" src="/build/img/events/20.gif" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/20.gif" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <iframe class="video-medium margin-auto m-b-3" width="560" height="315" src="https://www.youtube.com/embed/1JYBZwv3Q9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -130,7 +130,7 @@
     <p>{%events_text-31%}</p>
     <p>{%events_text-32%}</p>
 
-    <img loading="lazy" src="/build/img/events/21.gif" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/21.gif" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <iframe class="video-medium margin-auto m-b-3" width="560" height="315" src="https://www.youtube.com/embed/1JYBZwv3Q9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -140,24 +140,24 @@
     <p>{%events_text-33%}</p>
     <p>{%events_text-34%}</p>
 
-    <img loading="lazy" src="/build/img/events/22.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
-    <img loading="lazy" src="/build/img/events/23.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/22.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/23.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <a href="/builder/apps/features/shop-delivery" class="link" target="_blank">{%events_link-4%}</a>
 
     <h3 class="m-t-5">{%events_subtitle-9%}</h3>
     <p>{%events_text-35%}</p>
 
-    <img loading="lazy" src="/build/img/events/24.jpg" alt="{%events_image_alt%}" class="img-vert margin-auto m-b-1">
-    <img loading="lazy" src="/build/img/events/25.gif" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/24.jpg" alt="{%events_image_alt%}" class="img-vert margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/25.gif" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <iframe class="video-medium margin-auto m-b-3" width="560" height="315" src="https://www.youtube.com/embed/1JYBZwv3Q9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <h3 class="m-t-5">{%events_subtitle-10%}</h3>
     <p>{%events_text-36%}</p>
 
-    <img loading="lazy" src="/build/img/events/26.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
-    <img loading="lazy" src="/build/img/events/27.gif" alt="{%events_image_alt%}" class="img-vert margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/26.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/27.gif" alt="{%events_image_alt%}" class="img-vert margin-auto m-b-1">
 
     <p class="text-pink">{%events_text-37%}</p>
 
@@ -168,7 +168,7 @@
     <p>{%events_text-39%}</p>
     <p>{%events_text-40%}</p>
 
-    <img loading="lazy" src="/build/img/events/28.png" alt="{%events_image_alt%}" class="img-icon margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/28.png" alt="{%events_image_alt%}" class="img-icon margin-auto m-b-1">
 
     <p>{%events_text-41%}</p>
     <p class="bold">{%events_text-42%}</p>
@@ -186,25 +186,25 @@
 
     <h2 class="m-t-5">{%events_subtitle-13%}</h2>
 
-    <img loading="lazy" src="/build/img/events/29.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/29.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%events_text-44%}</p>
 
-    <img loading="lazy" src="/build/img/events/30.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/30.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%events_text-45%}</p>
 
-    <img loading="lazy" src="/build/img/events/31.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/31.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%events_text-46%}</p>
 
-    <img loading="lazy" src="/build/img/events/32.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/32.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <h2 class="m-t-5">{%events_subtitle-14%}</h2>
 
-    <img loading="lazy" src="/build/img/events/33.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/33.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 
     <p>{%events_text-47%}</p>
 
-    <img loading="lazy" src="/build/img/events/34.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
+    <img loading="lazy" src="/build/img/guides/events/34.jpg" alt="{%events_image_alt%}" class="img-medium margin-auto m-b-1">
 </div>

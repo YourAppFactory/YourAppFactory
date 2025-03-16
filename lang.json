@@ -7059,6 +7059,242 @@
     "profile-proregister_text-19":{
         "es": "Puedes encontrar está y más información en el siguiente video donde se realiza este esquema de grupos paso a paso.",
         "en": "You can find this and more information in the following video where this group scheme is carried out step by step."
+    },
+    "google-play-data_image_alt":{
+        "es": "Imagen de la función de Google Play Data",
+        "en": "Image of the Google Play Data function"
+    },
+    "google-play-data_main_title":{
+        "es": "Formulario de Seguridad de los datos de Google Play",
+        "en": "Google Play Data Security Form"
+    },
+    "google-play-data_text-1":{
+        "es": "Actualizaciones: Si ya has publicado tu App en Google Play y necesitas publicar una actualización sigue los pasos de Actualizar una App en Google Play.",
+        "en": "Updates: If you have already published your App on Google Play and need to publish an update, follow the steps to Update an App on Google Play."
+    },
+    "google-play-data_text-2":{
+        "es": "En este vídeo te mostramos cómo debes responder el formulario de Seguridad de los Datos:",
+        "en": "In this video we show you how to respond to the Data Security form:"
+    },
+    "google-play-data_subtitle-1":{
+        "es": "Paso a paso:",
+        "en": "Step by step:"
+    },
+    "google-play-data_text-3":{
+        "es": "El formulario de Seguridad de los Datos tiene como finalidad ayudar a los usuarios de Google Play a entender cómo recoge y comparte sus datos tu aplicación.",
+        "en": "The Data Security form is intended to help Google Play users understand how your application collects and shares their data."
+    },
+    "google-play-data_text-4":{
+        "es": "Consta de 5 pasos",
+        "en": "It consists of 5 steps"
+    },
+    "google-play-data_subtitle-2":{
+        "es": "PASO 1: Introducción",
+        "en": "STEP 1: Introduction"
+    },
+    "google-play-data_text-5":{
+        "es": "Aquí se presenta una breve explicación sobre el proceso de recolección de datos y la información que se va a pedir más adelante, Solo es necesario dar Click en Siguiente después de leerlo.",
+        "en": "Here is a brief explanation of the data collection process and the information that will be requested later. Just click Next after reading it."
+    },
+    "google-play-data_subtitle-3":{
+        "es": "PASO 2: Recogida de datos y seguridad",
+        "en": "STEP 2: Data collection and security"
+    },
+    "google-play-data_text-6":{
+        "es": "Aunque en el constructor de Apps cumplimos con la normativa y los usuarios de la App pueden eliminar su cuenta fácilmente iniciando sesión y pulsando el enlace \"Eliminar cuenta\", Google exige que exista una URL del negocio de la App donde los usuarios puedan solicitar la eliminación de su cuenta y/o sus datos.",
+        "en": "Although in the App builder we comply with the regulations and the App users can easily delete their account by logging in and clicking the \"Delete account\" link, Google requires that there be a URL of the App business where users can request the deletion of their account and/or their data."
+    },
+    "google-play-data_text-7":{
+        "es": "Por tanto, si el negocio de la App no tiene en su web un formulario para esto, debes crear dos formularios, o bien crear uno solo mientras cumpla estas dos funciones:",
+        "en": "Therefore, if the App business does not have a form for this on its website, you must create two forms, or create only one as long as it fulfills these two functions:"
+    },
+    "google-play-data_text-8":{
+        "es": "1. Que los usuarios puedan solicitar la eliminación de su cuenta.",
+        "en": "1. That users can request the deletion of their account."
+    },
+    "google-play-data_text-9":{
+        "es": "2. Que los usuarios puedan solicitar la eliminación de sus datos.",
+        "en": "2. That users can request the deletion of their data."
+    },
+    "google-play-data_text-10":{
+        "es": "Puedes crear un formulario con Google Forms, Typeform o incluso nuestros formularios de Funnels o Websites.",
+        "en": "You can create a form with Google Forms, Typeform or even our Funnels or Websites forms."
+    },
+    "google-play-data_text-11":{
+        "es": "A continuación te mostramos un ejemplo de cómo podría ser el formulario:",
+        "en": "Below we show you an example of what the form could look like:"
+    },
+    "google-play-data_text-12":{
+        "es": "Luego deberás completar la siguiente información relacionada con la Recogida de datos y seguridad de la siguiente manera:",
+        "en": "Then you must complete the following information related to Data Collection and Security as follows:"
+    },
+    "google-play-data_text-13":{
+        "es": "A continuación deberás incluir en el campo \"URL de eliminación de cuentas\" la url del formulario que creaste para que los usuarios puedan solicitar la eliminación de su cuenta y en el campo \"URL de eliminación de datos\" la url del formulario que creaste para que los usuarios puedan solicitar la eliminación de sus datos. (en el caso de que hayas creado un único formulario para ambas solicitudes coloca la misma url)",
+        "en": "Then you must include in the field \"Account deletion URL\" the url of the form you created so that users can request the deletion of their account and in the field \"Data deletion URL\" the url of the form you created so that users can request the deletion of their data. (in case you have created a single form for both requests, place the same url)"
+    },
+    "google-play-data_text-14":{
+        "es": "Luego pulsa el botón SIGUIENTE",
+        "en": "Then click the NEXT button"
+    },
+    "google-play-data_subtitle-4":{
+        "es": "PASO 3: Tipos De Datos",
+        "en": "STEP 3: Data Types"
+    },
+    "google-play-data_text-15":{
+        "es": "En este paso encontrarás distintas secciones pero solo deberás completar los datos de Ubicación, Información Personal y IDs de dispositivo o de otro tipo de la forma que te mostramos a continuación:",
+        "en": "In this step you will find different sections but you should only complete the data of Location, Personal Information and Device IDs or other type as we show you below:"
+    },
+    "google-play-data_text-16":{
+        "es": "Después pasa directamente a la sección IDs de dispositivo o de otro tipo, marca la casilla y pulsa el botón 'Siguiente'",
+        "en": "Then go directly to the Device IDs or other type section, check the box and click the 'Next' button"
+    },
+    "google-play-data_subtitle-5":{
+        "es": "PASO 4: Uso y Gestión de Datos",
+        "en": "STEP 4: Data Use and Management"
+    },
+    "google-play-data_text-17":{
+        "es": "En este paso debemos definir el uso y manejo de los datos recogidos, si solo se recogen para uso óptimo de la aplicación, o si se comparten con un tercero, tanto si la transferencia se realiza dentro o fuera del dispositivo del usuario.",
+        "en": "In this step we must define the use and management of the data collected, whether they are collected for optimal use of the application, or if they are shared with a third party, whether the transfer is made inside or outside the user's device."
+    },
+    "google-play-data_text-18":{
+        "es": "A continuación deberás hacer clic en los desplegables 'Mostrar' y completar todas las secciones de los apartados Información personal, Ubicación y IDs de dispositivo o de otro tipo respondiendo como se muestra aquí abajo:",
+        "en": "Next, you must click on the 'Show' drop-downs and complete all the sections of the Personal Information, Location and Device IDs or other type sections by responding as shown below:"
+    },
+    "google-play-data_text-19":{
+        "es": "Deberás marcar las mismas opciones en todos los apartados",
+        "en": "You must check the same options in all sections"
+    },
+    "google-play-data_text-20":{
+        "es": "Una vez que haya completado la información para cada tipo de datos, haz clic en el botón 'Siguiente':",
+        "en": "Once you have completed the information for each type of data, click the 'Next' button:"
+    },
+    "google-play-data_subtitle-6":{
+        "es": "PASO 5: Vista previa de la ficha de Play Store",
+        "en": "STEP 5: Preview of the Play Store sheet"
+    },
+    "google-play-data_text-21":{
+        "es": "Aquí se le indicará el resumen de las opciones que seleccionó y cómo se maneja la recopilación de datos. Revise la información para asegurarse de que coincida con el comportamiento de su aplicación y luego presione Guardar.",
+        "en": "Here you will be shown a summary of the options you selected and how data collection is handled. Review the information to make sure it matches your application's behavior and then press Save."
+    },
+    "google-play-data_text-22":{
+        "es": "A continuación vuelve al panel de control.",
+        "en": "Then return to the control panel."
+    },
+    "google-play-data_text-23":{
+        "es": "Una vez se haya guardado toda la información, El equipo de Google lo revisará y enviará un feedback si es necesario.",
+        "en": "Once all the information has been saved, the Google team will review it and send feedback if necessary."
+    },
+    "add-images_image_alt":{
+        "es": "Imagen de la función de añadir imágenes",
+        "en": "Image of the add images function"
+    },
+    "add-images_main_title":{
+        "es": "Cómo añadir imágenes al constructor de apps",
+        "en": "How to add images to the app builder"
+    },
+    "add-images_text-1":{
+        "es": "Si quieres añadir imágenes a tu app, tienes varias formas de hacerlo dependiendo de si necesitas o no disponer de la url de dicha imagen.",
+        "en": "If you want to add images to your app, you have several ways to do it depending on whether you need to have the url of that image or not."
+    },
+    "add-images_text-2":{
+        "es": "Por un lado, puedes directamente cargar el archivo desde el botón de subida de imagen que tenga la propia función en la que estés trabajando.",
+        "en": "On the one hand, you can directly upload the file from the image upload button that the function you are working on has."
+    },
+    "add-images_text-3":{
+        "es": "Sin embargo, si dicha función te solicita que introduzcas la url de la imagen, entonces deberás subir la imagen del siguiente modo.",
+        "en": "However, if that function asks you to enter the url of the image, then you must upload the image in the following way."
+    },
+    "add-images_text-4":{
+        "es": "Dirígete a la sección > Get images URL, situada en el menú lateral izquierdo de tu plataforma.",
+        "en": "Go to the section > Get images URL, located in the left side menu of your platform."
+    },
+    "add-images_text-5":{
+        "es": "Una vez dentro, simplemente arrastra y suelta el archivo dentro del cuadro de carga o bien Haz clic en examinar para seleccionar la imagen desde tu equipo.",
+        "en": "Once inside, simply drag and drop the file into the upload box or click Browse to select the image from your computer."
+    },
+    "add-images_text-6":{
+        "es": "En apenas unos segundos, se generará una url que solo tienes que copiar y pegar donde la necesites.",
+        "en": "In just a few seconds, a url will be generated that you just have to copy and paste where you need it."
+    },
+    "add-images_text-7":{
+        "es": "Es así de sencillo.",
+        "en": "It's that simple."
+    },
+    "add-images_text-8":{
+        "es": "Nota: Esta sección (Get images URL), solo está destinada a la obtención de urls. Es decir, solo puedes cargar las imágenes de una en una y cada vez que subas un archivo nuevo, no visualizarás ninguna biblioteca que contenga imágenes anteriores.",
+        "en": "Note: This section (Get images URL), is only intended for obtaining urls. That is, you can only upload images one by one and each time you upload a new file, you will not see any library containing previous images."
+    },
+    "edit-privacy-policy_image_alt":{
+        "es": "Imagen de la función de editar política de privacidad",
+        "en": "Image of the edit privacy policy function"
+    },
+    "edit-privacy-policy_main_title":{
+        "es": "Cómo editar la Política de Privacidad de tu App",
+        "en": "How to edit the Privacy Policy of your App"
+    },
+    "edit-privacy-policy_text-1":{
+        "es": "Editar la Política de Privacidad de tu app es muy sencillo.",
+        "en": "Editing the Privacy Policy of your app is very simple."
+    },
+    "edit-privacy-policy_text-2":{
+        "es": "Desde la pantalla principal del constructor de apps, dirígete al menú lateral izquierdo y selecciona > AJUSTES > y después haz clic en TERMINOS y CONDICIONES.",
+        "en": "From the main screen of the app builder, go to the left side menu and select > SETTINGS > and then click on TERMS and CONDITIONS."
+    },
+    "edit-privacy-policy_text-3":{
+        "es": "Aquí encontrarás un apartado que incluye una Política de Privacidad plenamente adaptada a los requisitos que exige Google, por lo que si mantienes los términos tal cual se reflejan en este espacio, partirás con cierta ventaja a la hora de publicar tu app con éxito en Google Play, ya que de esto modo evitarás que la app sea rechazada de inicio por no cumplir con los requisitos en materia de Privacidad.",
+        "en": "Here you will find a section that includes a Privacy Policy fully adapted to the requirements demanded by Google, so if you keep the terms as they are reflected in this space, you will start with a certain advantage when publishing your app successfully on Google Play, since this way you will avoid the app being rejected from the beginning for not complying with the Privacy requirements."
+    },
+    "edit-privacy-policy_text-4":{
+        "es": "Copia la URL generada para tu app (VER ABAJO) a la hora de facilitarle a Google el acceso a tu Política de Privacidad durante el proceso de publicación.",
+        "en": "Copy the URL generated for your app (SEE BELOW) when providing Google with access to your Privacy Policy during the publication process."
+    },
+    "edit-privacy-policy_text-5":{
+        "es": "Si en algún momento necesitas editar y modificar esta Política de Privacidad predefinida, puedes hacerlo una vez que tu app esté plenamente publicada.",
+        "en": "If at any time you need to edit and modify this predefined Privacy Policy, you can do so once your app is fully published."
+    },
+    "add-websites_image_alt":{
+        "es": "Imagen de la función de añadir sitios web",
+        "en": "Image of the add websites function"
+    },
+    "add-websites_main_title":{
+        "es": "¿Cómo puedo incluir un sitio web dentro de mi Aplicación?",
+        "en": "How can I include a website within my Application?"
+    },
+    "add-websites_text-1":{
+        "es": "En primer lugar debes tener en cuenta que algunos sitios web tienen restricciones que impiden ser embebidos.  Estos sitios web solo podrán abrirse en el navegador fuera de la aplicación.",
+        "en": "First of all you must take into account that some websites have restrictions that prevent them from being embedded. These websites can only be opened in the browser outside the application."
+    },
+    "add-websites_text-2":{
+        "es": "A continuación te mostramos las opciones disponibles si quieres incluir en tu aplicación un sitio web:",
+        "en": "Below we show you the options available if you want to include a website in your application:"
+    },
+    "add-websites_text-3":{
+        "es": "1- Puedes utilizar las funciones de \"Enlace / Enlaces\".",
+        "en": "1- You can use the \"Link / Links\" functions."
+    },
+    "add-websites_text-4":{
+        "es": "Estas funciones permiten añadir uno o varios sitios web dentro de la aplicación ofreciendo distintas formas de visualización:",
+        "en": "These functions allow you to add one or more websites within the application offering different display options:"
+    },
+    "add-websites_list-1":{
+        "es": "En el navegador de la aplicación: el enlace se abrirá en la aplicación. Puede elegir diferentes opciones de visualización para Android e iOS.",
+        "en": "In the application browser: the link will open in the application. You can choose different display options for Android and iOS."
+    },
+    "add-websites_list-2":{
+        "es": "En el navegador híbrido: el enlace se abrirá en la aplicación, pero en una pestaña personalizada del navegador del dispositivo (por ejemplo: Chrome, Safari, etc.)",
+        "en": "In the hybrid browser: the link will open in the application, but in a custom tab of the device's browser (for example: Chrome, Safari, etc.)"
+    },
+    "add-websites_list-3":{
+        "es": "En el navegador fuera de la App: el enlace se abrirá en el navegador del dispositivo (ej: Chrome, Safari, etc…).",
+        "en": "In the browser outside the App: the link will open in the device's browser (eg: Chrome, Safari, etc…)."
+    },
+    "add-websites_text-5":{
+        "es": "2- Puedes utilizar la función Código.",
+        "en": "2- You can use the Code function."
+    },
+    "add-websites_text-6":{
+        "es": "Solo tendrás que copiar este simple código dentro del cuadro de HTML sustituyendo la url \"https://scoreapps.com/\" por la url que desees embeber en la aplicación.",
+        "en": "You just have to copy this simple code into the HTML box replacing the url \"https://scoreapps.com/\" with the url you want to embed in the application."
     }
     
 }

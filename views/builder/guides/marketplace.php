@@ -3,7 +3,7 @@
 
     <h1 class="center w-100">{%marketplace_main_title%}</h1>
 
-    <img loading="lazy" src="/build/img/marketplace/1.png" alt="{%gym_main_title%}" class="img-small margin-auto">
+    <img loading="lazy" src="/build/img/guides/marketplace/1.png" alt="{%gym_main_title%}" class="img-small margin-auto">
 
     <h2 class="m-t-5">{%marketplace_subtitle-1%}</h2>
     <p>{%marketplace_text-1%}</p>
