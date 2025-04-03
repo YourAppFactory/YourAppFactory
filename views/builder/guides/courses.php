@@ -11,7 +11,7 @@
     <p>{%courses_text-2%}</p>
 
     <!--ACA VA EL VIDEO 1-->
-    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/1JYBZwv3Q9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/65eDEP-NXhk?si=G9_IAyMm67oZXV8D" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <h2 class="m-t-5">{%courses_subtitle-1%}</h2>
     <h3 class="m-t-5">{%courses_subtitle-2%}</h3>
@@ -21,7 +21,7 @@
 
     <p>{%courses_text-5%}</p>
     <!--ACA VA EL VIDEO 2-->
-    <iframe  class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/1JYBZwv3Q9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe  class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/UW0bKCT1ycY?si=LDZwI3zOnJCa6tdC" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <p>{%courses_text-6%}</p>
     <img loading="lazy" src="/build/img/guides/courses/3.jpg" alt="{%courses_main_title-1%}" class="img-medium margin-auto">
@@ -38,7 +38,7 @@
     <p>{%courses_text-10%}</p>
 
     <!--ACA VA EL VIDEO 3-->
-    <iframe  class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/1JYBZwv3Q9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe  class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/FErfgBYcbAQ?si=5I43VnV-ogVO09Ek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <h2 class="center w-100">{%courses_subtitle-3%}</h2>
     <h2 class="center w-100">{%courses_subtitle-4%}</h2>
@@ -95,7 +95,7 @@
     <p>{%courses_text-29%}</p>
 
     <!--ACA VA EL VIDEO 4-->
-    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/1JYBZwv3Q9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/775cMJ9BxvI?si=LE4VWlQxORYCIH7p" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <p>{%courses_text-30%}</p>
     <img loading="lazy" src="/build/img/guides/courses/18.png" alt="{%courses_main_title-1%}" class="img-medium margin-auto">
@@ -142,7 +142,7 @@
     <img loading="lazy" src="/build/img/guides/courses/28.png" alt="{%courses_main_title-1%}" class="img-medium margin-auto m-b-1">
 
     <!--ACA VA EL VIDEO 5-->
-    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/1JYBZwv3Q9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/yYoeVwhWeZw?si=10yHrHfJFNlyBB_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <h3 class="m-t-5">{%courses_subtitle-9%}</h3>
 
@@ -150,7 +150,7 @@
     <p>{%courses_text-40%}</p>
 
     <!--ACA VA EL VIDEO 6-->
-    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/1JYBZwv3Q9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/3Wl558Pz2TU?si=EOpelw9e5VBlZTCd" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <p>{%courses_text-41%}</p>
     <img loading="lazy" src="/build/img/guides/courses/29.png" alt="{%courses_main_title-1%}" class="img-vert margin-auto">
@@ -167,7 +167,7 @@
     <img loading="lazy" src="/build/img/guides/courses/31.jpg" alt="{%courses_main_title-1%}" class="img-medium margin-auto m-b-1">
 
     <!--ACA VA EL VIDEO 7-->
-    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/1JYBZwv3Q9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/93J-fKf_bH4?si=wRepHpAXz2E-vtsc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <h3 class="m-t-5">{%courses_subtitle-12%}</h3>
 
@@ -178,7 +178,7 @@
     <p>{%courses_text-47%}</p>
 
     <!--ACA VA EL VIDEO 8-->
-    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/1JYBZwv3Q9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/1d2DAgNchiM?si=L78ucjhVPT4KtZxB" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <h3 class="m-t-5">{%courses_subtitle-13%}</h3>
 
@@ -190,7 +190,7 @@
     <p>{%courses_text-51%}</p>
 
     <!--ACA VA EL VIDEO 9-->
-    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/1JYBZwv3Q9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/_2kNOrzufKw?si=P_08KNNM8eYpDmtC" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <h3 class="m-t-5">{%courses_subtitle-14%}</h3>
 
@@ -210,7 +210,7 @@
 
     <p>{%courses_text-57%}</p>
     <!--ACA VA EL VIDEO 10-->
-    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/1JYBZwv3Q9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/AtF5eFVtwIA?si=tmAdNquQmdAg3Ckj" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <h3 class="m-t-5">{%courses_subtitle-15%}</h3>
 
@@ -226,7 +226,7 @@
     <p>{%courses_text-62%}</p>
 
     <!--ACA VA EL VIDEO 11-->
-    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/1JYBZwv3Q9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/FPjQtwJ7Zic?si=YBXkBCr-d9INc0mn" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <h3 class="m-t-5">{%courses_subtitle-16%}</h3>
 
@@ -236,7 +236,7 @@
 
     <p>{%courses_text-65%}</p>
     <!--ACA VA EL VIDEO 12-->
-    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/1JYBZwv3Q9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/Kh3loezlPzI?si=UZyaNZylmz1FIAzH" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <h3 class="m-t-5">{%courses_subtitle-17%}</h3>
 
@@ -247,7 +247,7 @@
 
     <p>{%courses_text-69%}</p>
     <!--ACA VA EL VIDEO 13-->
-    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/1JYBZwv3Q9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/2YeFcpJfRrg?si=K3iClfygRt_8aonK" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <p>{%courses_text-70%} <a class="link" href="/builder/apps/features/forms"> {%courses_link-1%}</a></p>
 
@@ -259,7 +259,7 @@
 
     <p>{%courses_text-73%}</p>
     <!--ACA VA EL VIDEO 14-->
-    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/1JYBZwv3Q9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="video-medium margin-auto" width="560" height="315" src="https://www.youtube.com/embed/JCLTUwJEmo4?si=WJ8g5jim8GfukxZG" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <h3 class="m-t-5">{%courses_subtitle-19%}</h3>
 
