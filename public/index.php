@@ -16,6 +16,7 @@ session_start();
 $router->get('/', [PublicController::class, 'index']);
 $router->get('/about', [PublicController::class, 'about']);
 $router->get('/marketing', [PublicController::class, 'marketing']);
+$router->get('/pricing', [PublicController::class, 'pricing']);
 $router->get('/contact', [PublicController::class, 'contact']);
 $router->get('/retail', [PublicController::class, 'retail']);
 $router->get('/restaurant', [PublicController::class, 'restaurant']);

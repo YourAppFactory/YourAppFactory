@@ -156,8 +156,11 @@
             }
 
             & li{
-                font-size: 1.8rem;
+                font-size: 1.6rem;
                 @include m.desktop{
+                    font-size: 2rem;
+                }
+                @include m.desktop-large{
                     font-size: 2.2rem;
                 }
             }

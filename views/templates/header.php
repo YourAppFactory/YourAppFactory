@@ -29,6 +29,11 @@
                                 <?php echo tt('nav_link--business');?>
                         </li>
                     </a>
+                    <a class="header__nav--link" href="/pricing">
+                        <li class="header__nav--item">
+                                <?php echo tt('nav_link--pricing');?>
+                        </li>
+                    </a>
                     <a class="header__nav--link" href="/marketing">
                         <li class="header__nav--item">
                                 <?php echo tt('nav_link--marketing');?>

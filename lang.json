@@ -19,6 +19,10 @@
         "es": "Tu negocio",
         "en": "Your business"
     },
+    "nav_link--pricing":{
+        "es": "Precios",
+        "en": "Pricing"
+    },
     "nav_link--contact":{
         "es": "Contacto",
         "en": "Contact"
@@ -62,6 +66,10 @@
     "see_more":{
         "es": "Ver más",
         "en": "See more"
+    },
+    "pricing_title":{
+        "es": "Precios",
+        "en": "Pricing"
     },
     "retail_title":{
         "es": "Retail",

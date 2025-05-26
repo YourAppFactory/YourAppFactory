@@ -24,6 +24,13 @@ class PublicController{
         ]);
     }
 
+    public static function pricing(Router $router){
+        $title = "pricing_title";
+        $router->render('/pages/pricing',[
+            'title' => $title
+        ]);
+    }
+
     public static function marketing(Router $router){
         $title = "marketing_title";
         $router->render('/pages/marketing',[

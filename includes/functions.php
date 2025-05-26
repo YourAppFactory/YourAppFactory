@@ -30,7 +30,7 @@ function redirection(string $url){
     $id = filter_var($id, FILTER_VALIDATE_INT);
 
     if(!$id){
-        header("Location:${url}");
+        header("Location:{$url}");
     }
 
     return $id;

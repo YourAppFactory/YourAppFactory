@@ -6,6 +6,12 @@ class Promo extends ActiveRecord {
     protected static $table = 'promo';
     protected static $columnsDB = ['id', 'status', 'promo', 'promo_mobile'];
 
+    //DB fields
+    public ?int $id = null;
+    public ?string $status = '';
+    public ?string $promo = '';
+    public ?string $promo_mobile = '';
+
     public function __construct($args = [])
     {
         $this->id = $args['id'] ?? null;
