@@ -85,18 +85,20 @@
                 <li>{%pricing_grid_text_5%}</li>
                 <li>{%pricing_grid_text_6%}</li>
                 <li>{%pricing_grid_text_7%}</li>
+                <li>{%pricing_grid_text_8%}</li>
             </ul>
         </div>
         <div class="pricing__grid__item">
             <h3 class="pricing__grid__item__title">{%pricing_grid_title_2%}</h3>
             <ul>
-                <li>{%pricing_grid_text_8%}</li>
                 <li >{%pricing_grid_text_9%}</li>
                 <li >{%pricing_grid_text_10%}</li>
                 <li >{%pricing_grid_text_11%}</li>
                 <li >{%pricing_grid_text_12%}</li>
                 <li >{%pricing_grid_text_13%}</li>
                 <li >{%pricing_grid_text_14%}</li>
+                <li >{%pricing_grid_text_15%}</li>
+                <li >{%pricing_grid_text_16%}</li>
             </ul>
         </div>
     </div>

@@ -59,14 +59,12 @@
             @include m.tablet{
                 grid-template-columns: repeat(1, 1fr);
                 width: 70%;
-                transform: translateX(10%)
+                margin: auto;
             }
             &__item{
                 @include m.card;
                 padding: 1.5rem 1rem;
                 border-left-width: 5rem;
-                border-right-width: 5rem;
-                border-right-style: solid;
                 display: flex;
                 align-items: center;
                 gap: 0.5rem;
@@ -79,7 +77,6 @@
                 }
                 &:nth-child(1){
                     border-left-color: v.$pink;
-                    border-right: none;
                     &::before{
                         content: '1';
                         position: absolute;
@@ -95,15 +92,11 @@
                     }
                 }
                 &:nth-child(2){
-                    border-right-color: v.$blue;
-                    border-left: none;
-                    @include m.tablet{
-                        margin-right: 12rem;
-                    }
+                    border-left-color: v.$blue;
                     &::before{
                         content: '2';
                         position: absolute;
-                        right: -3rem;
+                        left: -3rem;
                         top: 50%;
                         transform: translateY(-50%);
                         font-size: 2rem;
@@ -116,7 +109,6 @@
                 }
                 &:nth-child(3){
                     border-left-color: v.$yellow;
-                    border-right: none;
                     &::before{
                         content: '3';
                         position: absolute;
@@ -132,15 +124,11 @@
                     }
                 }
                 &:nth-child(4){
-                    border-right-color: v.$green;
-                    border-left: none;
-                    @include m.tablet{
-                        margin-right: 12rem;
-                    }
+                    border-left-color: v.$green;
                     &::before{
                         content: '4';
                         position: absolute;
-                        right: -3rem;
+                        left: -3rem;
                         top: 50%;
                         transform: translateY(-50%);
                         font-size: 2rem;
