@@ -67,10 +67,7 @@
         "es": "Ver más",
         "en": "See more"
     },
-    "pricing_title":{
-        "es": "Precios",
-        "en": "Pricing"
-    },
+    
     "retail_title":{
         "es": "Retail",
         "en": "Retail"
@@ -438,10 +435,198 @@
         "es": "Agenda una cita ahora",
         "en": "Schedule an appointment now"
     },
-    "pricing_section_subtitle_1":
+    "pricing_subtitle_1":
     {
         "es":"Por Qué Your App Factory es Tu Mejor Aliado",
         "en":"Why Your App Factory is Your Best Ally"
+    },
+    "pricing_title":{
+        "es": "Precios",
+        "en": "Pricing"
+    },
+    "pricing_text_2":{
+        "es": "Especialistas en Small Business",
+        "en": "Small Business Specialists"
+    },
+    "pricing_list_1":{
+        "es": "Integradas con tu website.",
+        "en": "Integrated with your website."
+    },
+    "pricing_list_2":{
+        "es": "Versión PWA completamente funcional.",
+        "en": "Fully functional PWA version."
+    },
+    "pricing_list_3":{
+        "es": "Hacemos tu App en semanas.",
+        "en": "We make your App in weeks."
+    },
+    "pricing_list_4":{
+        "es": "Funciones versátiles para cada tipo de negocio.",
+        "en": "Versatile features for every type of business."
+    },
+    "pricing_list_5":{
+        "es": "Participas en el desarrollo de tu App (onBoarding).",
+        "en": "You participate in the development of your App (onBoarding)."
+    },
+    "pricing_list_6":{
+        "es": "Soluciones escalables a medida.",
+        "en": "Scalable solutions tailored to your needs."
+    },
+    "pricing_list_7":{
+        "es": "Precios asequibles y varias formas de pago.",
+        "en": "Affordable prices and various payment methods."
+    },
+    "pricing_list_8":{
+        "es": "Aplicaciones Nativas.",
+        "en": "Native Apps."
+    },
+    "pricing_list_9":{
+        "es": "Hosting, Soporte y Mantenimiento Incluidos.",
+        "en": "Hosting, Support, and Maintenance Included."
+    },
+    "pricing_list_10":{
+        "es": "Publicación en Google Play® y AppStore®.",
+        "en": "Publishing on Google Play® and AppStore®."
+    },
+    "pricing_subtitle_2":{
+        "es": "Etapa de Onboarding",
+        "en": "Onboarding Stage"
+    },
+    "pricing_text_3":{
+        "es": "La etapa de Onboarding garantiza que tu aplicación se adapte perfectamente a los objetivos y la imagen de tu negocio. Nuestro equipo trabaja contigo para:",
+        "en": "The onboarding stage ensures that your application perfectly fits the goals and image of your business. Our team works with you to:"
+    },
+    "pricing_list_onboarding_1":{
+        "es": "Diseño gráfico y funcional.",
+        "en": "Graphic and functional design."
+    },
+    "pricing_list_onboarding_2":{
+        "es": "Carga de contenidos clave.",
+        "en": "Upload of key content."
+    },
+    "pricing_list_onboarding_3":{
+        "es": "Diseñar una interfaz intuitiva y atractiva.",
+        "en": "Design an intuitive and attractive interface."
+    },
+    "pricing_list_onboarding_4":{
+        "es": "Configurar la integración con tu sitio web.",
+        "en": "Set up integration with your website."
+    },
+    "pricing_text_4":{
+        "es": "Costo del Onboarding Fee: ",
+        "en": "Onboarding Fee Cost: "
+    },
+    "pricing_text_5":{
+        "es": "Solo el 25% del valor estimado del proyecto, (50% al iniciar, 50% tras la publicación de la app).",
+        "en": "Only 25% of the estimated project value, (50% at the start, 50% after the app is published)."
+    },
+    "pricing_subtitle_3":{
+        "es": "Encuentra el plan perfecto para tu negocio",
+        "en": "Find the perfect plan for your business"
+    },
+    "pricing_text_6":{
+        "es": "Ofrecemos soluciones flexibles para que elijas la que mejor se adapta a tu presupuesto y necesidades. Tu app siempre actualizada, con soporte y hosting incluidos.",
+        "en": "We offer flexible solutions so you can choose the one that best fits your budget and needs. Your app is always updated, with support and hosting included."
+    },
+    "pricing_grid_title_1":{
+        "en": "Lifetime",
+        "es": "De por vida"
+    },
+    "pricing_grid_text_1":{
+        "es": "Inversión Inicial - Desde $4,000*",
+        "en": "Initial Investment - From $4,000*"
+    },
+    "pricing_grid_text_2":{
+        "es": "Sin cuota mensual",
+        "en": "No monthly fee"
+    },
+    "pricing_grid_text_3":{
+        "es": "Renovación hosting y soporte anual: $200",
+        "en": "Annual hosting and support renewal: $200"
+    },
+    "pricing_grid_text_4":{
+        "es": "Incluye publicación en Marketplaces",
+        "en": "Includes publishing in Marketplaces"
+    },
+    "pricing_grid_text_5":{
+        "es": "Notificaciones push ilimitadas",
+        "en": "Unlimited push notifications"
+    },
+    "pricing_grid_text_6":{
+        "es": "Dashboard incluido",
+        "en": "Dashboard included"
+    },
+    "pricing_grid_text_7":{
+        "es": "Versiones Nativas en Google Play® y AppStore® **",
+        "en": "Native versions on Google Play® and AppStore® **"
+    },
+    "pricing_grid_title_2":{
+        "en": "Monthly Payment",
+        "es": "Pago Mensual"
+    },
+    "pricing_grid_text_8":{
+        "es": "Inversión Inicial - Desde $1,000*",
+        "en": "Initial Investment - From $1,000*"
+    },
+    "pricing_grid_text_9":{
+        "es": "Cuota mensual desde: $230",
+        "en": "Monthly fee from: $230"
+    },
+    "pricing_grid_text_10":{
+        "es": "Renovación hosting y soporte incluidos en la cuota mensual",
+        "en": "Hosting and support renewal included in the monthly fee"
+    },
+    "pricing_grid_text_11":{
+        "es": "Incluye publicación en Marketplaces",
+        "en": "Includes publishing in Marketplaces"
+    },
+    "pricing_grid_text_12":{
+        "es": "Notificaciones push ilimitadas",
+        "en": "Unlimited push notifications"
+    },
+    "pricing_grid_text_13":{
+        "es": "Dashboard incluido",
+        "en": "Dashboard included"
+    },
+    "pricing_grid_text_14":{
+        "es": "Versiones Nativas en Google Play® y AppStore® no incluidas",
+        "en": "Native versions on Google Play® and AppStore® not included"
+    },
+    "pricing_grid_text_note":{
+        "es": "* Para versiones PWA",
+        "en": "* For PWA versions"
+    },
+    "pricing_grid_text_note_2":{
+        "es": "** El costo final varía según las funcionalidades y requerimientos específicos de cada cliente.",
+        "en": "** The final cost varies according to the specific functionalities and requirements of each client."
+    },
+    "pricing_subtitle_4":{
+        "es": "¿Qué Incluye una App Básica de Your App Factory?",
+        "en": "What Does a Basic App from Your App Factory Include?"
+    },
+    "pricing_text_7":{
+        "es": "Una configuración básica de tu app incluye las funcionalidades esenciales para que tu negocio empiece a crecer desde el primer día.",
+        "en": "A basic setup of your app includes the essential features for your business to start growing from day one."
+    },
+    "pricing_subtitle_5":{
+        "es": "¿Necesitas más? Disponemos de funcionalidades adicionales que pueden integrarse según las necesidades específicas de tu negocio",
+        "en": "Need more? We have additional features that can be integrated according to the specific needs of your business"
+    },
+    "pricing_text_8":{
+        "es": "¡No esperes más para tener tu App!",
+        "en": "Don't wait any longer to have your App!"
+    },
+    "pricing_text_9":{
+        "es": "Miles de pequeños negocios ya están impulsando su crecimiento con una aplicación personalizada. Tú puedes ser el siguiente.",
+        "en": "Thousands of small businesses are already boosting their growth with a custom app. You can be next."
+    },
+    "pricing_text_10":{
+        "es": "¿Prefieres que te llamemos? Contáctanos.",
+        "en": "Would you prefer us to call you? Contact us."
+    },
+    "pricing_link_2":{
+        "es": "Contáctanos",
+        "en": "Contact us"
     },
     "terms_title":{
         "es": "Términos y condiciones",

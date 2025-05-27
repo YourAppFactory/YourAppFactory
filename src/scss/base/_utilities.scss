@@ -394,6 +394,12 @@
     width: 100%;
 }
 
+.block-center{
+    display: block !important;
+    margin: auto;
+    width: fit-content;
+}
+
 .flex{
     @include m.tablet{
         display: flex;
@@ -546,6 +552,10 @@
     @include m.desktop{
         max-width: 75rem;
     }
+}
+
+.img-icon--small{
+    max-width: 5rem;
 }
 
 .img-icon{
