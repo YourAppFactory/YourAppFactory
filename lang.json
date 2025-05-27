@@ -425,6 +425,24 @@
         "en": "If you want to know more about how a mobile app can transform your business, contact us! Follow us on our social media for more updates and share this article with anyone you think could benefit from it. Fill out our online form to learn more and find out how Your APP Factory can help you achieve your goals.",
         "es": "Si quieres saber más sobre cómo una aplicación móvil puede transformar tu negocio, ¡contáctanos! Síguenos en nuestras redes sociales para obtener más actualizaciones y comparte este artículo con cualquier persona que creas que podría beneficiarse de él. Completa nuestro formulario en línea para obtener más información y descubrir cómo Your APP Factory puede ayudarte a alcanzar tus objetivos."
     },
+    "pricing_main_title":{
+        "es": "Apps Profesionales para Pymes: ¡Impulsa tu Crecimiento!",
+        "en": "Professional Apps for SMEs: Boost Your Growth!"
+    },
+    "pricing_text_1":{
+        "es": "Desde agendar citas, programa de fidelización o hasta encontrarte en el mapa nuestras aplicaciones tienen muchas funciones para tu negocio.",
+        "en": "From scheduling appointments, loyalty programs, to being found on the map, our apps have many features for your business."
+    },
+    "pricing_link_1":
+    {
+        "es": "Agenda una cita ahora",
+        "en": "Schedule an appointment now"
+    },
+    "pricing_section_subtitle_1":
+    {
+        "es":"Por Qué Your App Factory es Tu Mejor Aliado",
+        "en":"Why Your App Factory is Your Best Ally"
+    },
     "terms_title":{
         "es": "Términos y condiciones",
         "en": "Terms and conditions"
