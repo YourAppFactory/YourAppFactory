@@ -112,43 +112,43 @@
     <ul class="pricing__list--features">
         <li class="pricing__list--features__item">
             <img class="img-icon--small" src="/build/img/pricing/11.png" alt="{%pricing_image_alt_1%}">
-            <p>{%pricing_list_1%}</p>
+            <p>{%pricing_list_features_1%}</p>
         </li>
         <li class="pricing__list--features__item">
             <img class="img-icon--small" src="/build/img/pricing/12.png" alt="{%pricing_image_alt_2%}">
-            <p>{%pricing_list_2%}</p>
+            <p>{%pricing_list_features_2%}</p>
         </li>
         <li class="pricing__list--features__item">
             <img class="img-icon--small" src="/build/img/pricing/13.png" alt="{%pricing_image_alt_3%}">
-            <p>{%pricing_list_3%}</p>
+            <p>{%pricing_list_features_3%}</p>
         </li>
         <li class="pricing__list--features__item">
             <img class="img-icon--small" src="/build/img/pricing/14.png" alt="{%pricing_image_alt_4%}">
-            <p>{%pricing_list_4%}</p>
+            <p>{%pricing_list_features_4%}</p>
         </li>
         <li class="pricing__list--features__item">
             <img class="img-icon--small" src="/build/img/pricing/15.png" alt="{%pricing_image_alt_5%}">
-            <p>{%pricing_list_5%}</p>
+            <p>{%pricing_list_features_5%}</p>
         </li>
         <li class="pricing__list--features__item">
             <img class="img-icon--small" src="/build/img/pricing/16.png" alt="{%pricing_image_alt_6%}">
-            <p>{%pricing_list_6%}</p>
+            <p>{%pricing_list_features_6%}</p>
         </li>
         <li class="pricing__list--features__item">
             <img class="img-icon--small" src="/build/img/pricing/17.png" alt="{%pricing_image_alt_7%}">
-            <p>{%pricing_list_7%}</p>
+            <p>{%pricing_list_features_7%}</p>
         </li>
         <li class="pricing__list--features__item">
             <img class="img-icon--small" src="/build/img/pricing/18.png" alt="{%pricing_image_alt_8%}">
-            <p>{%pricing_list_8%}</p>
+            <p>{%pricing_list_features_8%}</p>
         </li>
         <li class="pricing__list--features__item">
             <img class="img-icon--small" src="/build/img/pricing/19.png" alt="{%pricing_image_alt_9%}">
-            <p>{%pricing_list_9%}</p>
+            <p>{%pricing_list_features_9%}</p>
         </li>
         <li class="pricing__list--features__item">
             <img class="img-icon--small" src="/build/img/pricing/20.png" alt="{%pricing_image_alt_10%}">
-            <p>{%pricing_list_10%}</p>
+            <p>{%pricing_list_features_10%}</p>
         </li>
     </ul>
 

@@ -616,6 +616,46 @@
         "es": "Una configuración básica de tu app incluye las funcionalidades esenciales para que tu negocio empiece a crecer desde el primer día.",
         "en": "A basic setup of your app includes the essential features for your business to start growing from day one."
     },
+    "pricing_list_features_1":{
+        "es": "Diseño personalizado y adaptado a tu marca.",
+        "en": "Custom design tailored to your brand."
+    },
+    "pricing_list_features_2":{
+        "es": "Galería de imágenes.",
+        "en": "Image gallery."
+    },
+    "pricing_list_features_3":{
+        "es": "Portafolio de servicios.",
+        "en": "Portfolio of services."
+    },
+    "pricing_list_features_4":{
+        "es": "Geolocalización.",
+        "en": "Geolocation."
+    },
+    "pricing_list_features_5":{
+        "es": "Programa de fidelización básico.",
+        "en": "Basic loyalty program."
+    },
+    "pricing_list_features_6":{
+        "es": "Función de compartir.",
+        "en": "Share function."
+    },
+    "pricing_list_features_7":{
+        "es": "Notificaciones Push.",
+        "en": "Push Notifications."
+    },
+    "pricing_list_features_8":{
+        "es": "Redes sociales.",
+        "en": "Social media."
+    },
+    "pricing_list_features_9":{
+        "es": "Registro de usuarios.",
+        "en": "User registration."
+    },
+    "pricing_list_features_10":{
+        "es": "Reserva o agendamiento.",
+        "en": "Booking or scheduling."
+    },
     "pricing_subtitle_5":{
         "es": "¿Necesitas más? Disponemos de funcionalidades adicionales que pueden integrarse según las necesidades específicas de tu negocio",
         "en": "Need more? We have additional features that can be integrated according to the specific needs of your business"
