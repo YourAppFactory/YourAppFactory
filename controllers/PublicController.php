@@ -25,9 +25,11 @@ class PublicController{
     }
 
     public static function pricing(Router $router){
+        $lang = $_SESSION['lang'] ?? 'en';
         $title = "pricing_title";
         $router->render('/pages/pricing',[
-            'title' => $title
+            'title' => $title,
+            'lang' => $lang
         ]);
     }
 

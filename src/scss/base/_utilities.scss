@@ -554,6 +554,21 @@
     }
 }
 
+.video-square{
+    display: block;
+    max-width: 100%;
+    width: 100%;
+    border-radius: 1rem;
+    @include m.tablet{
+        max-width: 35rem;
+        min-height: 35rem;
+    }
+    @include m.desktop{
+        max-width: 50rem;
+        min-height: 50rem;
+    }
+}
+
 .img-icon--small{
     max-width: 5rem;
 }
