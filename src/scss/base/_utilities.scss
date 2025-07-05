@@ -558,7 +558,7 @@
     display: block;
     max-width: 100%;
     width: 100%;
-    border-radius: 1rem;
+    border-radius: 0;
     @include m.tablet{
         max-width: 35rem;
         min-height: 35rem;
