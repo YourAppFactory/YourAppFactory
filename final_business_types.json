@@ -3893,11 +3893,11 @@
                 ]
             }
         },
-        "church": {
-            "bannerImage": "../build/img/church.webp",
+        "community": {
+            "bannerImage": "../build/img/community.webp",
             "bannerTitle": {
-                "es": "Iglesias",
-                "en": "Churches"
+                "es": "Comunidades",
+                "en": "Communities"
             },
             "intro": {
                 "es": "Con la aplicación para iglesias, tus clientes podrán localizar la iglesia en el mapa, ver el calendario de servicios religiosos, recibir notificaciones de alerta y promociones, y mucho más. Además, podrás gestionar fácilmente tus servicios, donaciones y comunicaciones a través de la aplicación.",

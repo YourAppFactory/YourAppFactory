@@ -84,8 +84,8 @@
             <p>{%nonprofit_title%}</p>
             <button class="services__link">{%see_more%}</button>
         </a>
-        <a href="/church" class="services__item">
-            <img class="services__icon" src="/build/img/icon-church.svg" alt="Church">
+        <a href="/community" class="services__item">
+            <img class="services__icon" src="/build/img/icon-church.svg" alt="Community">
             <p>{%community_title%}</p>
             <button class="services__link">{%see_more%}</button>
         </a>
