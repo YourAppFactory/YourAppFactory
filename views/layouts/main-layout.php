@@ -5,25 +5,25 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <meta property="og:url"         content="http://www.yourappfactory.app" />
-        <meta property="og:type"        content="website" />
-        <meta property="og:title"       content="Your App Factory" />
+        <meta property="og:url" content="http://www.yourappfactory.app" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Your App Factory" />
         <meta property="og:description" content="The power of mobile Apps." />
-        <meta property="og:image"       content="/build/img/Social/social01.png" />
-        <meta property="og:image"       content="/build/img/Social/social02.png" />
-        <meta property="og:image"       content="/build/img/Social/social03.png" />
-        <meta property="og:image"       content="/build/img/Social/social04.png" />
-        <meta property="og:image"       content="/build/img/Social/social05.png" />
-        <meta property="og:image"       content="/build/img/Social/social06.png" />
-        <meta property="og:image"       content="/build/img/Social/social07.png" />
-        <meta property="og:image"       content="/build/img/Social/social08.png" />
-        <meta property="og:image"       content="/build/img/Social/social09.png" />
-        <meta property="og:image"       content="/build/img/Social/social10.png" />
-        <meta property="og:image"       content="/build/img/Social/social11.png" />
-        <meta property="og:image"       content="/build/img/Social/social12.png" />
-        <meta property="og:image"       content="/build/img/Social/social13.png" />
-        <meta property="og:image"       content="/build/img/Social/social14.png" />
-    
+        <meta property="og:image" content="http://www.yourappfactory.app/build/img/Social/social01.png" />
+        <meta property="og:image" content="http://www.yourappfactory.app/build/img/Social/social02.png" />
+        <meta property="og:image" content="http://www.yourappfactory.app/build/img/Social/social03.png" />
+        <meta property="og:image" content="http://www.yourappfactory.app/build/img/Social/social04.png" />
+        <meta property="og:image" content="http://www.yourappfactory.app/build/img/Social/social05.png" />
+        <meta property="og:image" content="http://www.yourappfactory.app/build/img/Social/social06.png" />
+        <meta property="og:image" content="http://www.yourappfactory.app/build/img/Social/social07.png" />
+        <meta property="og:image" content="http://www.yourappfactory.app/build/img/Social/social08.png" />
+        <meta property="og:image" content="http://www.yourappfactory.app/build/img/Social/social09.png" />
+        <meta property="og:image" content="http://www.yourappfactory.app/build/img/Social/social10.png" />
+        <meta property="og:image" content="http://www.yourappfactory.app/build/img/Social/social11.png" />
+        <meta property="og:image" content="http://www.yourappfactory.app/build/img/Social/social12.png" />
+        <meta property="og:image" content="http://www.yourappfactory.app/build/img/Social/social13.png" />
+        <meta property="og:image" content="http://www.yourappfactory.app/build/img/Social/social14.png" />
+
         <title>YourAppFactory - <?php echo tt($title); ?></title>
 
         <link href="/build/img/favicon.png" rel="shortcut icon" type="image/x-icon">
