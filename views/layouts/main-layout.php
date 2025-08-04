@@ -23,6 +23,8 @@
         <meta property="og:image" content="http://www.yourappfactory.app/build/img/Social/social12.png" />
         <meta property="og:image" content="http://www.yourappfactory.app/build/img/Social/social13.png" />
         <meta property="og:image" content="http://www.yourappfactory.app/build/img/Social/social14.png" />
+        <meta property="fb:app_id" content="YOUR_FB_APP_ID" />
+        
 
         <title>YourAppFactory - <?php echo tt($title); ?></title>
 

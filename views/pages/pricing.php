@@ -3,7 +3,7 @@
 
     <p class="center">{%pricing_text_1%}</p>
 
-    <iframe class="video-square margin-auto m-b-3" width="560" height="315" src="<?php echo $lang == 'es' ? 'https://www.youtube.com/embed/hlfXqKbmdVg?si=e3Vx0-sXqzZzcMvo' : 'https://www.youtube.com/embed/Dq1kbwTgEso?si=EeqeWoSJdjn3zaI1' ?>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe class="video-square margin-auto m-b-3" width="560" height="315" src="<?php echo $lang == 'es' ? 'https://www.youtube.com/embed/R0B1l_6C7gc?si=NDQPrhPGQuD6lN40' : 'https://www.youtube.com/embed/FueMvq8MrVo?si=A3tW4-_QfdJzXDM2' ?>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     <a href="https://calendar.app.google/j54oswg4dHALhFjr5" class="btn-submit block w-100 center m-t-3" target="_blank">{%pricing_link_1%}</a>
 
