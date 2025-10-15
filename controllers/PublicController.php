@@ -158,4 +158,15 @@ class PublicController{
             'title' => $title
         ]);
     }
+
+    public static function indexNew(Router $router){
+        $title = "home_title";
+        $home2 = true;
+        $promo = Promo::find(1);
+        $router->render('/pages/indexNew',[
+            'title' => $title,
+            'home2' => $home2,
+            'promo' => $promo
+        ]);
+    }
 }

@@ -14,6 +14,7 @@ $router = new Router();
 session_start();
 
 $router->get('/', [PublicController::class, 'index']);
+$router->get('/new', [PublicController::class, 'indexNew']);
 $router->get('/about', [PublicController::class, 'about']);
 $router->get('/marketing', [PublicController::class, 'marketing']);
 $router->get('/pricing', [PublicController::class, 'pricing']);
