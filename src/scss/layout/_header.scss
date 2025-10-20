@@ -193,10 +193,10 @@
         height: 4.5rem;
         width: auto;
         @include m.midscreen{
-            height: 6rem;
+            height: 7rem;
         }
         @include m.tablet{
-            height: 7rem;
+            height: 8rem;
         }
     }
     &__nav{
