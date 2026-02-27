@@ -32,3 +32,5 @@ export const gridUsers = document.querySelector('#grid-users');
 //promo
 export const promoContainer = document.querySelector('.modal-promo--active');
 export const promoClose = document.querySelectorAll('.modal-btn');
+
+export const topBtn = document.querySelector('#top');

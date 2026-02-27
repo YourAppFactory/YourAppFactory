@@ -26,7 +26,7 @@ body {
 }
 
 p, ul li, ol li {
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     line-height: 1.6;
     @include m.tablet{
         font-size: 1.8rem;
@@ -40,6 +40,7 @@ ol li:not(:last-child), ul li:not(:last-child){
 .container {
     width: 90%;
     margin: 2.5rem auto;
+    min-height: 62vh;
     @include m.tablet{
         margin: 5rem auto;
     }
@@ -98,9 +99,9 @@ h1 {
     }
 }
 h2{
-    font-size:2rem;
+    font-size:1.6rem;
     @include m.phone{
-        font-size: 2.2rem;
+        font-size: 2rem;
     }
     @include m.tablet{
         font-size: 2.4rem;
@@ -118,6 +119,7 @@ h2{
 
 h3{
     font-size: 1.8rem;
+    text-decoration: underline;
     @include m.phone{
         font-size: 2rem;
     }

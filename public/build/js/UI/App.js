@@ -1,10 +1,10 @@
-import { banner, gridUsers, passbtn, selectLang, slidesContainer, loader, promoClose } from "./selectors.js";
+import { banner, gridUsers, passbtn, selectLang, slidesContainer, loader, promoClose, topBtn } from "./selectors.js";
 import { chooseLang } from "./language.js";
 import { fetchSlides } from "./slider.js";
 import { menuResponsive, showPassword, closePromo } from "./UI.js";
 import { fetchServices } from "./services.js";
 import { consultUsers } from "./users.js";
-import { loaderPage } from "../base/functions.js";
+import { goToTop, loaderPage } from "../base/functions.js";
 
 class App {
     constructor() {
@@ -32,6 +32,9 @@ class App {
         }
         if(promoClose){
             closePromo();
+        }
+        if(topBtn){
+            goToTop();
         }
         menuResponsive();
         

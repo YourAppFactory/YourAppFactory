@@ -142,21 +142,21 @@ class ActiveRecord{
 
     // Busca un registro por su id
     public static function find($id) {
-        $query = "SELECT * FROM " . static::$table  ." WHERE id = ${id}";
+        $query = "SELECT * FROM " . static::$table  ." WHERE id = {$id}";
         $result = self::consultSQL($query);
         return array_shift( $result ) ;
     }
 
     // Obtener Registros con cierta cantidad
     public static function get($limit) {
-        $query = "SELECT * FROM " . static::$table . " ORDER BY id LIMIT ${limit}" ;
+        $query = "SELECT * FROM " . static::$table . " ORDER BY id LIMIT {$limit}" ;
         $result = self::consultSQL($query);
         return $result;
     }
 
     // Busqueda Where con Columna 
     public static function where($column, $value) {
-        $query = "SELECT * FROM " . static::$table . " WHERE ${column} = '${value}'";
+        $query = "SELECT * FROM " . static::$table . " WHERE {$column} = '{$value}'";
         //debugging($query);
         $result = self::consultSQL($query);
         return array_shift( $result );
@@ -164,20 +164,20 @@ class ActiveRecord{
 
     // Busqueda Where con Columna 
     public static function whereAll($column, $value) {
-        $query = "SELECT * FROM " . static::$table . " WHERE ${column} = '${value}'";
+        $query = "SELECT * FROM " . static::$table . " WHERE {$column} = '{$value}'";
         //debugging($query);
         $result = self::consultSQL($query);
         return $result;
     }
 
     public static function whereOrdered($column, $value, $col) {
-        $query = "SELECT * FROM " . static::$table . " WHERE ${column} = '${value}'". " ORDER BY ${col} ASC";
+        $query = "SELECT * FROM " . static::$table . " WHERE {$column} = '{$value}'". " ORDER BY {$col} ASC";
         $result = self::consultSQL($query);
         return $result;
     }
 
     public static function whereAdmin($column, $value, $value2) {
-        $query = "SELECT * FROM " . static::$table . " WHERE ${column} = '${value}' OR ${column} = '${value2}'";
+        $query = "SELECT * FROM " . static::$table . " WHERE {$column} = '{$value}' OR {$column} = '{$value2}'";
         $result = self::consultSQL($query);
         return $result;
     }

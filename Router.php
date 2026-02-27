@@ -74,6 +74,8 @@ class Router
             include_once __DIR__ . "/views/layouts/builder-layout.php";
         } elseif(str_contains($url_actual, '/admin')) {
             include_once __DIR__ . "/views/layouts/admin-layout.php";
+        } elseif(str_contains($url_actual, '/new')) {
+            include_once __DIR__ . "/views/layouts/new-main-layout.php";
         } else {
             include_once __DIR__ . "/views/layouts/main-layout.php";
         }

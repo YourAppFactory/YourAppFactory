@@ -1,4 +1,4 @@
-import { dashboardContent, body } from '../UI/selectors.js';
+import { dashboardContent, body, topBtn } from '../UI/selectors.js';
 
 export async function readLang(){
     try{
@@ -135,4 +135,11 @@ export function closeAlert(){
     if(alert){
         alert.remove();
     }
+}
+
+export function goToTop(){
+    topBtn.addEventListener('click', () => {
+        //add a smooth scroll to top
+        window.scrollTo({top: 0, behavior: 'smooth'});
+    });
 }

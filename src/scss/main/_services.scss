@@ -4,35 +4,34 @@
 
 .services{
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(8em, 1fr));
     gap: math.div(v.$separate, 2);
     margin: 3rem 0;
     @include m.maxtablet{
-        width: 70%;
+        width: 90%;
         margin: auto;
     }
     @include m.tablet{
         gap: v.$separate;
         margin: v.$separate 0;
+        
     }
     @include m.desktop{
-        gap: v.$separate * 2;
-        margin: calc(v.$separate * 2) 0;
+        gap: 4rem;
+        margin: 7rem 0;
+        grid-template-columns: repeat(auto-fill, minmax(10em, 1fr));
     }
     &__title{
         font-size: clamp(2.4rem, 3vw, 4.5rem);
         text-align: center;
     }
     &__item{
-        padding: math.div(v.$separate,2);
+        padding: 2rem;
         border-radius: 0.5rem;
         box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
         width: 100%;
         display: grid;
         place-items: center;
-        @include m.laptop{
-            padding: v.$separate;
-        }
         &:hover{
             transform: translateY(-0.5rem);
             box-shadow: 0 0 1rem rgba(0, 0, 0, 0.4);
@@ -43,24 +42,33 @@
     }
     &__icon{
         width: 100%;
-        height: 7.5rem;
+        height: 4.5rem;
+        @include m.tablet{
+            height: 6.5rem;
+        }
     }
     & p{
-        font-size: 2.2rem;
+        font-size: 1.6rem;
+        text-align: center;
         color: v.$black;
+        line-height: 1.2;
+        margin: 1.5rem auto;
         @include m.tablet{
-            font-size: 2.5rem;
+            font-size: 2rem;
         }
     }
     &__link{
         border: none;
         background: v.$blue-dark;
         color: v.$white;
-        font-size: 1.8rem;
+        font-size: 1.6rem;
         padding: 0.5rem 1rem;
         width: 100%;
         display: block;
         pointer-events: none;
+        @include m.tablet{
+            font-size: 1.8rem;
+        }
     }
 }
 

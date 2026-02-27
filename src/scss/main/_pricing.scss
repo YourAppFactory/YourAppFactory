@@ -1,0 +1,220 @@
+@use 'sass:math';
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+.pricing{
+    &__intro{
+        text-align: center;
+        font-size: 1.8rem;
+        @include m.tablet{
+            font-size: 2.4rem;
+        }
+    }
+    &__list{
+        list-style: none;
+        padding-left: 0;
+        display: grid;
+        gap: 2rem;
+        @include m.tablet{
+            grid-template-columns: repeat(2, 1fr);
+        }
+        &__item{
+                @include m.card;
+                padding: 0.5rem 1rem;
+                border-left-width: 5rem;
+                display: flex;
+                align-items: center;
+                gap: 0.5rem;
+                border-left: 5rem solid v.$blue;
+                &:nth-child(2){
+                    border-left-color: v.$pink;
+                }
+                &:nth-child(3){
+                    border-left-color: #39D935;
+                }
+                &:nth-child(4){
+                    border-left-color: #4AACB6;
+                }
+                &:nth-child(5){
+                    border-left-color: #DA8555;
+                }
+                &:nth-child(6){
+                    border-left-color: #324B5E;
+                }
+                &:nth-child(7){
+                    border-left-color: #086EDD;
+                }
+                &:nth-child(8){
+                    border-left-color: #5FA0D8;
+                }
+                &:nth-child(9){
+                    border-left-color: #4B9E61;
+                }
+                &:nth-child(10){
+                    border-left-color: #FD9F43;
+                }
+        }
+        &--secondary{
+            @extend .pricing__list;
+            @include m.tablet{
+                grid-template-columns: repeat(1, 1fr);
+                width: 70%;
+                margin: auto;
+            }
+            &__item{
+                @include m.card;
+                padding: 1.5rem 1rem;
+                border-left-width: 5rem;
+                display: flex;
+                align-items: center;
+                gap: 0.5rem;
+                margin: auto;
+                width: 100%;
+                border-radius: v.$border-radius;
+                position: relative;
+                @include m.tablet{
+                    width: 50%;
+                }
+                &:nth-child(1){
+                    border-left-color: v.$pink;
+                    &::before{
+                        content: '1';
+                        position: absolute;
+                        left: -3rem;
+                        top: 50%;
+                        transform: translateY(-50%);
+                        font-size: 2rem;
+                        color: v.$white;
+                        display: block;
+                        @include m.tablet{
+                            font-size: 2.5rem;
+                        }
+                    }
+                }
+                &:nth-child(2){
+                    border-left-color: v.$blue;
+                    &::before{
+                        content: '2';
+                        position: absolute;
+                        left: -3rem;
+                        top: 50%;
+                        transform: translateY(-50%);
+                        font-size: 2rem;
+                        color: v.$white;
+                        display: block;
+                        @include m.tablet{
+                            font-size: 2.5rem;
+                        }
+                    }
+                }
+                &:nth-child(3){
+                    border-left-color: v.$yellow;
+                    &::before{
+                        content: '3';
+                        position: absolute;
+                        left: -3rem;
+                        top: 50%;
+                        transform: translateY(-50%);
+                        font-size: 2rem;
+                        color: v.$white;
+                        display: block;
+                        @include m.tablet{
+                            font-size: 2.5rem;
+                        }
+                    }
+                }
+                &:nth-child(4){
+                    border-left-color: v.$green;
+                    &::before{
+                        content: '4';
+                        position: absolute;
+                        left: -3rem;
+                        top: 50%;
+                        transform: translateY(-50%);
+                        font-size: 2rem;
+                        color: v.$white;
+                        display: block;
+                        @include m.tablet{
+                            font-size: 2.5rem;
+                        }
+                    }
+                }
+            }
+        }
+        &--features{
+            @extend .pricing__list;
+            @include m.tablet{
+                grid-template-columns: repeat(2, 1fr);
+            }
+            &__item{
+                @include m.card;
+                padding: 0.5rem 1rem;
+                border-left-width: 5rem;
+                display: flex;
+                align-items: center;
+                gap: 0.5rem;
+                border-left: 5rem solid v.$blue;
+                border-left-color: #23888F;
+                &:nth-child(2){
+                    border-left-color: v.$pink;
+                }
+                &:nth-child(3){
+                    border-left-color: v.$blue;
+                }
+                &:nth-child(4){
+                    border-left-color: v.$green;
+                }
+                &:nth-child(5){
+                    border-left-color: v.$yellow;
+                }
+                &:nth-child(6){
+                    border-left-color: v.$red;
+                }
+                &:nth-child(7){
+                    border-left-color: v.$blue-dark;
+                }
+                &:nth-child(8){
+                    border-left-color: #5FA0D8;
+                }
+                &:nth-child(9){
+                    border-left-color: #4B9E61;
+                }
+                &:nth-child(10){
+                    border-left-color: #FD9F43;
+                }
+            }
+        }
+    }
+    &__grid{
+        display: grid;
+        gap: 2rem;
+        width: 80%;
+        margin: auto;
+        @include m.tablet{
+            grid-template-columns: repeat(2, 1fr);
+        }
+        & ul{
+            list-style:square;
+        }
+        &__item{
+            @include m.card;
+            border-radius: v.$border-radius;
+            padding: 2rem;
+            &:nth-child(1){
+                background-color: v.$blue;
+                border-left-color: v.$white;
+                color: v.$white;
+            }
+            &:hover{
+                transform: scale(1.02);
+            }
+            &__title{
+                text-align: center;
+            }
+            &__text{
+                margin: 0.5rem 0;
+                font-size: 1.6rem;
+            }
+        }
+    }
+}

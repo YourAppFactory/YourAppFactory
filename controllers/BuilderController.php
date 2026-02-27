@@ -69,10 +69,202 @@ class BuilderController {
         ]);
     }
 
-    public static function guideCourses(Router $router){
+    public static function guidesCourses(Router $router){
         isBuilder();
         $title = "builder_creation_section_title-1";
         $router->render('/builder/guides/courses',[
+            'title' => $title
+        ]);
+    }
+
+    public static function guidesAnyKind(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-1";
+        $router->render('/builder/guides/anykind',[
+            'title' => $title
+        ]);
+    }
+
+    public static function guidesStore(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-1";
+        $router->render('/builder/guides/store',[
+            'title' => $title
+        ]);
+    }
+
+    public static function guidesRestaurants(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-1";
+        $router->render('/builder/guides/restaurants',[
+            'title' => $title
+        ]);
+    }
+
+    public static function guidesService(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-1";
+        $router->render('/builder/guides/service',[
+            'title' => $title
+        ]);
+    }
+
+    public static function guidesEvents(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-1";
+        $router->render('/builder/guides/events',[
+            'title' => $title
+        ]);
+    }
+
+    public static function guidesDirectory(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-1";
+        $router->render('/builder/guides/directory',[
+            'title' => $title
+        ]);
+    }
+
+    public static function guidesAttendance(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-1";
+        $router->render('/builder/guides/attendance',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresColors(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/colors',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresImages(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/images',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresGym(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/gym',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresFiles(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/files',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresSubscriptions(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/subscriptions',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresCommunity(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/community',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresProRegister(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/pro-register',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresRegister(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/register',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresProgressiveLoyalty(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/progressive-loyalty',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresProForms(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/pro-forms',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresFolders(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/folders',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresNotifications(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/push-notifications',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresProfileAndProRegister(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/profile-and-pro-register',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresGooglePlayData(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/google-play-data',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresAddImages(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/add-images',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresEditPrivacyPolicy(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/edit-privacy-policy',[
+            'title' => $title
+        ]);
+    }
+
+    public static function featuresAddWebsites(Router $router){
+        isBuilder();
+        $title = "builder_creation_section_title-2";
+        $router->render('/builder/features/add-websites',[
             'title' => $title
         ]);
     }

@@ -1,3 +1,6 @@
+<?php
+ $lang = isset($_SESSION['lang']) ? $_SESSION['lang'] : 'en';
+?>
 <header class="header <?php echo !isset($home) ? 'header--regular' : ''?>">
     <div class="header__bar">
         <a class="header__logo--link" href="/">
@@ -29,6 +32,11 @@
                                 <?php echo tt('nav_link--business');?>
                         </li>
                     </a>
+                    <a class="header__nav--link" href="/pricing">
+                        <li class="header__nav--item">
+                                <?php echo tt('nav_link--pricing');?>
+                        </li>
+                    </a>
                     <a class="header__nav--link" href="/marketing">
                         <li class="header__nav--item">
                                 <?php echo tt('nav_link--marketing');?>
@@ -46,7 +54,7 @@
             </div>
         </div>
     </div>
-    <a href="https://wa.me/12028679694" class="btn-whatsapp" target="_blank">
+    <a href="<?php echo $lang == 'es' ? "https://wa.me/12028679694?text=Hola%2C%20he%20visto%20tu%20sitio%20web%20y%20quiero%20m%C3%A1s%20informaci%C3%B3n" : "https://wa.me/12028679694?text=Hello%2C%20I%27ve%20seen%20your%20website%20and%20would%20like%20more%20information"; ?> " class="btn-whatsapp" target="_blank">
         <i class="fab fa-whatsapp"></i>
     </a>
 </header>

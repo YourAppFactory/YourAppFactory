@@ -24,6 +24,15 @@ class PublicController{
         ]);
     }
 
+    public static function pricing(Router $router){
+        $lang = $_SESSION['lang'] ?? 'en';
+        $title = "pricing_title";
+        $router->render('/pages/pricing',[
+            'title' => $title,
+            'lang' => $lang
+        ]);
+    }
+
     public static function marketing(Router $router){
         $title = "marketing_title";
         $router->render('/pages/marketing',[
@@ -147,6 +156,17 @@ class PublicController{
         $title = "privacy_title";
         $router->render('/pages/privacy',[
             'title' => $title
+        ]);
+    }
+
+    public static function indexNew(Router $router){
+        $title = "home_title";
+        $home2 = true;
+        $promo = Promo::find(1);
+        $router->render('/pages/indexNew',[
+            'title' => $title,
+            'home2' => $home2,
+            'promo' => $promo
         ]);
     }
 }
